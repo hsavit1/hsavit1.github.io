@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MVVVM with ReactiveCocoa will change the world"
+title:  "MVVM with ReactiveCocoa will change the world"
 date:   2015-09-06 14:20:15
 categories: RAC
 ---
