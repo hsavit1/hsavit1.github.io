@@ -1,13 +1,16 @@
+# Site settings
 title: My Moment of Zen
 
-description: the internet is nuts
+description: > # this means to ignore newlines until "baseurl:"
+  the internet is nuts
 
-#baseurl: 
+baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "http://itshenry.com"
+url: "http://itshenry.com" # the base hostname & protocol for your site
 
 twitter_username: hsavit1
 
 github_username:  hsavit1
 
+# Build settings
 markdown: kramdown
