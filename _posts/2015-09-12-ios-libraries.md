@@ -3,6 +3,7 @@ layout: post
 title:  "The best iOS Libraries on Github (loooong post)"
 date:   2015-09-12 19:20:15
 categories: iOS UI Libraries
+comments: true
 ---
 
 Here I curate some notable iOS libraries. More to come!
