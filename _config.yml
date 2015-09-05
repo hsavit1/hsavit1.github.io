@@ -1,8 +1,8 @@
 # Site settings
-title: A little bit about me
+title: My Moment of Zen
 
 description: > # this means to ignore newlines until "baseurl:"
-  a little description about me
+  the internet is nuts
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
