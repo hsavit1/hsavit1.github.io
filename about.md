@@ -6,7 +6,7 @@ permalink: /about/
 
 First of all, if you are checking out this page, here's a **high five**
 
-Next, check out some of my posts! Maybe you'll find something useful. Maybe not?! You'll never find out until you can make a calculated decision after spending lots of time reading/evaluating each one of my posts. No time to waste!!
+Next, check out some of my posts! Maybe you'll find something useful. Maybe not?! You'll never find out until you read them all!
 
 A little bit about the man you can't stop reading about:
 
