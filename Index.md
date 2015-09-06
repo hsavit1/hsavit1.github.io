@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Index"
-date:   2015-10-08 20:20:15
-comments: false
 ---
 
 Note: Posts on my to do list do not have links
