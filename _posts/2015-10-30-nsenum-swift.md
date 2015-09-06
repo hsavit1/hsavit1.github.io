@@ -9,22 +9,18 @@ In Swift, enumerations are codified as a first-class language construct as funda
 
 #####Objective-C Enum Declaration
 
-	````
 	typedef NS_ENUM(NSInteger, UITableViewCellStyle) {
 	   UITableViewCellStyleDefault,
 	   UITableViewCellStyleValue1,
 	   UITableViewCellStyleValue2,
 	   UITableViewCellStyleSubtitle
 	};
-	````
 
 #####The same Swift Enum Declaration
 
-	````
 	enum UITableViewCellStyle : Int {
 	    case Default
 	    case Value1
 	    case Value2
 	    case Subtitle
 	};
-	````
