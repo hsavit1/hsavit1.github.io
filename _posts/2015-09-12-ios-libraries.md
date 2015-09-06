@@ -5,7 +5,7 @@ date:   2015-09-12 19:20:15
 comments: true
 ---
 
-Here I curate some notable iOS libraries. More to come!
+I have a habit of finding the best libraries on github (I call it a _productive_ time waster). Here I'll make an attempt to curate some notable iOS libraries. More to come!
 
 - **[AFNetworking](https://github.com/AFNetworking/AFNetworking)**: Probably the most "starred" iOS project on Github, and for good reason. AFNetworking wraps most of the complicated NSURLSession / HTTP / Core Data into one easy to use library.
 - **[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)**: If you haven't heard about this one, well, you're in for a serious treat. This lib makes your iOS code _Functional_ and _Reactive_. Find out more from their documentation on their github page or from their [website](http://reactivecocoa.io/)
