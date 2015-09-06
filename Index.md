@@ -17,6 +17,7 @@ Note: Posts on my to do list do not have links
 - transitioning to Swift
 - Playing with Swift Protocols
 - Functional Reactive Programming with Swift with RAC 3.0
+- Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 
 #iOS Posts
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection

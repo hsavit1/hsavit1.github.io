@@ -15,4 +15,4 @@ github_username:  hsavit1
 email: henrysavit@gmail.com
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
