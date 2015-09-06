@@ -5,6 +5,8 @@ date:   2015-10-08 20:20:15
 comments: false
 ---
 
+Note: Posts on my to do list do not have links
+
 #Objective-C Posts
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
@@ -29,11 +31,21 @@ comments: false
 - Testing on iOS with TDD, BDD, and more!
 - Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE
 
+#Android Posts
+- Parallels of Android and iOS (loong post)
+- What the iOS Developer in me really likes about Android
+- Why Android is the future (outside of NYC and Silicon Valley)
+
+#Angular Posts
+
+#Meteor Posts
+
 #Golang Posts
 - Drop everything and GO! (golang post)
 
 #DB Posts
 - Socket.io and RethinkDB: A match made in heaven
+- Do you need Redis ?
 
 #Programming Posts
 - Essential Algorithms (book)
