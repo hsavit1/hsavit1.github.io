@@ -50,4 +50,7 @@ Note: Posts on my to do list do not have links
 - Thinking post: Can we make a better Google?
 - Programming Languages Quick Overview
 
-#Funny Posts
+#Comic Relief
+- [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
+- George Carlin
+- Louie C.K.
