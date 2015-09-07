@@ -11,7 +11,7 @@ Note: Posts on my to-do-list do not have attached links.
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
 
 #Swift Posts
-- The best Swift libraries on Github (looong post)
+- [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift

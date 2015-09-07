@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Exploring Functional Programming in Swift"
