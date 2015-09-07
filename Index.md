@@ -8,8 +8,10 @@ Note: Posts on my to-do-list do not have attached links.
 #Objective-C Posts
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
+- [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
 
 #Swift Posts
+- The best Swift libraries on Github (looong post)
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
@@ -18,9 +20,11 @@ Note: Posts on my to-do-list do not have attached links.
 - Playing with Swift Protocols
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
+- Figuring out FlatMap 
+- When the functional approach is the wrong approach 
+- Chris Einhoff from ObjC.io is onto something huge with Functional View Controllers
 
 #iOS and Cocoa Posts
-- [The best libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
 - What it takes to do S.O.L.I.D. design with iOS
@@ -72,7 +76,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Programming Languages Quick Overview
 - [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
 
-#Comic Relief
+#Comic Relief - Your moment of Zen
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
 - [Steven Colbert at the White House Correspondents Dinner](https://www.youtube.com/watch?v=2X93u3anTco)
 - [President Obama's Anger Translator](https://www.youtube.com/watch?v=G6NfRMv-4OY)
@@ -82,3 +86,4 @@ Note: Posts on my to-do-list do not have attached links.
 - Dave Attel
 - Sarah Silverman
 - Larry David
+- The dumbest iOS related posts I've seen on the internet
