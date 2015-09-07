@@ -10,7 +10,7 @@ Note: Posts on my to-do-list do not have attached links.
 - MVVM with ReactiveCocoa will change the world
 
 #Swift Posts
-- Design Patterns in Swift
+- [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
 - NS_ENUM and Swift
@@ -38,10 +38,15 @@ Note: Posts on my to-do-list do not have attached links.
 - How to PROPERLY implement a caching system with iOS
 - It's 5 o'clock somewhere. Do you know where your data is? 
 
+#Go-lang Posts
+- Drop everything and GO! (golang post)
+
 #Android Posts
 - Parallels of Android and iOS (loong post)
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
+
+#ReactJS Posts
 
 #AngularJS Posts
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
@@ -49,12 +54,12 @@ Note: Posts on my to-do-list do not have attached links.
 #Meteor Posts
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
 
-#Go-lang Posts
-- Drop everything and GO! (golang post)
+#Design Posts
+- Why deisgning for the OS has taken a backseat
 
 #My Favorite Apps
-- Evernote
-- Chrome 
+- What makes Evernote one of the great ones?
+- How can Chrome be so much better than Safari? 
 
 #DataBase Posts
 - Socket.io and RethinkDB: A match made in heaven
