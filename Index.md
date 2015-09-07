@@ -52,6 +52,10 @@ Note: Posts on my to-do-list do not have attached links.
 #Go-lang Posts
 - Drop everything and GO! (golang post)
 
+#My Favorite Apps
+- Evernote
+- Chrome 
+
 #DataBase Posts
 - Socket.io and RethinkDB: A match made in heaven
 - Do you really need Redis?
@@ -61,8 +65,15 @@ Note: Posts on my to-do-list do not have attached links.
 - Essential Algorithms (book)
 - Thinking post: Can we make a better Google?
 - Programming Languages Quick Overview
+- [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
 
 #Comic Relief
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
+- [Steven Colbert at the White House Correspondents Dinner](https://www.youtube.com/watch?v=2X93u3anTco)
+- [President Obama's Anger Translator](https://www.youtube.com/watch?v=G6NfRMv-4OY)
 - George Carlin
-- Louie C.K.
+- [Louie C.K. has to poop](https://www.youtube.com/watch?v=7MCj4YeUEik)
+- Greg Giraldo
+- Dave Attel
+- Sarah Silverman
+- Larry David
