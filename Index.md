@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Note: Posts on my to do list do not have links
+Note: Posts on my to-do-list do not have attached links. 
 
 #Objective-C Posts
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
@@ -19,7 +19,7 @@ Note: Posts on my to do list do not have links
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 
-#iOS Posts
+#iOS and Cocoa Posts
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
 - What it takes to do S.O.L.I.D. design with iOS
@@ -29,24 +29,30 @@ Note: Posts on my to do list do not have links
 - Continuous Integration on iOS: My take
 - Testing on iOS with TDD, BDD, and more!
 - Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE
+- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
+- Javascript Core
+- NSHashMap and NSMapTable
+- Do iOS developers really need a library like Mantle anymore?
+- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches
 
 #Android Posts
 - Parallels of Android and iOS (loong post)
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
 
-#Angular Posts
+#AngularJS Posts
 
 #Meteor Posts
+- I investigate using iOS + Meteor for a Fast, Real Time DDM
 
-#Golang Posts
+#Go-lang Posts
 - Drop everything and GO! (golang post)
 
-#DB Posts
+#DataBase Posts
 - Socket.io and RethinkDB: A match made in heaven
 - Do you need Redis ?
 
-#Programming Posts
+#Pure Programming Posts
 - Essential Algorithms (book)
 - Thinking post: Can we make a better Google?
 - Programming Languages Quick Overview
