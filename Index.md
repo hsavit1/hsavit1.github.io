@@ -20,6 +20,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 
 #iOS and Cocoa Posts
+- [The best libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
 - What it takes to do S.O.L.I.D. design with iOS
