@@ -34,6 +34,8 @@ Note: Posts on my to-do-list do not have attached links.
 - NSHashMap and NSMapTable
 - Do iOS developers really need a library like Mantle anymore?
 - Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches
+- How to PROPERLY implement a caching system with iOS
+- It's 5 o'clock somewhere. Do you know where your data is? 
 
 #Android Posts
 - Parallels of Android and iOS (loong post)
@@ -41,6 +43,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Why Android is the future (outside of NYC and Silicon Valley)
 
 #AngularJS Posts
+- Dependency Injection with Angular isn't a chore. It's a lifesaver
 
 #Meteor Posts
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
@@ -50,7 +53,8 @@ Note: Posts on my to-do-list do not have attached links.
 
 #DataBase Posts
 - Socket.io and RethinkDB: A match made in heaven
-- Do you need Redis ?
+- Do you really need Redis?
+- Why are you not using Go more often?
 
 #Pure Programming Posts
 - Essential Algorithms (book)
