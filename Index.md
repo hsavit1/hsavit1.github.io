@@ -10,10 +10,10 @@ Note: Posts on my to-do-list do not have attached links.
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
-`	
+
 #Swift Posts
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
-- Collection of Fantastic Articles About Swift
+- [Collection of Fantastic Articles About Swift](http://itshenry.com/2015/09/05/fantasic-swift-articles.html)
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
