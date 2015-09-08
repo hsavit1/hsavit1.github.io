@@ -11,3 +11,11 @@ As an example of a UITableViewController, a dataSource and a delegate each could
 
 (my own interpretation of this [post](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/), definitely more to come on this!!
 
+
+[A cool github library](https://github.com/matthewpalmer/Locksmith) 
+
+A couple of awesome things emerge when you focus on protocols
+- you can add functionality in new dimensions to existing types
+- you can easily adapt a rapidly growing API
+- you can decouple certain parts of your API for flexibility and testing
+

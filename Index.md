@@ -17,8 +17,8 @@ Note: Posts on my to-do-list do not have attached links.
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 - Figuring out FlatMap 
-- When the functional approach is the wrong approach 
-- Chris Einhoff from ObjC.io is onto something huge with Functional View Controllers
+- [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html) 
+- Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
 
 #Objective-C Posts
 - Collection of Fantastic Articles About Objective-C
