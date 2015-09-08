@@ -6,12 +6,14 @@ title:  "Index"
 Note: Posts on my to-do-list do not have attached links. 
 
 #Objective-C Posts
+- Collection of Fantastic Articles About Objective-C
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
-
+`	
 #Swift Posts
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
+- Collection of Fantastic Articles About Swift
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
@@ -25,6 +27,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Chris Einhoff from ObjC.io is onto something huge with Functional View Controllers
 
 #iOS and Cocoa Posts
+- Collection of Fantastic Articles About iOS
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
 - What it takes to do S.O.L.I.D. design with iOS
@@ -46,6 +49,9 @@ Note: Posts on my to-do-list do not have attached links.
 - Drop everything and GO! (golang post)
 
 #Android Posts
+- The best Android Libraries on Github
+- How much time do AndroidAnntoations really save for you?
+- Using RxJava with Retrolambdas
 - Parallels of Android and iOS (loong post)
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
@@ -59,7 +65,7 @@ Note: Posts on my to-do-list do not have attached links.
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
 
 #Design Posts
-- Why deisgning for the OS has taken a backseat
+- Why deisgning for the operating system has taken a backseat
 
 #My Favorite Apps
 - What makes Evernote one of the great ones?
@@ -69,6 +75,14 @@ Note: Posts on my to-do-list do not have attached links.
 - Socket.io and RethinkDB: A match made in heaven
 - Do you really need Redis?
 - Why are you not using Go more often?
+
+#Software Development Posts 
+
+#Business Posts
+
+#WatchKit Posts
+
+#Apple TV Posts
 
 #Pure Programming Posts
 - Essential Algorithms (book)
