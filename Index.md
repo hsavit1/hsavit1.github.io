@@ -57,6 +57,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Why Android is the future (outside of NYC and Silicon Valley)
 
 #ReactJS Posts
+- [A link to getting started with React Native](https://facebook.github.io/react-native/)
 
 #AngularJS Posts
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
@@ -77,12 +78,17 @@ Note: Posts on my to-do-list do not have attached links.
 - Why are you not using Go more often?
 
 #Software Development Posts 
+- When is Agile Developement seriously practical?
 
 #Business Posts
+- Thoughts about VC funding
+- Why does everyone want to be a unicorn nowadays? I'd rather be a gorilla 
 
 #WatchKit Posts
+- [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
 
 #Apple TV Posts
+- Guessing what the future might look like for the new Apple TV
 
 #Pure Programming Posts
 - Essential Algorithms (book)
