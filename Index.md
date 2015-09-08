@@ -13,7 +13,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Exploring Functional Programming in Swift
 - NS_ENUM and Swift
 - transitioning to Swift
-- Playing with Swift Protocols
+- [Playing with Swift Protocols](http://itshenry.com/2015/09/05/swift-protocols.html)
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 - Figuring out FlatMap 
@@ -21,10 +21,11 @@ Note: Posts on my to-do-list do not have attached links.
 - Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
 
 #Objective-C Posts
+- [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
 - Collection of Fantastic Articles About Objective-C
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
-- [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
+- Testing for equality in Objective-C
 
 #iOS and Cocoa Posts
 - Collection of Fantastic Articles About iOS
