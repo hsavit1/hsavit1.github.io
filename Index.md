@@ -86,6 +86,7 @@ Note: Posts on my to-do-list do not have attached links.
 
 #WatchKit Posts
 - [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
+- [WatchKit libraries to use](http://itshenry.com/2015/09/05/watchkit-libraries.html)
 
 #Apple TV Posts
 - Guessing what the future might look like for the new Apple TV
