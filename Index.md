@@ -70,6 +70,14 @@ Note: Posts on my to-do-list do not have attached links.
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
 
+#Elixir Posts
+- Book Review: Meta Programming Elixir
+- Book Review: Programming Elixir
+
+#Scala Posts 
+
+#Haskell Posts
+
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
 
