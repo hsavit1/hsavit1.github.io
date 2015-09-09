@@ -77,6 +77,10 @@ Note: Posts on my to-do-list do not have attached links.
 #Scala Posts 
 
 #Haskell Posts
+- Learn you a Haskell for a Great Good (book)
+
+#Erlang Posts
+- Learn you an Erlang for a Great Good (book)
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
@@ -105,6 +109,10 @@ Note: Posts on my to-do-list do not have attached links.
 #Business Posts
 - Thoughts about VC funding
 - Why does everyone want to be a unicorn nowadays? I'd rather be a gorilla 
+- Making Things Happen
+- Design Patterns Gang of 4 Book
+- The Mythical Man Month
+- Essential Scrum
 
 #WatchKit Posts
 - [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
@@ -115,9 +123,11 @@ Note: Posts on my to-do-list do not have attached links.
 
 #Pure Programming Posts
 - Essential Algorithms (book)
+- Distributed Algorithms: An intuitive approach (book)
 - Thinking post: Can we make a better Google?
 - Programming Languages Quick Overview
 - [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
+- Working Effectively with Legacy Code 
 
 #Comic Relief - Your moment of Zen
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
