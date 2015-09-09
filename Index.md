@@ -11,6 +11,11 @@ Note: Posts on my to-do-list do not have attached links.
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
+- Book Review: Functional Programming in Swift
+- Book Review: Advanced Swift 
+- Book Review: Core Data (ObjC.io)
+- Book Review: Core Data By Tutorials (Ray Wenderlich)
+- Book Review: Pro Design Patterns in Swift
 - NS_ENUM and Swift
 - transitioning to Swift
 - [Playing with Swift Protocols](http://itshenry.com/2015/09/05/swift-protocols.html)
@@ -26,6 +31,14 @@ Note: Posts on my to-do-list do not have attached links.
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
 - Testing for equality in Objective-C
+- Book Review: Core Data for iOS
+- Book Review: Effective Objective-C 2.0
+- Book Review: Pro Design Patterns in Objective C
+- Book Review: Functional Reactive Programming in iOS
+- Book Review: iOS Core Animation: Advanced Techniques
+- Book Review: Test Driven iOS Development
+- Book Review: Cocoa Design Patterns
+- Book Review: Pro Performance Optimization in iOS
 
 #iOS and Cocoa Posts
 - Collection of Fantastic Articles About iOS

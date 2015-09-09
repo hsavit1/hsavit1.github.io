@@ -10,7 +10,6 @@ Next, check out some of my posts! Maybe you'll find something useful. Maybe not?
 
 A little bit about the man you can't stop reading about:
 
-I graduated from a top school with multiple science degrees and such... _yadda yadda yadda_. Nowadays I've focused most of my efforts on iOS development. This site helps me organize my thoughts around some cool iOS things and personal thoughts related to life as a coder in general (and most likely disorganize yours).
+I graduated college in May 2014 with Bachelors in Math and Physics but quickly transitioned to a career as an iOS developer as soon as iOS 7 was released. Nowadays I've focused most of my efforts on iOS development. This site helps me organize my thoughts around some cool iOS things (and most likely disorganize yours). Check out the index for a list of writings
 
-
-Thank you
+Emjoy
