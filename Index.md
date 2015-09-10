@@ -62,7 +62,8 @@ Note: Posts on my to-do-list do not have attached links.
 #Go-lang Posts
 - Drop everything and GO! (golang post)
 - Awesome GO Libraries
-- 
+- Fantiastically Helpful GO Websites
+- Link to [AwesomeGO](https://github.com/avelino/awesome-go)
 
 #Android Posts
 - The best Android Libraries on Github
@@ -73,7 +74,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Why Android is the future (outside of NYC and Silicon Valley)
 
 #Ruby and R.O.R.
-- Metaprogramming with Ruby (Coming soon. Until then, use this [link](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
+- Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 - Book Review: Eloquent Ruby
 - Book Review: Metaprogramming Ruby 2
 - Book Review: Design Patterns In Ruby
