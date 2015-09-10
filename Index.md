@@ -15,13 +15,13 @@ title:  "Index"
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
-- Book Review: Functional Programming in Swift (ObjC.io)
-- Book Review: Advanced Swift (ObjC.io)
-- Book Review: Core Data (ObjC.io)
-- Book Review: Core Data By Tutorials (Ray Wenderlich)
-- Book Review: Pro Design Patterns in Swift (Apress)
-- Book Review: Swift Quick Syntax Reference (Apress)
-- Book Review: Transitioning to Swift (Apress)
+- **Book Review**: Functional Programming in Swift (ObjC.io)
+- **Book Review**: Advanced Swift (ObjC.io)
+- **Book Review**: Core Data (ObjC.io)
+- **Book Review**: Core Data By Tutorials (Ray Wenderlich)
+- **Book Review**: Pro Design Patterns in Swift (Apress)
+- **Book Review**: Swift Quick Syntax Reference (Apress)
+- **Book Review**: Transitioning to Swift (Apress)
 - NS_ENUM and Swift
 - [Playing with Swift Protocols](http://itshenry.com/2015/09/05/swift-protocols.html)
 - Functional Reactive Programming with Swift with RAC 3.0
@@ -39,14 +39,14 @@ title:  "Index"
 - My Attempt to Develop Lighter UITableViewControllers  
 - Exploring the VIPER Architecture in Objective C
 - Grand Central Dispatch Vocabulary Cheet Sheet
-- Book Review: Core Data for iOS
-- Book Review: Effective Objective-C 2.0
-- Book Review: Pro Design Patterns in Objective C
-- Book Review: Functional Reactive Programming in iOS
-- Book Review: iOS Core Animation: Advanced Techniques
-- Book Review: Test Driven iOS Development
-- Book Review: Cocoa Design Patterns
-- Book Review: Pro Performance Optimization in iOS
+- **Book Review**: Core Data for iOS
+- **Book Review**: Effective Objective-C 2.0
+- **Book Review**: Pro Design Patterns in Objective C
+- **Book Review**: Functional Reactive Programming in iOS
+- **Book Review**: iOS Core Animation: Advanced Techniques
+- **Book Review**: Test Driven iOS Development
+- **Book Review**: Cocoa Design Patterns
+- **Book Review**: Pro Performance Optimization in iOS
 
 #iOS and Cocoa Posts
 - Collection of Fantastic Articles About iOS
@@ -84,20 +84,20 @@ title:  "Index"
 
 #Ruby and R.O.R.
 - Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
-- Book Review: Eloquent Ruby
-- Book Review: Metaprogramming Ruby 2
-- Book Review: Design Patterns In Ruby
-- Book Review: Practical Object Oriented Design In Ruby
-- Book Review: Rails AntiPatterns
-- Book Review: Ruby Under a Microscope
-- Book Review: Build Awesome Command Line Applications in Ruby
-- Book Review: Wicked Cool Ruby Scripts
+- **Book Review**: Eloquent Ruby
+- **Book Review**: Metaprogramming Ruby 2
+- **Book Review**: Design Patterns In Ruby
+- **Book Review**: Practical Object Oriented Design In Ruby
+- **Book Review**: Rails AntiPatterns
+- **Book Review**: Ruby Under a Microscope
+- **Book Review**: Build Awesome Command Line Applications in Ruby
+- **Book Review**: Wicked Cool Ruby Scripts
 
 #Javascript and Node.js
-- Book Review: If Hemmingway Wrote Javascript
-- Book Review: Javascript Design Patterns
-- Book Review: Eloquent Javascript
-- Book Review: The Priciples of Object Oriented Javascript
+- **Book Review**: If Hemmingway Wrote Javascript
+- **Book Review**: Javascript Design Patterns
+- **Book Review**: Eloquent Javascript
+- **Book Review**: The Priciples of Object Oriented Javascript
 - Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
 
@@ -105,12 +105,12 @@ title:  "Index"
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/)
 - Checking out the Pheonix Framework
-- Book Review: Meta Programming Elixir
-- Book Review: Programming Elixir
+- **Book Review**: Meta Programming Elixir
+- **Book Review**: Programming Elixir
 
 #Scala Posts 
 - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
-- Book Review: Functional Programming with Scala 
+- **Book Review**: Functional Programming with Scala 
 
 #Haskell Posts
 - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/))
@@ -122,9 +122,9 @@ title:  "Index"
 
 #Clojure 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
-- Book Review: Clojure Reactive Programming
-- Book Review: The Joy of Clojure
-- Book Review: Mastering Clojure Macros
+- **Book Review**: Clojure Reactive Programming
+- **Book Review**: The Joy of Clojure
+- **Book Review**: Mastering Clojure Macros
 
 #[Elm](https://github.com/elm-lang/elm-compiler) Posts
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
@@ -153,7 +153,7 @@ title:  "Index"
 - Socket.io and RethinkDB: A match made in heaven
 - Do you really need Redis?
 - Why are you not using Go more often?
-- Book Review: Seven Databases in Seven Weeks 
+- **Book Review**: Seven Databases in Seven Weeks 
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
@@ -183,11 +183,11 @@ title:  "Index"
 - Working Effectively with Legacy Code 
 
 #Quantum Computing
-- Book Review: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
-- Book Review: Quantum Computing Since Democrutus 
+- **Book Review**: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
+- **Book Review**: Quantum Computing Since Democrutus 
 
 #Economics 
-- Book Review: The Price of Innequality
+- **Book Review**: The Price of Innequality
 
 #Random Thoughts 
 - The obsession with finding the _BEST_ thing around needs to stop
