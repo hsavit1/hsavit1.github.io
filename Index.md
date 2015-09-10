@@ -70,6 +70,14 @@ Note: Posts on my to-do-list do not have attached links.
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
 
+#Ruby and R.O.R.
+- Book Review: Eloquent Ruby
+- Book Review: Metaprogramming Ruby 2
+- Book Review: Design Patterns In Ruby
+- Book Review: Practical Object Oriented Design In Ruby
+- Book Review: Rails AntiPatterns
+- Book Review: Ruby Under a Microscope
+
 #Elixir Posts
 - Book Review: Meta Programming Elixir
 - Book Review: Programming Elixir
@@ -81,6 +89,10 @@ Note: Posts on my to-do-list do not have attached links.
 
 #Erlang Posts
 - Learn you an Erlang for a Great Good (book)
+
+#Clojure 
+- Clojure Reactive Programming
+- The Joy of Clojure
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
@@ -102,17 +114,18 @@ Note: Posts on my to-do-list do not have attached links.
 - Socket.io and RethinkDB: A match made in heaven
 - Do you really need Redis?
 - Why are you not using Go more often?
+- Book Review: Seven Databases in Seven Weeks 
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
 
 #Business Posts
 - Thoughts about VC funding
-- Why does everyone want to be a unicorn nowadays? I'd rather be a gorilla 
-- Making Things Happen
-- Design Patterns Gang of 4 Book
-- The Mythical Man Month
-- Essential Scrum
+- Why does everyone want to be a Unicorn? I'd rather be a Gorilla 
+- Making Things Happen (Book)
+- Design Patterns: Gang of 4 (Book)
+- The Mythical Man Month (Book)
+- Essential Scrum (Book)
 
 #WatchKit Posts
 - [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
@@ -120,10 +133,11 @@ Note: Posts on my to-do-list do not have attached links.
 
 #Apple TV Posts
 - Guessing what the future might look like for the new Apple TV
+- Is programming for TV OS a waste of time ?
 
 #Pure Programming Posts
 - Essential Algorithms (book)
-- Distributed Algorithms: An intuitive approach (book)
+- Distributed Algorithms: An intuitive approach (Book)
 - Thinking post: Can we make a better Google?
 - Programming Languages Quick Overview
 - [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
