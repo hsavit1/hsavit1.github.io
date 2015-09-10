@@ -63,7 +63,8 @@ title:  "Index"
 - Drop everything and GO! (golang post)
 - Awesome GO Libraries
 - Fantiastically Helpful GO Websites
-- Link to [AwesomeGO](https://github.com/avelino/awesome-go)
+- Link to [AwesomeGO](https://github.com/avelino/awesome-go), (Algorithms](https://github.com/arnauddri/algorithms)
+- Learn GO [By Example](https://gobyexample.com/)
 
 #Android Posts
 - The best Android Libraries on Github
@@ -89,29 +90,40 @@ title:  "Index"
 - Book Review: Javascript Design Patterns
 - Book Review: Eloquent Javascript
 - Book Review: The Priciples of Object Oriented Javascript
+- Great Node Libraries
+- Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
 
 #Elixir Posts
-- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction))
+- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
+- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/)
 - Checking out the Pheonix Framework
 - Book Review: Meta Programming Elixir
 - Book Review: Programming Elixir
 
 #Scala Posts 
+- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - Book Review: Functional Programming with Scala 
 
 #Haskell Posts
+- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/))
 - Learn you a Haskell for a Great Good (Book)
 
 #Erlang Posts
+- Learn Erlang [By Example](http://erlangbyexample.org/)
 - Learn you an Erlang for a Great Good (Book)
 
 #Clojure 
+- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 - Book Review: Clojure Reactive Programming
 - Book Review: The Joy of Clojure
 - Book Review: Mastering Clojure Macros
 
-#Elm Posts
+#[Elm](https://github.com/elm-lang/elm-compiler) Posts
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
+- Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
+
+#[Rust](http://rustbyexample.com/index.html) Posts
+- [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
