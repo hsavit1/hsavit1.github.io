@@ -5,19 +5,20 @@ title:  "Index"
 
 ###Here you can find lots of posts. I'm new to the blogging game so I haven't gotten around to writing most of these yet 
 
-#Swift Posts
+#[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - [Collection of Fantastic Articles About Swift](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
 - Exploring Functional Programming in Swift
-- Book Review: Functional Programming in Swift
-- Book Review: Advanced Swift 
+- Book Review: Functional Programming in Swift (ObjC.io)
+- Book Review: Advanced Swift (ObjC.io)
 - Book Review: Core Data (ObjC.io)
 - Book Review: Core Data By Tutorials (Ray Wenderlich)
-- Book Review: Pro Design Patterns in Swift
+- Book Review: Pro Design Patterns in Swift (Apress)
+- Book Review: Swift Quick Syntax Reference (Apress)
+- Book Review: Transitioning to Swift (Apress)
 - NS_ENUM and Swift
-- transitioning to Swift
 - [Playing with Swift Protocols](http://itshenry.com/2015/09/05/swift-protocols.html)
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
