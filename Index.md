@@ -32,6 +32,9 @@ title:  "Index"
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
 - MVVM with ReactiveCocoa will change the world
 - Testing for equality in Objective-C
+- My Attempt to Develop Lighter UITableViewControllers  
+- Exploring the VIPER Architecture in Objective C
+- Grand Central Dispatch Vocabulary Cheet Sheet
 - Book Review: Core Data for iOS
 - Book Review: Effective Objective-C 2.0
 - Book Review: Pro Design Patterns in Objective C
