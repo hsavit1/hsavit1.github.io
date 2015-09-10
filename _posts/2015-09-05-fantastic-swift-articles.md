@@ -13,7 +13,7 @@ comments: true
 ##Swift Blogs
 - [Apple's Swift Blog](https://developer.apple.com/swift/blog/): Covers all of the latest realeases of the Swift Programming language
 - [Airspeed Velocity](http://airspeedvelocity.net/): Hardocre Swift library blog from the Objc.io guys
-- 
+- [Salazar](http://nomothetis.svbtle.com/): This guy knows his Swift!!
 
 ##Swift Github Libraries
 

@@ -73,6 +73,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Why Android is the future (outside of NYC and Silicon Valley)
 
 #Ruby and R.O.R.
+- Metaprogramming with Ruby (Coming soon. Until then, use this [link](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 - Book Review: Eloquent Ruby
 - Book Review: Metaprogramming Ruby 2
 - Book Review: Design Patterns In Ruby
