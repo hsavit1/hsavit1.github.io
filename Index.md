@@ -5,6 +5,8 @@ title:  "Index"
 
 ###Here you can find lots of posts. I'm new to the blogging game so I haven't gotten around to writing most of these yet 
 
+-----
+
 #[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - [Collection of Fantastic Articles About Swift](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
