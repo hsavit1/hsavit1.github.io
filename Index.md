@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Note: Posts on my to-do-list do not have attached links. 
+###Here you can find lots of posts. I'm new to the blogging game so I haven't gotten around to writing most of these yet 
 
 #Swift Posts
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
@@ -91,6 +91,7 @@ Note: Posts on my to-do-list do not have attached links.
 - Book Review: The Priciples of Object Oriented Javascript
 
 #Elixir Posts
+- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction))
 - Checking out the Pheonix Framework
 - Book Review: Meta Programming Elixir
 - Book Review: Programming Elixir
@@ -108,6 +109,9 @@ Note: Posts on my to-do-list do not have attached links.
 - Book Review: Clojure Reactive Programming
 - Book Review: The Joy of Clojure
 - Book Review: Mastering Clojure Macros
+
+#Elm Posts
+- What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
