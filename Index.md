@@ -61,6 +61,8 @@ Note: Posts on my to-do-list do not have attached links.
 
 #Go-lang Posts
 - Drop everything and GO! (golang post)
+- Awesome GO Libraries
+- 
 
 #Android Posts
 - The best Android Libraries on Github
@@ -77,22 +79,33 @@ Note: Posts on my to-do-list do not have attached links.
 - Book Review: Practical Object Oriented Design In Ruby
 - Book Review: Rails AntiPatterns
 - Book Review: Ruby Under a Microscope
+- Book Review: Build Awesome Command Line Applications in Ruby
+- Book Review: Wicked Cool Ruby Scripts
+
+#Javascript and Node.js
+- Book Review: If Hemmingway Wrote Javascript
+- Book Review: Javascript Design Patterns
+- Book Review: Eloquent Javascript
+- Book Review: The Priciples of Object Oriented Javascript
 
 #Elixir Posts
+- Checking out the Pheonix Framework
 - Book Review: Meta Programming Elixir
 - Book Review: Programming Elixir
 
 #Scala Posts 
+- Book Review: Functional Programming with Scala 
 
 #Haskell Posts
-- Learn you a Haskell for a Great Good (book)
+- Learn you a Haskell for a Great Good (Book)
 
 #Erlang Posts
-- Learn you an Erlang for a Great Good (book)
+- Learn you an Erlang for a Great Good (Book)
 
 #Clojure 
-- Clojure Reactive Programming
-- The Joy of Clojure
+- Book Review: Clojure Reactive Programming
+- Book Review: The Joy of Clojure
+- Book Review: Mastering Clojure Macros
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
@@ -118,14 +131,14 @@ Note: Posts on my to-do-list do not have attached links.
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
-
-#Business Posts
-- Thoughts about VC funding
-- Why does everyone want to be a Unicorn? I'd rather be a Gorilla 
 - Making Things Happen (Book)
 - Design Patterns: Gang of 4 (Book)
 - The Mythical Man Month (Book)
 - Essential Scrum (Book)
+
+#Business Posts
+- Thoughts about VC funding
+- Why does everyone want to be a Unicorn? I'd rather be a Gorilla 
 
 #WatchKit Posts
 - [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
@@ -143,14 +156,24 @@ Note: Posts on my to-do-list do not have attached links.
 - [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
 - Working Effectively with Legacy Code 
 
+#Quantum Computing
+- Book Review: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
+- Book Review: Quantum Computing Since Democrutus 
+
+#Economics 
+- Book Review: The Price of Innequality
+
+#Random Thoughts 
+- The obsession with finding the _BEST_ thing around needs to stop
+
 #Comic Relief - Your moment of Zen
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
 - [Steven Colbert at the White House Correspondents Dinner](https://www.youtube.com/watch?v=2X93u3anTco)
 - [President Obama's Anger Translator](https://www.youtube.com/watch?v=G6NfRMv-4OY)
-- George Carlin
 - [Louie C.K. has to poop](https://www.youtube.com/watch?v=7MCj4YeUEik)
-- Greg Giraldo
-- Dave Attel
+- George Carlin
+- [Greg Giraldo](https://www.youtube.com/watch?v=IqH2bUZDUPg)
+- [Dave Attel](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
 - Sarah Silverman
-- Larry David
+- [Larry David](https://www.youtube.com/watch?v=JHmpbDWdMJw)
 - The dumbest iOS related posts I've seen on the internet
