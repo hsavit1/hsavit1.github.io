@@ -68,7 +68,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Awesome GO Libraries
 - Fantiastically Helpful GO Websites
 - Link to [AwesomeGO](https://github.com/avelino/awesome-go), (Algorithms](https://github.com/arnauddri/algorithms)
-- Learn GO [By Example](https://gobyexample.com/)
+- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
+- [GO language patterns](http://www.golangpatterns.info/)
 
 #Android Posts
 - The best Android Libraries on Github
@@ -96,25 +97,29 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - **Book Review**: The Priciples of Object Oriented Javascript
 - Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
+- Exploring the newest ES6 features
 
 #Elixir Posts
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
-- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/)
+- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir)
+- [Write some Elixir Schemes](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 - Checking out the Pheonix Framework
 - **Book Review**: Meta Programming Elixir
 - **Book Review**: Programming Elixir
 
 #Scala Posts 
 - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
+- [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - **Book Review**: Functional Programming with Scala 
 
 #Haskell Posts
-- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/))
+- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/)), by the [github guide](https://github.com/bitemyapp/learnhaskell)
 - Learn you a Haskell for a Great Good (Book)
+- Haskell [IDE](https://github.com/leksah/leksah)
 
 #Erlang Posts
-- Learn Erlang [By Example](http://erlangbyexample.org/)
-- Learn you an Erlang for a Great Good (Book)
+- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html)
+- [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
 
 #Clojure 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
@@ -137,6 +142,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #Meteor Posts
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
+
+#Phoenix Posts
+- Phoenix vs Ruby on Rails vs Node.js + Express
 
 #Design Posts
 - Why deisgning for the operating system has taken a backseat
@@ -168,7 +176,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #Apple TV Posts
 - Guessing what the future might look like for the new Apple TV
-- Is programming for TV OS a waste of time ?
+- Is programming for tvOS a waste of time ? (In a note: YES, for the most of us)
 
 #Pure Programming Posts
 - Essential Algorithms (book)
@@ -181,6 +189,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #Quantum Computing
 - **Book Review**: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
 - **Book Review**: Quantum Computing Since Democrutus 
+- Investingating the Capabilities of Quantum Machines
+- Learn some quantum mechanics!
 
 #Economics 
 - **Book Review**: The Price of Innequality
@@ -198,4 +208,3 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Dave Attel](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
 - Sarah Silverman
 - [Larry David](https://www.youtube.com/watch?v=JHmpbDWdMJw)
-- The dumbest iOS related posts I've seen on the internet
