@@ -97,6 +97,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Learn Ruby by Doing Exmaple Problems](https://www.learneroo.com/modules/61/nodes/338)
 - [Learn Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Coming to Ruby from Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+- What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 
 #**Javascript and Node.js Posts**
 - _Book Review_: If Hemmingway Wrote Javascript
@@ -166,7 +167,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**ReactJS Posts**
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
 - React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
-- What is ReactJS [Slides](https://speakerdeck.com/renanvalentin/react-js)
+- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 
 #**AngularJS Posts**
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
@@ -175,12 +176,16 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #**Meteor Posts**
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
+- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 
 #**Phoenix Framework Posts**
-- Phoenix vs Ruby on Rails vs Node.js + Express
+- Phoenix vs Ruby on Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
 
 #**Design Posts**
 - Why deisgning for the operating system has taken a backseat
+- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
 
 #**My Favorite Apps**
 - What makes Evernote my absolute favorite app?
@@ -207,17 +212,21 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Design Patterns: Gang of 4 (Book)
 - The Mythical Man Month (Book)
 - Essential Scrum (Book)
+- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
 #**Project Management Posts**
 - _Book Review_: Cracking the PM Interview
+- How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
 
 #**Netowrking Posts**
 - [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 - [Netowrking Diagram](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 - HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
+- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
 - What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 
 #**Systems Posts**
+- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
 #**Business Posts**
 - Thoughts about VC funding
