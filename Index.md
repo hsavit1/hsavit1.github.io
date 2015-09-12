@@ -106,6 +106,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
 - Exploring the newest ES6 features
+- [Generators in ES6](https://speakerdeck.com/shawn0102/generators-in-es6)
+- [ES6 Summary Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
 
 #**Elixir Posts**
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
@@ -163,9 +165,13 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #**ReactJS Posts**
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
+- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
+- What is ReactJS [Slides](https://speakerdeck.com/renanvalentin/react-js)
 
 #**AngularJS Posts**
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
+- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
+- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
 
 #**Meteor Posts**
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
@@ -208,6 +214,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**Netowrking Posts**
 - [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 - [Netowrking Diagram](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
+- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
+- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 
 #**Systems Posts**
 
@@ -243,6 +251,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Shor's Algorithm Test](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
 - [An Introduction to Quantum Algorithms](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
 - [Quantum Algorithms Zoo](http://math.nist.gov/quantum/zoo/)
+- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
 
 #**Economics Posts**
 - _Book Review_: The Price of Innequality
