@@ -197,7 +197,11 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - The Mythical Man Month (Book)
 - Essential Scrum (Book)
 
-#Projust Management Posts
+#Project Management Posts
+- **Book Review**: Cracking the PM Interview
+
+#Netowrking
+- [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 
 #Business Posts
 - Thoughts about VC funding
