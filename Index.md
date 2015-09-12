@@ -123,7 +123,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - _Book Review_: Functional Programming with Scala 
 
 #**Haskell Posts**
-- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/)), by the [github guide](https://github.com/bitemyapp/learnhaskell)
+- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
 - Learn you a Haskell for a Great Good (Book)
 - Haskell [IDE](https://github.com/leksah/leksah)
 - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
@@ -177,7 +177,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Why deisgning for the operating system has taken a backseat
 
 #**My Favorite Apps**
-- What makes Evernote your absolute favorite app?
+- What makes Evernote my absolute favorite app?
 - How can Chrome be so much better than Safari? 
 
 #**DataBase Posts**
