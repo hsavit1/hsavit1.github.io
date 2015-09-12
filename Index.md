@@ -202,10 +202,10 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - The Mythical Man Month (Book)
 - Essential Scrum (Book)
 
-#Project Management Posts**
+#**Project Management Posts**
 - _Book Review_: Cracking the PM Interview
 
-#Netowrking Posts**
+#**Netowrking Posts**
 - [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 - [Netowrking Diagram](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 
