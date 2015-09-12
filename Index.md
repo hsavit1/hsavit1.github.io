@@ -228,6 +228,16 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**Systems Posts**
 - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
+#**Machine Learning Posts**
+- [Neural Network Lib for iOS](http://nikolaypavlov.github.io/MLPNeuralNet/)
+- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+
+#**Data Science Posts**
+- Check out [Awesome-DataScience](https://github.com/okulbilisim/awesome-datascience)
+
+#**Mathematics Posts**
+- Check out [Awesome-Mathematics](https://github.com/rossant/awesome-math)
+
 #**Business Posts**
 - Thoughts about VC funding
 - Why does everyone want to be a Unicorn? I'd rather be a Gorilla 
@@ -243,9 +253,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**Pure Programming Posts**
 - Essential Algorithms (book)
 - Distributed Algorithms: An intuitive approach (Book)
-- Thinking post: Can we make a better Google?
+- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - Programming Languages Quick Overview
-- [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
 - Working Effectively with Legacy Code 
 - [What are the best-kept secrets of great programmers?](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 
@@ -261,6 +270,10 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [An Introduction to Quantum Algorithms](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
 - [Quantum Algorithms Zoo](http://math.nist.gov/quantum/zoo/)
 - Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
+- [Check out my Awesome Quantum Computation Repo](https://github.com/hsavit1/Awesome-Quantum-Computation)
+
+#**Physics Posts**
+- [Check out my Awesome Physics Repo]()
 
 #**Economics Posts**
 - _Book Review_: The Price of Innequality
