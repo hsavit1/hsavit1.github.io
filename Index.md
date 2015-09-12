@@ -139,7 +139,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
 - Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
-#Python
+#[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
 - Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 - [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 - [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
@@ -175,6 +175,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Do you really need Redis?
 - Why are you not using Go more often?
 - **Book Review**: Seven Databases in Seven Weeks 
+
+#Programming Languages
+- [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
