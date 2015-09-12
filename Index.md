@@ -25,6 +25,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Figuring out FlatMap 
 - [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html) 
 - Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
+- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
 
 #**Objective-C Posts**
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
