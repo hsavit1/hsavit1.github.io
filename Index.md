@@ -98,6 +98,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Learn Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 - [Coming to Ruby from Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 - What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
+- [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
 #**Javascript and Node.js Posts**
 - _Book Review_: If Hemmingway Wrote Javascript
@@ -109,12 +110,15 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Exploring the newest ES6 features
 - [Generators in ES6](https://speakerdeck.com/shawn0102/generators-in-es6)
 - [ES6 Summary Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
+- [Revolutionary Data Structures](https://github.com/substack/data-structures-of-the-revolution)
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 #**Elixir Posts**
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
 - [Write some Elixir Schemes](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
-- Checking out the Pheonix Framework
+- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 - _Book Review_: Meta Programming Elixir
 - _Book Review_: Programming Elixir
 
@@ -124,12 +128,14 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - If you're [impatient](http://horstmann.com/scala/)
 - Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
 - _Book Review_: Functional Programming with Scala 
+- [Awesome Scala](https://github.com/lauris/awesome-scala)
 
 #**Haskell Posts**
 - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
 - Learn you a Haskell for a Great Good (Book)
 - Haskell [IDE](https://github.com/leksah/leksah)
 - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
+- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
 
 #**Erlang Posts**
 - Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html)
@@ -137,10 +143,12 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
 - Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
 - See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
+- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
 
 #**[Clojure](http://clojure-doc.org/articles/content.html#essentialse)** 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 - [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
+- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 - _Book Review_: Clojure Reactive Programming
 - _Book Review_: The Joy of Clojure
 - _Book Review_: Mastering Clojure Macros
@@ -148,6 +156,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**[Elm](https://github.com/elm-lang/elm-compiler) Posts**
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
 - Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
+- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
 
 #**[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place) Posts**
 - [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
@@ -156,9 +165,13 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
 - [Python 3 Patterns Online Book](Python 3 Patterns, Recipes and Idioms)
 - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
+- [IPython and Libraries](https://github.com/ipython/ipython)
+- [Awesome Python](https://github.com/vinta/awesome-python)
+- [Design Patterns In Python](https://github.com/faif/python-patterns)
 
 #**[Rust](http://rustbyexample.com/index.html) Posts**
 - [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
+- [Awesome Rust](https://github.com/kud1ing/awesome-rust)
 
 #**Prolog Posts**
 - [99 Prolog Problems](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
@@ -173,17 +186,23 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
 - Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
 - Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
+- [Angular Design Patterns](https://github.com/hsavit1/Angular-Design-Patterns-Best-Practices)
+- [Angular JS in Patterns](https://github.com/mgechev/angularjs-in-patterns)
+- [Awesome AngularJS](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
 
 #**Meteor Posts**
-- I investigate using iOS + Meteor for a Fast, Real Time DDM
+- [Investigation using iOS + Meteor for a Fast, Real Time DDM](https://github.com/martijnwalraven/meteor-ios)
 - Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+- [Awesome Meteor](https://github.com/Urigo/awesome-meteor)
 
 #**Phoenix Framework Posts**
 - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
 - Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
 - Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
+- [Pheonix + Flux + React](https://github.com/hsavit1/phoenix-flux-react)
 
 #**Design Posts**
+- [Awesome Material Design](https://github.com/lightSky/Awesome-MaterialDesign)
 - Why deisgning for the operating system has taken a backseat
 - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
 
@@ -231,9 +250,13 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**Machine Learning Posts**
 - [Neural Network Lib for iOS](http://nikolaypavlov.github.io/MLPNeuralNet/)
 - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+- [How to make an OS](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+- [Machine Learning in Go](https://github.com/hsavit1/golearn)
 
 #**Data Science Posts**
 - Check out [Awesome-DataScience](https://github.com/okulbilisim/awesome-datascience)
+- [Probabilistic Programming for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Awsome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 #**Mathematics Posts**
 - Check out [Awesome-Mathematics](https://github.com/rossant/awesome-math)
@@ -257,6 +280,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Programming Languages Quick Overview
 - Working Effectively with Legacy Code 
 - [What are the best-kept secrets of great programmers?](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
+- [Algorithm Visualisation](https://github.com/hsavit1/algovis)
+- [Awesome Programming Posts](https://github.com/hellerve/programming-talks)
 
 #**Quantum Computing Posts**
 - _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
@@ -271,6 +296,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Quantum Algorithms Zoo](http://math.nist.gov/quantum/zoo/)
 - Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
 - [Check out my Awesome Quantum Computation Repo](https://github.com/hsavit1/Awesome-Quantum-Computation)
+- [C++11 QComp Library](http://vsoftco.github.io/qpp/)
 
 #**Physics Posts**
 - [Check out my Awesome Physics Repo]()
@@ -279,6 +305,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - _Book Review_: The Price of Innequality
 - _Book Review_: The Black Swan
 - _Book Review_: AntiFragile
+- [Bitcoin Book](https://github.com/aantonop/bitcoinbook)
 
 #**Random Thoughts and Posts** 
 - The obsession with finding the _BEST_ thing around needs to stop
