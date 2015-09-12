@@ -68,7 +68,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Drop everything and GO! (golang post)
 - Awesome GO Libraries
 - Fantiastically Helpful GO Websites
-- Link to [AwesomeGO](https://github.com/avelino/awesome-go), (Algorithms](https://github.com/arnauddri/algorithms)
+- Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
 - Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
 - [GO language patterns](http://www.golangpatterns.info/)
 - Rob Pike on concurrency [video](https://vimeo.com/49718712)
