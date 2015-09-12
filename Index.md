@@ -179,7 +179,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 
 #**Phoenix Framework Posts**
-- Phoenix vs Ruby on Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
 - Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
 - Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
 
