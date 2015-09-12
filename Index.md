@@ -277,6 +277,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #**Economics Posts**
 - _Book Review_: The Price of Innequality
+- _Book Review_: The Black Swan
+- _Book Review_: AntiFragile
 
 #**Random Thoughts and Posts** 
 - The obsession with finding the _BEST_ thing around needs to stop
