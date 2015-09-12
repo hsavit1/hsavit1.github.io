@@ -114,12 +114,15 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #Scala Posts 
 - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- If you're [impatient](http://horstmann.com/scala/)
+- Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
 - **Book Review**: Functional Programming with Scala 
 
 #Haskell Posts
 - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/)), by the [github guide](https://github.com/bitemyapp/learnhaskell)
 - Learn you a Haskell for a Great Good (Book)
 - Haskell [IDE](https://github.com/leksah/leksah)
+- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
 
 #Erlang Posts
 - Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html)
@@ -140,9 +143,11 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
 #[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
+- [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
 - Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 - [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 - [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
+- [Metaprogramming with Python](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/)
 
 #[Rust](http://rustbyexample.com/index.html) Posts
 - [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
@@ -178,6 +183,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #Programming Languages
 - [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
+- [Learn X in Y minutes](http://learnxinyminutes.com/)
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
