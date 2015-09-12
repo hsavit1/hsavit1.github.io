@@ -93,6 +93,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - **Book Review**: Build Awesome Command Line Applications in Ruby
 - **Book Review**: Wicked Cool Ruby Scripts
 - [99 Problems with Ruby](https://github.com/hcf/99-problems-in-Ruby)
+- [Learn Ruby by Doing Exmaple Problems](https://www.learneroo.com/modules/61/nodes/338)
+- [Learn Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Coming to Ruby from Other Languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 
 #Javascript and Node.js
 - **Book Review**: If Hemmingway Wrote Javascript
@@ -131,7 +134,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
 - See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
 
-#Clojure 
+#[Clojure](http://clojure-doc.org/articles/content.html#essentialse) 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 - [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - **Book Review**: Clojure Reactive Programming
@@ -147,7 +150,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 - [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 - [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
-- [Metaprogramming with Python](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/)
+- [Python 3 Patterns Online Book](Python 3 Patterns, Recipes and Idioms)
+- Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 
 #[Rust](http://rustbyexample.com/index.html) Posts
 - [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
@@ -172,18 +176,19 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Why deisgning for the operating system has taken a backseat
 
 #My Favorite Apps
-- What makes Evernote one of the great ones?
+- What makes Evernote your absolute favorite app?
 - How can Chrome be so much better than Safari? 
 
 #DataBase Posts
 - Socket.io and RethinkDB: A match made in heaven
-- Do you really need Redis?
-- Why are you not using Go more often?
+- Do you really need Redis nowadays?
 - **Book Review**: Seven Databases in Seven Weeks 
+- Why I would never settle for the scam that is Facebook's Parse
+- Striving for Cheapness
 
 #Programming Languages
 - [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
-- [Learn X in Y minutes](http://learnxinyminutes.com/)
+- [Learn X in Y minutes](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
 
 #Software Development Posts 
 - When is Agile Developement seriously practical?
@@ -191,6 +196,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Design Patterns: Gang of 4 (Book)
 - The Mythical Man Month (Book)
 - Essential Scrum (Book)
+
+#Projust Management Posts
 
 #Business Posts
 - Thoughts about VC funding
@@ -211,6 +218,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Programming Languages Quick Overview
 - [Awesome Algorithms](https://github.com/hsavit1/awesome-algorithms)
 - Working Effectively with Legacy Code 
+- [What are the best-kept secrets of great programmers?](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 
 #Quantum Computing
 - **Book Review**: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
