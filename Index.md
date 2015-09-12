@@ -57,7 +57,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE
 - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 - Javascript Core
-- [NSHashTable and NSMapTable](http://itshenry.com/2015/11/05/nshash-nsmap.html)
+- [A look at a long list of data structures in ObjC](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Do iOS developers really need a library like Mantle anymore?
 - Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches
 - How to PROPERLY implement a caching system with iOS
@@ -70,6 +70,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Link to [AwesomeGO](https://github.com/avelino/awesome-go), (Algorithms](https://github.com/arnauddri/algorithms)
 - Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
 - [GO language patterns](http://www.golangpatterns.info/)
+- Rob Pike on concurrency [video](https://vimeo.com/49718712)
+- [Channels and Concurrency and Go and a few other languages](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
+- [Channels Are Not Enough or Why Pipelining Is Not That Easy](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
 
 #Android Posts
 - The best Android Libraries on Github
@@ -89,6 +92,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - **Book Review**: Ruby Under a Microscope
 - **Book Review**: Build Awesome Command Line Applications in Ruby
 - **Book Review**: Wicked Cool Ruby Scripts
+- [99 Problems with Ruby](https://github.com/hcf/99-problems-in-Ruby)
 
 #Javascript and Node.js
 - **Book Review**: If Hemmingway Wrote Javascript
@@ -101,7 +105,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #Elixir Posts
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
-- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir)
+- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
 - [Write some Elixir Schemes](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 - Checking out the Pheonix Framework
 - **Book Review**: Meta Programming Elixir
@@ -120,9 +124,13 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #Erlang Posts
 - Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html)
 - [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
+- [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
+- Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
+- See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
 
 #Clojure 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+- [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - **Book Review**: Clojure Reactive Programming
 - **Book Review**: The Joy of Clojure
 - **Book Review**: Mastering Clojure Macros
@@ -131,8 +139,17 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
 - Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
+#Python
+- Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
+- [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
+- [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
+
 #[Rust](http://rustbyexample.com/index.html) Posts
 - [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
+
+#Prolog
+- [99 Prolog Problems](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+- Why would you ever learn Prolog?
 
 #ReactJS Posts
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
@@ -143,7 +160,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #Meteor Posts
 - I investigate using iOS + Meteor for a Fast, Real Time DDM
 
-#Phoenix Posts
+#Phoenix Framework Posts
 - Phoenix vs Ruby on Rails vs Node.js + Express
 
 #Design Posts
