@@ -26,6 +26,19 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html) 
 - Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
 - Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
+- Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
+- Practical [Declarative](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and [Functional](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
+- [Operator Overloading and JSON Parsing in Swift](https://realm.io/news/swift-thinking/)
+- [Building for Open Source](https://speakerdeck.com/kylef/building-for-open-source)
+- FizzBuzz on steroids with Swift [Slides](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
+- FRP with RAC in Swift [Slides](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
+- How Carthage works [Slides](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
+- Learning Swift from Haskell [Slides](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift)
+- Natasha the Robot Explains Functional Programming [Slides](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
+- Make Swift More Functional [Slides](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
+- FP in Swift [Slides](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
+- RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10)
+- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 
 #**Objective-C Posts**
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
@@ -64,6 +77,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches
 - How to PROPERLY implement a caching system with iOS
 - It's 5 o'clock somewhere. Do you know where your data is? 
+- [Ruby Motion Cocoa Wrappers](https://github.com/rubymotion/BubbleWrap)
+- Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 
 #**Go-lang Posts**
 - Drop everything and GO! (golang post)
@@ -75,14 +90,26 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Rob Pike on concurrency [video](https://vimeo.com/49718712)
 - [Channels and Concurrency and Go and a few other languages](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
 - [Channels Are Not Enough or Why Pipelining Is Not That Easy](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
+- Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
+- [Effective Go Website](https://golang.org/doc/effective_go.html)
+- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 
-#**Android Posts**
+#**Java and Android Posts**
 - The best Android Libraries on Github
 - How much time do AndroidAnntoations really save for you?
 - Using RxJava with Retrolambdas
 - Parallels of Android and iOS (loong post)
 - What the iOS Developer in me really likes about Android
 - Why Android is the future (outside of NYC and Silicon Valley)
+- New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
+- Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
+- Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
+- Java 8 [Monads](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
+- Coming to Scala from Java [Slides](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
+- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
+- Android for iOS Devs [Slides](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
+- Java vs Scala for Android Dev [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
+- Java Generics [Slides](https://speakerdeck.com/gayashanna/java-generics)
 
 #**Ruby and Ruby on Rails Posts** 
 - Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
@@ -114,6 +141,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Revolutionary Data Structures](https://github.com/substack/data-structures-of-the-revolution)
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
+- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
+- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
 
 #**Elixir Posts**
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
@@ -130,6 +160,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
 - _Book Review_: Functional Programming with Scala 
 - [Awesome Scala](https://github.com/lauris/awesome-scala)
+- Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
 
 #**Haskell Posts**
 - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
@@ -137,9 +168,12 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Haskell [IDE](https://github.com/leksah/leksah)
 - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
 - [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
+- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
+- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
 
 #**Erlang Posts**
-- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html)
+- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
 - [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
 - [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
 - Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
@@ -182,6 +216,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
 - React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 - What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
+- [ReactJS Training Course](https://github.com/ryanflorence/react-training/)
 
 #**AngularJS Posts**
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
@@ -203,6 +238,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Angular 2 + Meteor](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 - Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 - [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide)
+- [50 Examples of AngularJS](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
 
 #**Phoenix Framework Posts**
 - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
@@ -214,6 +250,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Awesome Material Design](https://github.com/lightSky/Awesome-MaterialDesign)
 - Why deisgning for the operating system has taken a backseat
 - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
+- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
+- Material Design on the Web [Slidea](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 
 #**My Favorite Apps**
 - What makes Evernote my absolute favorite app?
@@ -222,12 +260,16 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**DataBase Posts**
 - Socket.io and RethinkDB: A match made in heaven
 - Do you really need Redis nowadays?
+- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
+- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
+- A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
+- Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
 - _Book Review_: Seven Databases in Seven Weeks 
 - Why I would never settle for the scam that is Facebook's Parse
 - Striving for Cheapness
 - CouchDB
 - Memcache
-- Cassandra 
+- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 
 #**Programming Languages Posts**
 - [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
@@ -245,6 +287,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 #**Project Management Posts**
 - _Book Review_: Cracking the PM Interview
 - How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
+- Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
 
 #**Netowrking Posts**
 - [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
@@ -252,6 +295,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 - Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
 - What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
+- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
 #**Systems Posts**
 - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
@@ -291,6 +335,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [What are the best-kept secrets of great programmers?](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 - [Algorithm Visualisation](https://github.com/hsavit1/algovis)
 - [Awesome Programming Posts](https://github.com/hellerve/programming-talks)
+- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
 
 #**Quantum Computing Posts**
 - _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
