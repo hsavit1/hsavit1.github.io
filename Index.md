@@ -190,11 +190,19 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - [Angular Design Patterns](https://github.com/hsavit1/Angular-Design-Patterns-Best-Practices)
 - [Angular JS in Patterns](https://github.com/mgechev/angularjs-in-patterns)
 - [Awesome AngularJS](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
-
+- [Official AngularJS Documentation](https://docs.angularjs.org/tutorial/step_00)
+- [10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
+- [W3Schools Tutorial](http://www.w3schools.com/angular/)
+- [Learn Angular2 via Challenges](https://github.com/ShMcK/ng2Challenges)
+- [Angular 1 vs Angular 2 talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 #**Meteor Posts**
 - [Investigation using iOS + Meteor for a Fast, Real Time DDM](https://github.com/martijnwalraven/meteor-ios)
 - Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 - [Awesome Meteor](https://github.com/Urigo/awesome-meteor)
+- [Official Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
+- [Angular 2 + Meteor](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
+- Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
+- [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide)
 
 #**Phoenix Framework Posts**
 - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
