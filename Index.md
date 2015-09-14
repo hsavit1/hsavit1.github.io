@@ -112,7 +112,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Effective Go Website [Link](https://golang.org/doc/effective_go.html)
 - Slides
 	- Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
-	- [Channels Are Not Enough or Why Pipelining Is Not That Easy](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
+	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
 	- Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
 	- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 - Videos
@@ -198,6 +198,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
 	- Official Repo [Link](https://github.com/elixir-lang/elixir)
 	- Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
+	- All about Elixir [Link](https://github.com/chrismccord/elixir_express)
 - Slides
 	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
@@ -253,17 +254,17 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
-	- [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
-	- [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
-	- Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
+	- [Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
+	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
+	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
 - Slides
-	- See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
+	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
 
 #**Clojure** 
 - Links
+	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
-	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 - Slides
 	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Posts Coming Soon
@@ -283,7 +284,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Links
 	- Why Python? [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
 	- Awesome Python [Link](https://github.com/vinta/awesome-python)
-	- [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
+	- What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
 	- 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 	- Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
 	- Python 3 Patterns Online Book [Link](Python 3 Patterns, Recipes and Idioms)
@@ -556,9 +557,9 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
 	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
 	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
-
+	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 #**Physics Posts**
-- [Check out my Awesome Physics Repo]()
+- Check out my Awesome Physics Repo [Link]()
 
 #**Economics Posts**
 - Links
