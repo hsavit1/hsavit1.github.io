@@ -6,13 +6,13 @@ title:  "Index"
 Here you can find lots of posts. Also a whole bunch of links to really cool places on the internet. Hopefully I can expand your knowledge a bit
 
 #**[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts**
-- [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
+- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 - Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
-- [Collection of Fantastic Articles About Swift](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
-- [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
-- Protocol Oriented Programming in Swift
-- Exploring Functional Programming in Swift
+- Collection of Fantastic Articles About Swift [Post Coming Soon](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
+- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
+- Protocol Oriented Programming in Swift [Post Coming Soon]()
+- Exploring Functional Programming in Swift [Post Coming Soon]()
 - _Book Review_: Functional Programming in Swift (ObjC.io)
 - _Book Review_: Advanced Swift (ObjC.io)
 - _Book Review_: Core Data (ObjC.io)
@@ -20,18 +20,18 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - _Book Review_: Pro Design Patterns in Swift (Apress)
 - _Book Review_: Swift Quick Syntax Reference (Apress)
 - _Book Review_: Transitioning to Swift (Apress)
-- NS_ENUM and Swift
-- [Playing with Swift Protocols](http://itshenry.com/2015/09/05/swift-protocols.html)
-- Functional Reactive Programming with Swift with RAC 3.0
-- Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
-- Figuring out FlatMap 
+- NS_ENUM and Swift [Post Coming Soon]()
+- Playing with Swift Protocols [Post Coming Soon]](http://itshenry.com/2015/09/05/swift-protocols.html)
+- Functional Reactive Programming with Swift with RAC 3.0 [Post Coming Soon]()
+- Functors, Applicatives, and Monads in Swift (Link From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
+- Figuring out FlatMap [Post Coming Soon]()
 - [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
 - Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
 - Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
 - Practical [Declarative](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and [Functional](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
-- [Operator Overloading and JSON Parsing in Swift](https://realm.io/news/swift-thinking/)
-- [Building for Open Source](https://speakerdeck.com/kylef/building-for-open-source)
+- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
+- Building for Open Source [Slides](https://speakerdeck.com/kylef/building-for-open-source)
 - FizzBuzz on steroids with Swift [Slides](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
 - FRP with RAC in Swift [Slides](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
 - How Carthage works [Slides](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
@@ -44,13 +44,12 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 
 #**Objective-C Posts**
-- [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
-- Collection of Fantastic Articles About Objective-C
+- The best ObjectiveC libraries on Github [Post](http://itshenry.com/2015/09/12/ios-libraries.html)
 - Method Swizzling and Associated Objects in Objective C and their Swift equivalents
-- MVVM with ReactiveCocoa will change the world
-- Testing for equality in Objective-C
-- My Attempt to Develop Lighter UITableViewControllers  
-- Exploring the VIPER Architecture in Objective C
+- MVVM with ReactiveCocoa will change the world [Post Coming Soon]()
+- Testing for equality in Objective-C [Post Coming Soon]()
+- My Attempt to Develop Lighter UITableViewControllers [Post Coming Soon]()
+- Exploring the VIPER Architecture in Objective C [Post Coming Soon]()
 - Grand Central Dispatch Vocabulary Cheet Sheet
 - _Book Review_: Core Data for iOS
 - _Book Review_: Effective Objective-C 2.0
@@ -69,33 +68,30 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
 - Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
 - Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
-- Collection of Fantastic Articles About iOS
-- A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
-- Worthy iOS Readings
+- A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
 - REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
 - Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
-- What it takes to do S.O.L.I.D. design with iOS
-- The best apps out there (thinking)
-- Why would anyone ever use Core Data?
-- FASTLANE for iOS: A ruby library that is a GODSEND when it comes to the deployment of iOS Apps
-- Continuous Integration on iOS: My take
-- Testing on iOS with TDD, BDD, and more!
-- Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE
+- What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()
+- The best apps out there (thinking) [Post Coming Soon]()
+- Why would anyone ever use Core Data? [Post Coming Soon]()
+- FASTLANE for iOS: A ruby library that is a GODSEND when it comes to the deployment of iOS Apps [Post Coming Soon]()
+- Continuous Integration on iOS: My take [Post Coming Soon]()
+- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
+- Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE [Post Coming Soon]()
 - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
-- Javascript Core
+- Javascript Core [Post Coming Soon]()
 - [A look at a long list of data structures in ObjC](http://itshenry.com/2015/11/05/nshash-nsmap.html)
-- Do iOS developers really need a library like Mantle anymore?
-- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches
-- How to PROPERLY implement a caching system with iOS
-- It's 5 o'clock somewhere. Do you know where your data is? 
+- Do iOS developers really need a library like Mantle anymore? [Post Coming Soon]()
+- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches [Post Coming Soon]()
+- How to PROPERLY implement a caching system with iOS [Post Coming Soon]()
 - [Ruby Motion Cocoa Wrappers](https://github.com/rubymotion/BubbleWrap)
 - Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 - Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
 - Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
 
 #**Go-lang Posts**
-- Drop everything and GO! (golang post)
-- Awesome GO Libraries
+- Awesome Go [Link](https://github.com/avelino/awesome-go)
+- Drop everything and GO! (golang post) [Post Coming Soon]()
 - Free GO Books [Link](https://github.com/dariubs/GoBooks)
 - Fantiastically Helpful GO Websites
 - Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
@@ -116,12 +112,11 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
 - Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
 - Awesome JVM [Link](https://github.com/deephacks/awesome-jvm) 
-- The best Android Libraries on Github
-- How much time do AndroidAnntoations really save for you?
-- Using RxJava with Retrolambdas
-- Parallels of Android and iOS (loong post)
-- What the iOS Developer in me really likes about Android
-- Why Android is the future (outside of NYC and Silicon Valley)
+- How much time do AndroidAnntoations really save for you? [Post Coming Soon]()
+- Using RxJava with Retrolambdas [Post Coming Soon]()
+- Parallels of Android and iOS (loong post) [Post Coming Soon]()
+- What the iOS Developer in me really likes about Android [Post Coming Soon]()
+- Why Android is the future (outside of NYC and Silicon Valley) [Post Coming Soon]()
 - New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
 - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
 - Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
