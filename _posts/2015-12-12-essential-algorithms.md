@@ -28,7 +28,6 @@ comments: true
 19. Interview Puzzles
 
 
-
 ###1. Algorithm Basics
 An algorithm is a recipe for performing a certain task. A data structure is a way of arranging data to make solving a particular problem easier
 
@@ -39,7 +38,111 @@ Know your Big-O Notation when figuring out an algorithm. The chapter defines 5 r
 4. “If an algorithm performs an operation that takes O(f(N)) steps, and for every step in that operation it performs another O(g(N)) steps, the algorithm's total performance is O(f(N) + g(N)).”
 5. “Ignore constant multiples. If C is a constant, O(C × f(N)) is the same as O(f(N)), and O(f(C × N)) is the same as O(f(N)).”
 
-
 ###2. Numerical Algorithms
+- Randomizing Data
+- Finding Greatest Common Divisors
+- Performing Exponentiation
+- Working with Prime Numbers
+- Performing Numerical Integration
+- Finding Zeros
 
 ###3. Linked Lists
+- Singly Linked Lists
+- Doubly Linked Lists
+- Sorted Linked Lists
+- Linked-List Algorithms
+- Linked List Selectionsort
+- Multithreaded Linked Lists
+- Linked Lists with Loops
+
+###4. Arrays
+- One-dimensional Arrays
+- Nonzero Lower Bounds
+- Triangular Arrays
+- Sparse Arrays
+- Matrices 
+
+###5. Stacks and Queues
+- Stacks
+- Queues
+
+###6. Sorting
+- O(N^2) Algorithms
+- O(N Log N) Algorithms
+- Sub O(N Log N) Algorithms
+
+###7. Searching
+- Linear Search
+- Binary Search
+- Interpolation Search
+
+###8. Hash Tables
+- Fundamentals
+- Chaining
+- Open Addressing
+
+###9. Recursion
+- Basic Algorithms
+- Graphical Algorithms
+- Backtracking Algorithms
+- Selections and Permutations
+- Recursion Removal
+
+###10. Trees
+- Tree Terminology
+- Binary Tree Properties
+- Tree Representations
+- Tree Traversal
+- Sorted Trees
+- Threaded Trees
+- Specialized Tree Algorithms 
+
+###11. Balanced Trees
+- AVL Trees
+- 2-3 Trees
+- B-Trees
+- Balanced Tree Variations
+
+###12. Decision Trees
+- Searching Game Trees
+- Searching General Decision Trees 
+
+###13. Basic Network Algorithms
+- Network Terminology
+- Network Representations
+- Traversals
+- Finding Paths 
+
+###14. More Network Algorithms
+- Topological Sorting
+- Cycle Detection
+- Map Coloring
+- Maximal Flow 
+
+###15. String Algorithms
+- Matching Parentheses
+- Pattern Matching
+- String Searching
+- Calculating Edit Distance
+
+###16. Cryptography
+- Transposition Ciphers
+- Substitution Ciphers
+- Block Ciphers
+- Public-Key Encryption and RSA
+
+###17. Complexity Theory
+- Notation
+- Complexity Classes
+- Reductions
+- NP-Hardness
+- Detection, Reporting, and Optimization Problems
+- NP-Complete Problems
+
+###18. Distributed Algorithms
+- Types of Parallelism
+- Distributed Algorithms
+
+###19. Interview Puzzles
+- Asking Interview Puzzle Questions
+- Answering Interview Puzzle Questions
