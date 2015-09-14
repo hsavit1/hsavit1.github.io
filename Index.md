@@ -228,27 +228,35 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
 
 #**Erlang Posts**
-- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
-- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
-- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
-- [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
-- [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
-- Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
-- See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
+- Links
+	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
+	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
+	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
+	- [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
+	- [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
+	- Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
+- Slides
+	- See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
 
 #**Clojure** 
-- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
-- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
-- [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
-- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
-- _Book Review_: Clojure Reactive Programming [Post Coming Soon]()
-- _Book Review_: The Joy of Clojure [Post Coming Soon]()
-- _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
+- Links
+	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
+	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
+- Slides
+	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
+- Posts Coming Soon
+	- _Book Review_: Clojure Reactive Programming [Post Coming Soon]()
+	- _Book Review_: The Joy of Clojure [Post Coming Soon]()
+	- _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
 
-#**[Elm](https://github.com/elm-lang/elm-compiler) Posts**
-- Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
-- What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
-- Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
+#**Elm Posts**
+- Links
+	- Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
+	- Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
+- Slides
+	- What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
+	- Building Web Apps with Elm ([Slides](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
 #**[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place) Posts**
 - Awesome Python [Link](https://github.com/vinta/awesome-python)
