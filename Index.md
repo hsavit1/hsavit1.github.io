@@ -168,8 +168,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
 - Exploring the newest ES6 features
-- [Generators in ES6](https://speakerdeck.com/shawn0102/generators-in-es6)
-- [ES6 Summary Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
+- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
+- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
 - [Revolutionary Data Structures](https://github.com/substack/data-structures-of-the-revolution)
 - MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
 - Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
@@ -187,7 +187,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Scala [Link](https://github.com/lauris/awesome-scala)
 - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
-- If you're [impatient](http://horstmann.com/scala/)
+- Scala, if you're [impatient](http://horstmann.com/scala/)
 - Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
 - _Book Review_: Functional Programming with Scala 
 - Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
