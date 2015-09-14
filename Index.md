@@ -5,13 +5,14 @@ title:  "Index"
 
 Here you can find lots of posts. Also a whole bunch of links to really cool places on the internet. Hopefully I can expand your knowledge a bit
 
-#**[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts**
+#**Swift**
 - Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 - Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 - The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - Collection of Fantastic Articles About Swift [Post Coming Soon](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift [Post Coming Soon]()
+- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/) Posts)
 - Exploring Functional Programming in Swift [Post Coming Soon]()
 - _Book Review_: Functional Programming in Swift (ObjC.io) [Post Coming Soon]()
 - _Book Review_: Advanced Swift (ObjC.io) [Post Coming Soon]()
@@ -45,7 +46,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Objective-C Posts**
 - The best ObjectiveC libraries on Github [Post](http://itshenry.com/2015/09/12/ios-libraries.html)
-- Method Swizzling and Associated Objects in Objective C and their Swift equivalents
+- Method Swizzling and Associated Objects in Objective C and their Swift equivalents [Post](http://itshenry.com/2015/10/08/methodSwizz-assObjs.html)
 - MVVM with ReactiveCocoa will change the world [Post Coming Soon]()
 - Testing for equality in Objective-C [Post Coming Soon]()
 - My Attempt to Develop Lighter UITableViewControllers [Post Coming Soon]()
