@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Here you can find lots of posts. I'm new to the blogging game so I haven't gotten around to writing most of these yet 
+Here you can find lots of posts. Also a whole bunch of links to really cool places on the internet. Hopefully I can expand your knowledge a bit
 
 #**[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts**
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
@@ -67,6 +67,7 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
 - REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
+- Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
 - What it takes to do S.O.L.I.D. design with iOS
 - The best apps out there (thinking)
 - Why would anyone ever use Core Data?
