@@ -109,6 +109,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 
 #**Java and Android Posts**
+- Awesome Java [Link](https://github.com/akullpp/awesome-java)
 - Awesome Android [Link](https://github.com/snowdream/awesome-android) 
 - Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
 - Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
@@ -124,12 +125,15 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
 - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
 - Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
-- Java 8 [Monads](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
+- Java 8:  Lambdas, Monads and Java Collections [Slides](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
 - Coming to Scala from Java [Slides](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
 - RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 - Android for iOS Devs [Slides](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
 - Java vs Scala for Android Dev [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
 - Java Generics [Slides](https://speakerdeck.com/gayashanna/java-generics)
+
+#**C and C++**
+- Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
 
 #**Ruby and Ruby on Rails Posts** 
 - Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
@@ -156,7 +160,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - _Book Review_: Eloquent Javascript
 - _Book Review_: The Priciples of Object Oriented Javascript
 - Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
-- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs)
+- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 - Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 - Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 - Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
@@ -351,6 +355,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
 - Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 - Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
 - _Book Review_: Cracking the PM Interview
 - How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
 - Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
@@ -370,6 +375,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
 #**Systems Posts**
+- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 - Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 - Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
 - Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
