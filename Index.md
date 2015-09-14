@@ -25,7 +25,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Functional Reactive Programming with Swift with RAC 3.0
 - Functors, Applicatives, and Monads in Swift (From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 - Figuring out FlatMap 
-- [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html) 
+- [SeguenceType and Generator Type](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers
 - Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
 - Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
@@ -244,10 +244,13 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**[Purescript](https://github.com/purescript/purescript)**
 - Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
+- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 
 #**Prolog Posts**
 - [99 Prolog Problems](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
 - Why would you ever learn Prolog?
+- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
+- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
 
 #**ReactJS, Redux, Flux Posts**
 - Awesome React [Link](https://github.com/enaqx/awesome-react)
