@@ -172,7 +172,6 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Javascript and Node.js Posts**
 - Links
-
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
