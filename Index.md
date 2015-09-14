@@ -12,10 +12,10 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 	- Functors, Applicatives, and Monads in Swift (Link From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
-	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
-	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/) Posts)
+	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
 - Slides
+	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
 	- Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
 	- Practical Declarative [Slides](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [Slides](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
