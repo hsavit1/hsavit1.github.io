@@ -8,6 +8,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts**
 - [The best Swift libraries on Github (looong post)](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
+- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 - [Collection of Fantastic Articles About Swift](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 - [Design Patterns in Swift](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift
@@ -63,6 +64,11 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**iOS and Cocoa Posts**
 - Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
 - Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
+- Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
+- Awesome iOS Animations [Link](https://github.com/sxyx2008/awesome-ios-animation)
+- Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
+- Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
+- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
 - Collection of Fantastic Articles About iOS
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
@@ -127,6 +133,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Ruby and Ruby on Rails Posts** 
 - Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
+- Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
 - Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
 - Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 - _Book Review_: Eloquent Ruby
@@ -153,6 +160,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 - Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 - Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
+- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
 - Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
 - Exploring the newest ES6 features
@@ -192,6 +200,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Erlang Posts**
 - [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
+- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 - Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
 - [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
 - [Learn OTP Design Principles](http://www.erlang.org/doc/design_principles/des_princ.html) 
@@ -240,6 +249,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome React [Link](https://github.com/enaqx/awesome-react)
 - Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
 - Awesome Redux [Link](https://github.com/rackt/redux)
+- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
 - What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 - What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
 - What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
@@ -250,6 +260,9 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**AngularJS Posts**
 - Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
+- Awesome Angular 2.0 Learning [List](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
+- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
+- Great site for Angular 2 [Link](http://blog.thoughtram.io/exploring-angular-2/)
 - Awesome Backbone.js [Link](https://github.com/instanceofpro/awesome-backbone)
 - Dependency Injection with Angular isn't a chore. It's a lifesaver
 - Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
@@ -281,13 +294,15 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [Pheonix + Flux + React](https://github.com/hsavit1/phoenix-flux-react)
 
 #**Design and Front End Development Posts**
-- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign)
+- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
 - Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
 - Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
 - Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
 - Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 - Awesome Images [Link](https://github.com/heyalexej/awesome-images)
 - Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
+- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
 - Why deisgning for the operating system has taken a backseat
 - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
 - Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
@@ -314,6 +329,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 
 #**Programming Languages Posts**
+- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
 - [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
 - [Learn X in Y minutes](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
 - The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
@@ -334,6 +350,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**Project Management Posts**
 - Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
 - Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
+- Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 - _Book Review_: Cracking the PM Interview
 - How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
 - Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
@@ -343,6 +360,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome REST [Link](https://github.com/marmelab/awesome-rest)
 - Awesome JSON [Link](https://github.com/burningtree/awesome-json)
 - Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
+- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
+- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
 - [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 - [Netowrking Diagram](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 - HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
@@ -403,6 +422,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Awesome Programming Posts](https://github.com/hellerve/programming-talks)
 - Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
+- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
 - The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
 - Distributed Algorithms: An intuitive approach (Book)
 - Programming Languages Quick Overview
@@ -439,6 +459,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Economics Posts**
 - Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
+- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
+- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
 - _Book Review_: The Price of Innequality
 - _Book Review_: The Black Swan
 - _Book Review_: AntiFragile
