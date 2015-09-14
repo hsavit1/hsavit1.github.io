@@ -38,8 +38,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Natasha the Robot Explains Functional Programming [Slides](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
 - Make Swift More Functional [Slides](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
 - FP in Swift [Slides](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
-- RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10)
+- RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 - Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
+- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 
 #**Objective-C Posts**
 - [The best ObjectiveC libraries on Github (looong post)](http://itshenry.com/2015/09/12/ios-libraries.html)
@@ -61,10 +62,11 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 
 #**iOS and Cocoa Posts**
 - Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
+- Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
 - Collection of Fantastic Articles About iOS
 - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection
 - Worthy iOS Readings
-- A look into REALM 
+- REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
 - What it takes to do S.O.L.I.D. design with iOS
 - The best apps out there (thinking)
 - Why would anyone ever use Core Data?
@@ -81,7 +83,8 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - It's 5 o'clock somewhere. Do you know where your data is? 
 - [Ruby Motion Cocoa Wrappers](https://github.com/rubymotion/BubbleWrap)
 - Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
-- [Awesome iOS Plugins](https://github.com/sanketfirodiya/awesome-ios-plugins)
+- Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
+- Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
 
 #**Go-lang Posts**
 - Drop everything and GO! (golang post)
@@ -238,7 +241,9 @@ Here you can find lots of posts. I'm new to the blogging game so I haven't gotte
 - Awesome Redux [Link](https://github.com/rackt/redux)
 - What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 - What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
+- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 - [A link to getting started with React Native](https://facebook.github.io/react-native/)
+- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
 - React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 - [ReactJS Training Course](https://github.com/ryanflorence/react-training/)
 
