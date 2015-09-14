@@ -39,6 +39,10 @@ Know your Big-O Notation when figuring out an algorithm. The chapter defines 5 r
 5. “Ignore constant multiples. If C is a constant, O(C × f(N)) is the same as O(f(N)), and O(f(C × N)) is the same as O(f(N)).”
 
 ###2. Numerical Algorithms
+Numerical algorithms calculate numbers. They perform such tasks as randomizing values, breaking numbers into their prime factors, finding greatest common divisors, and computing geometric areas.
+All these algorithms are useful occasionally, but they also demonstrate useful algorithmic techniques such as adaptive algorithms, Monte Carlo simulation, and using tables to store intermediate results 
+
+
 - Randomizing Data
 - Finding Greatest Common Divisors
 - Performing Exponentiation
