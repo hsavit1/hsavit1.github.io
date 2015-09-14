@@ -210,18 +210,18 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**[Clojure](http://clojure-doc.org/articles/content.html#essentialse)** 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 - [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
-- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
+- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 - _Book Review_: Clojure Reactive Programming
 - _Book Review_: The Joy of Clojure
 - _Book Review_: Mastering Clojure Macros
 
 #**[Elm](https://github.com/elm-lang/elm-compiler) Posts**
-- [Awesome Elm](https://github.com/isRuslan/awesome-elm)
+- Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
 - What is Elm? ([Presentation](https://speakerdeck.com/jinjor/lets-learn-elm))
 - Building Web Apps with Elm ([Presentation](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
 #**[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place) Posts**
-- [Awesome Python](https://github.com/vinta/awesome-python)
+- Awesome Python [Link](https://github.com/vinta/awesome-python)
 - [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
 - Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 - [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
@@ -232,7 +232,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [Design Patterns In Python](https://github.com/faif/python-patterns)
 
 #**[Rust](http://rustbyexample.com/index.html) Posts**
-- [Awesome Rust](https://github.com/kud1ing/awesome-rust)
+- Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
 - [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
 
 #**Julia**
