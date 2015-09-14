@@ -6,22 +6,22 @@ title:  "Index"
 Here you can find lots of posts. Also a whole bunch of links to really cool places on the internet. Hopefully I can expand your knowledge a bit
 
 #**[Swift](http://brettbukowski.github.io/SwiftExamples/) Posts**
-- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 - Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
+- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 - Collection of Fantastic Articles About Swift [Post Coming Soon](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 - Protocol Oriented Programming in Swift [Post Coming Soon]()
 - Exploring Functional Programming in Swift [Post Coming Soon]()
-- _Book Review_: Functional Programming in Swift (ObjC.io)
-- _Book Review_: Advanced Swift (ObjC.io)
-- _Book Review_: Core Data (ObjC.io)
-- _Book Review_: Core Data By Tutorials (Ray Wenderlich)
-- _Book Review_: Pro Design Patterns in Swift (Apress)
-- _Book Review_: Swift Quick Syntax Reference (Apress)
-- _Book Review_: Transitioning to Swift (Apress)
+- _Book Review_: Functional Programming in Swift (ObjC.io) [Post Coming Soon]()
+- _Book Review_: Advanced Swift (ObjC.io) [Post Coming Soon]()
+- _Book Review_: Core Data (ObjC.io) [Post Coming Soon]()
+- _Book Review_: Core Data By Tutorials (Ray Wenderlich) [Post Coming Soon]()
+- _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
+- _Book Review_: Swift Quick Syntax Reference (Apress) [Post Coming Soon]()
+- _Book Review_: Transitioning to Swift (Apress) [Post Coming Soon]()
 - NS_ENUM and Swift [Post Coming Soon]()
-- Playing with Swift Protocols [Post Coming Soon]](http://itshenry.com/2015/09/05/swift-protocols.html)
+- Playing with Swift Protocols [Post Coming Soon](http://itshenry.com/2015/09/05/swift-protocols.html)
 - Functional Reactive Programming with Swift with RAC 3.0 [Post Coming Soon]()
 - Functors, Applicatives, and Monads in Swift (Link From [Mokacoding](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
 - Figuring out FlatMap [Post Coming Soon]()
@@ -50,15 +50,15 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Testing for equality in Objective-C [Post Coming Soon]()
 - My Attempt to Develop Lighter UITableViewControllers [Post Coming Soon]()
 - Exploring the VIPER Architecture in Objective C [Post Coming Soon]()
-- Grand Central Dispatch Vocabulary Cheet Sheet
-- _Book Review_: Core Data for iOS
-- _Book Review_: Effective Objective-C 2.0
-- _Book Review_: Pro Design Patterns in Objective C
-- _Book Review_: Functional Reactive Programming in iOS
-- _Book Review_: iOS Core Animation: Advanced Techniques
-- _Book Review_: Test Driven iOS Development
-- _Book Review_: Cocoa Design Patterns
-- _Book Review_: Pro Performance Optimization in iOS
+- Grand Central Dispatch Vocabulary Cheet Sheet [Post Coming Soon]()
+- _Book Review_: Core Data for iOS [Post Coming Soon]()
+- _Book Review_: Effective Objective-C 2.0 [Post Coming Soon]()
+- _Book Review_: Pro Design Patterns in Objective C [Post Coming Soon]()
+- _Book Review_: Functional Reactive Programming in iOS [Post Coming Soon]()
+- _Book Review_: iOS Core Animation: Advanced Techniques [Post Coming Soon]()
+- _Book Review_: Test Driven iOS Development [Post Coming Soon]()
+- _Book Review_: Cocoa Design Patterns [Post Coming Soon]()
+- _Book Review_: Pro Performance Optimization in iOS [Post Coming Soon]()
 
 #**iOS and Cocoa Posts**
 - Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
