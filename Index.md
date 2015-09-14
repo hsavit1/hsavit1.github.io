@@ -180,16 +180,16 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - _Book Review_: Programming Elixir
 
 #**Scala Posts** 
+- Awesome Scala [Link](https://github.com/lauris/awesome-scala)
 - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 - [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - If you're [impatient](http://horstmann.com/scala/)
 - Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
 - _Book Review_: Functional Programming with Scala 
-- [Awesome Scala](https://github.com/lauris/awesome-scala)
 - Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
 
 #**Haskell Posts**
-- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+- Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
 - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
 - Learn you a Haskell for a Great Good (Book)
 - Haskell [IDE](https://github.com/leksah/leksah)
@@ -199,7 +199,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
 
 #**Erlang Posts**
-- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
+- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 - Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 - Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
 - [Learn you an Erlang for a Great Good (Book)](http://learnyousomeerlang.com/content)
