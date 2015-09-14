@@ -42,16 +42,24 @@ Know your Big-O Notation when figuring out an algorithm. The chapter defines 5 r
 Numerical algorithms calculate numbers. They perform such tasks as randomizing values, breaking numbers into their prime factors, finding greatest common divisors, and computing geometric areas.
 All these algorithms are useful occasionally, but they also demonstrate useful algorithmic techniques such as adaptive algorithms, Monte Carlo simulation, and using tables to store intermediate results 
 
-
-- Randomizing Data
-- Finding Greatest Common Divisors
-- Performing Exponentiation
-- Working with Prime Numbers
-- Performing Numerical Integration
-- Finding Zeros
+- Randomizing Data: By "randomizing data," the book mean seeing how a program would fare with any random input. A great example of this is a Monte Carlo simulation. It's actually hard to get truly random values (hisenberg's uncertainity principle and quantum mechanics confirm that). We use a process called a _liner congruential generator_ to generate random values and are mostly satified that the values are random enough.
+- Finding Greatest Common Divisors: Use Euclid's Algorithm, it's pretty fast!
+- Working with Prime Numbers: Prime numbers play important roles in some applications where their special properties make certain operations easier or more difficult. For example, some kinds of cryptography use the product of two large primes to provide security. The fact that it is hard to factor a number that is the product of two large primes is what makes the algorithm secure.
+- Performing Numerical Integration: Monte Carlo integration is form of numeric integration in which the program generates a series of pseudorandom points uniformly within an area and determines whether each point lies within the target region”
+- Finding Zeros: Sometimes a program needs to figure out where an equation crosses the x-axis. In other words, given an equation y = f(x), you may want to find x where f(x) = 0. Values such as this are called the equation's roots.
+- Summary: This chapter explained the ideas of fairness and bias, two very important concepts for any sort of randomized algorithm, such as the Monte Carlo integration algorithm, which also was described in this chapter. This idea of making a program adapt to spend the most time on the most important parts of the problem is applicable to many algorithms. Many numerical algorithms, such as GCD, Fermat's primality test, the rectangle and trapezoid rules, and Monte Carlo integration, don't need complex data structures. In contrast, most of the other algorithms described in this book do require specialized data structures to produce their results 
 
 ###3. Linked Lists
+Linked lists are probably the simplest data structures you'll build. However, some of the concepts you use to build them are also used to build the most sophisticated data structures described in this book. To use a linked list, you need to understand cells and links in addition to methods of finding, inserting, and deleting cells. You use those same concepts to build complicated networks, trees, and balanced trees, which can be confusing.
+A linked list is built of objects that are often called cells. The cell's class contains whatever data the list must store plus a link to another cell. The link is simply a reference or pointer to another object of a cell's class. Often the pointer field in the cell class is called Next.
+
 - Singly Linked Lists
+	- Iterating over a List
+	- Finding Cells
+	- Using Sentinels
+	- Adding Cells at the Beginning 
+	- Adding Cells at the End
+	- Inserting Cells after other Cells
 - Doubly Linked Lists
 - Sorted Linked Lists
 - Linked-List Algorithms
