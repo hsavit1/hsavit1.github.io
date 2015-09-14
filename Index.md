@@ -195,14 +195,34 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Elixir Posts**
 - Links
-	- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
+	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
+	- Official Repo [Link](https://github.com/elixir-lang/elixir)
 	- Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 - Slides
 	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
+-Tutorial
+	- Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
+	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
+
+#**Phoenix Framework Posts**
+- Links
+	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
+	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
+	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
+	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
+	- ElixirDose Blog [Link](http://www.elixirdose.com/)
+	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
+- Slides
+	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+- Tutorials
+	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
+	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
+	- Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
+	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
+	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 
 #**Scala Posts** 
 - Links
@@ -345,23 +365,6 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
-
-#**Phoenix Framework Posts**
-- Links
-	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
-	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
-	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
-	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
-	- ElixirDose Blog [Link](http://www.elixirdose.com/)
-	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
-- Slides
-	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
-- Tutorials
-	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
-	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
-	- Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
-	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
-	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 
 #**Design and Front End Development Posts**
 - Links
