@@ -382,11 +382,11 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**Machine Learning Posts**
 - Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
 - Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Neural Network Lib for iOS](http://nikolaypavlov.github.io/MLPNeuralNet/)
+- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
 - Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
 - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-- [How to make an OS](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-- [Machine Learning in Go](https://github.com/hsavit1/golearn)
+- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
 
 #**Data Science Posts**
 - Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
@@ -396,7 +396,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
 - Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
 - Check out [Awesome-DataScience](https://github.com/okulbilisim/awesome-datascience)
-- [Probabilistic Programming for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 
 #**Mathematics Posts**
@@ -415,24 +415,22 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**WatchKit Posts**
 - Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
 - Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
-- [Cool list of WatchKit articles](http://itshenry.com/2015/09/05/watchkit-articles.html)
-- [WatchKit libraries to use](http://itshenry.com/2015/09/05/watchkit-libraries.html)
 
 #**Apple TV Posts**
 - Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
 
 #**Pure Programming Posts**
 - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
-- [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Awesome Programming Posts](https://github.com/hellerve/programming-talks)
+- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
 - Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
 - Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
 - The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-- Distributed Algorithms: An intuitive approach (Book)
-- Programming Languages Quick Overview
-- Working Effectively with Legacy Code 
-- [What are the best-kept secrets of great programmers?](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
-- [Algorithm Visualisation](https://github.com/hsavit1/algovis)
+- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
+- Programming Languages Quick Overview [Post Coming Soon]()
+- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
+- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
+- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 - Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
 - Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 
@@ -443,13 +441,13 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
 - Investingating the Capabilities of Quantum Machines [Post Coming Soon]()
 - Learn some quantum mechanics! [Post Coming Soon]()
-- [LibQuantum C Library](http://www.libquantum.de/)
-- [Google's Quantum Computing Playground](http://www.quantumplayground.net/#/playground/5191954035900416)
-- [Shor's Algorithm Test](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
-- [An Introduction to Quantum Algorithms](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
-- [Quantum Algorithms Zoo](http://math.nist.gov/quantum/zoo/)
+- LibQuantum C Library [Link](http://www.libquantum.de/)
+- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
+- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
+- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+- Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 - Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
-- [C++11 QComp Library](http://vsoftco.github.io/qpp/)
+- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
 
 #**Security Posts**
 - Awesome Security [Link](https://github.com/sbilly/awesome-security)
@@ -468,7 +466,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - _Book Review_: The Price of Innequality [Post Coming Soon]()
 - _Book Review_: The Black Swan [Post Coming Soon]()
 - _Book Review_: AntiFragile [Post Coming Soon]()
-- [Bitcoin Book](https://github.com/aantonop/bitcoinbook)
+- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
 
 #**Random Thoughts and Posts** 
 - Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
