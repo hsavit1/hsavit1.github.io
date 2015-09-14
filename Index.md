@@ -172,25 +172,26 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Javascript and Node.js Posts**
 - Links
-	- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
-	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
-	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
-	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
+
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
-	- Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
+	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
+	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 - Slides
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
-	- [Revolutionary Data Structures](https://github.com/substack/data-structures-of-the-revolution)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
 	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
 	- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
-
+- Posts Coming Soon
+	- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
+	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
+	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
+	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
 #**Elixir Posts**
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
