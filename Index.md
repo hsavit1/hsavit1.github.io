@@ -347,10 +347,21 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 
 #**Phoenix Framework Posts**
-- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
-- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
-- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
-- [Pheonix + Flux + React](https://github.com/hsavit1/phoenix-flux-react)
+- Links
+	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
+	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
+	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
+	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
+	- ElixirDose Blog [Link](http://www.elixirdose.com/)
+	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
+- Slides
+	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+- Tutorials
+	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
+	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
+	- Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
+	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
+	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 
 #**Design and Front End Development Posts**
 - Links
