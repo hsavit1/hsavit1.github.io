@@ -78,6 +78,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
 	- Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 - Slides
@@ -258,75 +259,92 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
 	- Building Web Apps with Elm ([Slides](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
 
-#**[Python](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place) Posts**
-- Awesome Python [Link](https://github.com/vinta/awesome-python)
-- [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
-- Functional Programming in Python [slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
-- [99 Python Problems](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
-- [Functional Streams with Python](https://speakerdeck.com/kachayev/streams-abstraction)
-- [Python 3 Patterns Online Book](Python 3 Patterns, Recipes and Idioms)
-- Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
-- [IPython and Libraries](https://github.com/ipython/ipython)
-- [Design Patterns In Python](https://github.com/faif/python-patterns)
+#**Python Posts**
+- Links
+	- Why Python? [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
+	- Awesome Python [Link](https://github.com/vinta/awesome-python)
+	- [What is Python?](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
+	- 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
+	- Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
+	- Python 3 Patterns Online Book [Link](Python 3 Patterns, Recipes and Idioms)
+	- IPython and Libraries [Link](https://github.com/ipython/ipython)
+	- Design Patterns In Python [Link](https://github.com/faif/python-patterns)
+- Slides
+	- Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
+	- Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 
-#**[Rust](http://rustbyexample.com/index.html) Posts**
-- Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
-- [What is Rust?](https://doc.rust-lang.org/book/README.html) (Book)
+#**Rust Posts**
+- Links
+	- Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
+	- What is Rust? [Link](https://doc.rust-lang.org/book/README.html) (Book)
+	- The Rust Book [Link]((http://rustbyexample.com/index.html))
 
 #**Julia**
 - Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
 
-#**[Purescript](https://github.com/purescript/purescript)**
+#**Purescript**
 - Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
+- Github Repo [Link](https://github.com/purescript/purescript)
 - Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 
 #**Prolog Posts**
-- [99 Prolog Problems](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
-- Why would you ever learn Prolog? [Post Coming Soon]()
-- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
-- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
+- Link
+	- 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+- Posts
+	- Why would you ever learn Prolog? [Post Coming Soon]()
+- Slides
+	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
+	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
 
 #**ReactJS, Redux, Flux Posts**
-- Awesome React [Link](https://github.com/enaqx/awesome-react)
-- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
-- Awesome Redux [Link](https://github.com/rackt/redux)
-- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
-- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
-- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
-- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-- [A link to getting started with React Native](https://facebook.github.io/react-native/)
-- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
-- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
-- [ReactJS Training Course](https://github.com/ryanflorence/react-training/)
+- Links 
+	- Awesome React [Link](https://github.com/enaqx/awesome-react)
+	- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
+	- Awesome Redux [Link](https://github.com/rackt/redux)
+	- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
+	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
+	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
+	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
+- Slides
+	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
+	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
+	- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
+	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 
 #**AngularJS Posts**
-- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
-- Awesome Angular 2.0 Learning [List](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
-- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
-- Great site for Angular 2 [Link](http://blog.thoughtram.io/exploring-angular-2/)
-- Awesome Backbone.js [Link](https://github.com/instanceofpro/awesome-backbone)
-- Dependency Injection with Angular isn't a chore. It's a lifesaver
-- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
-- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
-- [Angular Design Patterns](https://github.com/hsavit1/Angular-Design-Patterns-Best-Practices)
-- [Angular JS in Patterns](https://github.com/mgechev/angularjs-in-patterns)
-- [Official AngularJS Documentation](https://docs.angularjs.org/tutorial/step_00)
-- [10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
-- [W3Schools Tutorial](http://www.w3schools.com/angular/)
-- [Learn Angular2 via Challenges](https://github.com/ShMcK/ng2Challenges)
-- [Angular 1 vs Angular 2 talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
-- Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
-- [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide)
-- [50 Examples of AngularJS](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
-- A better way to learn AngularJS [link](https://thinkster.io/a-better-way-to-learn-angularjs/)
-- MVVM with Angular [Slides](http://www.slideshare.net/basarat1/mvvm-knockout-vs-angular?qid=e202d415-ea24-41a8-ab0c-b4b3892c1aa4&v=qf1&b=&from_search=5)
+- Links
+	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
+	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
+	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
+	- Great site for Angular 2 [Link](http://blog.thoughtram.io/exploring-angular-2/)
+	- Awesome Backbone.js [Link](https://github.com/instanceofpro/awesome-backbone)
+	- Angular Design Patterns [Link](https://github.com/hsavit1/Angular-Design-Patterns-Best-Practices)
+	- Angular JS in Patterns [Link](https://github.com/mgechev/angularjs-in-patterns)
+	- Official AngularJS Documentation [Link](https://docs.angularjs.org/tutorial/step_00)
+	- 10,000 Word Guide [Link](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
+	- W3Schools Tutorial [Link](http://www.w3schools.com/angular/)
+	- Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
+	- AngularJS Style Guide [Link](https://github.com/mgechev/angularjs-style-guide)
+	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
+	- A better way to learn AngularJS [link](https://thinkster.io/a-better-way-to-learn-angularjs/)
+	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
+- Posts
+	- Dependency Injection with Angular isn't a chore. It's a lifesaver
+- Slides
+	- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
+	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
+	- MVVM with Angular [Slides](http://www.slideshare.net/basarat1/mvvm-knockout-vs-angular?qid=e202d415-ea24-41a8-ab0c-b4b3892c1aa4&v=qf1&b=&from_search=5)
+- Talks
+	- Angular 1 vs Angular 2 [Talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 
 #**Meteor Posts**
-- [Investigation using iOS + Meteor for a Fast, Real Time DDM](https://github.com/martijnwalraven/meteor-ios)
-- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
-- [Awesome Meteor](https://github.com/Urigo/awesome-meteor)
-- [Official Meteor Tutorial](https://www.meteor.com/tutorials/blaze/creating-an-app)
-- [Angular 2 + Meteor](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
+- Links
+	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
+	- Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
+	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
+	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
+- Slides
+	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 
 #**Phoenix Framework Posts**
 - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
@@ -335,181 +353,215 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [Pheonix + Flux + React](https://github.com/hsavit1/phoenix-flux-react)
 
 #**Design and Front End Development Posts**
-- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
-- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
-- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
-- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
-- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
-- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
-- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
-- Why deisgning for the operating system has taken a backseat
-- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
-- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
-- Material Design on the Web [Slidea](https://speakerdeck.com/addyosmani/material-design-for-the-web)
+- Links
+	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
+	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
+	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
+	- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+	- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
+	- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
+	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
+- Posts
+	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
+- Slides
+	- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
+	- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
+	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 
 #**My Favorite Apps**
-- What makes Evernote my absolute favorite app? [Post Coming Soon]()
-- How can Chrome be so much better than Safari? [Post Coming Soon]()
+- Posts
+	- What makes Evernote my absolute favorite app? [Post Coming Soon]()
+	- How can Chrome be so much better than Safari? [Post Coming Soon]()
 
 #**DataBase Posts**
-- Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
-- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
-- Do you really need Redis nowadays? [Post Coming Soon]()
-- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
-- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
-- A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
-- Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
-- _Book Review_: Seven Databases in Seven Weeks [Post Coming Soon]()
-- Why I would never settle for the scam that is Facebook's Parse [Post Coming Soon]()
-- Striving for Cheapness [Post Coming Soon]()
-- CouchDB
-- Memcache
-- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
+- Links
+	- Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
+	- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+- Posts
+	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
+	- Do you really need Redis nowadays? [Post Coming Soon]()
+	- _Book Review_: Seven Databases in Seven Weeks [Post Coming Soon]()
+	- Why I would never settle for the scam that is Facebook's Parse [Post Coming Soon]()
+	- Striving for Cheapness [Post Coming Soon]()
+	- CouchDB
+	- Memcache
+- Slides
+	- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
+	- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
+	- A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
+	- Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
+	- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
 
 #**Programming Languages Posts**
-- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
-- [How to Study Programming Languages](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
-- [Learn X in Y minutes](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
-- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+- Link
+	- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
+	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
+	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
+	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
 #**Software Development Posts** 
-- Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
-- Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
-- Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
-- Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
-- When is Agile Developement seriously practical?
-- Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
-- Making Things Happen (Book) [Post Coming Soon]()
-- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
-- The Mythical Man Month (Book) [Post Coming Soon]()
-- Essential Scrum (Book) [Post Coming Soon]()
-- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
+- Links
+	- Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
+	- Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
+	- Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
+	- Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
+	- When is Agile Developement seriously practical?
+	- Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
+- Posts
+	- Making Things Happen (Book) [Post Coming Soon]()
+	- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
+	- The Mythical Man Month (Book) [Post Coming Soon]()
+	- Essential Scrum (Book) [Post Coming Soon]()
+- Slides
+	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
 #**Project Management Posts**
-- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
-- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
-- Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
-- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
-- How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
-- Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
+- Links
+	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
+	- Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
+- Posts
+	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
+- Slides
+	- How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
+	- Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
 
 #**Netowrking Posts**
-- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
-- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
-- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
-- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
-- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
-- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
-- [IP, TCP, HTTP](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
-- [Netowrking Diagram](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
-- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
-- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
-- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
-- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+- Links
+	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
+	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
+	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
+	- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
+	- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
+	- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
+	- IP, TCP, HTTP [Link](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
+	- Netowrking Diagram [Link](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
+- Slides
+	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
+	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
+	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
+	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
 #**Systems Posts**
-- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
-- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
-- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
-- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
-- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
+- Links
+	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
+	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
+	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
+	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
+- Slides
+	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
 #**Machine Learning Posts**
-- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
-- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+- Links
+	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
+	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
 
 #**Data Science Posts**
-- Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
-- Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
-- Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
-- Aweesome R [Link](https://github.com/qinwf/awesome-R)
-- Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
-- Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
-- Check out [Awesome-DataScience](https://github.com/okulbilisim/awesome-datascience)
-- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
+- Links
+	- Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
+	- Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
+	- Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
+	- Aweesome R [Link](https://github.com/qinwf/awesome-R)
+	- Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
+	- Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
+	- Awesome-DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
+	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 
 #**Mathematics Posts**
-- Check out [Awesome-Mathematics](https://github.com/rossant/awesome-math)
+- Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 
 #**Business and Marketing Posts**
-- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
-- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
-- Awesome JobBoards [Link](https://github.com/wfhio/awesome-job-boards)
-- Awesome ShareLinks [Link](https://github.com/vinkla/awesome-share-links)
-- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
-- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
-- Thoughts about VC funding [Post Coming Soon]()
-- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
+- Links
+	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
+	- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
+	- Awesome JobBoards [Link](https://github.com/wfhio/awesome-job-boards)
+	- Awesome ShareLinks [Link](https://github.com/vinkla/awesome-share-links)
+	- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
+	- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
+- Posts
+	- Thoughts about VC funding [Post Coming Soon]()
+	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
 
 #**WatchKit Posts**
-- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
-- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
+- Links
+	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
+	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
 
 #**Apple TV Posts**
 - Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
 
 #**Pure Programming Posts**
-- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
-- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
-- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
-- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
-- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
-- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
-- Programming Languages Quick Overview [Post Coming Soon]()
-- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
-- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
-- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
-- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
-- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+- Posts
+	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
+	- Programming Languages Quick Overview [Post Coming Soon]()
+	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
+- Links
+	- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
+	- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
+	- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
+	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
+	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
+	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
+	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
+	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+- Slides
+	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
 
 #**Quantum Computing Posts**
-- [Check out my Awesome Quantum Computation Repo](https://github.com/hsavit1/Awesome-Quantum-Computation)
-- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels [Post Coming Soon]()
-- _Book Review_: Quantum Computing Since Democrutus [Post Coming Soon]()
-- _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
-- Investingating the Capabilities of Quantum Machines [Post Coming Soon]()
-- Learn some quantum mechanics! [Post Coming Soon]()
-- LibQuantum C Library [Link](http://www.libquantum.de/)
-- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
-- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
-- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
-- Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
-- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
-- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
+- Links
+	- Check out my Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
+	- LibQuantum C Library [Link](http://www.libquantum.de/)
+	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
+	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
+	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+	- Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
+	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
+- Posts
+	- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels [Post Coming Soon]()
+	- _Book Review_: Quantum Computing Since Democrutus [Post Coming Soon]()
+	- _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
+	- Investingating the Capabilities of Quantum Machines [Post Coming Soon]()
+	- Learn some quantum mechanics! [Post Coming Soon]()
+- Slides
+	- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
 
 #**Security Posts**
-- Awesome Security [Link](https://github.com/sbilly/awesome-security)
-- Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
-- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
-- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
-- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
+- Links
+	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
+	- Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
+	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
+	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
+	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
 
 #**Physics Posts**
 - [Check out my Awesome Physics Repo]()
 
 #**Economics Posts**
-- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
-- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
-- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
-- _Book Review_: The Price of Innequality [Post Coming Soon]()
-- _Book Review_: The Black Swan [Post Coming Soon]()
-- _Book Review_: AntiFragile [Post Coming Soon]()
-- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
+- Links
+	- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
+	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
+- Posts
+	- _Book Review_: The Price of Innequality [Post Coming Soon]()
+	- _Book Review_: The Black Swan [Post Coming Soon]()
+	- _Book Review_: AntiFragile [Post Coming Soon]()
 
 #**Random Thoughts and Posts** 
-- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
-- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
+- Links
+	- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
+- Posts
+	- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
 
 #**Comic Relief - _Your Moment of Zen_**
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
