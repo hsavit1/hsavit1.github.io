@@ -136,14 +136,14 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
 - Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
 - Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
-- _Book Review_: Eloquent Ruby
-- _Book Review_: Metaprogramming Ruby 2
-- _Book Review_: Design Patterns In Ruby
-- _Book Review_: Practical Object Oriented Design In Ruby
-- _Book Review_: Rails AntiPatterns
-- _Book Review_: Ruby Under a Microscope
-- _Book Review_: Build Awesome Command Line Applications in Ruby
-- _Book Review_: Wicked Cool Ruby Scripts
+- _Book Review_: Eloquent Ruby [Post Coming Soon]()
+- _Book Review_: Metaprogramming Ruby 2 [Post Coming Soon]()
+- _Book Review_: Design Patterns In Ruby [Post Coming Soon]()
+- _Book Review_: Practical Object Oriented Design In Ruby [Post Coming Soon]()
+- _Book Review_: Rails AntiPatterns [Post Coming Soon]()
+- _Book Review_: Ruby Under a Microscope [Post Coming Soon]()
+- _Book Review_: Build Awesome Command Line Applications in Ruby [Post Coming Soon]()
+- _Book Review_: Wicked Cool Ruby Scripts [Post Coming Soon]()
 - [99 Problems with Ruby](https://github.com/hcf/99-problems-in-Ruby)
 - [Learn Ruby by Doing Exmaple Problems](https://www.learneroo.com/modules/61/nodes/338)
 - [Learn Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
@@ -151,19 +151,17 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 
 #**Javascript and Node.js Posts**
-- _Book Review_: If Hemmingway Wrote Javascript
-- _Book Review_: Javascript Design Patterns
-- _Book Review_: Eloquent Javascript
-- _Book Review_: The Priciples of Object Oriented Javascript
+- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
+- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
+- _Book Review_: Eloquent Javascript [Post Coming Soon]()
+- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
 - Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 - Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 - Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 - Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 - Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 - Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
-- Great Node Libraries
 - Solid Node [Resource](http://amirrajan.net/nodejs-by-example/) 
-- Exploring the newest ES6 features
 - Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 - ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
 - [Revolutionary Data Structures](https://github.com/substack/data-structures-of-the-revolution)
@@ -176,8 +174,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
 - [Write some Elixir Schemes](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
-- _Book Review_: Meta Programming Elixir
-- _Book Review_: Programming Elixir
+- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
+- _Book Review_: Programming Elixir [Post Coming Soon]()
 
 #**Scala Posts** 
 - Awesome Scala [Link](https://github.com/lauris/awesome-scala)
@@ -185,7 +183,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - Scala, if you're [impatient](http://horstmann.com/scala/)
 - Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
-- _Book Review_: Functional Programming with Scala 
+- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
 - Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
 
 #**Haskell Posts**
@@ -207,13 +205,14 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Read a [post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html) about why you should learn Erlang
 - See this [presentation](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned) about Erlang in production
 
-#**[Clojure](http://clojure-doc.org/articles/content.html#essentialse)** 
+#**Clojure** 
 - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
 - [Distributed Programming with Clojure](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
-- _Book Review_: Clojure Reactive Programming
-- _Book Review_: The Joy of Clojure
-- _Book Review_: Mastering Clojure Macros
+- _Book Review_: Clojure Reactive Programming [Post Coming Soon]()
+- _Book Review_: The Joy of Clojure [Post Coming Soon]()
+- _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
 
 #**[Elm](https://github.com/elm-lang/elm-compiler) Posts**
 - Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
@@ -244,7 +243,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Prolog Posts**
 - [99 Prolog Problems](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
-- Why would you ever learn Prolog?
+- Why would you ever learn Prolog? [Post Coming Soon]()
 - There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
 - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
 
@@ -312,21 +311,21 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Material Design on the Web [Slidea](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 
 #**My Favorite Apps**
-- What makes Evernote my absolute favorite app?
-- How can Chrome be so much better than Safari? 
+- What makes Evernote my absolute favorite app? [Post Coming Soon]()
+- How can Chrome be so much better than Safari? [Post Coming Soon]()
 
 #**DataBase Posts**
 - Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
 - Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- Socket.io and RethinkDB: A match made in heaven
-- Do you really need Redis nowadays?
+- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
+- Do you really need Redis nowadays? [Post Coming Soon]()
 - Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
 - Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
 - A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
 - Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
-- _Book Review_: Seven Databases in Seven Weeks 
-- Why I would never settle for the scam that is Facebook's Parse
-- Striving for Cheapness
+- _Book Review_: Seven Databases in Seven Weeks [Post Coming Soon]()
+- Why I would never settle for the scam that is Facebook's Parse [Post Coming Soon]()
+- Striving for Cheapness [Post Coming Soon]()
 - CouchDB
 - Memcache
 - Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
@@ -344,10 +343,10 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
 - When is Agile Developement seriously practical?
 - Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
-- Making Things Happen (Book)
-- Design Patterns: Gang of 4 (Book)
-- The Mythical Man Month (Book)
-- Essential Scrum (Book)
+- Making Things Happen (Book) [Post Coming Soon]()
+- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
+- The Mythical Man Month (Book) [Post Coming Soon]()
+- Essential Scrum (Book) [Post Coming Soon]()
 - The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
 #**Project Management Posts**
@@ -355,7 +354,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 - Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 - Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-- _Book Review_: Cracking the PM Interview
+- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
 - How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
 - Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
 
@@ -410,8 +409,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome ShareLinks [Link](https://github.com/vinkla/awesome-share-links)
 - Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
 - Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
-- Thoughts about VC funding
-- Why does everyone want to be a Unicorn? I'd rather be a Gorilla 
+- Thoughts about VC funding [Post Coming Soon]()
+- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
 
 #**WatchKit Posts**
 - Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
@@ -420,10 +419,10 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - [WatchKit libraries to use](http://itshenry.com/2015/09/05/watchkit-libraries.html)
 
 #**Apple TV Posts**
-- Guessing what the future might look like for the new Apple TV
+- Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
 
 #**Pure Programming Posts**
-- Essential Algorithms (book)
+- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
 - [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Awesome Programming Posts](https://github.com/hellerve/programming-talks)
 - Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
@@ -439,11 +438,11 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Quantum Computing Posts**
 - [Check out my Awesome Quantum Computation Repo](https://github.com/hsavit1/Awesome-Quantum-Computation)
-- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels
-- _Book Review_: Quantum Computing Since Democrutus 
-- _Book Review_: Quantum Computing for Computer Scientists
-- Investingating the Capabilities of Quantum Machines
-- Learn some quantum mechanics!
+- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels [Post Coming Soon]()
+- _Book Review_: Quantum Computing Since Democrutus [Post Coming Soon]()
+- _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
+- Investingating the Capabilities of Quantum Machines [Post Coming Soon]()
+- Learn some quantum mechanics! [Post Coming Soon]()
 - [LibQuantum C Library](http://www.libquantum.de/)
 - [Google's Quantum Computing Playground](http://www.quantumplayground.net/#/playground/5191954035900416)
 - [Shor's Algorithm Test](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
@@ -466,14 +465,14 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
 - Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
 - Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
-- _Book Review_: The Price of Innequality
-- _Book Review_: The Black Swan
-- _Book Review_: AntiFragile
+- _Book Review_: The Price of Innequality [Post Coming Soon]()
+- _Book Review_: The Black Swan [Post Coming Soon]()
+- _Book Review_: AntiFragile [Post Coming Soon]()
 - [Bitcoin Book](https://github.com/aantonop/bitcoinbook)
 
 #**Random Thoughts and Posts** 
 - Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
-- The obsession with finding the _BEST_ thing around needs to stop
+- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
 
 #**Comic Relief - _Your Moment of Zen_**
 - [Borat Song](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
