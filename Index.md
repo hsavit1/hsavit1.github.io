@@ -254,7 +254,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
-	- [Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
+	- Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
 	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
 	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
 - Slides
@@ -558,6 +558,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
 	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+
 #**Physics Posts**
 - Check out my Awesome Physics Repo [Link]()
 
