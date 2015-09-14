@@ -191,32 +191,41 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
 	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
 	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
+
 #**Elixir Posts**
-- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
-- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
-- [Write some Elixir Schemes](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
-- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
-- _Book Review_: Programming Elixir [Post Coming Soon]()
+- Links
+	- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
+	- Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
+- Slides
+	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
+- Posts Coming Soon
+	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
+	- _Book Review_: Programming Elixir [Post Coming Soon]()
 
 #**Scala Posts** 
-- Awesome Scala [Link](https://github.com/lauris/awesome-scala)
-- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
-- [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
-- Scala, if you're [impatient](http://horstmann.com/scala/)
-- Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
-- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
-- Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
+- Links
+	- Awesome Scala [Link](https://github.com/lauris/awesome-scala)
+	- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
+	- [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+	- Scala, if you're [impatient](http://horstmann.com/scala/)
+	- Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
+- Posts Coming Soon
+	- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
+- Slides
+	- Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
 
 #**Haskell Posts**
-- Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
-- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
-- Learn you a Haskell for a Great Good (Book)
-- Haskell [IDE](https://github.com/leksah/leksah)
-- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
-- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
-- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
-- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
+- Links
+	- Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
+	- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
+	- Learn you a Haskell for a Great Good (Book) 
+	- Haskell [IDE](https://github.com/leksah/leksah)
+	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
+- Slides
+	- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
+	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
+	- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
 
 #**Erlang Posts**
 - Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
