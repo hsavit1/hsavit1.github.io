@@ -199,12 +199,16 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Links
 	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
-	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
+	- Learn Erlang By Example [Link](http://erlangbyexample.org/) 
+	- Take the Erlang Course [Link](http://www.erlang.org/course/course.html) 
+	- Some Exercises [Link](http://www.erlang.org/course/exercises.html) 
 	- Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
 	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
+- Posts
 	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
 - Slides
 	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
+	- About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
 
 #**Elixir Posts**
 - Links
@@ -216,6 +220,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Elixir School [Link](https://github.com/doomspork/elixir-school)
 	- Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 	- Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
+	- Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
 - Slides
 	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
