@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Here you can find a bunch of links to really cool places on the internet. I promise to expand your brain signigicantly
+Here you can find a bunch of links to really cool places on the internet. I GUARENTEE you will walk away smarter than before!
 
 #**Swift**
 - Posts
@@ -155,6 +155,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 - Links
 	- Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
 	- Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
+	- Awesome Ruby Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
 	- Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
 	- Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 	- 99 Problems with Ruby [Link](https://github.com/hcf/99-problems-in-Ruby)
@@ -181,6 +182,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
+	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 - Slides
@@ -238,6 +240,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 
 #**Phoenix Framework Posts**
 - Links
+	- Hacker News Phoenix Creator AMA [Link](https://news.ycombinator.com/item?id=8671618)
 	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
 	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
 	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
@@ -346,6 +349,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
+	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
@@ -400,6 +404,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
 	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
+	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
 - Slides
@@ -416,6 +421,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 - Links
 	- Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
 	- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+	- Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
 - Posts
 	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
 	- Do you really need Redis nowadays? [Post Coming Soon]()
@@ -430,6 +436,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
 	- Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
 	- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
+	- Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 
 #**Programming Languages Posts**
 - Link
@@ -454,15 +461,16 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 - Slides
 	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
-#**Project Management Posts**
+#**Project Management and DevOps Posts**
 - Posts
 	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
 - Links
 	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
 	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
 	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
-	- Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
+	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - Videos
 	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
 
@@ -482,15 +490,19 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
-#**Systems Posts**
+#**Developer Environment Posts**
 - Links
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
 	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
+	- Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
+	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
+	- Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
+	- Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
+	- Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
 	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
-	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
@@ -504,15 +516,19 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
 	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
 
-#**Data Science Posts**
+#**Data Science and Public Data Posts**
 - Links
 	- Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
+	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
+	- Awesome geoJSON [Link](https://github.com/tmcw/awesome-geojson)
 	- Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
 	- Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
 	- Aweesome R [Link](https://github.com/qinwf/awesome-R)
 	- Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
 	- Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
 	- Awesome-DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
+	- Awesome Hadoop [Link](https://github.com/youngwookim/awesome-hadoop)
+	- Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 
@@ -542,18 +558,23 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 #**Pure Programming Posts**
 - Posts
 	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
-	- Programming Languages Quick Overview [Post Coming Soon]()
 	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
+	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 - Links
 	- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
-	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
+	- Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
+ 	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
 	- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
 	- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
+	- Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
+	- Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
+	- Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
+	- Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
 	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 - Slides
 	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
@@ -583,6 +604,10 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
 	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
 	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
+	- Awesome Malware Analysis [Link](https://github.com/rshipp/awesome-malware-analysis)
+	- Awesome Penetration Testing [Link](https://github.com/enaqx/awesome-pentest)
+	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
+	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 
 #**Physics Posts**
@@ -602,6 +627,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 #**Random Thoughts and Posts** 
 - Links
 	- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
+	- Awesome AMAs [Link](https://github.com/sindresorhus/amas)
 - Posts
 	- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
 
