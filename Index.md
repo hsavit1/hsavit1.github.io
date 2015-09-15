@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Here you can find lots of posts. Also a whole bunch of links to really cool places on the internet. Hopefully I can expand your knowledge a bit
+Here you can find a bunch of links to really cool places on the internet. I promise to expand your brain signigicantly
 
 #**Swift**
 - Posts
@@ -233,7 +233,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 
 #**Phoenix Framework Posts**
 - Links
-	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev), and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
+	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
 	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
 	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
 	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
@@ -241,6 +241,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
 - Slides
 	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+	- Pheonix vs Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - Tutorials
 	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
 	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
