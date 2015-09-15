@@ -101,6 +101,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches [Post Coming Soon]()
 	- How to PROPERLY implement a caching system with iOS [Post Coming Soon]()
 
+-----
+
 #**Go-lang Posts**
 - Posts
 - Links
@@ -193,6 +195,17 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
 	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
 
+#**Erlang Posts**
+- Links
+	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
+	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
+	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
+	- Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
+	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
+	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
+- Slides
+	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
+
 #**Elixir Posts**
 - Links
 	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
@@ -252,29 +265,6 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
 	- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
 
-#**Erlang Posts**
-- Links
-	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
-	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
-	- Learn Erlang [By Example](http://erlangbyexample.org/), or take the [Erlang Course](http://www.erlang.org/course/course.html), or do some [exercises](http://www.erlang.org/course/exercises.html), or just read more [Slides](https://speakerdeck.com/robgthai/learning-erlang)
-	- Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
-	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
-	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
-- Slides
-	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
-
-#**Clojure** 
-- Links
-	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
-	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
-	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
-- Slides
-	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
-- Posts Coming Soon
-	- _Book Review_: Clojure Reactive Programming [Post Coming Soon]()
-	- _Book Review_: The Joy of Clojure [Post Coming Soon]()
-	- _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
-
 #**Elm Posts**
 - Links
 	- Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
@@ -296,6 +286,18 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Slides
 	- Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 	- Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
+
+#**Clojure** 
+- Links
+	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
+	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
+- Slides
+	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
+- Posts Coming Soon
+	- _Book Review_: Clojure Reactive Programming [Post Coming Soon]()
+	- _Book Review_: The Joy of Clojure [Post Coming Soon]()
+	- _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
 
 #**Rust Posts**
 - Links
@@ -319,6 +321,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 - Slides
 	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
 	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
+
+-----
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
@@ -369,6 +373,8 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+
+-----
 
 #**Design and Front End Development Posts**
 - Links
@@ -469,6 +475,9 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
 	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
+	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
+	- iTerms [Link](https://github.com/gnachman/iTerm2)
+	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
