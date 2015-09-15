@@ -101,26 +101,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches [Post Coming Soon]()
 	- How to PROPERLY implement a caching system with iOS [Post Coming Soon]()
 
------
-
-#**Go-lang Posts**
-- Posts
+#**WatchKit Posts**
 - Links
-	- Awesome Go [Link](https://github.com/avelino/awesome-go)
-	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
-	- Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
-	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
-	- GO language patterns [Link](http://www.golangpatterns.info/)
-	- Effective Go Website [Link](https://golang.org/doc/effective_go.html)
-- Slides
-	- Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
-	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
-	- Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
-	- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
-- Videos
-	- Rob Pike on concurrency [video](https://vimeo.com/49718712)
-- Posts Coming Soon
-	- Drop everything and GO! (golang post) [Post Coming Soon]()
+	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
+	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
+
+#**Apple TV Posts**
+- Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
+
+-----
 
 #**Java and Android Posts**
 - Links
@@ -148,6 +137,48 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What the iOS Developer in me really likes about Android [Post Coming Soon]()
 	- Why Android is the future (outside of NYC and Silicon Valley) [Post Coming Soon]()
 
+#**Javascript and Node.js Posts**
+- Links
+	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
+	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
+	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
+	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
+	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
+	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
+	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
+	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
+	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
+- Slides
+	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
+	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
+	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
+	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
+	- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
+- Posts Coming Soon
+	- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
+	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
+	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
+	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
+
+#**Go-lang Posts**
+- Posts
+- Links
+	- Awesome Go [Link](https://github.com/avelino/awesome-go)
+	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
+	- Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
+	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
+	- GO language patterns [Link](http://www.golangpatterns.info/)
+	- Effective Go Website [Link](https://golang.org/doc/effective_go.html)
+- Slides
+	- Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
+	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
+	- Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
+	- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
+- Videos
+	- Rob Pike on concurrency [video](https://vimeo.com/49718712)
+- Posts Coming Soon
+	- Drop everything and GO! (golang post) [Post Coming Soon]()
+
 #**C and C++**
 - Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
 
@@ -173,29 +204,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- _Book Review_: Wicked Cool Ruby Scripts [Post Coming Soon]()
 - Slides
 	- What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
-
-#**Javascript and Node.js Posts**
-- Links
-	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
-	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
-	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
-	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
-	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
-	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
-	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
-	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
-	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
-- Slides
-	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
-	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
-	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
-	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
-	- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
-- Posts Coming Soon
-	- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
-	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
-	- _Book Review_: Eloquent Javascript [Post Coming Soon]()
-	- _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
 
 #**Erlang Posts**
 - Links
@@ -239,26 +247,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Tutorial
 	- Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
 	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
-
-#**Phoenix Framework Posts**
-- Links
-	- Hacker News Phoenix Creator AMA [Link](https://news.ycombinator.com/item?id=8671618)
-	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
-	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
-	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
-	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
-	- ElixirDose Blog [Link](http://www.elixirdose.com/)
-	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
-- Slides
-	- Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
-	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
-	- Pheonix vs Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
-- Tutorials
-	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
-	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
-	- Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
-	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
-	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 
 #**Scala Posts** 
 - Links
@@ -343,6 +331,26 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 -----
 
+#**Phoenix Framework Posts**
+- Links
+	- Hacker News Phoenix Creator AMA [Link](https://news.ycombinator.com/item?id=8671618)
+	- Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
+	- Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
+	- Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
+	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
+	- ElixirDose Blog [Link](http://www.elixirdose.com/)
+	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
+- Slides
+	- Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
+	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+	- Pheonix vs Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+- Tutorials
+	- Really Fantastic Tutorial Series [Link](http://phoenix.thefirehoseproject.com/1.html)
+	- Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
+	- Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
+	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
+	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
+
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- Awesome React [Link](https://github.com/enaqx/awesome-react)
@@ -397,32 +405,47 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 -----
 
-#**Design and Front End Development Posts**
+#**Pure Programming Posts**
+- Posts
+	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
+	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
+	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 - Links
-	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
-	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
-	- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
-	- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
-	- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
-	- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
-	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
-	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
-	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
-	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
-	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
-- Posts
-	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
+	- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+	- Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
+ 	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
+	- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
+	- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
+	- Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
+	- Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
+	- Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
+	- Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
+	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
+	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
+	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
+	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
+	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 - Slides
-	- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
-	- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
-	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
+	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
+	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
 
-#**My Favorite Apps**
-- Posts
-	- What makes Evernote my absolute favorite app? [Post Coming Soon]()
-	- How can Chrome be so much better than Safari? [Post Coming Soon]()
+#**Programming Languages Posts**
+- Link
+	- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
+	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
+	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
+	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+
+#**Machine Learning Posts**
+- Links
+	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
+	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
 
 #**DataBase Posts**
 - Links
@@ -445,44 +468,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
 	- Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 
-#**Programming Languages Posts**
-- Link
-	- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
-	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
-	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
-	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-
-#**Software Development Posts** 
-- Links
-	- Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
-	- Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
-	- Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
-	- Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
-	- When is Agile Developement seriously practical?
-	- Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
-- Posts
-	- Making Things Happen (Book) [Post Coming Soon]()
-	- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
-	- The Mythical Man Month (Book) [Post Coming Soon]()
-	- Essential Scrum (Book) [Post Coming Soon]()
-- Slides
-	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
-
-#**Project Management and DevOps Posts**
-- Posts
-	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
-- Links
-	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
-	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
-	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
-	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
-	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- Videos
-	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
-- Slides
-	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
-#**Netowrking Posts**
+#**Netowrking and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
 	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
@@ -503,6 +489,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
+	- Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
 	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
 	- Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
 	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
@@ -514,15 +501,48 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 
-#**Machine Learning Posts**
+#**Software Development Posts** 
 - Links
-	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
-	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+	- Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
+	- Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
+	- Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
+	- Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
+	- When is Agile Developement seriously practical?
+- Posts
+	- Making Things Happen (Book) [Post Coming Soon]()
+	- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
+	- The Mythical Man Month (Book) [Post Coming Soon]()
+	- Essential Scrum (Book) [Post Coming Soon]()
+- Slides
+	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
+
+#**Security Posts**
+- Links
+	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
+	- Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
+	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
+	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
+	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
+	- Awesome Malware Analysis [Link](https://github.com/rshipp/awesome-malware-analysis)
+	- Awesome Penetration Testing [Link](https://github.com/enaqx/awesome-pentest)
+	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
+	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
+	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+
+#**Project Management and DevOps Posts**
+- Posts
+	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
+- Links
+	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
+	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
+	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
+	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- Videos
+	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
+- Slides
+	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 
 #**Data Science and Public Data Posts**
 - Links
@@ -540,8 +560,27 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 
-#**Mathematics Posts**
-- Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
+#**Design and Front End Development Posts**
+- Links
+	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
+	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
+	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
+	- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+	- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
+	- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
+	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
+	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
+	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
+	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
+	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
+- Posts
+	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
+- Slides
+	- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
+	- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
+	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 
 #**Business and Marketing Posts**
 - Links
@@ -555,37 +594,16 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
 
-#**WatchKit Posts**
+#**Economics Posts**
 - Links
-	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
-	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
-
-#**Apple TV Posts**
-- Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
-
-#**Pure Programming Posts**
+	- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
+	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
 - Posts
-	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
-	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
-	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
-- Links
-	- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
-	- Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
- 	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
-	- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
-	- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
-	- Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
-	- Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
-	- Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
-	- Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
-	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
-	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
-	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
-	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
-- Slides
-	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
-	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
+	- _Book Review_: The Price of Innequality [Post Coming Soon]()
+	- _Book Review_: The Black Swan [Post Coming Soon]()
+	- _Book Review_: AntiFragile [Post Coming Soon]()
 
 #**Quantum Computing Posts**
 - Links
@@ -605,37 +623,17 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
 
-#**Security Posts**
-- Links
-	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
-	- Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
-	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
-	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
-	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
-	- Awesome Malware Analysis [Link](https://github.com/rshipp/awesome-malware-analysis)
-	- Awesome Penetration Testing [Link](https://github.com/enaqx/awesome-pentest)
-	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
-	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
-	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
-
 #**Physics Posts**
 - Check out my Awesome Physics Repo [Link]()
 
-#**Economics Posts**
-- Links
-	- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
-	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
-	- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
-	- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
-- Posts
-	- _Book Review_: The Price of Innequality [Post Coming Soon]()
-	- _Book Review_: The Black Swan [Post Coming Soon]()
-	- _Book Review_: AntiFragile [Post Coming Soon]()
+#**Mathematics Posts**
+- Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 
 #**Random Thoughts and Posts** 
 - Links
 	- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- Awesome AMAs [Link](https://github.com/sindresorhus/amas)
+	- What makes Evernote the best app out there? [Post Coming Soon]()
 - Posts
 	- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
 
