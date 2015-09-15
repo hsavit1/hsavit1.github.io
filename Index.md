@@ -229,7 +229,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Elixir is an Erlang VM Language [Slides](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language)
 	- Processes, OTP's, and Supervisors for Elixir [Slides](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
 	- Another Elixir Intro [Slides](https://speakerdeck.com/philss/elixir-an-introduction)
-	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
+	- Elixir Demo [Slides](https://speakerdeck.com/benjamintan/ruby-plus-elixir-polyglottin-ftw)
+	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir)
+	- Elixir, Zero to Web [Slides](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -248,6 +250,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ElixirDose Blog [Link](http://www.elixirdose.com/)
 	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
 - Slides
+	- Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
 	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
 	- Pheonix vs Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - Tutorials
@@ -355,6 +358,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
 	- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
 	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
+	- Data Fetching for React Apps [Slides](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
 
 #**AngularJS Posts**
 - Links
@@ -405,6 +409,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
+	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
+	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
+	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
 - Slides
@@ -473,7 +480,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - Videos
 	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
-
+- Slides
+	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 #**Netowrking Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
