@@ -484,6 +484,21 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
+#**Project Management and DevOps Posts**
+- Posts
+	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
+- Links
+	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
+	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
+	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
+	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- Videos
+	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
+- Slides
+	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
+
 #**Developer Environment Posts**
 - Links
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
@@ -516,6 +531,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
+#**Software Testing Posts**
+- Links
+- Slides
+	- Accessibilty Testing [Slides](https://speakerdeck.com/neurites/accessibilitytesting)
+
 #**Security Posts**
 - Links
 	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
@@ -528,21 +548,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
 	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
-
-#**Project Management and DevOps Posts**
-- Posts
-	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
-- Links
-	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
-	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
-	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
-	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
-	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- Videos
-	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
-- Slides
-	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 
 #**Data Science and Public Data Posts**
 - Links
@@ -607,6 +612,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Quantum Computing Posts**
 - Links
+	- Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
 	- Check out my Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
 	- LibQuantum C Library [Link](http://www.libquantum.de/)
 	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
@@ -622,6 +628,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Learn some quantum mechanics! [Post Coming Soon]()
 - Slides
 	- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
+	- Quantum Computing vs Security [Slides](https://speakerdeck.com/veorq/quantum-computers-vs-computers-security)
+	- Science Behind Quantum Computing [Slides](https://speakerdeck.com/psibi/science-behind-quantum-computing)
+	- Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
+	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
 
 #**Physics Posts**
 - Check out my Awesome Physics Repo [Link]()
