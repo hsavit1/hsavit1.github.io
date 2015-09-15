@@ -67,7 +67,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- _Book Review_: Cocoa Design Patterns [Post Coming Soon]()
 	- _Book Review_: Pro Performance Optimization in iOS [Post Coming Soon]()
 
-#**iOS and Cocoa Posts**
+#**iOS, OSX, and Cocoa Posts**
 - Posts
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Links
@@ -78,6 +78,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
 	- Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+	- Awesome OSX [Link](https://github.com/iCHAIT/awesome-osx)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
@@ -148,6 +149,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
+	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
 - Slides
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
@@ -499,8 +501,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 
-#**Developer Environment Posts**
+#**Developer Environment and System Admin Posts**
 - Links
+	- Awesome Linux
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
@@ -513,8 +516,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
 	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
+	- What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
+	- OSX System Administration Posts [Link](https://miteshshah.github.io/sysadmin/)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
+	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
 
 #**Software Development Posts** 
 - Links
@@ -605,6 +611,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
 	- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
 	- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
+	- Bitcoing Trading Bot and Real Time Dashboard [Link](https://github.com/jkbrzt/cointrol)
 - Posts
 	- _Book Review_: The Price of Innequality [Post Coming Soon]()
 	- _Book Review_: The Black Swan [Post Coming Soon]()
