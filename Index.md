@@ -196,9 +196,12 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 #**Elixir Posts**
 - Links
 	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
+	- Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 	- Official Repo [Link](https://github.com/elixir-lang/elixir)
 	- Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 	- All about Elixir [Link](https://github.com/chrismccord/elixir_express)
+	- Elixir School [Link](https://github.com/doomspork/elixir-school)
+	- Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 - Slides
 	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
