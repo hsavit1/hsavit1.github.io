@@ -215,12 +215,14 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- All about Elixir [Link](https://github.com/chrismccord/elixir_express)
 	- Elixir School [Link](https://github.com/doomspork/elixir-school)
 	- Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
+	- Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
 - Slides
 	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
--Tutorial
+	- _Book Review_: Elixir Cookbook [Post Coming Soon]()
+- Tutorial
 	- Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
 	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
 
@@ -543,6 +545,7 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 - Slides
 	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
+	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
 
 #**Quantum Computing Posts**
 - Links
