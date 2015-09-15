@@ -444,16 +444,16 @@ Here you can find lots of posts. Also a whole bunch of links to really cool plac
 	- The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 
 #**Project Management Posts**
+- Posts
+	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
 - Links
 	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
 	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 	- Awesome Tools of the Trade [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-- Posts
-	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
-- Slides
-	- How to Build a UX Team [Slides](https://speakerdeck.com/bruno2ms/building-ux-team)
-	- Getting started with Docker [Slides](https://speakerdeck.com/asm89/docker)
+- Videos
+	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
 
 #**Netowrking Posts**
 - Links
