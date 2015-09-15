@@ -612,12 +612,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Quantum Computing Posts**
 - Links
+	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
 	- Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
 	- Check out my Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
+	- EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
 	- LibQuantum C Library [Link](http://www.libquantum.de/)
 	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
-	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
-	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html) 
 	- Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
 - Posts
