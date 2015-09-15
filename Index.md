@@ -214,6 +214,7 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 - Links
 	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
 	- Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
+	- A Crash Course for Erlang Devs [Link](http://elixir-lang.org/crash-course.html)
 	- Official Repo [Link](https://github.com/elixir-lang/elixir)
 	- Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 	- All about Elixir [Link](https://github.com/chrismccord/elixir_express)
@@ -222,7 +223,11 @@ Here you can find a bunch of links to really cool places on the internet. I prom
 	- Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
 	- Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
 - Slides
-	- What is Elixir? ([Presentation1](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language), [Presentation2](https://speakerdeck.com/philss/elixir-an-introduction), [Presentation 3](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
+	- Hello Elixir!! [Slides](https://speakerdeck.com/benjamintan/hello-elixir)
+	- Elixir is an Erlang VM Language [Slides](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language)
+	- Processes, OTP's, and Supervisors for Elixir [Slides](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
+	- Another Elixir Intro [Slides](https://speakerdeck.com/philss/elixir-an-introduction)
+	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir))
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
