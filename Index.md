@@ -88,6 +88,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
 	- Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+	- Awesome CocoaConferences [Link](https://github.com/Lascorbe/CocoaConferences)
 	- Awesome OSX [Link](https://github.com/iCHAIT/awesome-osx)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
@@ -407,6 +408,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**AngularJS Posts**
 - Links
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
+	- MEAN Stack Official Website [Link](http://mean.io/#!/)
 	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
 	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
 	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
@@ -517,6 +519,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
 	- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
 	- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
+	- How to design a REST API [Link](http://blog.octo.com/en/design-a-rest-api/)
+	- HTTP API Design Guide [Link](https://github.com/interagent/http-api-design)
+	- JSON API Design Guide [Link](http://jsonapi.org/)
+	- What is YAML? [Link](http://yaml.org/spec/1.2/spec.html)
 	- IP, TCP, HTTP [Link](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 	- Netowrking Diagram [Link](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 - Slides
