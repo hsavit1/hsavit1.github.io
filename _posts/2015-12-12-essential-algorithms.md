@@ -55,6 +55,7 @@ A linked list is built of objects that are often called cells. The cell's class 
 
 - Singly Linked Lists
 	- Iterating over a List: This is the easy part of the problem... just iterate over the list 
+
 		`````
 		//Define a IntegerCell
 		class IntegerCell{
@@ -69,6 +70,7 @@ A linked list is built of objects that are often called cells. The cell's class 
 			End While
 		End Iterate
 		`````
+
 	- Finding Cells: Simply a matter of iterating over a list and stopping when you find the cell you want
 	- Using Sentinels: The first value that the algorithm examines is in the list's second cell, and it never looks back. One way to handle this situation is to add special-purpose code that explicitly looks for the target value in the first cell and then handles that case specially. The program would probably need to handle this situation as a special case, and it could get messy. Another approach is to create a sentinel at the beginning of the list. A sentinel is a cell that is part of the linked list but that doesn't contain any meaningful data. It is used only as a placeholder so that algorithms can refer to a cell that comes before the first cell.
 
