@@ -6,7 +6,7 @@ permalink: /about/
 
 First of all, here's a **high five**
 
-Next, check out some of my posts! Maybe you'll find something useful. Maybe not?! You'll never find out until you read them all! (in all seriousness if you read ANY of these posts I'd be overjoyed)
+Next, check out some of my posts! Maybe you'll find something useful. Maybe not?! You'll never find out until you read them all! 
 
 A little bit about the man you can't stop reading about:
 
