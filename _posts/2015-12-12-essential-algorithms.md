@@ -54,18 +54,40 @@ Linked lists are probably the simplest data structures you'll build. However, so
 A linked list is built of objects that are often called cells. The cell's class contains whatever data the list must store plus a link to another cell. The link is simply a reference or pointer to another object of a cell's class. Often the pointer field in the cell class is called Next.
 
 - Singly Linked Lists
-	- Iterating over a List
-	- Finding Cells
-	- Using Sentinels
-	- Adding Cells at the Beginning 
-	- Adding Cells at the End
+	- Iterating over a List: This is the easy part of the problem... just iterate over the list 
+		`````
+		//Define a IntegerCell
+		class IntegerCell{
+			public int Value;
+			public IntegerCell Next;
+		}
+
+		Iterate(Cell : Top)
+			While (top != null)
+				Print top.Value
+				top = top.Next
+			End While
+		End Iterate
+		`````
+	- Finding Cells: Simply a matter of iterating over a list and stopping when you find the cell you want
+	- Using Sentinels: The first value that the algorithm examines is in the list's second cell, and it never looks back. One way to handle this situation is to add special-purpose code that explicitly looks for the target value in the first cell and then handles that case specially. The program would probably need to handle this situation as a special case, and it could get messy. Another approach is to create a sentinel at the beginning of the list. A sentinel is a cell that is part of the linked list but that doesn't contain any meaningful data. It is used only as a placeholder so that algorithms can refer to a cell that comes before the first cell.
+
+	- Adding Cells at the Beginning: One use for linked lists is to provide a data structure where you can store items. This is sort of like an array that you can expand whenever you need more space. The easiest way to add an item to a linked list is to place a new cell at the beginning, right after the sentinel. 
+	- Adding Cells at the End: One use for linked lists is to provide a data structure where you can store items. This is sort of like an array that you can expand whenever you need more space. The easiest way to add an item to a linked list is to place a new cell at the beginning, right after the sentinel.
 	- Inserting Cells after other Cells
+	- Deleting Cells
 - Doubly Linked Lists
 - Sorted Linked Lists
 - Linked-List Algorithms
+	- Copying Lists
+	- Sorting with Insertion Sort
 - Linked List Selectionsort
 - Multithreaded Linked Lists
 - Linked Lists with Loops
+	- Marking Cells
+	- Using Hash Tables
+	- List Retracing
+	- List Reversal
 
 ###4. Arrays
 - One-dimensional Arrays
