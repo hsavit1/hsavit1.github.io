@@ -184,7 +184,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
-	- Angular 2 Offical Repo [Github](https://github.com/angular/angular)
+	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
+	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
@@ -294,6 +295,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 	- Scala, if you're [impatient](http://horstmann.com/scala/)
 	- Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
+	- Apache Samza [Link](http://samza.apache.org/)
 - Posts Coming Soon
 	- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
 - Slides
@@ -313,8 +315,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Elm Posts**
 - Links
-	- Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
 	- Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
+	- The Elm Architecture Tutorial [Link](https://github.com/evancz/elm-architecture-tutorial)
+	- Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
 - Slides
 	- What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
 	- Building Web Apps with Elm ([Slides](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
@@ -338,6 +341,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
+- Github
+	- Figwheel [Github](https://github.com/bhauman/lein-figwheel)
+	- Om: Interface to React [Github](https://github.com/omcljs/om)
 - Slides
 	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Posts Coming Soon
@@ -400,12 +406,16 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
 	- React Complimentary Tools [Link](https://github.com/facebook/react/wiki/Complementary-Tools)
+	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
 	- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
 	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 	- Data Fetching for React Apps [Slides](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
+- Github
+	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Link](https://optimizely.github.io/nuclear-js/)
+	- Official Redux Guide [Gitbook](http://rackt.github.io/redux/)
 
 #**AngularJS Posts**
 - Links
@@ -423,15 +433,17 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- W3Schools Tutorial [Link](http://www.w3schools.com/angular/)
 	- Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 	- AngularJS Style Guide [Link](https://github.com/mgechev/angularjs-style-guide)
-	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
-	- A better way to learn AngularJS [Link](https://thinkster.io/a-better-way-to-learn-angularjs/)
-	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
 	- Killing Angular 1.0 Directives with MVVM [Link](http://toddmotto.com/killing-it-with-angular-directives-structure-and-mvvm/)
 	- Angular 2 and RxJs Application with Microsoft Typescript [Link](https://github.com/ng-book/angular2-rxjs-chat)
 	- ng-Book 2 with Typescript [Link](https://www.ng-book.com/2/#testimonials)
-	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
+	- Angular 2 Offical Repo (Based off of Typescript) [Github](https://github.com/angular/angular)
+- Tutorial
+	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
+	- A better way to learn AngularJS [Link](https://thinkster.io/a-better-way-to-learn-angularjs/)
+	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
 - Posts
 	- Is Angular 2 worth it? [Temp Post](http://www.syntaxsuccess.com/viewarticle/is-angular-2.0-worth-it)
+	- MEAN is Great, but then you grow up [Link](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
 - Slides
 	- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
 	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
@@ -500,6 +512,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 	- Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
 	- Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
+	- Turning the database inside out with Apache Samza [Link](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - Posts
 	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
 	- Do you really need Redis nowadays? [Post Coming Soon]()
