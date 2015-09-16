@@ -7,7 +7,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Swift**
 - Posts
-	- SeguenceType and Generator Type [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
+	- SequenceType and GeneratorType Protocols[Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
 	- Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
@@ -110,8 +110,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Apple TV Posts**
 - Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
 
------
-
 #**Java and Android Posts**
 - Links
 	- Awesome Java [Link](https://github.com/akullpp/awesome-java)
@@ -138,6 +136,21 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What the iOS Developer in me really likes about Android [Post Coming Soon]()
 	- Why Android is the future (outside of NYC and Silicon Valley) [Post Coming Soon]()
 
+#**Hybrid App Development Posts**
+- Posts
+	- Why would you ever build a native app? [Post Coming Soon]()
+	- Scenarios to build hybrid apps [Post Coming Soon]()
+	- Which Hybrid Framework should you use? [Post Coming Soon]()
+- Links
+	- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
+	- Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
+	- React Native vs Microsoft Nativescript [Link](https://www.quora.com/Which-is-better-React-Native-or-Native-Script)
+	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
+	- Reapp [Link](http://reapp.io/)
+	- Xamarin [Link](https://xamarin.com/)
+	- Ionic [Link](http://ionicframework.com/)
+	- Nativescript [Link](https://www.nativescript.org/)
+
 #**Javascript and Node.js Posts**
 - Links
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
@@ -150,12 +163,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
+	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 - Slides
+	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
 	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
 	- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
+	- Microsoft Typescript [Link](https://github.com/Microsoft/TypeScript)
 - Posts Coming Soon
 	- _Book Review_: If Hemmingway Wrote Javascript [Post Coming Soon]()
 	- _Book Review_: Javascript Design Patterns [Post Coming Soon]()
@@ -356,11 +372,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- Awesome React [Link](https://github.com/enaqx/awesome-react)
-	- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
 	- Awesome Redux [Link](https://github.com/rackt/redux)
 	- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
 - Slides
@@ -372,6 +386,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**AngularJS Posts**
 - Links
+	- Angular 2 Release Date [Link](http://www.infoq.com/news/2015/06/angular-2-react-native-roadmap)
 	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
 	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
 	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
@@ -387,6 +402,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
 	- A better way to learn AngularJS [link](https://thinkster.io/a-better-way-to-learn-angularjs/)
 	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
+	- Killing Angular 1.0 Directives with MVVM [Link](http://toddmotto.com/killing-it-with-angular-directives-structure-and-mvvm/)
+	- Angular 2 and RxJs Application with Microsoft Typescript [Link](https://github.com/ng-book/angular2-rxjs-chat)
+	- ng-Book 2 [Link](https://www.ng-book.com/2/#testimonials)
 - Posts
 	- Dependency Injection with Angular isn't a chore. It's a lifesaver
 - Slides
@@ -503,7 +521,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Developer Environment and System Admin Posts**
 - Links
-	- Awesome Linux
+	- Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
@@ -571,7 +589,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 
-#**Design and Front End Development Posts**
+#**Design and Front End Web Development Posts**
 - Links
 	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
 	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
@@ -605,7 +623,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
 
-#**Economics Posts**
+#**Economics and Bitcoin Posts**
 - Links
 	- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
 	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
