@@ -186,6 +186,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
+	- RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
+	- Bower [Github](https://github.com/bower/bower)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
@@ -411,6 +413,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
 - Tutorial
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
+	- ReactJS for Stupid People [Link](http://blog.andrewray.me/reactjs-for-stupid-people/)
+	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
@@ -424,7 +428,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
 	- React Router [Github](https://github.com/rackt/react-router)
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
-	
+	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
+
 #**AngularJS Posts**
 - Links
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
@@ -445,6 +450,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular 2 and RxJs Application with Microsoft Typescript [Link](https://github.com/ng-book/angular2-rxjs-chat)
 	- ng-Book 2 with Typescript [Link](https://www.ng-book.com/2/#testimonials)
 	- Angular 2 Offical Repo (Based off of Typescript) [Github](https://github.com/angular/angular)
+	- Build Your Own AngularJS [Link](https://github.com/teropa/build-your-own-angularjs)
 - Tutorial
 	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
 	- A better way to learn AngularJS [Link](https://thinkster.io/a-better-way-to-learn-angularjs/)
@@ -537,7 +543,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
 	- Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 
-#**Netowrking and Backend Development Posts**
+#**Netowrking, Routing, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
 	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
@@ -551,6 +557,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is YAML? [Link](http://yaml.org/spec/1.2/spec.html)
 	- IP, TCP, HTTP [Link](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 	- Netowrking Diagram [Link](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
+	- Websockets with Socket.io P2P [Link](http://socket.io/blog/socket-io-p2p/)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
