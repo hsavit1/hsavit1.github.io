@@ -409,7 +409,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
 	- MEAN Stack Official Website [Link](http://mean.io/#!/)
-	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
+	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another awesome Angular [List](https://github.com/aruzmeister/awesome-angular)
 	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
 	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
 	- Great site for Angular 2 [Link](http://blog.thoughtram.io/exploring-angular-2/)
@@ -436,6 +436,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- MVVM with Angular [Slides](http://www.slideshare.net/basarat1/mvvm-knockout-vs-angular?qid=e202d415-ea24-41a8-ab0c-b4b3892c1aa4&v=qf1&b=&from_search=5)
 - Talks
 	- Angular 1 vs Angular 2 [Talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
+- Tutorial
+	- MEAN Stack 3 Part Tutorial [Link](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
 
 #**Meteor Posts**
 - Links
@@ -495,6 +497,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
 	- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 	- Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
+	- Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
 - Posts
 	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
 	- Do you really need Redis nowadays? [Post Coming Soon]()
@@ -537,6 +540,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
 	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
+	- Awesome Apache Mesos [Link](https://github.com/dharmeshkakadia/awesome-mesos)
 	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
@@ -629,6 +633,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
 	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
+	- Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
 	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 - Posts
