@@ -32,11 +32,11 @@ comments: true
 An algorithm is a recipe for performing a certain task. A data structure is a way of arranging data to make solving a particular problem easier
 
 Know your Big-O Notation when figuring out an algorithm. The chapter defines 5 rules for Big-O notation:
-1. “If an algorithm performs a certain sequence of steps f(N) times for a mathematical function f, it takes O(f(N)) steps.”
-2. “If an algorithm performs an operation that takes O(f(N)) steps and then performs a second operation that takes O(g(N)) steps for functions f and g, the algorithm's total performance is O(f(N) + g(N)).”
-3. “If an algorithm takes O(f(N) + g(N)) and the function f(N) is greater than g(N) for large N, the algorithm's performance can be simplified to O(f(N)).”
-4. “If an algorithm performs an operation that takes O(f(N)) steps, and for every step in that operation it performs another O(g(N)) steps, the algorithm's total performance is O(f(N) + g(N)).”
-5. “Ignore constant multiples. If C is a constant, O(C × f(N)) is the same as O(f(N)), and O(f(C × N)) is the same as O(f(N)).”
+- “If an algorithm performs a certain sequence of steps f(N) times for a mathematical function f, it takes O(f(N)) steps.”
+- “If an algorithm performs an operation that takes O(f(N)) steps and then performs a second operation that takes O(g(N)) steps for functions f and g, the algorithm's total performance is O(f(N) + g(N)).”
+- “If an algorithm takes O(f(N) + g(N)) and the function f(N) is greater than g(N) for large N, the algorithm's performance can be simplified to O(f(N)).”
+- “If an algorithm performs an operation that takes O(f(N)) steps, and for every step in that operation it performs another O(g(N)) steps, the algorithm's total performance is O(f(N) + g(N)).”
+- “Ignore constant multiples. If C is a constant, O(C × f(N)) is the same as O(f(N)), and O(f(C × N)) is the same as O(f(N)).”
 
 ###2. Numerical Algorithms
 Numerical algorithms calculate numbers. They perform such tasks as randomizing values, breaking numbers into their prime factors, finding greatest common divisors, and computing geometric areas.
@@ -56,7 +56,7 @@ A linked list is built of objects that are often called cells. The cell's class 
 - Singly Linked Lists
 	- Iterating over a List: This is the easy part of the problem... just iterate over the list 
 
-		`````
+		```C#
 		//Define a IntegerCell
 		class IntegerCell{
 			public int Value;
@@ -69,7 +69,7 @@ A linked list is built of objects that are often called cells. The cell's class 
 				top = top.Next
 			End While
 		End Iterate
-		`````
+		```
 
 	- Finding Cells: Simply a matter of iterating over a list and stopping when you find the cell you want
 	- Using Sentinels: The first value that the algorithm examines is in the list's second cell, and it never looks back. One way to handle this situation is to add special-purpose code that explicitly looks for the target value in the first cell and then handles that case specially. The program would probably need to handle this situation as a special case, and it could get messy. Another approach is to create a sentinel at the beginning of the list. A sentinel is a cell that is part of the linked list but that doesn't contain any meaningful data. It is used only as a placeholder so that algorithms can refer to a cell that comes before the first cell.
