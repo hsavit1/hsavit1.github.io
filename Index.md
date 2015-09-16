@@ -23,12 +23,22 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- FizzBuzz on steroids with Swift [Slides](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
 	- FRP with RAC in Swift [Slides](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
 	- How Carthage works [Slides](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
-	- Learning Swift from Haskell [Slides](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift)
+	- Learning Swift from Haskell [Slides](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [Presentation](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
 	- Natasha the Robot Explains Functional Programming [Slides](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
 	- Make Swift More Functional [Slides](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
 	- FP in Swift [Slides](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
 	- RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 	- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
+	- Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
+- Presentations
+	- 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
+	- Advanced UITableViews [Presentation](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
+	- The best of Obj-C to Swift [Presentation](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
+	- Swift Thinking [Presentation](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
+	- Functional Programming in Swift [Presentation](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
+	- Bottom Up Programming in Swift [Presentation](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
+	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
+	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
 - Posts Coming Soon
 	- Figuring out FlatMap [Post Coming Soon]()
 	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
@@ -88,6 +98,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
 	- Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
 	- Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
+- Presentation
+	- TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
 - Posts Coming Soon
 	- A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
 	- What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()
@@ -168,6 +180,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
+	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
+- Github Projects
+	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
+	- Angular 2 Offical Repo [Github](https://github.com/angular/angular)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
