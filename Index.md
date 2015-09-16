@@ -388,7 +388,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**AngularJS Posts**
 - Links
-	- Angular 2 Release Date [Link](http://www.infoq.com/news/2015/06/angular-2-react-native-roadmap)
+	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
 	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another [awesome Angular List](https://github.com/aruzmeister/awesome-angular)
 	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
 	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
@@ -402,13 +402,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
 	- AngularJS Style Guide [Link](https://github.com/mgechev/angularjs-style-guide)
 	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
-	- A better way to learn AngularJS [link](https://thinkster.io/a-better-way-to-learn-angularjs/)
+	- A better way to learn AngularJS [Link](https://thinkster.io/a-better-way-to-learn-angularjs/)
 	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
 	- Killing Angular 1.0 Directives with MVVM [Link](http://toddmotto.com/killing-it-with-angular-directives-structure-and-mvvm/)
 	- Angular 2 and RxJs Application with Microsoft Typescript [Link](https://github.com/ng-book/angular2-rxjs-chat)
-	- ng-Book 2 [Link](https://www.ng-book.com/2/#testimonials)
+	- ng-Book 2 with Typescript [Link](https://www.ng-book.com/2/#testimonials)
+	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
 - Posts
-	- Dependency Injection with Angular isn't a chore. It's a lifesaver
+	- Is Angular 2 worth it? [Temp Post](http://www.syntaxsuccess.com/viewarticle/is-angular-2.0-worth-it)
 - Slides
 	- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
 	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
