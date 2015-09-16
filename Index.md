@@ -385,6 +385,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
 	- Bower [Github](https://github.com/bower/bower)
+	- WebTorrent: Steaming torrent client for node & the browser [Github](https://github.com/feross/webtorrent)
+	- Gulp: A toolkit that will help automate time-consuming tasks [Github](https://github.com/gulpjs/gulp)
 
 #**Phoenix Framework Posts**
 - Links
