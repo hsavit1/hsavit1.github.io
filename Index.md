@@ -403,10 +403,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
 	- Flux: An Application Architecture for React [Link](http://facebook.github.io/react/blog/2014/05/06/flux.html)
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
-	- React Complimentary Tools [Link](https://github.com/facebook/react/wiki/Complementary-Tools)
+	- Advanced Performance of React [Link](https://facebook.github.io/react/docs/advanced-performance.html)
+- Posts
+	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
+- Tutorial
+	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
@@ -414,9 +418,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 	- Data Fetching for React Apps [Slides](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
 - Github
-	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Link](https://optimizely.github.io/nuclear-js/)
+	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
+	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Github](https://optimizely.github.io/nuclear-js/)
 	- Official Redux Guide [Gitbook](http://rackt.github.io/redux/)
-
+	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
+	- React Router [Github](https://github.com/rackt/react-router)
+	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
+	
 #**AngularJS Posts**
 - Links
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
