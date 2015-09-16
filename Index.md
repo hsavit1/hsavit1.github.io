@@ -393,11 +393,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- Awesome React [Link](https://github.com/enaqx/awesome-react)
-	- Awesome Redux [Link](https://github.com/rackt/redux)
 	- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
+	- Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
+	- Flux: An Application Architecture for React [Link](http://facebook.github.io/react/blog/2014/05/06/flux.html)
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
+	- React Complimentary Tools [Link](https://github.com/facebook/react/wiki/Complementary-Tools)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
