@@ -7,7 +7,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Swift**
 - Posts
-	- SequenceType and GeneratorType Protocols[Post](http://itshenry.com/2015/09/05/sequence-generator.html)
+	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
 	- Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
@@ -150,6 +150,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Xamarin [Link](https://xamarin.com/)
 	- Ionic [Link](http://ionicframework.com/)
 	- Nativescript [Link](https://www.nativescript.org/)
+- Tutorial
+	- Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
 #**Javascript and Node.js Posts**
 - Links
