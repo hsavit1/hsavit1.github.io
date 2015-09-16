@@ -39,6 +39,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Bottom Up Programming in Swift [Presentation](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
+	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 - Posts Coming Soon
 	- Figuring out FlatMap [Post Coming Soon]()
 	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
