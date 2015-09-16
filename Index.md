@@ -185,6 +185,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
+	- Isomorphic mean Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -418,6 +419,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- ReactJS for Stupid People [Link](http://blog.andrewray.me/reactjs-for-stupid-people/)
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+	- React Redux Universal Hot Example [Github](https://github.com/erikras/react-redux-universal-hot-example/)
 - Slides
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
