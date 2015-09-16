@@ -153,7 +153,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Tutorial
 	- Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
-#**Javascript and Node.js Posts**
+#**Javascript, Typescript, and Node.js Posts**
 - Links
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
@@ -162,10 +162,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
 	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
+	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
+	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
