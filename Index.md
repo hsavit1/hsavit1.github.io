@@ -168,32 +168,27 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Tutorial
 	- Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
-#**Javascript, Typescript, and Node.js Posts**
+----
+
+#**Javascript and Typescript Posts**
 - Links
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
-	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
-	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
-	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
-	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
-	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
-	- Isomorphic mean Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
 	- RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
-	- Bower [Github](https://github.com/bower/bower)
 - Slides
-	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -363,17 +358,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is Rust? [Link](https://doc.rust-lang.org/book/README.html) (Book)
 	- The Rust Book [Link]((http://rustbyexample.com/index.html))
 
-#**Julia**
-- Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
-
-#**Purescript**
-- Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
-- Github Repo [Link](https://github.com/purescript/purescript)
-- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
-
-#**Prolog Posts**
-- Link
+#**Other Languages**
+- Links
+	- Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
+	- Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
+	- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 	- 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+	- Purescript Github Repo [Link](https://github.com/purescript/purescript)
 - Posts
 	- Why would you ever learn Prolog? [Post Coming Soon]()
 - Slides
@@ -381,6 +372,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
 
 -----
+
+#**Node.js Posts**
+- Links
+	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
+	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
+	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
+	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
+	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
+- Slides
+	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
+- Github
+	- Bower [Github](https://github.com/bower/bower)
 
 #**Phoenix Framework Posts**
 - Links
