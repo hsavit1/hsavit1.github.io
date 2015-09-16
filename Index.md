@@ -90,6 +90,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
 	- Awesome CocoaConferences [Link](https://github.com/Lascorbe/CocoaConferences)
 	- Awesome OSX [Link](https://github.com/iCHAIT/awesome-osx)
+	- Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
@@ -171,6 +172,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
+	- Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
@@ -570,6 +572,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
 	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
+	- Awesome Container Technologies [Link](https://github.com/tcnksm/awesome-container)
 	- Awesome Apache Mesos [Link](https://github.com/dharmeshkakadia/awesome-mesos)
 	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
@@ -652,6 +655,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Design and Front End Web Development Posts**
 - Links
+	- Awesome Design [Link](https://github.com/troyericg/awesome-design)
 	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
 	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
 	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
@@ -673,7 +677,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
 	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 
-#**Business and Marketing Posts**
+#**Startups, Business, and Marketing Posts**
 - Links
 	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
 	- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
@@ -681,6 +685,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome ShareLinks [Link](https://github.com/vinkla/awesome-share-links)
 	- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
 	- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
+	- Startup Knowledgebase [Link](https://github.com/bnjs/StartupKnowledgeBase)
+	- Startup Readings [Link](https://github.com/dennybritz/startupreadings)
+	- Startup Must Watch Videos [Link](https://github.com/gerricchaplin/startup-must-watch)
 - Posts
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
