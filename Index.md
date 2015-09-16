@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Here you can find a bunch of links to really cool places on the internet. I GUARENTEE you will walk away smarter than before!
+Here you can find a bunch of links to really cool places on the internet. I GUARANTEE you will walk away smarter than before!
 
 #**Swift**
 - Posts
@@ -391,6 +391,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
 	- ElixirDose Blog [Link](http://www.elixirdose.com/)
 	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
+	- Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini... [Link](https://github.com/mroth/phoenix-showdown)
 - Slides
 	- Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
 	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
@@ -411,6 +412,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
 	- Advanced Performance of React [Link](https://facebook.github.io/react/docs/advanced-performance.html)
+	- React MaterialUI [Link](https://github.com/callemall/material-ui)
 - Posts
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
