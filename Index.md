@@ -390,6 +390,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
 	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
+	- Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
@@ -692,7 +693,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Data Science and Public Data Posts**
 - Links
 	- Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
-	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
+	- Awesome JSON Libraries and Resources [Link](https://github.com/burningtree/awesome-json)
+	- Awesome JSON Datasets [Link](https://github.com/jdorfman/Awesome-JSON-Datasets/tree/master)
 	- Awesome geoJSON [Link](https://github.com/tmcw/awesome-geojson)
 	- Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
 	- Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
@@ -738,7 +740,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
 	- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
 	- Awesome JobBoards [Link](https://github.com/wfhio/awesome-job-boards)
-	- Awesome ShareLinks [Link](https://github.com/vinkla/awesome-share-links)
+	- Awesome Social Media Share Links [Link](https://github.com/vinkla/awesome-share-links)
 	- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
 	- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
 	- Startup Knowledgebase [Link](https://github.com/bnjs/StartupKnowledgeBase)
