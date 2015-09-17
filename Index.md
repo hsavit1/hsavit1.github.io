@@ -616,7 +616,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Intro to microservices [Link](https://www.nginx.com/blog/introduction-to-microservices/)
 	- All about microservices [Link](http://microservices.io/patterns/microservices.html)
 - Slides
-	What are Microservices? [Link](http://slides.com/alexmcpt/ms4dummies#/)
+	- Microservices: The When and Where [Link](http://slides.com/aaroneus/microservices--2#/)
+	- What are Microservices? [Link](http://slides.com/alexmcpt/ms4dummies#/)
 - Github
 	- Vamp Microserivces Platfrom [Gtihub](https://github.com/magneticio/vamp/)
 
