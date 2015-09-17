@@ -373,6 +373,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
 	- What is Rust? [Link](https://doc.rust-lang.org/book/README.html) (Book)
 	- The Rust Book [Link]((http://rustbyexample.com/index.html))
+	- Rust hit's 1.0 ! [Link](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
+	- Rust is a Drop in Replacement for C [Link](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 
 #**Other Languages**
 - Links
@@ -608,7 +610,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 
-#**Microservices**
+#**Microservices and Scalable Architecture**
 - Links
 	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
 	- Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
@@ -616,6 +618,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Intro to microservices [Link](https://www.nginx.com/blog/introduction-to-microservices/)
 	- All about microservices [Link](http://microservices.io/patterns/microservices.html)
 - Slides
+	- Why Microservices? [Link](http://slides.com/indyarocks/deck#/)
 	- Microservices: The When and Where [Link](http://slides.com/aaroneus/microservices--2#/)
 	- What are Microservices? [Link](http://slides.com/alexmcpt/ms4dummies#/)
 - Github
