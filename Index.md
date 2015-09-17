@@ -96,10 +96,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
-	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 - Slides
 	- REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
-	- Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 	- Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
 	- Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
 	- Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
@@ -111,13 +109,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- The best apps out there (thinking) [Post Coming Soon]()
 	- Why would anyone ever use Core Data? [Post Coming Soon]()
 	- FASTLANE for iOS: A ruby library that is a GODSEND when it comes to the deployment of iOS Apps [Post Coming Soon]()
-	- Continuous Integration on iOS: My take [Post Coming Soon]()
-	- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
 	- Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE [Post Coming Soon]()
 	- Javascript Core [Post Coming Soon]()
 	- Do iOS developers really need a library like Mantle anymore? [Post Coming Soon]()
 	- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches [Post Coming Soon]()
-	- How to PROPERLY implement a caching system with iOS [Post Coming Soon]()
+	- How to _properly_ implement a caching system with iOS [Post Coming Soon]()
+
+#**iOS Testing, DevOps, and Delivery Posts**
+- Github Projects
+	- Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
+	- Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
+	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
+	- Continuous Integration on iOS: My take [Post Coming Soon]()
+	- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
 
 #**WatchKit Posts**
 - Links
@@ -609,7 +613,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
 	- Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
 - Posts
-	- What is a microservice? [Link](http://microservices.io/patterns/microservices.html)
+	- Intro to microservices [Link](https://www.nginx.com/blog/introduction-to-microservices/)
+	- All about microservices [Link](http://microservices.io/patterns/microservices.html)
+- Slides
+	What are Microservices? [Link](http://slides.com/alexmcpt/ms4dummies#/)
 - Github
 	- Vamp Microserivces Platfrom [Gtihub](https://github.com/magneticio/vamp/)
 
