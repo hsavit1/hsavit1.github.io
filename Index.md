@@ -3,7 +3,7 @@ layout: page
 title:  "Index"
 ---
 
-Here you can find a bunch of links to really cool places on the internet. I GUARANTEE you will walk away smarter than before!
+Here you can find a bunch of links to really cool places on the internet. I GUARANTEE you will walk away smarter than before! Find me on Github [Link](https://github.com/hsavit1) or GistHub [Link](https://gist.github.com/hsavit1)
 
 #**Swift**
 - Posts
@@ -178,20 +178,24 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- Introduction to JSX [Link](http://jsx.github.io/)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
 	- RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
 	- Facebook Jest Unit Testing [Github](https://github.com/facebook/jest)
+	- Require.js [Link](https://github.com/jrburke/requirejs)
+	- Underscore.js [Link](http://underscorejs.org/)
+	- Phantom.js
 - Slides
-	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
-	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
+	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
 	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
 	- Javascript Design Patterns [Slides](https://speakerdeck.com/lawren/javascript-design-patterns)
@@ -275,6 +279,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
 	- Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
 - Slides
+	- Write Less and Do More with Elixir Macros [Link](http://slides.com/chrismccord/elixir-macros#/)
 	- Hello Elixir!! [Slides](https://speakerdeck.com/benjamintan/hello-elixir)
 	- Elixir is an Erlang VM Language [Slides](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language)
 	- Processes, OTP's, and Supervisors for Elixir [Slides](https://speakerdeck.com/benjamintan/elixir-peeking-into-processes-otp-and-supervisors)
@@ -444,6 +449,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Github
 	- React Router [Github](https://github.com/rackt/react-router)
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
+	- Relay framework [Github](https://github.com/facebook/relay)
+	- Fluxible [Github](http://fluxible.io/)
+	- Alt.js [Github](http://alt.js.org/)
 	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Github](https://optimizely.github.io/nuclear-js/)
 	- Official Redux Guide [Gitbook](http://rackt.github.io/redux/)
 	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
@@ -452,6 +460,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**AngularJS Posts**
 - Links
+	- Made with Angular [Link](https://www.madewithangular.com/#/)
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
 	- MEAN Stack Official Website [Link](http://mean.io/#!/)
 	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another awesome Angular [List](https://github.com/aruzmeister/awesome-angular)
@@ -471,21 +480,22 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ng-Book 2 with Typescript [Link](https://www.ng-book.com/2/#testimonials)
 	- Angular 2 Offical Repo (Based off of Typescript) [Github](https://github.com/angular/angular)
 	- Build Your Own AngularJS [Link](https://github.com/teropa/build-your-own-angularjs)
+	- Hardcore SEO with AngularJS [Link](http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 - Tutorial
 	- Learn Angular2 via Challenges [Link](https://github.com/ShMcK/ng2Challenges)
 	- A better way to learn AngularJS [Link](https://thinkster.io/a-better-way-to-learn-angularjs/)
 	- 50 Examples of AngularJS [Link](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
+	- MEAN Stack 3 Part Tutorial [Link](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
 - Posts
 	- Is Angular 2 worth it? [Temp Post](http://www.syntaxsuccess.com/viewarticle/is-angular-2.0-worth-it)
 	- MEAN is Great, but then you grow up [Link](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
+	- Angular vs Backbone [Link](https://www.quora.com/How-do-Angular-js-and-Backbone-js-compare)
+	- Hardcore Angular Optimization [Link](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
 - Slides
-	- Angualar JS [Slides](https://speakerdeck.com/asarturas/angularjs)
+	- All about Angular [Slides](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
 	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
-	- MVVM with Angular [Slides](http://www.slideshare.net/basarat1/mvvm-knockout-vs-angular?qid=e202d415-ea24-41a8-ab0c-b4b3892c1aa4&v=qf1&b=&from_search=5)
 - Talks
 	- Angular 1 vs Angular 2 [Talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
-- Tutorial
-	- MEAN Stack 3 Part Tutorial [Link](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
 
 #**Meteor Posts**
 - Links
@@ -520,7 +530,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 - Slides
-	- Imperative vs Functional Programming [Slides](https://speakerdeck.com/raulraja/imperative-vs-functional)
+	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
 
 #**Programming Languages Posts**
@@ -530,15 +540,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
 	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
-#**Machine Learning Posts**
-- Links
-	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
-	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+#**Web Development Posts**
 
 #**DataBase Posts**
 - Links
@@ -579,6 +581,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- IP, TCP, HTTP [Link](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 	- Netowrking Diagram [Link](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 	- Websockets with Socket.io P2P [Link](http://socket.io/blog/socket-io-p2p/)
+	- HTTP/2 [Link](https://http2.github.io/)
+	- SPDY [Link](http://www.chromium.org/spdy)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -604,6 +608,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Developer Environment and System Admin Posts**
 - Links
+	- Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
 	- Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
 	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
@@ -619,11 +624,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
 	- What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
+	- VimAwesome Plugins [Link](http://vimawesome.com/) 
+	- Powerline Vim [Link](https://github.com/powerline/powerline)
 	- OSX System Administration Posts [Link](https://miteshshah.github.io/sysadmin/)
 	- Nuclide [Link](https://github.com/facebook/nuclide)
 	- Sublime Text [Link](http://www.sublimetext.com/)
 	- LightTable [Link](https://github.com/LightTable/LightTable)
 	- Atom / Electron [Link](https://github.com/atom/atom)
+	- MongoHub Mac Client [Link](https://github.com/jeromelebel/MongoHub-Mac)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
@@ -648,6 +656,16 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- Accessibilty Testing [Slides](https://speakerdeck.com/neurites/accessibilitytesting)
 
+#**Machine Learning Posts**
+- Links
+	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
+	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+
 #**Security Posts**
 - Links
 	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
@@ -671,7 +689,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Aweesome R [Link](https://github.com/qinwf/awesome-R)
 	- Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
 	- Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
-	- Awesome-DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
+	- Awesome DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
 	- Awesome Hadoop [Link](https://github.com/youngwookim/awesome-hadoop)
 	- Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -683,6 +701,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
 	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
 	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
+	- Awesome Frontdesk for Front End Devs [Link](https://github.com/miripiruni/frontdesk)
 	- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 	- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
@@ -696,12 +715,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
+	- What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
 - Slides
 	- Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
 	- Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
 	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
+- Github
+	- Polymer Web Components [Link](https://github.com/Polymer/polymer)
 
-#**Startups, Business, and Marketing Posts**
+#**Startups, SEO, and Marketing Posts**
 - Links
 	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
 	- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
@@ -712,9 +734,20 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Startup Knowledgebase [Link](https://github.com/bnjs/StartupKnowledgeBase)
 	- Startup Readings [Link](https://github.com/dennybritz/startupreadings)
 	- Startup Must Watch Videos [Link](https://github.com/gerricchaplin/startup-must-watch)
+	- Prerender.io Javascript SEO [Link](https://github.com/prerender/prerender)
+	- SEO.js [Link](http://getseojs.com/)
 - Posts
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
+
+#**Presentation Tools**
+- Links
+	- Reveal.js [Link](https://github.com/hakimel/reveal.js/)
+	- Example Presentation List With Reveal.js & slides.com [Link](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+	- Bespoke.js [Link](https://github.com/markdalgleish/bespoke.js)
+	- Impress.js [Link](https://github.com/impress/impress.js)
+	- Deck.js [Link](http://imakewebthings.com/deck.js/#intro)
+	- Remark [Link](https://github.com/gnab/remark)
 
 #**Economics and Bitcoin Posts**
 - Links
