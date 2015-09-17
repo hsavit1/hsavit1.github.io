@@ -31,6 +31,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 	- Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
 - Presentations
+	- Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
 	- 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
 	- Advanced UITableViews [Presentation](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
 	- The best of Obj-C to Swift [Presentation](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
@@ -82,6 +83,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Links
+	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
 	- Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
 	- Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
 	- Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
@@ -119,6 +121,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**WatchKit Posts**
 - Links
+	- WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
 	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
 	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
 
@@ -183,6 +186,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
+	- Isomorphic.net [Link](http://isomorphic.net/)
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
 - Github Projects
@@ -395,6 +399,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Bower [Github](https://github.com/bower/bower)
 	- WebTorrent: Steaming torrent client for node & the browser [Github](https://github.com/feross/webtorrent)
 	- Gulp: A toolkit that will help automate time-consuming tasks [Github](https://github.com/gulpjs/gulp)
+	- Express: Web framework for Node [Github](https://github.com/strongloop/express/)
+	- GraphQL HTTP Server with Express [Github](https://github.com/graphql/express-graphql)
 
 #**Phoenix Framework Posts**
 - Links
@@ -438,6 +444,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 	- React Redux Universal Hot Example [Github](https://github.com/erikras/react-redux-universal-hot-example/)
 	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html) 
+	- Write a Basic App in Redux [Link](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
 - Slides
 	- Get Fluent in React + Flux (with notes) [Slides](https://speakerdeck.com/fisherwebdev/react-flux-fluent-2015-notes)
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
@@ -457,6 +464,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
+	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/) 
 
 #**AngularJS Posts**
 - Links
@@ -564,6 +572,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
 	- Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
 	- Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
+- Github
+	- Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
 
 #**Netowrking, Routing, and Backend Development Posts**
 - Links
@@ -740,7 +750,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
 
-#**Presentation Tools**
+#**Presentation and Self Advertisement Tools**
 - Links
 	- Reveal.js [Link](https://github.com/hakimel/reveal.js/)
 	- Example Presentation List With Reveal.js & slides.com [Link](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
@@ -748,6 +758,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Impress.js [Link](https://github.com/impress/impress.js)
 	- Deck.js [Link](http://imakewebthings.com/deck.js/#intro)
 	- Remark [Link](https://github.com/gnab/remark)
+	- Markdown Resume Generator [Link](http://mwhite.github.io/resume/)
+	- Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
+	- JSON Resume Builder [Link](http://www.prat0318.me/json_resume/)
 
 #**Economics and Bitcoin Posts**
 - Links
