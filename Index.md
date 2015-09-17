@@ -761,6 +761,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Markdown Resume Generator [Link](http://mwhite.github.io/resume/)
 	- Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
 	- JSON Resume Builder [Link](http://www.prat0318.me/json_resume/)
+- Posts
+	- Why the slide format is here to stay and book format is on it's way out [Post Coming Soon]()
+	- Why you need a website [Post Coming Soon]()
 
 #**Economics and Bitcoin Posts**
 - Links
