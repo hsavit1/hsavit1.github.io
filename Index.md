@@ -585,7 +585,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Github
 	- Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
 
-#**Netowrking, Routing, and Backend Development Posts**
+#**Netowrking, Routing, Servers, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
 	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
@@ -609,6 +609,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+- Github
+	- HTTP Server [Github](https://github.com/indexzero/http-server)
 
 #**Microservices and Scalable Architecture**
 - Links
@@ -792,6 +794,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- Why the slide format is here to stay and book format is on it's way out [Post Coming Soon]()
 	- Why you need a website [Post Coming Soon]()
+- Hackathons
+	- MLH [Link](https://mlh.io/seasons/f2014/events)
+	- Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
 
 #**Economics and Bitcoin Posts**
 - Links
