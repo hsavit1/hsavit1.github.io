@@ -582,14 +582,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Netowrking, Routing, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
-	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
-	- Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
 	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
 	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
 	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
 	- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
 	- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
 	- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
+	- Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
 	- How to design a REST API [Link](http://blog.octo.com/en/design-a-rest-api/)
 	- HTTP API Design Guide [Link](https://github.com/interagent/http-api-design)
 	- JSON API Design Guide [Link](http://jsonapi.org/)
@@ -604,6 +603,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+
+#**Microservices**
+- Links
+	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
+	- Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
+- Posts
+	- What is a microservice? [Link](http://microservices.io/patterns/microservices.html)
+- Github
+	- Vamp Microserivces Platfrom [Gtihub](https://github.com/magneticio/vamp/)
 
 #**Project Management and DevOps Posts**
 - Posts
@@ -749,6 +757,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Social Media Share Links [Link](https://github.com/vinkla/awesome-share-links)
 	- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
 	- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
+	- Awesome Personal Finance [Link](https://github.com/ashishb/personal-finance-awesome)
 	- Startup Knowledgebase [Link](https://github.com/bnjs/StartupKnowledgeBase)
 	- Startup Readings [Link](https://github.com/dennybritz/startupreadings)
 	- Startup Must Watch Videos [Link](https://github.com/gerricchaplin/startup-must-watch)
