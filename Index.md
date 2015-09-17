@@ -188,6 +188,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
 	- RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
+	- Facebook Jest Unit Testing [Github](https://github.com/facebook/jest)
 - Slides
 	- Generators in ES6 [Slides](https://speakerdeck.com/shawn0102/generators-in-es6)
 	- ES6 Summary [Slides](https://speakerdeck.com/sebarmeli/es6-the-future-is-now)
@@ -219,9 +220,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Rob Pike on concurrency [video](https://vimeo.com/49718712)
 - Posts Coming Soon
 	- Drop everything and GO! (golang post) [Post Coming Soon]()
-
-#**C and C++**
-- Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
 
 #**Ruby and Ruby on Rails Posts** 
 - Links
@@ -360,6 +358,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Other Languages**
 - Links
+	- Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
+	- Awesome C [Link](https://notabug.org/koz.ross/awesome-c)
 	- Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
 	- Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
 	- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
@@ -419,6 +419,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
 	- Advanced Performance of React [Link](https://facebook.github.io/react/docs/advanced-performance.html)
 	- React MaterialUI [Link](https://github.com/callemall/material-ui)
+	- 48 FullStack React Examples [Link](http://react.rocks/tag/FullStack?show=60)
 - Posts
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
@@ -428,18 +429,21 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ReactJS for Stupid People [Link](http://blog.andrewray.me/reactjs-for-stupid-people/)
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 	- React Redux Universal Hot Example [Github](https://github.com/erikras/react-redux-universal-hot-example/)
+	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html) 
 - Slides
+	- Get Fluent in React + Flux (with notes) [Slides](https://speakerdeck.com/fisherwebdev/react-flux-fluent-2015-notes)
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 	- What is Redux? [Slides](https://speakerdeck.com/sporto/redux-flux-reduced)
 	- What is Isomorphic Javasript? [Slides](https://speakerdeck.com/matthewwithanm/isomorphic-js-server-side-rendering-react-and-rockefeller)
 	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 	- Data Fetching for React Apps [Slides](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
+	- Flux Chat Tutorial Presentation [Slides](https://speakerdeck.com/fisherwebdev/fluxchat)
 - Github
+	- React Router [Github](https://github.com/rackt/react-router)
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
 	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Github](https://optimizely.github.io/nuclear-js/)
 	- Official Redux Guide [Gitbook](http://rackt.github.io/redux/)
 	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
-	- React Router [Github](https://github.com/rackt/react-router)
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
 
@@ -611,6 +615,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
 	- What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
 	- OSX System Administration Posts [Link](https://miteshshah.github.io/sysadmin/)
+	- Nuclide [Link](https://github.com/facebook/nuclide)
+	- Sublime Text [Link](http://www.sublimetext.com/)
+	- LightTable [Link](https://github.com/LightTable/LightTable)
+	- Atom / Electron [Link](https://github.com/atom/atom)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
