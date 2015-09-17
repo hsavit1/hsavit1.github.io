@@ -813,6 +813,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- Awesome AMAs [Link](https://github.com/sindresorhus/amas)
 	- What makes Evernote the best app out there? [Post Coming Soon]()
+	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
 - Posts
 	- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
 
