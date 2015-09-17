@@ -143,7 +143,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
 	- Java 8:  Lambdas, Monads and Java Collections [Slides](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
 	- Coming to Scala from Java [Slides](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
-	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Android for iOS Devs [Slides](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
 	- Java vs Scala for Android Dev [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
 	- Java Generics [Slides](https://speakerdeck.com/gayashanna/java-generics)
@@ -181,6 +180,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
@@ -198,6 +198,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Require.js [Link](https://github.com/jrburke/requirejs)
 	- Underscore.js [Link](http://underscorejs.org/)
 	- Phantom.js
+	- Babel.js transforms your JavaScript [Link](http://babeljs.io/)
+	- Webpack is a bundler for modules [Link](https://github.com/webpack/webpack)
 - Slides
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -466,6 +468,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
 	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/) 
+	- Redux Dev Tools with hot reloading, action replay, and customizable UI [Link](https://github.com/gaearon/redux-devtools)
 
 #**AngularJS Posts**
 - Links
