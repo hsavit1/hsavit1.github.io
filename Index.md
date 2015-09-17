@@ -582,6 +582,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Netowrking, Routing, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
+	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
+	- Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
 	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
 	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
 	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
@@ -692,6 +694,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
 	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+	- Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
 
 #**Data Science and Public Data Posts**
 - Links
