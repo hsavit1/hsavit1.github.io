@@ -225,7 +225,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
 	- Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
-	- Awesome Ruby Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
+	- Awesome Ruby Bookmarks [Link](https://github.com/dreikanter/ruby-bookmarks)
+	- Awesome Ruby Development Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
 	- Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
 	- Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 	- 99 Problems with Ruby [Link](https://github.com/hcf/99-problems-in-Ruby)
@@ -243,6 +244,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- _Book Review_: Wicked Cool Ruby Scripts [Post Coming Soon]()
 - Slides
 	- What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
+- Github
+	- rbenv [Github](https://github.com/sstephenson/rbenv)
 
 #**Erlang Posts**
 - Links
@@ -563,6 +566,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Netowrking, Routing, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
+	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
 	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
 	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
 	- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
@@ -608,6 +612,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
 	- Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
 	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
+	- Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
 	- Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
 	- Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
 	- Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
