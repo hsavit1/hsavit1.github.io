@@ -206,6 +206,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Phantom.js
 	- Babel.js transforms your JavaScript [Link](http://babeljs.io/)
 	- Webpack is a bundler for modules [Link](https://github.com/webpack/webpack)
+	- D3: Data Driven Documents [Link](https://github.com/mbostock/d3)
 - Slides
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -566,7 +567,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
 	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
-#**Web Development Posts**
+#**Web Development and Deployment Posts**
+- Links
+	- Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
 
 #**DataBase Posts**
 - Links
@@ -610,9 +613,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- IP, TCP, HTTP [Link](https://www.objc.io/issues/10-syncing-data/ip-tcp-http/)
 	- Netowrking Diagram [Link](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tcp_state_diagram_fixed_new.svg)
 	- Websockets with Socket.io P2P [Link](http://socket.io/blog/socket-io-p2p/)
+	- HTTP Wikipedia [Link](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 	- HTTP/2 [Link](https://http2.github.io/)
 	- SPDY [Link](http://www.chromium.org/spdy)
-	- curl [Link](http://curl.haxx.se/docs/manpage.html)
+	- cURL [Link](http://curl.haxx.se/docs/manpage.html)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -622,8 +626,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Best Practices for RESTful web services [Slides](http://slides.com/andriuss/restful-web-services#/)
 	- What is HTTP? [Link](http://slides.com/theremix/http#/1)
 	- What is Elastic Search? [Link](http://slides.com/yatendra/elastic-search#/)
+	- A guide to DNS [Slides](http://slides.com/justintalbott/dns#/)
 - Github
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
+	- cURL [Github](https://github.com/bagder/curl)
+	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
 
 #**Microservices and Scalable Architecture**
 - Links
@@ -653,6 +660,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
 	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
+	- Chrome Dev Tools [Link](https://developer.chrome.com/devtools)
 - Videos
 	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
 - Slides
