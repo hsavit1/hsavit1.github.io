@@ -469,6 +469,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React and Flux [Slides](https://speakerdeck.com/fisherwebdev/flux-react)
 	- Data Fetching for React Apps [Slides](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
 	- Flux Chat Tutorial Presentation [Slides](https://speakerdeck.com/fisherwebdev/fluxchat)
+	- Angular vs React [Slides](http://slides.com/codeviking/angular-vs-react#/)
 - Github
 	- React Router [Github](https://github.com/rackt/react-router)
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
@@ -596,7 +597,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Github
 	- Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
 
-#**Netowrking, Routing, Servers, and Backend Development Posts**
+#**Netowrking, IP, Routing, Servers, and Backend Development Posts**
 - Links
 	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
 	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
@@ -617,6 +618,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- HTTP/2 [Link](https://http2.github.io/)
 	- SPDY [Link](http://www.chromium.org/spdy)
 	- cURL [Link](http://curl.haxx.se/docs/manpage.html)
+	- cURL Cheat Sheet [Link](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
+	- GNU Wget [Link](http://www.gnu.org/software/wget/)
+	- HTTP Stats Codes Diagram [Link](http://i.stack.imgur.com/whhD1.png)
+	- HTTP Status Code Descriptions [Link](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -627,6 +632,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is HTTP? [Link](http://slides.com/theremix/http#/1)
 	- What is Elastic Search? [Link](http://slides.com/yatendra/elastic-search#/)
 	- A guide to DNS [Slides](http://slides.com/justintalbott/dns#/)
+- Posts
+	- cURL vs wget [Link](http://www.thegeekstuff.com/2012/07/wget-curl/)
 - Github
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 	- cURL [Github](https://github.com/bagder/curl)
@@ -636,7 +643,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
 	- Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
+	- Microservices Template [Link](https://github.com/begriffs/microservice-template)
+	- Martin Fowler: Microservices Resource Guide [Link](http://martinfowler.com/microservices/)
 - Posts
+	- Uncle Bob: Microservices and Jars [Link](http://blog.cleancoder.com/uncle-bob/2014/09/19/MicroServicesAndJars.html)
+	- Uncle Bob: The very first microservice [Link](http://blog.8thlight.com/uncle-bob/2015/05/28/TheFirstMicroserviceArchitecture.html)
+	- Microservices - Money for old rope or re-badging SOA for the cool kids [Link](http://service-architecture.blogspot.co.uk/2014/03/microservices-money-for-old-rope-or-re.html)
 	- Intro to microservices [Link](https://www.nginx.com/blog/introduction-to-microservices/)
 	- All about microservices [Link](http://microservices.io/patterns/microservices.html)
 	- Javascript Application Architecture 2015 [Link](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
@@ -756,6 +768,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
+- Github Projects
+	- Grafana [Link](https://github.com/grafana/grafana) 
 
 #**Design and Front End Web Development Posts**
 - Links
