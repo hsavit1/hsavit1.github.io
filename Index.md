@@ -165,6 +165,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Which Hybrid Framework should you use? [Post Coming Soon]()
 - Links
 	- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
+	- React Native Playground: See what React Native code & live demos! [Link](https://rnplay.org/)
 	- Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
 	- React Native vs Microsoft Nativescript [Link](https://www.quora.com/Which-is-better-React-Native-or-Native-Script)
 	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
@@ -198,6 +199,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
 	- Understanding ES6 Generators [Link](http://davidwalsh.name/es6-generators)
+	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -416,6 +418,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
+	- Node.js Weekly [Link](http://nodeweekly.com/)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
@@ -513,6 +516,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Starter Kit [Github](https://github.com/kriasoft/react-starter-kit)
 	- React Static Boilerplate [Github](https://github.com/koistya/react-static-boilerplate)
 - Video 
+	- React.js Conference Videos [Link](http://conf.reactjs.com/)
 	- Egghead Video Series: [Link](https://egghead.io/series/react-fundamentals)
 	- $ Orielly: A practical introduction to React.js [Link](https://player.oreilly.com/videos/9781491925652)
 	- Big Binary [Link](http://bigbinary.com/videos/learn-reactjs-in-steps/minimal-reactjs-setup)
@@ -744,6 +748,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- LightTable [Link](https://github.com/LightTable/LightTable)
 	- Atom / Electron [Link](https://github.com/atom/atom)
 	- MongoHub Mac Client [Link](https://github.com/jeromelebel/MongoHub-Mac)
+	- Color Sublime: See Sublime Colors [Link](http://colorsublime.com/)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
@@ -751,6 +756,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Browsersync for web development testing [Github](http://www.browsersync.io/)
 - Sublime Packages I Use
 	- Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
+	- Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)
 
 #**Software Development Posts** 
 - Links
