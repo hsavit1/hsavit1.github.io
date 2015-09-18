@@ -140,6 +140,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
 	- Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
 	- Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
+	- Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
 	- Awesome JVM [Link](https://github.com/deephacks/awesome-jvm) 
 - Slides
 	- New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
