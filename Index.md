@@ -451,6 +451,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
+	- React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
 	- Awesome React [Link](https://github.com/enaqx/awesome-react)
 	- Awesome RxJS + React/Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
 	- Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
@@ -461,6 +462,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React MaterialUI [Link](https://github.com/callemall/material-ui)
 	- 48 FullStack React Examples [Link](http://react.rocks/tag/FullStack?show=60)
 	- What is Relay? All your Questions Awswered [Link](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
+	- ReactJS Boilerplate [Link](https://github.com/mbrio/react-boilerplate)
 - Posts
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
@@ -484,7 +486,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Github
 	- React Router [Github](https://github.com/rackt/react-router)
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
-	- Relay framework [Github](https://github.com/facebook/relay)
+	- Relay Framework [Github](https://github.com/facebook/relay)
 	- Relay Framework [Github](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
 	- Refluxjs: FRP Flux Architecture [Github](https://github.com/reflux/refluxjs#creating-data-stores)
 	- Fluxible [Github](http://fluxible.io/)
@@ -503,7 +505,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Router Bootstrap [Github](https://github.com/react-bootstrap/react-router-bootstrap)
 	- Radium React Components [Github](https://github.com/FormidableLabs/radium)
 
-#**AngularJS Posts**
+#**AngularJS and BackboneJS Posts**
 - Links
 	- Made with Angular [Link](https://www.madewithangular.com/#/)
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
@@ -536,6 +538,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- MEAN is Great, but then you grow up [Link](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
 	- Angular vs Backbone [Link](https://www.quora.com/How-do-Angular-js-and-Backbone-js-compare)
 	- Hardcore Angular Optimization [Link](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
+- Books 
+	- Backbone.js Applications by Addy Osmani [Link](http://addyosmani.github.io/backbone-fundamentals/)
 - Slides
 	- All about Angular [Slides](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
 	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
@@ -635,6 +639,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Websockets with Socket.io P2P [Link](http://socket.io/blog/socket-io-p2p/)
 	- HTTP Wikipedia [Link](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 	- HTTP/2 [Link](https://http2.github.io/)
+	- Official JSON Website [Link](http://www.json.org/)
 	- SPDY [Link](http://www.chromium.org/spdy)
 	- cURL [Link](http://curl.haxx.se/docs/manpage.html)
 	- cURL Cheat Sheet [Link](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
@@ -727,6 +732,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
+- Github
+	- Browsersync for web development testing [Github](http://www.browsersync.io/)
 
 #**Software Development Posts** 
 - Links
