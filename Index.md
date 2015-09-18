@@ -740,6 +740,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
 - Github
 	- Browsersync for web development testing [Github](http://www.browsersync.io/)
+- Sublime Packages I Use
+	- Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
 
 #**Software Development Posts** 
 - Links
