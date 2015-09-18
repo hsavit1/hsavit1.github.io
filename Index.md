@@ -207,6 +207,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Babel.js transforms your JavaScript [Link](http://babeljs.io/)
 	- Webpack is a bundler for modules [Link](https://github.com/webpack/webpack)
 	- D3: Data Driven Documents [Link](https://github.com/mbostock/d3)
+	- Lodash [Github](https://github.com/lodash/lodash/)
+	- NVD3 Charting Library [Link](https://github.com/novus/nvd3)
 - Slides
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -278,6 +280,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
 	- About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
+	- Erlang 101 [Slides](http://slides.com/eddywong/erlang-101#/)
 
 #**Elixir Posts**
 - Links
@@ -413,6 +416,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- WebTorrent: Steaming torrent client for node & the browser [Github](https://github.com/feross/webtorrent)
 	- Gulp: A toolkit that will help automate time-consuming tasks [Github](https://github.com/gulpjs/gulp)
 	- Express: Web framework for Node [Github](https://github.com/strongloop/express/)
+	- KOA: Expressive Middleware for node.js using generators [Github](https://github.com/koajs/koa)
 	- GraphQL HTTP Server with Express [Github](https://github.com/graphql/express-graphql)
 	- Commander [Github](https://github.com/tj/commander.js)
 	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
@@ -474,6 +478,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Router [Github](https://github.com/rackt/react-router)
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
 	- Relay framework [Github](https://github.com/facebook/relay)
+	- Relay Framework [Github](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
+	- Refluxjs: FRP Flux Architecture [Github](https://github.com/reflux/refluxjs#creating-data-stores)
 	- Fluxible [Github](http://fluxible.io/)
 	- Alt.js [Github](http://alt.js.org/)
 	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Github](https://optimizely.github.io/nuclear-js/)
@@ -482,8 +488,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
 	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/) 
-	- Redux Dev Tools with hot reloading, action replay, and customizable UI [Link](https://github.com/gaearon/redux-devtools)
-	- Universal React Boilerplate [Link](https://github.com/cloverfield-tools/universal-react-boilerplate)
+	- Redux Dev Tools with hot reloading, action replay, and customizable UI [Github](https://github.com/gaearon/redux-devtools)
+	- Universal React Boilerplate [Github](https://github.com/cloverfield-tools/universal-react-boilerplate)
+	- React D3 [Github](https://reactiva.github.io/react-d3-website/)
+	- Flux Comparisons [Github](https://github.com/voronianski/flux-comparison)
+	- React Bootstrap: Bootstrap 3 components built with React [Github](https://github.com/react-bootstrap/react-bootstrap)
 
 #**AngularJS Posts**
 - Links
@@ -638,6 +647,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 	- cURL [Github](https://github.com/bagder/curl)
 	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
+	- Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
 
 #**Microservices and Scalable Architecture**
 - Links
