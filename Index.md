@@ -474,9 +474,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Begin React Workshop [Github](https://github.com/foundersandcoders/begin_react_workshop)
 	- FOR FLUX SAKE: Flux beginner's tutorial [Github](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-	- React Redux Universal Hot Example [Github](https://github.com/erikras/react-redux-universal-hot-example/)
+	- React Redux Universal Hot Example: A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader [Github](https://github.com/erikras/react-redux-universal-hot-example/)
 	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html) 
 	- Write a Basic App in Redux [Link](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
+	- Static Site Generation with React and Webpack [Link](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
+	- Isomorphic Tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts [Link](https://github.com/spikebrehm/isomorphic-tutorial)
 - Slides
 	- Get Fluent in React + Flux (with notes) [Slides](https://speakerdeck.com/fisherwebdev/react-flux-fluent-2015-notes)
 	- What is ReactJS [Slides](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
@@ -491,7 +493,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
 	- Relay Framework [Github](https://github.com/facebook/relay)
 	- Relay Framework [Github](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
-	- Refluxjs: FRP Flux Architecture [Github](https://github.com/reflux/refluxjs#creating-data-stores)
+	- Reflux.js: FRP Flux Architecture [Github](https://github.com/reflux/refluxjs#creating-data-stores)
 	- Fluxible [Github](http://fluxible.io/)
 	- Alt.js [Github](http://alt.js.org/)
 	- NuclearJS: Reactive Flux built with ImmutableJS data structures [Github](https://optimizely.github.io/nuclear-js/)
@@ -507,6 +509,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React Bootstrap: Bootstrap 3 components built with React [Github](https://github.com/react-bootstrap/react-bootstrap)
 	- React Router Bootstrap [Github](https://github.com/react-bootstrap/react-router-bootstrap)
 	- Radium React Components [Github](https://github.com/FormidableLabs/radium)
+	- React Starter Kit [Github](https://github.com/kriasoft/react-starter-kit)
+	- React Static Boilerplate [Github](https://github.com/koistya/react-static-boilerplate)
+- Video 
+	- Egghead Video Series: [Link](https://egghead.io/series/react-fundamentals)
+	- $ Orielly: A practical introduction to React.js [Link](https://player.oreilly.com/videos/9781491925652)
+	- Big Binary [Link](http://bigbinary.com/videos/learn-reactjs-in-steps/minimal-reactjs-setup)
 
 #**AngularJS and BackboneJS Posts**
 - Links
