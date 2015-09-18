@@ -468,8 +468,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
 - Tutorial
+	- Isomorphic Javascript Tutorial [Github](https://github.com/spikebrehm/isomorphic-tutorial)
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
 	- ReactJS for Stupid People [Link](http://blog.andrewray.me/reactjs-for-stupid-people/)
+	- Begin React Workshop [Github](https://github.com/foundersandcoders/begin_react_workshop)
+	- FOR FLUX SAKE: Flux beginner's tutorial [Github](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 	- React Redux Universal Hot Example [Github](https://github.com/erikras/react-redux-universal-hot-example/)
 	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html) 
@@ -507,6 +510,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**AngularJS and BackboneJS Posts**
 - Links
+	- AngularJS CheatSheet [Link](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+	- AngularJS Best Practices [Link](https://github.com/jmcunningham/angularjs-styleguide)
 	- Made with Angular [Link](https://www.madewithangular.com/#/)
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
 	- MEAN Stack Official Website [Link](http://mean.io/#!/)
@@ -663,6 +668,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- cURL [Github](https://github.com/bagder/curl)
 	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
 	- Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
+	- Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
 
 #**Microservices and Scalable Architecture**
 - Links
