@@ -303,6 +303,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Elixir Demo [Slides](https://speakerdeck.com/benjamintan/ruby-plus-elixir-polyglottin-ftw)
 	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir)
 	- Elixir, Zero to Web [Slides](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
+	- Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/) 
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -335,6 +336,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
 	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
 	- Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
+	- Haskell for Normal People [Slides](http://slides.com/benleggett/haskellpres#/)
+- Github
+	- React-Haskell [Github](https://github.com/joelburget/react-haskell)
 
 #**Elm Posts**
 - Links
@@ -446,7 +450,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- Awesome React [Link](https://github.com/enaqx/awesome-react)
-	- Awesome React + Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
+	- Awesome RxJS + React/Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
 	- Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
 	- Flux: An Application Architecture for React [Link](http://facebook.github.io/react/blog/2014/05/06/flux.html)
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
@@ -454,6 +458,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Advanced Performance of React [Link](https://facebook.github.io/react/docs/advanced-performance.html)
 	- React MaterialUI [Link](https://github.com/callemall/material-ui)
 	- 48 FullStack React Examples [Link](http://react.rocks/tag/FullStack?show=60)
+	- What is Relay? All your Questions Awswered [Link](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
 - Posts
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
@@ -493,6 +498,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- React D3 [Github](https://reactiva.github.io/react-d3-website/)
 	- Flux Comparisons [Github](https://github.com/voronianski/flux-comparison)
 	- React Bootstrap: Bootstrap 3 components built with React [Github](https://github.com/react-bootstrap/react-bootstrap)
+	- React Router Bootstrap [Github](https://github.com/react-bootstrap/react-router-bootstrap)
+	- Radium React Components [Github](https://github.com/FormidableLabs/radium)
 
 #**AngularJS Posts**
 - Links
@@ -569,6 +576,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
+	- Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
 
 #**Programming Languages Posts**
 - Link
@@ -799,6 +807,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
 	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
+	- Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
+	- Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
 	- What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
@@ -808,7 +818,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 - Github
 	- Polymer Web Components [Link](https://github.com/Polymer/polymer)
-
+	
 #**Startups, SEO, and Marketing Posts**
 - Links
 	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
