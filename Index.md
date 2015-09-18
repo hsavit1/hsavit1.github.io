@@ -612,6 +612,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Websockets with Socket.io P2P [Link](http://socket.io/blog/socket-io-p2p/)
 	- HTTP/2 [Link](https://http2.github.io/)
 	- SPDY [Link](http://www.chromium.org/spdy)
+	- curl [Link](http://curl.haxx.se/docs/manpage.html)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -620,6 +621,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- How TCP/IP works [Slides](http://slides.com/annielcook/tcp-ip#/)
 	- Best Practices for RESTful web services [Slides](http://slides.com/andriuss/restful-web-services#/)
 	- What is HTTP? [Link](http://slides.com/theremix/http#/1)
+	- What is Elastic Search? [Link](http://slides.com/yatendra/elastic-search#/)
 - Github
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 
