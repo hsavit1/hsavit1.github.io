@@ -619,6 +619,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
 	- How TCP/IP works [Slides](http://slides.com/annielcook/tcp-ip#/)
 	- Best Practices for RESTful web services [Slides](http://slides.com/andriuss/restful-web-services#/)
+	- What is HTTP? [Link](http://slides.com/theremix/http#/1)
 - Github
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 
