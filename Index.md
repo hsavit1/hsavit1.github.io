@@ -176,7 +176,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 ----
 
-#**Javascript and Typescript Posts**
+#**Javascript, ECMA, and Typescript Posts**
 - Links
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
@@ -184,6 +184,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
@@ -193,6 +194,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Isomorphic.net [Link](http://isomorphic.net/)
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
+	- Understanding ES6 Generators [Link](http://davidwalsh.name/es6-generators)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -402,6 +404,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
+	- Node Module of the Week [Link](http://nmotw.in/)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
@@ -410,6 +413,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Gulp: A toolkit that will help automate time-consuming tasks [Github](https://github.com/gulpjs/gulp)
 	- Express: Web framework for Node [Github](https://github.com/strongloop/express/)
 	- GraphQL HTTP Server with Express [Github](https://github.com/graphql/express-graphql)
+	- Commander [Github](https://github.com/tj/commander.js)
+	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
+	- Kraken.js [Github](http://krakenjs.com/)
 
 #**Phoenix Framework Posts**
 - Links
@@ -475,6 +481,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
 	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/) 
 	- Redux Dev Tools with hot reloading, action replay, and customizable UI [Link](https://github.com/gaearon/redux-devtools)
+	- Universal React Boilerplate [Link](https://github.com/cloverfield-tools/universal-react-boilerplate)
 
 #**AngularJS Posts**
 - Links
@@ -523,6 +530,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+- Github
+	- Blaze [Github](http://meteor.github.io/blaze/)
 
 -----
 
@@ -544,7 +553,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
 	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
-	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 - Slides
@@ -609,6 +617,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
 	- What are Websockets? [Slides](https://speakerdeck.com/igorw/websockets)
 	- REST [Slides](https://speakerdeck.com/kylef/embracing-change-with-rest)
+	- How TCP/IP works [Slides](http://slides.com/annielcook/tcp-ip#/)
+	- Best Practices for RESTful web services [Slides](http://slides.com/andriuss/restful-web-services#/)
 - Github
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 
@@ -619,6 +629,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- Intro to microservices [Link](https://www.nginx.com/blog/introduction-to-microservices/)
 	- All about microservices [Link](http://microservices.io/patterns/microservices.html)
+	- Javascript Application Architecture 2015 [Link](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
+	- Uncle Bobs Clean Architecture [Link](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
 - Slides
 	- Why Microservices? [Link](http://slides.com/indyarocks/deck#/)
 	- Microservices: The When and Where [Link](http://slides.com/aaroneus/microservices--2#/)
