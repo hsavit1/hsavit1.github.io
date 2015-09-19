@@ -750,6 +750,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Atom / Electron [Link](https://github.com/atom/atom)
 	- MongoHub Mac Client [Link](https://github.com/jeromelebel/MongoHub-Mac)
 	- Color Sublime: See Sublime Colors [Link](http://colorsublime.com/)
+- Posts
+	- Learn Enough Command Line to be Dangerous [Link](http://www.learnenough.com/command-line/)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
@@ -821,6 +823,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 - Github Projects
 	- Grafana [Link](https://github.com/grafana/grafana) 
+- Slides
+	- Statistics for Hackers [Link](https://speakerdeck.com/jakevdp/statistics-for-hackers) 
 
 #**Design and Front End Web Development Posts**
 - Links
