@@ -467,6 +467,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- 48 FullStack React Examples [Link](http://react.rocks/tag/FullStack?show=60)
 	- What is Relay? All your Questions Awswered [Link](https://gist.github.com/wincent/598fa75e22bdfa44cf47#What_is_Relay)
 	- ReactJS Boilerplate [Link](https://github.com/mbrio/react-boilerplate)
+	- ReactJS Component Exchange [Link](http://helmetrex.com/Gallery.html)
 - Posts
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
