@@ -56,7 +56,7 @@ You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69
 
 ---
 
-* [itshenry.com](https://github.com/hsavit1/hsavit1.github.io) *Released. Currently Maintained. Open Source*
+* **[itshenry.com](https://github.com/hsavit1/hsavit1.github.io)** *Released. Currently Maintained. Open Source*
     
     This is my personal blog where I post lots of useful information on a lot of the technologies that I'm working with
      
