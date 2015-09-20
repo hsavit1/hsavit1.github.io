@@ -17,10 +17,8 @@ You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69
 ---
 
 ###Education
-**Bachelors of Science in Mathematical Physics, **
-**Bachelors of Arts in Mathematics, **
-**Minor in Computer Science**
-Binghamton University, 2010 - 2014
+**Bachelors of Science in Mathematical Physics, Bachelors of Arts in Mathematics, Minor in Computer Science**
+	__Binghamton University, 2010 - 2014__
 
 ------
 
