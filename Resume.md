@@ -9,9 +9,13 @@ You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69
 Henry Savit
 ============
 
+------------
+hernysavit@gmail.com                      		
+631-252-0490
+------------
 
--------------------     ----------------------------
-148A Daly Road                  hernysavit@gmail.com
-East Northport, NY                   @twitter_handle
-USA                      				631-252-0490
--------------------     ----------------------------
+----
+
+>  Science isn't about WHY. It's about WHY NOT!
+
+----
