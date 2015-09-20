@@ -192,8 +192,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
-	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Introduction to JSX [Link](http://jsx.github.io/)
+	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
@@ -201,12 +201,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- THe RxJS Book [Link](http://xgrommx.github.io/rx-book/)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
 	- Isomorphic.net [Link](http://isomorphic.net/)
-	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
 	- Understanding ES6 Generators [Link](http://davidwalsh.name/es6-generators)
 	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
+- Posts
+	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -223,6 +224,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NVD3 Charting Library [Link](https://github.com/novus/nvd3)
 	- Timeline JS [Link](https://github.com/NUKnightLab/TimelineJS)
 - Slides
+	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
 	- Functional Design Patterns in Javascript [Slides](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
