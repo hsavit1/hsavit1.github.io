@@ -614,6 +614,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
 	- Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
+	- What is Linear Programming? [Slides](http://slides.com/denaeanderson/mathematics#/)
 
 #**Programming Languages Posts**
 - Link
@@ -944,7 +945,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Science Behind Quantum Computing [Slides](https://speakerdeck.com/psibi/science-behind-quantum-computing)
 	- Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
 	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
-
+	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
+	
 #**Physics Posts**
 - Check out my Awesome Physics Repo [Link]()
 
