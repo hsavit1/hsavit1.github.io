@@ -17,7 +17,7 @@ permalink: /resume/
 ###Education
 **Bachelors of Science in Mathematical Physics, Bachelors of Arts in Mathematics, Minor in Computer Science**
 	 
-	 __Binghamton University, 2010 - 2014__
+	*Binghamton University, 2010 - 2014*)
 
 ------
 
