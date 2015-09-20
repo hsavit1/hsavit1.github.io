@@ -946,7 +946,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
 	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
 	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
-	
+
 #**Physics Posts**
 - Check out my Awesome Physics Repo [Link]()
 
@@ -974,7 +974,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Greg Giraldo [Standup](https://www.youtube.com/watch?v=IqH2bUZDUPg)
 - Dave Attel [Standup](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
 - Sarah Silverman Top 10 [Link](http://www.ifc.com/fix/2013/10/10-genius-sarah-silverman-jokes)
-- Ali G Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
-- Conan hangs out with iterns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
+- Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
+- Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
 - Larry David [Best of](https://www.youtube.com/watch?v=JHmpbDWdMJw)
 - Jim Gaffigan Talks About Bacon [Link](https://www.youtube.com/watch?v=UahqgK60vuk)
