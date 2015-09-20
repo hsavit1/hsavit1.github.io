@@ -6,6 +6,7 @@ permalink: /resume/
 
 #**Henry Savit**
 
+
 > henrysavit@gmail.com 
 >                      		
 > Mobile: (631)252-0490
@@ -15,10 +16,11 @@ permalink: /resume/
 > U.S.A. + Canada Citizen
  
 
-___
+	___
 
 
 ###Education
+
 
 *Binghamton University, 2010 - 2014*
 
@@ -27,7 +29,7 @@ ___
 + **Minor in Computer Science**
 
 
-------
+	------
 
 
 ###Objective
@@ -39,6 +41,7 @@ ____
 
 
 ### Current Technical Skills and Currently Learning
+
 
 + Objective-C
 + Swift
@@ -52,7 +55,6 @@ ____
 + Phoenix Framework
 
 
-	------
 
 
 ### Other Skills and Current Learning
@@ -84,7 +86,7 @@ ____
      **Technical Environment (Subject to Change)**: Jekyll, Ruby, HTML, CSS, Markdown
 
 
----
+	---
 
 
 ###College involvement
@@ -95,7 +97,7 @@ ____
 + Binghamton University Golf Club active tournament competitor 
 
 
----
+	---
 
 
 ###Note
