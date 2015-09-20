@@ -16,7 +16,7 @@ permalink: /resume/
 > U.S.A. + Canada Citizen
  
 
-	___
+
 
 
 ###Education
