@@ -29,7 +29,6 @@ permalink: /resume/
 + **Minor in Computer Science**
 
 
-	------
 
 
 ###Objective
@@ -37,7 +36,7 @@ permalink: /resume/
 > I am a young and passionately driven software engineer; specializing in OO design, performance, and analysis, with extensive experience in the full life cycle of the software design process- including prototyping, applying appropriate and effective design patterns, data design, continuous integration, benchmarking, TDD/BDD, and QA. I aspire to make *amazing*, *intuitive*, and *useful* software that actually improves people's lives. Software is _not_ limited to iOS, although that is my specialty. 
 
 
-____
+
 
 
 ### Current Technical Skills and Currently Learning
@@ -65,7 +64,6 @@ ____
 + Fitness
 
 
-------
 
 
 ### Projects
@@ -97,7 +95,7 @@ ____
 + Binghamton University Golf Club active tournament competitor 
 
 
-	---
+	
 
 
 ###Note
