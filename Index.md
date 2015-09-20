@@ -180,6 +180,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Javascript, ECMA, and Typescript Posts**
 - Links
+	- Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
+	- Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
 	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
@@ -187,6 +189,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
+	- Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
+	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
@@ -200,6 +204,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- The Extensible Web Manifesto [Link](http://extensiblewebmanifesto.org/)
 	- Understanding ES6 Generators [Link](http://davidwalsh.name/es6-generators)
 	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
+	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
+	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -214,6 +220,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- D3: Data Driven Documents [Link](https://github.com/mbostock/d3)
 	- Lodash [Github](https://github.com/lodash/lodash/)
 	- NVD3 Charting Library [Link](https://github.com/novus/nvd3)
+	- Timeline JS [Link](https://github.com/NUKnightLab/TimelineJS)
 - Slides
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -638,6 +645,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 - Github
 	- Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
+	- Mongoose MongoDB Object Modeling [Github](https://github.com/Automattic/mongoose)
+	- Kue Priority Job Queue [Github](https://github.com/Automattic/kue)
 
 #**Netowrking, IP, Routing, Servers, and Backend Development Posts**
 - Links
@@ -678,12 +687,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- cURL vs wget [Link](http://www.thegeekstuff.com/2012/07/wget-curl/)
 - Github
+	- Mongoose Web Server [Link](https://github.com/cesanta/mongoose)
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
 	- cURL [Github](https://github.com/bagder/curl)
 	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
 	- Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
 	- Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
-
+	
 #**Microservices and Scalable Architecture**
 - Links
 	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
