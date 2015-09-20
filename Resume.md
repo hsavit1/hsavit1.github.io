@@ -16,6 +16,7 @@ permalink: /resume/
 
 ###Education
 **Bachelors of Science in Mathematical Physics, Bachelors of Arts in Mathematics, Minor in Computer Science**
+	 
 	 __Binghamton University, 2010 - 2014__
 
 ------
@@ -33,7 +34,7 @@ permalink: /resume/
 + Elixir
 + Phoenix Framework
 
-------
+	------
 
 ### Other Skills and Current Learning
 
@@ -52,7 +53,7 @@ permalink: /resume/
      
      **Technical Environment (Subject to Change)**: Objective-C (iOS), Java (Android), RethinkDB, Socket.io, Javascript, MongoDB, Phoenix Framework, Github, Slack, Basecamp, Xcode, Android Studio
 
----
+	---
 
 * **[itshenry.com](https://github.com/hsavit1/hsavit1.github.io)** *Released. Currently Maintained. Open Source*
     
