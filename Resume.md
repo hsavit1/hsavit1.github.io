@@ -73,6 +73,7 @@ ____
 ---
 
 ###College involvement
+
 + TA for introduction to Calculus-Based Physics: Taught a discussion group and a lab section 
 + Violinist in Binghamton University Symphony Orchestra
 + Founding Father of PKA: Served as secretary and web development chair for largest fraternity on campus
@@ -81,4 +82,5 @@ ____
 ---
 
 ###Note
+
 You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Index](http://itshenry.com/Index.html) page for a general idea of what I'm capable of
