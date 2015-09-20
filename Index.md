@@ -191,6 +191,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
+	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
