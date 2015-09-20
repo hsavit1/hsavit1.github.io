@@ -14,6 +14,7 @@ permalink: /resume/
 
 ---
 ###Education
+
 *Binghamton University, 2010 - 2014*
 
 + **Bachelors of Science in Mathematical Physics**
