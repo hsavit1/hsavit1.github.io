@@ -71,6 +71,7 @@ ____
      **Technical Environment (Subject to Change)**: Jekyll, Ruby, HTML, CSS, Markdown
 
 ---
+
 ###College involvement
 + TA for introduction to Calculus-Based Physics: Taught a discussion group and a lab section 
 + Violinist in Binghamton University Symphony Orchestra
@@ -78,5 +79,6 @@ ____
 + Binghamton University Golf Club active tournament competitor 
 
 ---
+
 ###Note
 You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Index](http://itshenry.com/Index.html) page for a general idea of what I'm capable of
