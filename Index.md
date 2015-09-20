@@ -191,6 +191,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
+	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
@@ -428,6 +429,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
+	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
 - Slides
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
@@ -677,6 +679,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- GNU Wget [Link](http://www.gnu.org/software/wget/)
 	- HTTP Stats Codes Diagram [Link](http://i.stack.imgur.com/whhD1.png)
 	- HTTP Status Code Descriptions [Link](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+	- What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
