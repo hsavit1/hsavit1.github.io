@@ -11,8 +11,12 @@ permalink: /resume/
 > Mobile: (631)252-0490
 > 
 > Downloadable Copy
+>
+> U.S.A. + Canada Citizen
+ 
 
----
+___
+
 
 ###Education
 
@@ -22,13 +26,17 @@ permalink: /resume/
 + **Bachelors of Arts in Mathematics**
 + **Minor in Computer Science**
 
+
 ------
+
 
 ###Objective
 
 > I am a young and passionately driven software engineer; specializing in OO design, performance, and analysis, with extensive experience in the full life cycle of the software design process- including prototyping, applying appropriate and effective design patterns, data design, continuous integration, benchmarking, TDD/BDD, and QA. I aspire to make *amazing*, *intuitive*, and *useful* software that actually improves people's lives. Software is _not_ limited to iOS, although that is my specialty. 
 
+
 ____
+
 
 ### Current Technical Skills and Currently Learning
 
@@ -43,7 +51,9 @@ ____
 + Elixir
 + Phoenix Framework
 
+
 	------
+
 
 ### Other Skills and Current Learning
 
@@ -52,7 +62,9 @@ ____
 + Documentation
 + Fitness
 
+
 ------
+
 
 ### Projects
 
@@ -64,13 +76,16 @@ ____
 
 	---
 
+
 * **[itshenry.com](https://github.com/hsavit1/hsavit1.github.io)** *Released. Currently Maintained. Open Source*
     
     This is my personal blog where I post lots of useful information on a lot of the technologies that I'm working with
      
      **Technical Environment (Subject to Change)**: Jekyll, Ruby, HTML, CSS, Markdown
 
+
 ---
+
 
 ###College involvement
 
@@ -79,7 +94,9 @@ ____
 + Founding Father of PKA: Served as secretary and web development chair for largest fraternity on campus
 + Binghamton University Golf Club active tournament competitor 
 
+
 ---
+
 
 ###Note
 
