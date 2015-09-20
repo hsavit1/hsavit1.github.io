@@ -11,7 +11,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
-	- Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/))
+	- Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
 - Slides
