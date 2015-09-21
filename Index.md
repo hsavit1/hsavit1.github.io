@@ -230,6 +230,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NVD3 Charting Library [Github](https://github.com/novus/nvd3)
 	- Timeline JS [Github](https://github.com/NUKnightLab/TimelineJS)
 	- Drag + Drop in JS [Github](http://bevacqua.github.io/dragula/)
+	- Johnny-Five Javascript Robotics Framework [Github](http://johnny-five.io/)
 - Slides
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
