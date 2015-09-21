@@ -129,10 +129,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
 	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
 	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
-
-#**Apple TV Posts**
-- Guessing what the future might look like for the new Apple TV [Post Coming Soon]()
-
+	
 #**Java and Android Posts**
 - Links
 	- Awesome Java [Link](https://github.com/akullpp/awesome-java)
