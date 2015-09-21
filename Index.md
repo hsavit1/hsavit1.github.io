@@ -141,13 +141,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**WatchKit Posts**
 - Links
 	- WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
-	- :fire: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
+	- :fire: :raised_hands: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
 	- :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
 
 #**Java and Android Posts**
 - Links
 	- :fire: :raised_hands: Awesome Java [Link](https://github.com/akullpp/awesome-java)
-	- :fire: Awesome Android [Link](https://github.com/snowdream/awesome-android) 
+	- :fire: :raised_hands: Awesome Android [Link](https://github.com/snowdream/awesome-android) 
 	- :fire: Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
 	- :fire: Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
 	- :fire: Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
@@ -350,11 +350,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Scala Posts** 
 - Links
-	- :fire: Awesome Scala [Link](https://github.com/lauris/awesome-scala)
+	- :fire: :raised_hands: Awesome Scala [Link](https://github.com/lauris/awesome-scala)
 	- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
-	- :raised_hands: [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
-	- Scala, if you're [impatient](http://horstmann.com/scala/)
-	- Go to Twitter's [Scala Scool](http://twitter.github.io/scala_school/)
+	- :raised_hands: 99 Scala Problems [Link](http://aperiodic.net/phil/scala/s-99/)
+	- Scala, if you're impatient [Link](http://horstmann.com/scala/)
+	- Go to Twitter's Scala Scool [Link](http://twitter.github.io/scala_school/)
 	- Apache Samza [Link](http://samza.apache.org/)
 - Posts Coming Soon
 	- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
@@ -363,7 +363,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Haskell Posts**
 - Links
-	- :fire: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
+	- :fire: :raised_hands: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
 	- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
 	- :raised_hands: Learn you a Haskell for a Great Good (Book) 
 	- Haskell [IDE](https://github.com/leksah/leksah)
@@ -387,7 +387,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Python Posts**
 - Links
-	- Why Python? [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
+	- Why Python? :raised_hands: [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
 	- :fire: :raised_hands: Awesome Python [Link](https://github.com/vinta/awesome-python)
 	- What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
 	- 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
