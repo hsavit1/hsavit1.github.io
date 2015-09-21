@@ -193,6 +193,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
+	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
@@ -207,6 +208,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
+- Tutorial 
+	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
+	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
+	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 - Github Projects
@@ -218,12 +223,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Require.js [Link](https://github.com/jrburke/requirejs)
 	- Underscore.js [Link](http://underscorejs.org/)
 	- Phantom.js
-	- Babel.js transforms your JavaScript [Link](http://babeljs.io/)
-	- Webpack is a bundler for modules [Link](https://github.com/webpack/webpack)
-	- D3: Data Driven Documents [Link](https://github.com/mbostock/d3)
+	- Babel.js transforms your JavaScript [Github](http://babeljs.io/)
+	- Webpack is a bundler for modules [Github](https://github.com/webpack/webpack)
+	- D3: Data Driven Documents [Github](https://github.com/mbostock/d3)
 	- Lodash [Github](https://github.com/lodash/lodash/)
-	- NVD3 Charting Library [Link](https://github.com/novus/nvd3)
-	- Timeline JS [Link](https://github.com/NUKnightLab/TimelineJS)
+	- NVD3 Charting Library [Github](https://github.com/novus/nvd3)
+	- Timeline JS [Github](https://github.com/NUKnightLab/TimelineJS)
+	- Drag + Drop in JS [Github](http://bevacqua.github.io/dragula/)
 - Slides
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
@@ -382,11 +388,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Clojure** 
 - Links
 	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
-	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
 - Github
 	- Figwheel [Github](https://github.com/bhauman/lein-figwheel)
 	- Om: Interface to React [Github](https://github.com/omcljs/om)
+	- Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [Link](http://himera.herokuapp.com/index.html)
+- Tutorial 
+	- Clojurescript Tutorial [Link](https://www.niwi.nz/cljs-workshop/)
+	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 - Slides
 	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Posts Coming Soon
@@ -646,6 +655,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Striving for Cheapness [Post Coming Soon]()
 	- CouchDB
 	- Memcache
+	- What is this new Facebook project with Relay and GraphQL? [Link](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 - Slides
 	- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 	- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
