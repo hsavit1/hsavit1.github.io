@@ -5,6 +5,7 @@ title:  "Index"
 
 Here you can find a bunch of links to really cool places on the internet. I GUARANTEE a non-zero chance that you will walk away smarter than you were before! Find me on Github [Link](https://github.com/hsavit1) 
 
+:hands:
 
 #**Swift**
 - Posts
