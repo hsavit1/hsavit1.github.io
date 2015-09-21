@@ -6,8 +6,8 @@ title:  "Index"
 Here you can find a bunch of links to really cool places on the internet. I GUARANTEE a non-zero chance that you will walk away smarter than you were before! Find me on Github [Link](https://github.com/hsavit1) 
 
 
-- :raised_hands: indicates a _must see_ link
-- :fire: indicates an _Awesome_ list link 
+- :raised_hands: indicates a _must see_ 
+- :fire: indicates an _Awesome list_  
 
 
 #**Swift**
