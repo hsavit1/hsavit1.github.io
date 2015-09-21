@@ -5,9 +5,13 @@ date:   2015-09-21 17:20:15
 comments: false
 ---
 
-As someone who graduated with dual bachelors degrees in Math and Physics, I am pretty opinionated on the subject of "why did you study that?" In truth, this is quite a difficult question to answer. Mostly because, to break down most of the concepts to an uniterested computer scientist is usually a daunting task. In college I had the opportunity to TA for an entry level calculus based physics class and I quickly realized that most computer scientists were unwilling to listen to any of the passionate goodness that poured out of me. This leads me to...
+As someone who graduated with dual bachelors degrees in Math and Physics from Binghamton University, I get pretty opinionated by questions that go like this: "why the hell would you study that?" In truth, this is not even close to an easy question to answer. Mostly because, to break down most of the concepts to an uniterested and possibly hungover programmer is usually pretty damn excruciating. Most of the time, you the hacker don't even care to hear me out. I want to tell you why you're wrong about physics and you (the student) don't even care to listen. 
 
-> Problem #1: **Many computer scientists and engineers lack a deeper sense of appreciation**
+> Let me tell you why you should listen
+
+In college I had the opportunity to TA for an entry level calculus based physics class and I quickly realized that most computer scientists were mostly dismissive of most of the passionate goodness that poured out of me. This leads me to...
+
+> Problem #1: Most computer scientists and engineers lack a deeper sense of appreciation, which is depressing.
 
 Some may argue that this is just a product of my students lack of life experience. That is obviously true to an extent. Or even just a massive generalization of the practice of engieering as a whole. Regardless, it's worth writing about because I believe the problems are more deeply rooted than that.
 
