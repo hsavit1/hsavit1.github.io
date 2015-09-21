@@ -7,7 +7,7 @@ permalink: /resume/
 #**Henry Savit**
 
 
-> henrysavit@gmail.com 
+> [henrysavit@gmail.com](mailto:henrysavit@gmail.com) 
 >                      		
 > Mobile: (631)252-0490
 > 
