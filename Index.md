@@ -43,13 +43,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Advanced UITableViews [Presentation](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
 	- The best of Obj-C to Swift [Presentation](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
 	- Swift Thinking [Presentation](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
-	- Functional Programming in Swift [Presentation](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
+	- :raised_hands: Functional Programming in Swift [Presentation](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
 	- Bottom Up Programming in Swift [Presentation](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 - WWDC Presentations
-	- Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
+	- :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
 	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
 	- UI Testing in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=406)
 	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
@@ -97,7 +97,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Links
-	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
+	- :raised_hands: iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
 	- :fire: :raised_hands: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
 	- :fire: Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
 	- :fire: Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
@@ -131,7 +131,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
-	- Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
+	- :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 	- Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 	- Continuous Integration on iOS: My take [Post Coming Soon]()
@@ -176,7 +176,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Scenarios to build hybrid apps [Post Coming Soon]()
 	- Which Hybrid Framework should you use? [Post Coming Soon]()
 - Links
-	- :fire: Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
+	- :fire: :raised_hands: Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
 	- React Native Playground: See what React Native code & live demos! [Link](https://rnplay.org/)
 	- :fire: Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
 	- React Native vs Microsoft Nativescript [Link](https://www.quora.com/Which-is-better-React-Native-or-Native-Script)
@@ -192,15 +192,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Javascript, ECMA, and Typescript Posts**
 - Links
-	- Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
-	- Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
+	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
+	- :raised_hands: Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
 	- :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- :fire: Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- :fire: Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
 	- :fire: Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
-	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
+	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
@@ -229,15 +229,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
-	- Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
-	- RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
+	- :raised_hands: Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
+	- :raised_hands: RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
 	- Facebook Jest Unit Testing [Github](https://github.com/facebook/jest)
 	- Require.js [Link](https://github.com/jrburke/requirejs)
 	- Underscore.js [Link](http://underscorejs.org/)
 	- Phantom.js
 	- Babel.js transforms your JavaScript [Github](http://babeljs.io/)
-	- Webpack is a bundler for modules [Github](https://github.com/webpack/webpack)
-	- D3: Data Driven Documents [Github](https://github.com/mbostock/d3)
+	- :raised_hands: Webpack is a bundler for modules [Github](https://github.com/webpack/webpack)
+	- :raised_hands: D3: Data Driven Documents [Github](https://github.com/mbostock/d3)
 	- Lodash [Github](https://github.com/lodash/lodash/)
 	- NVD3 Charting Library [Github](https://github.com/novus/nvd3)
 	- Timeline JS [Github](https://github.com/NUKnightLab/TimelineJS)
@@ -262,17 +262,17 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- :fire: :raised_hands: Awesome Go [Link](https://github.com/avelino/awesome-go)
 	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
-	- Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
+	- Go Algorithms [Link](https://github.com/arnauddri/algorithms)
 	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
-	- GO language patterns [Link](http://www.golangpatterns.info/)
+	- :raised_hands: GO language patterns [Link](http://www.golangpatterns.info/)
 	- Effective Go Website [Link](https://golang.org/doc/effective_go.html)
 - Slides
-	- Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
+	- :raised_hands: Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
 	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
 	- Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
 	- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 - Videos
-	- Rob Pike on concurrency [video](https://vimeo.com/49718712)
+	- :raised_hands: Rob Pike on concurrency [video](https://vimeo.com/49718712)
 - Posts Coming Soon
 	- Drop everything and GO! (golang post) [Post Coming Soon]()
 
@@ -304,7 +304,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Erlang Posts**
 - Links
-	- :fire: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
+	- :fire: :raised_hands: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 	- :fire: Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 	- Learn Erlang By Example [Link](http://erlangbyexample.org/) 
 	- Take the Erlang Course [Link](http://www.erlang.org/course/course.html) 
