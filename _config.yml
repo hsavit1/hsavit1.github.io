@@ -16,3 +16,5 @@ email: henrysavit@gmail.com
 
 # Build settings
 markdown: kramdown
+
+gems: [jemoji]
