@@ -451,6 +451,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
 - Slides
+	- Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
 	- Bower [Github](https://github.com/bower/bower)
@@ -462,6 +463,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Commander [Github](https://github.com/tj/commander.js)
 	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
 	- Kraken.js [Github](http://krakenjs.com/)
+	- Async: Async utilities for node and the browser [Link](https://github.com/caolan/async)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
@@ -632,6 +634,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
+- Posts
+	- How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
@@ -665,6 +669,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- CouchDB
 	- Memcache
 	- What is this new Facebook project with Relay and GraphQL? [Link](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
+	- MongoDB, PostgreSQL, or MySQL? [Link](https://www.quora.com/Which-database-should-I-use-for-a-killer-web-application-MongoDB-PostgreSQL-or-MySQL)
 - Slides
 	- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 	- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
@@ -704,6 +709,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- HTTP Stats Codes Diagram [Link](http://i.stack.imgur.com/whhD1.png)
 	- HTTP Status Code Descriptions [Link](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 	- What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
+	- What is BSON? [Link](http://bsonspec.org/)
 - Slides
 	- HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
 	- Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -882,7 +888,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
-	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
+	- Awesome Bootstrap Themes [Link](https://github.com/therebelrobot/awesome-bootstrap)
 	- Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
 	- Free Bootstrap Themes [Link](http://startbootstrap.com/template-categories/all/)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
@@ -932,9 +938,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Impress.js [Link](https://github.com/impress/impress.js)
 	- Deck.js [Link](http://imakewebthings.com/deck.js/#intro)
 	- Remark [Link](https://github.com/gnab/remark)
-	- Markdown Resume Generator [Link](http://mwhite.github.io/resume/)
-	- Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
 	- JSON Resume Builder [Link](http://www.prat0318.me/json_resume/)
+- Github
+	- Emoji Markdown CheatSheet [Github](https://github.com/arvida/emoji-cheat-sheet.com/)
+	- Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
 - Posts
 	- Why the slide format is here to stay and book format is on it's way out [Post Coming Soon]()
 	- Why you need a website [Post Coming Soon]()
