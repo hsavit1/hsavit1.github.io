@@ -221,6 +221,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
 	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+	- :raised_hands: Javascript design patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
+	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 - Tutorial 
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
