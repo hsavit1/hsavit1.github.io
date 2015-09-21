@@ -122,6 +122,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 	- Continuous Integration on iOS: My take [Post Coming Soon]()
 	- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
+	- UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
 
 #**WatchKit Posts**
 - Links
@@ -198,7 +199,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
-	- You Don't Know Javascript [Link](https://github.com/getify/You-Dont-Know-JS)
+	- You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- THe RxJS Book [Link](http://xgrommx.github.io/rx-book/)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
@@ -232,6 +233,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Drag + Drop in JS [Github](http://bevacqua.github.io/dragula/)
 	- Johnny-Five Javascript Robotics Framework [Github](http://johnny-five.io/)
 - Slides
+	- Javascript Fundamentals [SLides](http://slides.com/surtich/javascript-course#/)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -750,6 +752,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
 	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
 	- Chrome Dev Tools [Link](https://developer.chrome.com/devtools)
+- Posts
+	- Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
 - Videos
 	- Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
 - Slides
@@ -888,7 +892,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 - Github
 	- Polymer Web Components [Link](https://github.com/Polymer/polymer)
-	
+
+#**UX and User Experience**
+- Links
+	- UX Design Tips for your App [Link](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb)
+- Posts
+	- A picture is worth a 1000 numbers [Post](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1)
+
 #**Startups, SEO, and Marketing Posts**
 - Links
 	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
@@ -906,6 +916,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- Thoughts about VC funding [Post Coming Soon]()
 	- Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
+	- Keys when trying to attract the best talent [Link](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
 
 #**Presentation and Self Advertisement Tools**
 - Links
