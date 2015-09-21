@@ -225,11 +225,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Javascript design patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 - Tutorial 
+	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
 	- Functional javascript workshop [Link](https://github.com/timoxley/functional-javascript-workshop)
 	- :raised_hands: Javascript Garden [Link](http://bonsaiden.github.io/JavaScript-Garden/)
+	- Trivial Interview Questions in Javascript [Link](http://www.thatjsdude.com/interview/js1.html), Part 2 [Link](http://www.thatjsdude.com/interview/js2.html), Part 3 [Link](http://www.thatjsdude.com/interview/dom.html), Part 4 [Link](http://www.thatjsdude.com/interview/css.html#shadowDOM), Part 5 [Link](http://www.thatjsdude.com/interview/html.html)
+	- 25 Javascript interview questions [Link](http://www.toptal.com/javascript/interview-questions)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- You might not need Jquery [Link](http://youmightnotneedjquery.com/)
@@ -669,6 +672,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Web Development and Deployment Posts**
 - Links
 	- Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
+- Slides
+	- Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
 
 #**DataBase Posts**
 - Links
