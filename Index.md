@@ -192,6 +192,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Javascript, ECMA, and Typescript Posts**
 - Links
+	- :raised_hands: Javascript.com, which has lots of links to free resources [Link](https://www.javascript.com/resources)
 	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
 	- :raised_hands: Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
 	- :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
@@ -228,8 +229,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
 	- Functional javascript workshop [Link](https://github.com/timoxley/functional-javascript-workshop)
+	- :raised_hands: Javascript Garden [Link](http://bonsaiden.github.io/JavaScript-Garden/)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
+	- You might not need Jquery [Link](http://youmightnotneedjquery.com/)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -454,11 +457,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :fire: Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
 	- NPM homepage [Link](https://www.npmjs.com/)
 	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
-	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
-	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
+- Tutorial
+	- :raised_hands: Art of Node: A short intro to Node.js [Link](https://github.com/maxogden/art-of-node#the-art-of-node)
+	- NodeSchool Workshops [Link](http://nodeschool.io/#workshopper-list)
+	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
+	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 - Slides
 	- :raised_hands: Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
@@ -646,6 +652,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
 - Posts
 	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
+	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
