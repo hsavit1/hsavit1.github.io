@@ -220,6 +220,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
+	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - Tutorial 
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
@@ -900,6 +901,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :fire: Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 	- Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
 	- Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
+	- :raised_hands: {static is} The New Dynamic [Link](http://www.thenewdynamic.org/tool/jekyll/)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
 	- What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
