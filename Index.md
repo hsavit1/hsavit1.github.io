@@ -13,7 +13,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 	- Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
+	- Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
+	- Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 - Slides
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
@@ -41,6 +43,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
+- WWDC Presentations
+	- Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
+	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
+	- UI Testing in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=406)
+	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
+	- What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
+	- Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
 - Posts Coming Soon
 	- Figuring out FlatMap [Post Coming Soon]()
 	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
@@ -129,7 +138,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
 	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
 	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
-	
+
 #**Java and Android Posts**
 - Links
 	- Awesome Java [Link](https://github.com/akullpp/awesome-java)
