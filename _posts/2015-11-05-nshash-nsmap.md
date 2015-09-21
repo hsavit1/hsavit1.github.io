@@ -40,6 +40,7 @@ Object subscripting was the new notation introduced in Clang 3.1 / ObjC-2.0 with
 
 If you want to do object subscripting in NSMapTable, add it in a category. Just add these 2 methods
 
+	```objective-c
 	- (id)objectForKeyedSubscript:(id)key	{
 		return [self objectForKey:key];
 	}
@@ -47,6 +48,7 @@ If you want to do object subscripting in NSMapTable, add it in a category. Just 
 	- (void)setObject:(id)obj forKeyedSubscript:(id)key	{
 		[self setObject:obj forKey:key];
 	}
+	```
 
 `NSMapTable` has 4 conveience constructors:
 - strongToStrongObjectsMapTable
