@@ -5,6 +5,12 @@ title:  "Index"
 
 Here you can find a bunch of links to really cool places on the internet. I GUARANTEE a non-zero chance that you will walk away smarter than you were before! Find me on Github [Link](https://github.com/hsavit1) 
 
+
+**Keys**: 
+- :fire: signifies an Awesome List
+- :thumbsup: :fire: :exclamation: :raised_hands: means DO NOT MISS THIS
+- ::green_heart: means a great Github project
+
 #**Swift**
 - Posts
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
