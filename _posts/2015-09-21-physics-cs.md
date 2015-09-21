@@ -13,7 +13,6 @@ In college I had the opportunity to TA for an entry level calculus based physics
 
 > Problem #1: Most computer scientists and engineers lack a deeper sense of appreciation, which is depressing.
 
-Some may argue that this is just a product of my students lack of life experience. That is obviously true to an extent. Or even just a massive generalization of the practice of engieering as a whole. Regardless, it's worth writing about because I believe the problems are more deeply rooted than that.
-
+Some may argue that this is just a product of my students lack of life experience or even just a massive sweeping generalization of the practice of engieering as a whole. That is obviously true to an extent. Most of my students were age 20 or younger and they were all engineers, not scientists. Regardless the issue I am addressing is still worth writing about because I still have no reason to believe that programmers have suddenly "figured it out" as they move out of college and into industry.
 
 _More on this to come when I have time for a good rant..._
