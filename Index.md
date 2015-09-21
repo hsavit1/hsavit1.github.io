@@ -5,14 +5,17 @@ title:  "Index"
 
 Here you can find a bunch of links to really cool places on the internet. I GUARANTEE a non-zero chance that you will walk away smarter than you were before! Find me on Github [Link](https://github.com/hsavit1) 
 
-:raised_hands:
+
+:raised_hands: indicates a _must see_ link
+:fire: indicates an _Awesome_ list link 
+
 
 #**Swift**
 - Posts
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
-	- Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
-	- Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
+	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
+	- :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 	- Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
 	- Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
@@ -95,16 +98,16 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Links
 	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
-	- Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
-	- Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
-	- Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
-	- Awesome iOS Animations [Link](https://github.com/sxyx2008/awesome-ios-animation)
-	- Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
-	- Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
-	- Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
-	- Awesome CocoaConferences [Link](https://github.com/Lascorbe/CocoaConferences)
-	- Awesome OSX [Link](https://github.com/iCHAIT/awesome-osx)
-	- Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
+	- :fire: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
+	- :fire: Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
+	- :fire: Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
+	- :fire: Awesome iOS Animations [Link](https://github.com/sxyx2008/awesome-ios-animation)
+	- :fire: Awesome Open Source iOS Apps [Link](https://github.com/dkhamsing/open-source-ios-apps)
+	- :fire: Awesome iOS Security [Link](https://github.com/ashishb/osx-and-ios-security-awesome)
+	- :fire: Awesome iOS Dev Interview Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+	- :fire: Awesome CocoaConferences [Link](https://github.com/Lascorbe/CocoaConferences)
+	- :fire: Awesome OSX [Link](https://github.com/iCHAIT/awesome-osx)
+	- :fire: Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
 - Slides
@@ -138,19 +141,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**WatchKit Posts**
 - Links
 	- WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
-	- Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
-	- Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
+	- :fire: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
+	- :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
 
 #**Java and Android Posts**
 - Links
-	- Awesome Java [Link](https://github.com/akullpp/awesome-java)
-	- Awesome Android [Link](https://github.com/snowdream/awesome-android) 
-	- Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
-	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
-	- Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
-	- Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
-	- Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
-	- Awesome JVM [Link](https://github.com/deephacks/awesome-jvm) 
+	- :fire: Awesome Java [Link](https://github.com/akullpp/awesome-java)
+	- :fire: Awesome Android [Link](https://github.com/snowdream/awesome-android) 
+	- :fire: Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
+	- :fire: Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
+	- :fire: Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
+	- :fire: Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
+	- :fire: Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
+	- :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm) 
 - Slides
 	- New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
 	- Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
@@ -173,9 +176,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Scenarios to build hybrid apps [Post Coming Soon]()
 	- Which Hybrid Framework should you use? [Post Coming Soon]()
 - Links
-	- Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
+	- :fire: Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
 	- React Native Playground: See what React Native code & live demos! [Link](https://rnplay.org/)
-	- Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
+	- :fire: Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
 	- React Native vs Microsoft Nativescript [Link](https://www.quora.com/Which-is-better-React-Native-or-Native-Script)
 	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
 	- Reapp [Link](http://reapp.io/)
@@ -191,15 +194,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Links
 	- Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
 	- Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
-	- Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
-	- Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
-	- Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
-	- Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
-	- Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
-	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- :fire: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
+	- :fire: Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
+	- :fire: Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
+	- :fire: Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
+	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
+	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
-	- Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
-	- Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
+	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
+	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
@@ -257,7 +260,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Go-lang Posts**
 - Posts
 - Links
-	- Awesome Go [Link](https://github.com/avelino/awesome-go)
+	- :fire: :raised_hands: Awesome Go [Link](https://github.com/avelino/awesome-go)
 	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
 	- Link to [AwesomeGO](https://github.com/avelino/awesome-go), [Algorithms](https://github.com/arnauddri/algorithms)
 	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
@@ -275,11 +278,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Ruby and Ruby on Rails Posts** 
 - Links
-	- Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
-	- Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
-	- Awesome Ruby Bookmarks [Link](https://github.com/dreikanter/ruby-bookmarks)
-	- Awesome Ruby Development Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
-	- Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
+	- :fire: Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
+	- :fire: Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
+	- :fire: Awesome Ruby Bookmarks [Link](https://github.com/dreikanter/ruby-bookmarks)
+	- :fire: Awesome Ruby Development Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
+	- :fire: Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
 	- Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
 	- 99 Problems with Ruby [Link](https://github.com/hcf/99-problems-in-Ruby)
 	- Learn Ruby by Doing Exmaple Problems [Link](https://www.learneroo.com/modules/61/nodes/338)
@@ -301,8 +304,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Erlang Posts**
 - Links
-	- Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
-	- Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
+	- :fire: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
+	- :fire: Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
 	- Learn Erlang By Example [Link](http://erlangbyexample.org/) 
 	- Take the Erlang Course [Link](http://www.erlang.org/course/course.html) 
 	- Some Exercises [Link](http://www.erlang.org/course/exercises.html) 
@@ -317,7 +320,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Elixir Posts**
 - Links
-	- Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
+	- :fire: Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
 	- Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 	- A Crash Course for Erlang Devs [Link](http://elixir-lang.org/crash-course.html)
 	- Official Repo [Link](https://github.com/elixir-lang/elixir)
@@ -347,7 +350,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Scala Posts** 
 - Links
-	- Awesome Scala [Link](https://github.com/lauris/awesome-scala)
+	- :fire: Awesome Scala [Link](https://github.com/lauris/awesome-scala)
 	- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
 	- [99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 	- Scala, if you're [impatient](http://horstmann.com/scala/)
@@ -360,7 +363,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Haskell Posts**
 - Links
-	- Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
+	- :fire: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
 	- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
 	- Learn you a Haskell for a Great Good (Book) 
 	- Haskell [IDE](https://github.com/leksah/leksah)
@@ -375,7 +378,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Elm Posts**
 - Links
-	- Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
+	- :fire: Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
 	- The Elm Architecture Tutorial [Link](https://github.com/evancz/elm-architecture-tutorial)
 	- Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
 - Slides
@@ -385,7 +388,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Python Posts**
 - Links
 	- Why Python? [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
-	- Awesome Python [Link](https://github.com/vinta/awesome-python)
+	- :fire: Awesome Python [Link](https://github.com/vinta/awesome-python)
 	- What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
 	- 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 	- Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
@@ -398,7 +401,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Clojure** 
 - Links
-	- Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
+	- :fire: Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
 - Github
 	- Figwheel [Github](https://github.com/bhauman/lein-figwheel)
@@ -416,7 +419,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Rust Posts**
 - Links
-	- Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
+	- :fire: Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
 	- What is Rust? [Link](https://doc.rust-lang.org/book/README.html) (Book)
 	- The Rust Book [Link]((http://rustbyexample.com/index.html))
 	- Rust hit's 1.0 ! [Link](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
@@ -424,10 +427,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Other Languages**
 - Links
-	- Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
-	- Awesome C [Link](https://notabug.org/koz.ross/awesome-c)
-	- Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
-	- Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
+	- :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
+	- :fire: Awesome C [Link](https://notabug.org/koz.ross/awesome-c)
+	- :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
+	- :fire: Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
 	- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 	- 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
 	- Purescript Github Repo [Link](https://github.com/purescript/purescript)
@@ -441,12 +444,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Node.js Posts**
 - Links
-	- Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
-	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
-	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
-	- Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
+	- :fire: Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
+	- :fire: Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
+	- :fire: Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
+	- :fire: Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
 	- NPM homepage [Link](https://www.npmjs.com/)
-	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
@@ -493,9 +496,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
-	- Awesome React [Link](https://github.com/enaqx/awesome-react)
-	- Awesome RxJS + React/Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
-	- Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
+	- :fire: Awesome React [Link](https://github.com/enaqx/awesome-react)
+	- :fire: Awesome RxJS + React/Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
+	- :fire: Awesome Redux [Link](https://github.com/xgrommx/awesome-redux)
 	- Flux: An Application Architecture for React [Link](http://facebook.github.io/react/blog/2014/05/06/flux.html)
 	- What is FLUX ? [Link](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 	- Thinking in React [Link](http://facebook.github.io/react/docs/thinking-in-react.html)
@@ -567,11 +570,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Made with Angular [Link](https://www.madewithangular.com/#/)
 	- Angular 1.x or Angular 2 ? Stackoverflow answer [Link](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
 	- MEAN Stack Official Website [Link](http://mean.io/#!/)
-	- Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another awesome Angular [List](https://github.com/aruzmeister/awesome-angular)
-	- Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
-	- Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
+	- :fire: Awesome AngularJS [Link](https://github.com/gianarb/awesome-angularjs) and another awesome Angular [List](https://github.com/aruzmeister/awesome-angular)
+	- :fire: Awesome Angular 2.0 Learning [Link](https://github.com/timjacobi/angular2-education), and another [Link](https://github.com/jmcunningham/AngularJS2-Learning)
+	- :fire: Awesome Angular Learning [List](https://github.com/jmcunningham/AngularJS-Learning)
 	- Great site for Angular 2 [Link](http://blog.thoughtram.io/exploring-angular-2/)
-	- Awesome Backbone.js [Link](https://github.com/instanceofpro/awesome-backbone)
+	- :fire: Awesome Backbone.js [Link](https://github.com/instanceofpro/awesome-backbone)
 	- Angular Design Patterns [Link](https://github.com/hsavit1/Angular-Design-Patterns-Best-Practices)
 	- Angular JS in Patterns [Link](https://github.com/mgechev/angularjs-in-patterns)
 	- Official AngularJS Documentation [Link](https://docs.angularjs.org/tutorial/step_00)
@@ -606,7 +609,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Meteor Posts**
 - Links
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
-	- Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
+	- :fire: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 - Slides
@@ -622,16 +625,16 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
 	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 - Links
-	- Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
-	- Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
- 	- Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
-	- Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
-	- Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
-	- Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
-	- Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
-	- Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
-	- Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
-	- The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
+	- :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+	- :fire: Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
+ 	- :fire: Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
+	- :fire: Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
+	- :fire: Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
+	- :fire: Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
+	- :fire: Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
+	- :fire: Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
+	- :fire: Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
+	- :raised_hands: The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
 	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
@@ -646,7 +649,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Programming Languages Posts**
 - Link
-	- Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
+	- :fire: Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
 	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
 	- Learn X in Y minutes [Link](http://learnxinyminutes.com/): This has to be one of my favorite websites out there!
 	- The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
@@ -657,10 +660,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**DataBase Posts**
 - Links
-	- Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
-	- Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-	- Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
-	- Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
+	- :fire: Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
+	- :fire: Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+	- :fire: Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
+	- :fire: Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
 	- Turning the database inside out with Apache Samza [Link](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - Posts
 	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
@@ -686,14 +689,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Netowrking, IP, Routing, Servers, and Backend Development Posts**
 - Links
-	- Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
-	- Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
-	- Awesome REST [Link](https://github.com/marmelab/awesome-rest)
-	- Awesome JSON [Link](https://github.com/burningtree/awesome-json)
-	- Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
-	- Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
-	- Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
-	- Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
+	- :fire: :raised_hands: Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
+	- :fire: Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
+	- :fire: Awesome REST [Link](https://github.com/marmelab/awesome-rest)
+	- :fire: Awesome JSON [Link](https://github.com/burningtree/awesome-json)
+	- :fire: Awesome Data Engineering [Link](https://github.com/igorbarinov/awesome-data-engineering)
+	- :fire: Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
+	- :fire: Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
+	- :fire: Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
 	- How to design a REST API [Link](http://blog.octo.com/en/design-a-rest-api/)
 	- HTTP API Design Guide [Link](https://github.com/interagent/http-api-design)
 	- JSON API Design Guide [Link](http://jsonapi.org/)
@@ -734,8 +737,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	
 #**Microservices and Scalable Architecture**
 - Links
-	- Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
-	- Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
+	- :fire: Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
+	- :fire: Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)
 	- Microservices Template [Link](https://github.com/begriffs/microservice-template)
 	- Martin Fowler: Microservices Resource Guide [Link](http://martinfowler.com/microservices/)
 - Posts
@@ -757,14 +760,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 - Posts
 	- _Book Review_: Cracking the PM Interview [Post Coming Soon]()
 - Links
-	- Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
-	- Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
-	- Awesome Container Technologies [Link](https://github.com/tcnksm/awesome-container)
-	- Awesome Apache Mesos [Link](https://github.com/dharmeshkakadia/awesome-mesos)
-	- Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
-	- Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
-	- Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-	- Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
+	- :fire: :raised_hands: Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+	- :fire: Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
+	- :fire: Awesome Container Technologies [Link](https://github.com/tcnksm/awesome-container)
+	- :fire: Awesome Apache Mesos [Link](https://github.com/dharmeshkakadia/awesome-mesos)
+	- :fire: Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
+	- :fire: Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
+	- :fire: Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
+	-:fire:  Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
 	- Chrome Dev Tools [Link](https://developer.chrome.com/devtools)
 - Posts
 	- Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
@@ -775,19 +778,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Developer Environment and System Admin Posts**
 - Links
-	- Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
-	- Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
-	- Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
-	- Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
-	- Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
-	- Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
-	- Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
-	- Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
-	- Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
-	- Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
-	- Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
-	- Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
-	- Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
+	- :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
+	- :fire: Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
+	- :fire: Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
+	- :fire: Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
+	- :fire: Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
+	- :fire: Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
+	- :fire: Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
+	- :fire: Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
+	- :fire: Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
+	- :fire: Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- :fire: Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
+	- :fire: Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
+	- :fire: Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
 	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
 	- What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
@@ -813,10 +816,10 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Software Development Posts** 
 - Links
-	- Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
-	- Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
-	- Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
-	- Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
+	- :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
+	- :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
+	- :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
+	- :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
 	- When is Agile Developement seriously practical?
 - Posts
 	- Making Things Happen (Book) [Post Coming Soon]()
@@ -833,42 +836,42 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Machine Learning Posts**
 - Links
-	- Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-	- Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+	- :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+	- :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
 	- Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-	- Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+	- :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
 	- Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
 	- How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
 	- Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
 
 #**Security Posts**
 - Links
-	- Awesome Security [Link](https://github.com/sbilly/awesome-security)
-	- Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
-	- Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
-	- Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
-	- Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
-	- Awesome Malware Analysis [Link](https://github.com/rshipp/awesome-malware-analysis)
-	- Awesome Penetration Testing [Link](https://github.com/enaqx/awesome-pentest)
-	- Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
-	- Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
+	- :fire: :raised_hands: Awesome Security [Link](https://github.com/sbilly/awesome-security)
+	- :fire: Awesome Honeypots [Link](https://github.com/paralax/awesome-honeypots)
+	- :fire: Awesome Hacking [Link](https://github.com/carpedm20/awesome-hacking)
+	- :fire: Awesome Application Security [Link](https://github.com/paragonie/awesome-appsec)
+	- :fire: Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
+	- :fire: Awesome Malware Analysis [Link](https://github.com/rshipp/awesome-malware-analysis)
+	- :fire: Awesome Penetration Testing [Link](https://github.com/enaqx/awesome-pentest)
+	- :fire: Awesome Network Traces [Link](https://github.com/caesar0301/awesome-pcaptools)
+	- :fire: Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
-	- Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
+	- :fire: Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
 
 #**Data Science and Public Data Posts**
 - Links
-	- Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
-	- Awesome JSON Libraries and Resources [Link](https://github.com/burningtree/awesome-json)
-	- Awesome JSON Datasets [Link](https://github.com/jdorfman/Awesome-JSON-Datasets/tree/master)
-	- Awesome geoJSON [Link](https://github.com/tmcw/awesome-geojson)
-	- Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
-	- Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
-	- Aweesome R [Link](https://github.com/qinwf/awesome-R)
-	- Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
-	- Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
-	- Awesome DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
-	- Awesome Hadoop [Link](https://github.com/youngwookim/awesome-hadoop)
-	- Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
+	- :fire: Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
+	- :fire: Awesome JSON Libraries and Resources [Link](https://github.com/burningtree/awesome-json)
+	- :fire: Awesome JSON Datasets [Link](https://github.com/jdorfman/Awesome-JSON-Datasets/tree/master)
+	- :fire: Awesome geoJSON [Link](https://github.com/tmcw/awesome-geojson)
+	- :fire: Awesome Analytics [Link](https://github.com/onurakpolat/awesome-analytics)
+	- :fire: Awesome Data Visualisation [Link](https://github.com/fasouto/awesome-dataviz)
+	- :fire: Aweesome R [Link](https://github.com/qinwf/awesome-R)
+	- :fire: :raised_hands: Awesome Big Data [Link](https://github.com/onurakpolat/awesome-bigdata)
+	- :fire: Awesome Research Tools [Link](https://github.com/emptymalei/awesome-research)
+	- :fire: Awesome DataScience [Link](https://github.com/okulbilisim/awesome-datascience)
+	- :fire: Awesome Hadoop [Link](https://github.com/youngwookim/awesome-hadoop)
+	- :fire: Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
 - Github Projects
@@ -878,23 +881,23 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Design and Front End Web Development Posts**
 - Links
-	- Awesome Design [Link](https://github.com/troyericg/awesome-design)
-	- Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-	- Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
-	- Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
-	- Awesome Frontdesk for Front End Devs [Link](https://github.com/miripiruni/frontdesk)
-	- Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
-	- Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
-	- Awesome Images [Link](https://github.com/heyalexej/awesome-images)
-	- Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
-	- Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-	- Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
-	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
-	- Awesome Bootstrap Themes [Link](https://github.com/therebelrobot/awesome-bootstrap)
-	- Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
+	- :fire: :raised_hands: Awesome Design [Link](https://github.com/troyericg/awesome-design)
+	- :fire: :raised_hands: Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
+	- :fire: Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
+	- :fire: Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
+	- :fire: Awesome Frontdesk for Front End Devs [Link](https://github.com/miripiruni/frontdesk)
+	- :fire: Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- :fire: Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+	- :fire: Awesome Images [Link](https://github.com/heyalexej/awesome-images)
+	- :fire: Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
+	- :fire: Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+	- :fire: Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
+	- :fire: Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
+	- :fire: Awesome Bootstrap Themes [Link](https://github.com/therebelrobot/awesome-bootstrap)
+	- :fire: Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
 	- Free Bootstrap Themes [Link](http://startbootstrap.com/template-categories/all/)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
-	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
+	- :fire: Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 	- Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
 	- Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
 - Posts
@@ -915,13 +918,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Startups, SEO, and Marketing Posts**
 - Links
-	- Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
-	- Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
-	- Awesome JobBoards [Link](https://github.com/wfhio/awesome-job-boards)
-	- Awesome Social Media Share Links [Link](https://github.com/vinkla/awesome-share-links)
-	- Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
-	- Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
-	- Awesome Personal Finance [Link](https://github.com/ashishb/personal-finance-awesome)
+	- :fire: Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
+	- :fire: Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)
+	- :fire: Awesome JobBoards [Link](https://github.com/wfhio/awesome-job-boards)
+	- :fire: Awesome Social Media Share Links [Link](https://github.com/vinkla/awesome-share-links)
+	- :fire: Awesome Open Comanies [Link](https://github.com/opencompany/awesome-open-company)
+	- :fire: Awesome SEO [Link](https://github.com/marcobiedermann/search-engine-optimization)
+	- :fire: Awesome Personal Finance [Link](https://github.com/ashishb/personal-finance-awesome)
 	- Startup Knowledgebase [Link](https://github.com/bnjs/StartupKnowledgeBase)
 	- Startup Readings [Link](https://github.com/dennybritz/startupreadings)
 	- Startup Must Watch Videos [Link](https://github.com/gerricchaplin/startup-must-watch)
@@ -953,9 +956,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Economics and Bitcoin Posts**
 - Links
-	- Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
-	- Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
-	- Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- :fire: Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
+	- :fire: Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)
+	- :fire: Awesome Bitcoing Programming Reading List [Link](https://github.com/jashmenn/bitcoin-reading-list)
 	- Bitcoin Book [Link](https://github.com/aantonop/bitcoinbook)
 	- Bitcoing Trading Bot and Real Time Dashboard [Link](https://github.com/jkbrzt/cointrol)
 - Posts
@@ -968,7 +971,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
 	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
 	- Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
-	- Check out my Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
+	- Check out my :fire: Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
 	- EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
 	- LibQuantum C Library [Link](http://www.libquantum.de/)
 	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
@@ -990,15 +993,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
 
 #**Physics Posts**
-- Check out my Awesome Physics Repo [Link]()
+- Check out my :fire: Awesome Physics Repo [Link]()
 
 #**Mathematics Posts**
-- Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
+- :fire: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 
 #**Random Thoughts and Posts** 
 - Links
-	- Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
-	- Awesome AMAs [Link](https://github.com/sindresorhus/amas)
+	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
+	- :fire: Awesome AMAs [Link](https://github.com/sindresorhus/amas)
 	- What makes Evernote the best app out there? [Post Coming Soon]()
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
 - Posts
