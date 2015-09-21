@@ -425,6 +425,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
 	- Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
 	- Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
+	- NPM homepage [Link](https://www.npmjs.com/)
 	- Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
@@ -443,6 +444,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Commander [Github](https://github.com/tj/commander.js)
 	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
 	- Kraken.js [Github](http://krakenjs.com/)
+- Posts
+	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
 #**Phoenix Framework Posts**
 - Links
@@ -860,6 +863,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Awesome Fonts [Link](https://github.com/brabadu/awesome-fonts)
 	- Awesome Bootstrap Templates [Link](https://github.com/therebelrobot/awesome-bootstrap)
 	- Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
+	- Free Bootstrap Themes [Link](http://startbootstrap.com/template-categories/all/)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
 	- Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 	- Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
