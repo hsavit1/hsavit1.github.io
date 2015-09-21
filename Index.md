@@ -227,6 +227,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
+	- Functional javascript workshop [Link](https://github.com/timoxley/functional-javascript-workshop)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 - Github Projects
@@ -642,6 +643,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
+	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
 - Posts
 	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 - Slides
