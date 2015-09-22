@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Computer Scientists can Learn from Physicists and Mathematicians. And Vice Versa"
+title:  " :book: What Computer Scientists can Learn from Physicists and Mathematicians. And Vice Versa"
 date:   2015-09-21 17:20:15
 comments: false
 ---

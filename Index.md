@@ -482,6 +482,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NodeSchool Workshops [Link](http://nodeschool.io/#workshopper-list)
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
+	- Quick Node & Bootstrap Web App [Link](https://stormpath.com/blog/build-nodejs-express-stormpath-app/) 
 - Slides
 	- :raised_hands: Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
@@ -496,6 +497,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
 	- Kraken.js [Github](http://krakenjs.com/)
 	- Async: Async utilities for node and the browser [Link](https://github.com/caolan/async)
+	- NodeBootstrap: Get going with Express + Node + Bootstrap [Link](https://github.com/inadarei/nodebootstrap)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
@@ -635,10 +637,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Meteor Posts**
 - Links
-	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 	- :fire: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
+	- Meteor job board [Link](http://www.weworkmeteor.com/)
+- Posts
+	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 - Github
@@ -1024,8 +1028,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
 	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
 
-#**Physics Posts**
-- Check out my :fire: Awesome Physics Repo [Link]()
+#**(Mostly Quantum) Physics Posts**
+- Links
+	- Check out my :fire: Awesome Physics Repo [Link]()
+	- An Primer of Quantum Cognition [Link](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
+	- Steven Hawking on God [Link](http://www.hawking.org.uk/does-god-play-dice.html)
 
 #**Mathematics Posts**
 - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
