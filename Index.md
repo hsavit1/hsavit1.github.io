@@ -194,8 +194,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Javascript, ECMA, and Typescript Posts**
 - Links
 	- :raised_hands: Javascript.com, which has lots of links to free resources [Link](https://www.javascript.com/resources)
-	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/#frameworks)
-	- :raised_hands: Javascript Patterns [Link](https://github.com/shichuan/javascript-patterns)
+	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/)
 	- :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- :fire: Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- :fire: Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
@@ -210,7 +209,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
-	- :raised_hands: You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- THe RxJS Book [Link](http://xgrommx.github.io/rx-book/)
 	- Don't waste your time with Coffeescript [Link](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/12/jargon.md)
@@ -227,6 +225,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 - Books
+	- :raised_hands: You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- Eloquent Javascript Book [Link](http://eloquentjavascript.net/)
