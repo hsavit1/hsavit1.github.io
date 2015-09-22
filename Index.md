@@ -645,6 +645,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
 - Github
 	- Blaze [Github](http://meteor.github.io/blaze/)
 
