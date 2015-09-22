@@ -205,6 +205,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
+	- :raised_hands: Airbnb Javascript Style Guide [Link](https://github.com/airbnb/javascript)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
@@ -225,6 +226,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- :raised_hands: Javascript design patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
+	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
 - Tutorial 
 	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- Mozilla's Official DOM Reference [Link](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -233,11 +235,15 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
 	- Functional javascript workshop [Link](https://github.com/timoxley/functional-javascript-workshop)
 	- :raised_hands: Javascript Garden [Link](http://bonsaiden.github.io/JavaScript-Garden/)
+- Interview
 	- Trivial Interview Questions in Javascript [Link](http://www.thatjsdude.com/interview/js1.html), Part 2 [Link](http://www.thatjsdude.com/interview/js2.html), Part 3 [Link](http://www.thatjsdude.com/interview/dom.html), Part 4 [Link](http://www.thatjsdude.com/interview/css.html#shadowDOM), Part 5 [Link](http://www.thatjsdude.com/interview/html.html)
 	- 25 Javascript interview questions [Link](http://www.toptal.com/javascript/interview-questions)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- You might not need Jquery [Link](http://youmightnotneedjquery.com/)
+	- The state of JS Application Architecture in 2015 [Link](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
+	- ES6 Generators Deliver Go style Concurrency [Github](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+	- Class hierarchies? Dont do that! [Link](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
 - Github Projects
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
@@ -255,6 +261,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Timeline JS [Github](https://github.com/NUKnightLab/TimelineJS)
 	- Drag + Drop in JS [Github](http://bevacqua.github.io/dragula/)
 	- Johnny-Five Javascript Robotics Framework [Github](http://johnny-five.io/)
+	- CSP Channels fo JS like Clojurescript's core.async or Go [Github](https://github.com/ubolonton/js-csp)
+	- 3D Library [Github](https://github.com/mrdoob/three.js)
 - Slides
 	- :raised_hands: Javascript Fundamentals [SLides](http://slides.com/surtich/javascript-course#/)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
@@ -419,6 +427,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Figwheel [Github](https://github.com/bhauman/lein-figwheel)
 	- Om: Interface to React [Github](https://github.com/omcljs/om)
 	- :raised_hands: Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [Link](http://himera.herokuapp.com/index.html)
+	- core.async [Github](https://github.com/clojure/core.async)
 - Tutorial 
 	- Clojurescript Tutorial [Link](https://www.niwi.nz/cljs-workshop/)
 	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
