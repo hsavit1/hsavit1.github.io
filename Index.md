@@ -531,6 +531,39 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
 	- Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
 
+#**Meteor Posts**
+- Links
+	- :fire: :raised_hands: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
+	- MeteorHacks Website [Link](https://meteorhacks.com/)
+	- Meteor job board [Link](http://www.weworkmeteor.com/)
+	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
+	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
+- Quick References
+	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
+	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
+- Books and Learning Materials
+	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
+- Posts
+	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
+	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
+	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
+	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
+- Tutorials
+	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
+	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
+	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
+	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
+	- Build a Slack clone in Meteor [Link](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started), and corresponding Github Repo [Github](https://github.com/RocketChat/Rocket.Chat)
+- Slides
+	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
+	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
+- Github
+	- Blaze [Github](http://meteor.github.io/blaze/)
+	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
+	- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
+	- React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
+
 #**ReactJS, Redux, Flux Posts**
 - Links 
 	- :raised_hands: React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
@@ -643,33 +676,6 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
 - Talks
 	- Angular 1 vs Angular 2 [Talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
-
-#**Meteor Posts**
-- Links
-	- :fire: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
-	- MeteorHacks Website [Link](https://meteorhacks.com/)
-	- Meteor job board [Link](http://www.weworkmeteor.com/)
-	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
-	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
-	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
-	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
-- Posts
-	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
-	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
-	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
-	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
-- Tutorials
-	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
-	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
-	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
-	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
-- Slides
-	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
-	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
-	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
-- Github
-	- Blaze [Github](http://meteor.github.io/blaze/)
-	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
 
 -----
 
