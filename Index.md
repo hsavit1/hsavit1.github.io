@@ -647,18 +647,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Meteor Posts**
 - Links
 	- :fire: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
-	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
-	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
+	- MeteorHacks Website [Link](https://meteorhacks.com/)
 	- Meteor job board [Link](http://www.weworkmeteor.com/)
 	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
+	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 - Posts
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
 	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
 	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
 - Tutorials
+	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
 	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
 - Slides
@@ -667,6 +668,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
 - Github
 	- Blaze [Github](http://meteor.github.io/blaze/)
+	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
 
 -----
 
