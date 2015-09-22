@@ -202,6 +202,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
+	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
@@ -226,6 +227,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 - Tutorial 
 	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+	- Mozilla's Official DOM Reference [Link](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
 	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
