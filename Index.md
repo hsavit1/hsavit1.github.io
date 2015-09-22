@@ -280,6 +280,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Go-lang Posts**
 - Posts
+	- Go versus Node.js [Link](http://www.hostingadvice.com/blog/nodejs-vs-golang/)
 - Links
 	- :fire: :raised_hands: Awesome Go [Link](https://github.com/avelino/awesome-go)
 	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
