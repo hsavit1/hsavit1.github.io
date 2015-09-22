@@ -12,6 +12,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 
 #**Swift**
 - Posts
+	- :raises_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
@@ -27,14 +28,14 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
 	- Practical Declarative [Slides](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [Slides](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
 	- Building for Open Source [Slides](https://speakerdeck.com/kylef/building-for-open-source)
-	- FizzBuzz on steroids with Swift [Slides](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
+	- :raises_hands: FizzBuzz on steroids with Swift [Slides](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
 	- FRP with RAC in Swift [Slides](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
 	- How Carthage works [Slides](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
 	- Learning Swift from Haskell [Slides](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [Presentation](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
 	- Natasha the Robot Explains Functional Programming [Slides](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
 	- Make Swift More Functional [Slides](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
 	- FP in Swift [Slides](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
-	- RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
+	- :raises_hands: RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 	- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 	- Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
 - Presentations
