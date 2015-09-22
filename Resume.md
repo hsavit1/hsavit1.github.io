@@ -48,7 +48,7 @@ permalink: /resume/
 + MongoDB
 + Ruby
 + React.js / Flux
-+ Node.js / Express
++ Node.js / Express / Meteor
 + Javascript
 + Elixir
 + Phoenix Framework
@@ -83,6 +83,14 @@ permalink: /resume/
      
      **Technical Environment (Subject to Change)**: Jekyll, Ruby, HTML, CSS, Markdown
 
+
+	---
+
+* **SwiftSavant.io**, *In development. Closed source while in Development*
+    
+    Web Application where users can learn everything about the Swift Langauge in one cohesive setting.
+     
+     **Technical Environment (Subject to Change)**:  Meteor, Node.js, React.js, HTML, Sass, CSS
 
 	---
 
