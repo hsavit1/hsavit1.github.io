@@ -227,11 +227,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Javascript design patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
+	- Eloquent Javascript Book [Link](http://eloquentjavascript.net/)
 - Tutorial 
 	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- Mozilla's Official DOM Reference [Link](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
-	- Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
+	- :raised_hands: Javascript promises visualization playground [Link](http://bevacqua.github.io/promisees/)
 	- Amazing Blog with lots of helpful projects from a JS master [Link](http://bevacqua.io/opensource)
 	- Functional javascript workshop [Link](https://github.com/timoxley/functional-javascript-workshop)
 	- :raised_hands: Javascript Garden [Link](http://bonsaiden.github.io/JavaScript-Garden/)
