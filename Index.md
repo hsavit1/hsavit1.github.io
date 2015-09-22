@@ -538,12 +538,22 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Meteor job board [Link](http://www.weworkmeteor.com/)
 	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
 	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
+	- Made with Meteor [Link](http://devpost.com/software/built-with/meteor-js), [Link2](http://madewith.meteor.com/)
 - Quick References
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 - Posts
+	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
+	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
+	- What startups are using Meteor in prouction? [Link](https://www.quora.com/Which-startups-use-Meteor-in-production)
+	- Is Meteor Ready? [Link](https://www.quora.com/Is-MeteorJS-the-best-JavaScript-framework)
+	- Is Meteor Secure? [Link](https://www.quora.com/Is-meteor-js-secure)
+	- Meteor vs MEAN [Link](https://www.quora.com/What-does-Quincy-Larson-think-about-the-Meteor-Framework-compared-to-the-MEAN-stack), [Link2](https://www.quora.com/Since-Meteor-js-was-developed-after-Node-js-what-are-the-advantages-of-Meteor-js-over-Node-js-if-there-are-any)
+	- Is Meteor funded? Will it stick around? [Link](https://www.quora.com/How-is-Meteor-funded-Will-it-be-around-a-couple-of-years-from-now)
+	- Why does Meteor need it's own package system? [Link](https://www.quora.com/Node-js/Why-does-Meteor-use-its-own-package-system-rather-than-NPM)
+	- Questions/Answer via Quora [Link](https://www.quora.com/Meteor-Javascript-platform)
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
 	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
