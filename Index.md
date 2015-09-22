@@ -659,6 +659,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
 	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
 - Tutorials
+	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
 	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
