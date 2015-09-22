@@ -203,17 +203,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
-	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
-	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
 	- :raised_hands: Airbnb Javascript Style Guide [Link](https://github.com/airbnb/javascript)
-	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
 	- Everything about FRP in Javascript [Link](https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
-	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
 	- :raised_hands: You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- 5 Most Important JS Questions [Link](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 	- THe RxJS Book [Link](http://xgrommx.github.io/rx-book/)
@@ -224,11 +220,19 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Javascripy Weekly Newsletter [Link](http://javascriptweekly.com/)
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
-	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-	- :raised_hands: Javascript design patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
-	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
+- Data Structures and Algorithms
+	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
+	- :raised_hands: Javascript Design Patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
+	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
+	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
+- Books
+	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
+	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- Eloquent Javascript Book [Link](http://eloquentjavascript.net/)
+	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
+- Quick References
+	- Javascript Data Object cheatsheet [Link](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
 - Tutorial 
 	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- Mozilla's Official DOM Reference [Link](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -477,6 +481,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
+- CheatSheets
+	- Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
+	- The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
+	- Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44) 
+	- Npm command cheatsheet [Link](https://gentlenode.com/journal/node-1-npm-complete-cheatsheet/19)
 - Tutorial
 	- :raised_hands: Art of Node: A short intro to Node.js [Link](https://github.com/maxogden/art-of-node#the-art-of-node)
 	- NodeSchool Workshops [Link](http://nodeschool.io/#workshopper-list)
@@ -641,10 +650,20 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and [Angular Meteor Server](https://github.com/netanelgilad/angular-meteor-server)
 	- Meteor job board [Link](http://www.weworkmeteor.com/)
+	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
+	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
+	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
 - Posts
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
+	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
+	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
+	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
+- Tutorials
+	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
+	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
 - Github
 	- Blaze [Github](http://meteor.github.io/blaze/)
@@ -841,6 +860,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Color Sublime: See Sublime Colors [Link](http://colorsublime.com/)
 - Posts
 	- Learn Enough Command Line to be Dangerous [Link](http://www.learnenough.com/command-line/)
+- Quick References 
+	- BASH cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
 	- HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
