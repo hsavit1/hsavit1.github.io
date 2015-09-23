@@ -508,6 +508,7 @@ title:  "Guides"
 	- Async: Async utilities for node and the browser [Link](https://github.com/caolan/async)
 	- NodeBootstrap: Get going with Express + Node + Bootstrap [Link](https://github.com/inadarei/nodebootstrap)
 	- Jade - robust, elegant, feature rich template engine for Node [Link](https://github.com/jadejs/jade)
+	- Co gives Generator Based Control Flow Goodness [Link](https://github.com/tj/co)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
@@ -546,7 +547,7 @@ title:  "Guides"
 - Quick References
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- The Official Meteor Docs [Link](http://docs.meteor.com/#/basic/underscore)
-	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
+	- :raised_hands: The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 	- Reference Guide to using React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
 	- The Official Meteor Trello Roadmap [Link](https://trello.com/b/hjBDflxp/meteor-roadmap)
 - Books and Learning Materials
@@ -612,7 +613,7 @@ title:  "Guides"
 	- Other
 		- Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
 		- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
-		- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
+		- Clustering Solution for Meteor with Load Balancing [Github](https://github.com/meteorhacks/cluster)
 		- Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
 		- File uploads in Meteor [Github](https://github.com/CulturalMe/meteor-slingshot)
 
@@ -782,15 +783,11 @@ title:  "Guides"
 	- :fire: Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
 	- Turning the database inside out with Apache Samza [Link](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - Posts
-	- Socket.io and RethinkDB: A match made in heaven [Post Coming Soon]()
-	- Do you really need Redis nowadays? [Post Coming Soon]()
-	- _Book Review_: Seven Databases in Seven Weeks [Post Coming Soon]()
-	- Why I would never settle for the scam that is Facebook's Parse [Post Coming Soon]()
-	- Striving for Cheapness [Post Coming Soon]()
-	- CouchDB
-	- Memcache
+	- ScyllaDB is 10x Faster than Cassandra! [Link](http://www.scylladb.com/)
+	- RethnkDB vs MongoDB [Link](https://www.rethinkdb.com/docs/rethinkdb-vs-mongodb/)
 	- What is this new Facebook project with Relay and GraphQL? [Link](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 	- MongoDB, PostgreSQL, or MySQL? [Link](https://www.quora.com/Which-database-should-I-use-for-a-killer-web-application-MongoDB-PostgreSQL-or-MySQL)
+	- What is Apache Hadoop? [Link](https://hadoop.apache.org/)
 - Slides
 	- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 	- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
@@ -802,6 +799,12 @@ title:  "Guides"
 	- Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
 	- Mongoose MongoDB Object Modeling [Github](https://github.com/Automattic/mongoose)
 	- Kue Priority Job Queue [Github](https://github.com/Automattic/kue)
+- Video
+	- RethinkDB Quick Video [Youtube](https://www.youtube.com/watch?v=qKPKsBNw604), [Youtube2](https://www.youtube.com/watch?v=rpMJV6Xn1p4)
+	- Postgres Quick Video: Relational DB [Youtube](https://www.youtube.com/watch?v=GI3eO14Fy90)
+	- MongoDB Quick Video: Schemaless JSON Doc Store [Youtube](https://www.youtube.com/watch?v=rnIx_QPngUM)
+	- Redis Quick Video [Youtube](https://www.youtube.com/watch?v=7W1n_SwTw14)
+	- Memcache Quick Video [Link](https://www.youtube.com/watch?v=-h9q2FmX4eo)
 
 #**Netowrking, IP, Routing, Servers, and Backend Development Posts**
 - Links
