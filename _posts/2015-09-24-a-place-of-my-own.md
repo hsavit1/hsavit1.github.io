@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A tribute to the Internet"
+title:  "A Small Tribute to the Internet"
 date:   2015-09-24 17:20:15
 comments: false
 ---
