@@ -15,6 +15,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
+	- :raised_hands: Objc.io [Link](https://www.objc.io/) 
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 	- :raised_hands: Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
@@ -476,10 +477,11 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- :fire: Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
 	- :fire: Awesome Mad Science Node Packages [Link](https://github.com/feross/awesome-mad-science)
 	- NPM homepage [Link](https://www.npmjs.com/)
-	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
 	- NPM, Bower, and Grunt [Link](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
 	- Node Module of the Week [Link](http://nmotw.in/)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
+- Learning
+	- :raised_hands: the Stream Handbook
 - CheatSheets
 	- Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
 	- The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
@@ -538,31 +540,46 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Atmosphere: The Meteor Package Manager [Link](https://atmospherejs.com/)
 	- MeteorPedia: The unofficial Meteor Wiki [Link](http://www.meteorpedia.com/read/Main_Page)
 	- Made with Meteor [Link](http://devpost.com/software/built-with/meteor-js), [Link2](http://madewith.meteor.com/)
+	- DDP Specification [Link](https://github.com/meteor/meteor/blob/devel/packages/ddp/DDP.md)
+	- Understanding Meteor Internals [Link](https://meteorhacks.com/understanding-meteor-internals)
+	- Using Meteor with Docker [Link](https://meteorhacks.com/docker-container-war-and-meteor)
 - Quick References
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
-- Posts
+- Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
 	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
 	- What startups are using Meteor in prouction? [Link](https://www.quora.com/Which-startups-use-Meteor-in-production)
+	- How is Meteor used in Production? [Link](https://meteorhacks.com/meteor-in-production-a-case-study)
 	- Is Meteor Ready? [Link](https://www.quora.com/Is-MeteorJS-the-best-JavaScript-framework)
 	- Is Meteor Secure? [Link](https://www.quora.com/Is-meteor-js-secure)
-	- Meteor vs MEAN [Link](https://www.quora.com/What-does-Quincy-Larson-think-about-the-Meteor-Framework-compared-to-the-MEAN-stack), [Link2](https://www.quora.com/Since-Meteor-js-was-developed-after-Node-js-what-are-the-advantages-of-Meteor-js-over-Node-js-if-there-are-any)
+	- Meteor vs MEAN [Link](https://www.quora.com/What-does-Quincy-Larson-think-about-the-Meteor-Framework-compared-to-the-MEAN-stack), [Link2](https://www.quora.com/Since-Meteor-js-was-developed-after-Node-js-what-are-the-advantages-of-Meteor-js-over-Node-js-if-there-are-any), [Link3](https://www.quora.com/Should-I-learn-Angular-js-or-Meteor)
 	- Is Meteor funded? Will it stick around? [Link](https://www.quora.com/How-is-Meteor-funded-Will-it-be-around-a-couple-of-years-from-now)
 	- Why does Meteor need it's own package system? [Link](https://www.quora.com/Node-js/Why-does-Meteor-use-its-own-package-system-rather-than-NPM)
 	- Questions/Answer via Quora [Link](https://www.quora.com/Meteor-Javascript-platform)
+- Posts
+	- How does Meteor use Node.js? [Link](https://meteorhacks.com/how-meteor-uses-node)
+	- Meteor Streams [Link](https://meteorhacks.com/introducing-meteor-streams)
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
 	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
 	- Does Meteor Scale? [Part1](https://meteorhacks.com/does-meteor-scale) and [Part2](https://meteorhacks.com/how-to-scale-meteor)
+	- What is Fast Render? [Link](https://meteorhacks.com/fast-render/)
+	- What is DDP? [Link](https://meteorhacks.com/introduction-to-ddp)
+	- How Meteor uses Node.js [Link](https://meteorhacks.com/how-meteor-uses-node)
+	- How does Meteor work under the hood? [Link](https://meteorhacks.com/understanding-meteor-internals)
+	- Travis CI and Meteor [Link](https://meteorhacks.com/travis-ci-support-for-meteor-packages)
+	- Understanding the Meteor UI Pattern [Link](https://meteorhacks.com/meteor-ui-pattern-keeping-app-state-in-the-url)
+	- Multi-Core Meteor [Github](https://meteorhacks.com/introducing-multi-core-support-for-meteor)
 - Tutorials
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
 	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
 	- Build a Slack clone in Meteor [Link](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started), and corresponding Github Repo [Github](https://github.com/RocketChat/Rocket.Chat)
+	- Building a Static Blog with Meteor [Link](https://meteorhacks.com/building-static-websites-with-meteor)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
@@ -572,6 +589,12 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
 	- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
 	- React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
+	- Telescope Open Social News App [Github](https://github.com/TelescopeJS/Telescope)
+	- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
+	- Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
+	- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
+	- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
+	- Iron Router [Github](https://github.com/iron-meteor/iron-router)
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
