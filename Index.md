@@ -545,7 +545,10 @@ title:  "Guides"
 	- Using Meteor with Docker [Link](https://meteorhacks.com/docker-container-war-and-meteor)
 - Quick References
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
+	- The Official Meteor Docs [Link](http://docs.meteor.com/#/basic/underscore)
 	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
+	- Reference Guide to using React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
+	- The Official Meteor Trello Roadmap [Link](https://trello.com/b/hjBDflxp/meteor-roadmap)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 	- Your First Meteor App [Link](http://meteortips.com/first-meteor-tutorial/)
@@ -563,7 +566,7 @@ title:  "Guides"
 	- Questions/Answer via Quora [Link](https://www.quora.com/Meteor-Javascript-platform)
 - Posts
 	- How does Meteor use Node.js? [Link](https://meteorhacks.com/how-meteor-uses-node)
-	- Meteor Streams [Link](https://meteorhacks.com/introducing-meteor-streams)
+	- Meteor Streams: A messaging layer (Redis?) [Link](https://meteorhacks.com/introducing-meteor-streams)
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
 	- How Blaze Works - Meteor's Reactive Templating UI [Link](https://meteorhacks.com/how-blaze-works)
 	- Npm with Meteor integration [Link](https://meteorhacks.com/complete-npm-integration-for-meteor)
@@ -575,6 +578,8 @@ title:  "Guides"
 	- Travis CI and Meteor [Link](https://meteorhacks.com/travis-ci-support-for-meteor-packages)
 	- Understanding the Meteor UI Pattern [Link](https://meteorhacks.com/meteor-ui-pattern-keeping-app-state-in-the-url)
 	- Multi-Core Meteor [Github](https://meteorhacks.com/introducing-multi-core-support-for-meteor)
+	- How does React compare to Blaze? [Link](https://forums.meteor.com/t/which-view-layer-performs-better-blaze-vs-react/6921)
+	- Tips for Building Large Scale Apps With Meteor [Link](https://meteor.hackpad.com/Building-Large-Apps-Tips-d8PQ848nLyE)
 - Tutorials
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
@@ -588,20 +593,28 @@ title:  "Guides"
 	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
 - Github
-	- Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
-	- Blaze [Github](http://meteor.github.io/blaze/)
-	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
-	- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
-	- React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
-	- Telescope Open Social News App [Github](https://github.com/TelescopeJS/Telescope)
-	- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
-	- Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
-	- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
-	- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
-	- Iron Router [Github](https://github.com/iron-meteor/iron-router)
-	- Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
-	- Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
-	- Ionic Meteor Apps [Link](https://github.com/meteoric/meteor-ionic)
+	- UI
+		- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
+		- Meteor Blaze Components [Github](https://github.com/peerlibrary/meteor-blaze-components)
+		- Meteor-UI: React + FLux [Github](https://github.com/meteor-space/ui)
+		- Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
+	- Routing
+		- Iron Router [Github](https://github.com/iron-meteor/iron-router)
+		- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
+		- Meteor Astronomy Model Layer [Github](https://github.com/jagi/meteor-astronomy)
+	- Mobile
+		- Blaze [Github](http://meteor.github.io/blaze/)
+		- Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
+		- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
+		- Ionic Meteor Apps [Link](https://github.com/meteoric/meteor-ionic)
+	- Apps
+		- Telescope Open Social News App [Github](https://github.com/TelescopeJS/Telescope)
+	- Other
+		- Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
+		- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
+		- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
+		- Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
+		- File uploads in Meteor [Github](https://github.com/CulturalMe/meteor-slingshot)
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
@@ -966,6 +979,7 @@ title:  "Guides"
 #**Data Science and Public Data Posts**
 - Links
 	- :fire: :raised_hands: Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
+	- NASA Public Datasets [Link](https://data.nasa.gov/)
 	- :fire: Awesome JSON Libraries and Resources [Link](https://github.com/burningtree/awesome-json)
 	- :fire: Awesome JSON Datasets [Link](https://github.com/jdorfman/Awesome-JSON-Datasets/tree/master)
 	- :fire: Awesome geoJSON [Link](https://github.com/tmcw/awesome-geojson)
