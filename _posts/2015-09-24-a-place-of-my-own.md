@@ -11,5 +11,5 @@ Somewhat ironically it just doesn't feel as _real_ as writing on the internet. I
 
 I guess in a mostly ideal world, I'd want to have my best friend near me 24 hours a day. Or at least around whenever I need them. Luckily, I do. I have an amazing dog, her name is Sacha. But for lots of people in the world, pets aren't practical. And your friends might not be around and your girlfriend might have better things to do than sit at home and talk about even random thing that pops into your head. So where do you go? I'd go nuts with a pen and paper, addressing only myself. That seems like an activity for Charles Manson on death row. 
 
-This is where the internet comes in. So thank you internet. And more importantly, thank you to the stalker on the other side of this futuristic TCP socket connection we have going on. Your curiosity in me has given me a moment of catharsis.
+This is where the internet comes in. So thank you internet. And more importantly, thank you to the stalker on the other side of this futuristic IP/TCP socket connection we have going on. Your curiosity in me has given me a moment of catharsis.
 
