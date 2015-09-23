@@ -2,7 +2,7 @@
 layout: post
 title:  "A Small Tribute to the Internet"
 date:   2015-09-24 17:20:15
-comments: false
+comments: true
 ---
 
 I just want a place of my own, where I can collect and ruminate on a few ideas. You might ask me _why not just go home and break out a piece of paper?_ 

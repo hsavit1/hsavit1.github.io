@@ -2,10 +2,10 @@
 layout: post
 title:  "What Computer Scientists can Learn from Physicists and Mathematicians. And Vice Versa"
 date:   2015-09-21 17:20:15
-comments: false
+comments: true
 ---
 
-As someone who graduated with dual bachelors degrees in Math and Physics from Binghamton University, I get pretty opinionated by questions that go like this: "why the hell would you study that?" In truth, this is not even close to an easy question to answer. Mostly because, to break down most of the concepts to an uniterested and possibly hungover programmer is usually pretty damn excruciating. Most of the time, you the hacker don't even care to hear me out. I want to tell you why you're wrong about physics and you (the student) don't even care to listen. 
+As someone who graduated with dual bachelors degrees in Math and Physics from Binghamton University, I get pretty opinionated by questions that go like this: "why the hell would you study that?" In truth, this is not even close to an easy question to answer. Mostly because, to break down most of the concepts to an uniterested and possibly hungover programmer is usually pretty damn excruciating. Most of the time, you the hacker don't even care to hear me out. But you should, because physics is a beautiful and  extraordinary subject 
 
 > Let me tell you why you should listen
 
