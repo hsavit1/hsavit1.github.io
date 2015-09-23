@@ -185,6 +185,7 @@ title:  "Guides"
 	- Xamarin [Link](https://xamarin.com/)
 	- Ionic [Link](http://ionicframework.com/)
 	- Nativescript [Link](https://www.nativescript.org/)
+	- The Crosswalk Project [Link](https://youtu.be/lwxwwoJaYuo?t=3m49s)
 - Tutorial
 	- Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
