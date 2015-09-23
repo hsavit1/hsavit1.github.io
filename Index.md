@@ -508,6 +508,7 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Kraken.js [Github](http://krakenjs.com/)
 	- Async: Async utilities for node and the browser [Link](https://github.com/caolan/async)
 	- NodeBootstrap: Get going with Express + Node + Bootstrap [Link](https://github.com/inadarei/nodebootstrap)
+	- Jade - robust, elegant, feature rich template engine for Node [Link](https://github.com/jadejs/jade)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
@@ -582,11 +583,13 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
 	- Build a Slack clone in Meteor [Link](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started), and corresponding Github Repo [Github](https://github.com/RocketChat/Rocket.Chat)
 	- Building a Static Blog with Meteor [Link](https://meteorhacks.com/building-static-websites-with-meteor)
+	- Deploy your app to Scalingo [Link](http://www.smashingthingstogether.com/deploying-your-app-to-scalingo-meteor-js/)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
 - Github
+	- Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
 	- Blaze [Github](http://meteor.github.io/blaze/)
 	- Angular 2 + Meteor [Link](http://angular-meteor.com/), and Angular Meteor Server [Link](https://github.com/netanelgilad/angular-meteor-server)
 	- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
@@ -597,8 +600,9 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
 	- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
 	- Iron Router [Github](https://github.com/iron-meteor/iron-router)
-	- Production Quality Meteor Deployments [Link](https://github.com/arunoda/meteor-up/tree/mupx#)
+	- Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
 	- Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
+	- Ionic Meteor Apps [Link](https://github.com/meteoric/meteor-ionic)
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
@@ -1104,28 +1108,40 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 #**Mathematics Posts**
 - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 
-#**Random Thoughts and Posts** 
+#**Thoughts, Posts, Links** 
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- :fire: Awesome AMAs [Link](https://github.com/sindresorhus/amas)
-	- What makes Evernote the best app out there? [Post Coming Soon]()
+	- Why is Evernote the best app and one of the few truly useful apps out there? [Post Coming Soon]()
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
-- Posts
-	- The obsession with finding the _BEST_ thing around needs to stop [Post Coming Soon]()
+	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
+
+- People I admire
+	- Jon Stewart
+	- Steven Colbert
+	- Conan O'Brien
+	- Greg Giraldo
+	- Louie C.K.
+	- Sarah Silvermnan
+	- Greg Giraldo
+	- George Carlin
+	- Rodney Dangerfield
+	- Andy Samberg
 
 #**Comic Relief - _Your Moment of Zen_**
 - :raised_hands: Jon Stewart on _Crossfire_ [Link](https://www.youtube.com/watch?v=aFQFB5YpDZE)
-- The 24 Best Mr. Show Sketches [Link](http://splitsider.com/2013/06/the-24-best-mr-show-sketches/)
-- The Subsitute Teacher [Link](https://www.youtube.com/watch?v=Dd7FixvoKBw)
-- Borat Song [Link](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
-- Steven Colbert at the White House Correspondents Dinner [Link](https://www.youtube.com/watch?v=2X93u3anTco)
-- President Obama's Anger Translator [Link](https://www.youtube.com/watch?v=G6NfRMv-4OY)
-- Louie C.K. has to poop [Link](https://www.youtube.com/watch?v=7MCj4YeUEik)
-- George Carlin 101 Best Quotes [Link](http://jamesaquilone.com/101-greatest-george-carlin-quotes/)
-- Greg Giraldo [Standup](https://www.youtube.com/watch?v=IqH2bUZDUPg)
-- Dave Attel [Standup](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
-- Sarah Silverman Top 10 [Link](http://www.ifc.com/fix/2013/10/10-genius-sarah-silverman-jokes)
-- Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
-- Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
-- Larry David [Best of](https://www.youtube.com/watch?v=JHmpbDWdMJw)
-- Jim Gaffigan Talks About Bacon [Link](https://www.youtube.com/watch?v=UahqgK60vuk)
+- :raised_hands: Steven Colbert is strapped to a chair for an hour [Link](https://www.youtube.com/watch?v=-HpBHWUPa8Q)
+- :raised_hands: Steven Colbert makes Donald Trump an Offer [Link](http://www.cc.com/video-clips/ifrr4g/the-colbert-report-donald-trump-s-october-surprise)
+- :raised_hands: The 24 Best Mr. Show Sketches [Link](http://splitsider.com/2013/06/the-24-best-mr-show-sketches/)
+- :raised_hands: The Subsitute Teacher [Link](https://www.youtube.com/watch?v=Dd7FixvoKBw)
+- :raised_hands: Borat Song [Link](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
+- :raised_hands: Steven Colbert at the White House Correspondents Dinner [Link](https://www.youtube.com/watch?v=2X93u3anTco)
+- :raised_hands: President Obama's Anger Translator [Link](https://www.youtube.com/watch?v=G6NfRMv-4OY)
+- :raised_hands: Louie C.K. has to poop [Link](https://www.youtube.com/watch?v=7MCj4YeUEik)
+- :raised_hands: George Carlin 101 Best Quotes [Link](http://jamesaquilone.com/101-greatest-george-carlin-quotes/)
+- :raised_hands: Greg Giraldo [Standup](https://www.youtube.com/watch?v=IqH2bUZDUPg)
+- :raised_hands: Dave Attel [Standup](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
+- :raised_hands: Sarah Silverman Top 10 [Link](http://www.ifc.com/fix/2013/10/10-genius-sarah-silverman-jokes)
+- :raised_hands: Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
+- :raised_hands: Larry David [Best of](https://www.youtube.com/watch?v=JHmpbDWdMJw)
+- :raised_hands: Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
