@@ -7,13 +7,13 @@ permalink: /resume/
 #**Henry Savit**
 
 
-> [henrysavit@gmail.com](mailto:henrysavit@gmail.com) 
+> Email: [henrysavit@gmail.com](mailto:henrysavit@gmail.com) 
 >                      		
-> Mobile: Ask me for it
+> Github: [hsavit1](https://github.com/hsavit1)
 > 
 > [Downloadable Copy](https://www.dropbox.com/s/0cxkhg3cy8x7im6/Henry_Savit_Resume_General.docx?dl=0)
 >
-> U.S.A. + Canada Citizen
+> Status: U.S.A. + Canada Citizen
  
 
 
