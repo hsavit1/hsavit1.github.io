@@ -9,7 +9,7 @@ permalink: /resume/
 
 > [henrysavit@gmail.com](mailto:henrysavit@gmail.com) 
 >                      		
-> Mobile: (631)252-0490
+> Mobile: Ask me for it
 > 
 > [Downloadable Copy](https://www.dropbox.com/s/0cxkhg3cy8x7im6/Henry_Savit_Resume_General.docx?dl=0)
 >

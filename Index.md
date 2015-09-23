@@ -548,6 +548,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
+	- Your First Meteor App [Link](http://meteortips.com/first-meteor-tutorial/)
+	- Your First Meteor Deployment [Link](http://meteortips.com/deployment-tutorial/)
 - Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
 	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
@@ -595,6 +597,8 @@ Here you can find a bunch of links to really cool places on the internet. I GUAR
 	- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
 	- Clustering Solution for Meteor with load balancing [Github](https://github.com/meteorhacks/cluster)
 	- Iron Router [Github](https://github.com/iron-meteor/iron-router)
+	- Production Quality Meteor Deployments [Link](https://github.com/arunoda/meteor-up/tree/mupx#)
+	- Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
 
 #**ReactJS, Redux, Flux Posts**
 - Links 
