@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Index"
+title:  "Guides"
 ---
 
 
@@ -1144,4 +1144,4 @@ title:  "Index"
 - :raised_hands: Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
 - :raised_hands: Larry David [Best of](https://www.youtube.com/watch?v=JHmpbDWdMJw)
 - :raised_hands: Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
-- :raises_hands: Borat Tries a Dating Service [Link](https://www.youtube.com/watch?v=lwxwwoJaYuo)
+- :raised_hands: Borat Tries a Dating Service [Link](https://www.youtube.com/watch?v=lwxwwoJaYuo)
