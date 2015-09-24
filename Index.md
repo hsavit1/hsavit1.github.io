@@ -552,10 +552,13 @@ title:  "Guides"
 	- :raised_hands: The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 	- Reference Guide to using React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
 	- The Official Meteor Trello Roadmap [Link](https://trello.com/b/hjBDflxp/meteor-roadmap)
+	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 	- Your First Meteor App [Link](http://meteortips.com/first-meteor-tutorial/)
 	- Your First Meteor Deployment [Link](http://meteortips.com/deployment-tutorial/)
+- Videos
+	- Event Minded [Link](https://www.eventedmind.com/)
 - Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
 	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
@@ -583,6 +586,7 @@ title:  "Guides"
 	- Multi-Core Meteor [Github](https://meteorhacks.com/introducing-multi-core-support-for-meteor)
 	- How does React compare to Blaze? [Link](https://forums.meteor.com/t/which-view-layer-performs-better-blaze-vs-react/6921)
 	- Tips for Building Large Scale Apps With Meteor [Link](https://meteor.hackpad.com/Building-Large-Apps-Tips-d8PQ848nLyE)
+	- How does Meteor handle SEO? [Link](http://www.manuel-schoebel.com/blog/meteor-and-seo)
 - Tutorials
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
@@ -1098,6 +1102,7 @@ title:  "Guides"
 #**Quantum Computing Posts**
 - Links
 	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+	- Breaking news with the Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
 	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
 	- Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
 	- Check out my :fire: Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
@@ -1137,7 +1142,7 @@ title:  "Guides"
 	- Why is Evernote the best app and one of the few truly useful apps out there? [Post Coming Soon]()
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
 	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
-
+	- Stanford Encyclopedia of Philosophy [Link](http://plato.stanford.edu/)
 - People I admire
 	- Jon Stewart
 	- Steven Colbert
