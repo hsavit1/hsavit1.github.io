@@ -97,7 +97,8 @@ title:  "Guides"
 - Posts
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 - Links
-	- :raised_hands: iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
+	- :raised_hands: Cocoa Controls [Link](https://www.cocoacontrols.com/)
+	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
 	- :fire: :raised_hands: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
 	- :fire: Awesome iOS Plugins [Link](https://github.com/sanketfirodiya/awesome-ios-plugins)
 	- :fire: Awesome iOS Learning Resources [Link](https://github.com/sanketfirodiya/iOS-learning-resources)
@@ -182,10 +183,11 @@ title:  "Guides"
 	- React Native vs Microsoft Nativescript [Link](https://www.quora.com/Which-is-better-React-Native-or-Native-Script)
 	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
 	- Reapp [Link](http://reapp.io/)
-	- Xamarin [Link](https://xamarin.com/)
-	- Ionic [Link](http://ionicframework.com/)
-	- Nativescript [Link](https://www.nativescript.org/)
-	- The Crosswalk Project [Link](https://youtu.be/lwxwwoJaYuo?t=3m49s)
+	- Xamarin: Cross Platform Dev in C# [Link](https://xamarin.com/)
+	- Ionic: Angular for mobile [Link](http://ionicframework.com/)
+	- Nativescript: Microsoft [Link](https://www.nativescript.org/)
+	- The Crosswalk Project: Making a cross platform app overe Meteor [Link](https://youtu.be/lwxwwoJaYuo?t=3m49s)
+	- Apache Cordova: APIs for HTML CSS JS Mobile apps [Link](http://cordova.apache.org/)
 - Tutorial
 	- Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
@@ -252,6 +254,7 @@ title:  "Guides"
 	- ES6 Generators Deliver Go style Concurrency [Github](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
 	- Class hierarchies? Dont do that! [Link](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
 - Github Projects
+	- Promises/A+ [Link](https://promisesaplus.com/)
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- :raised_hands: Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
@@ -358,6 +361,7 @@ title:  "Guides"
 	- Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 	- Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
 	- Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
+	- The best resources for Learning Elixir [Link](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
 - Slides
 	- Write Less and Do More with Elixir Macros [Link](http://slides.com/chrismccord/elixir-macros#/)
 	- Hello Elixir!! [Slides](https://speakerdeck.com/benjamintan/hello-elixir)
@@ -368,6 +372,8 @@ title:  "Guides"
 	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir)
 	- Elixir, Zero to Web [Slides](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
 	- Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/) 
+- Posts
+	- Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -473,6 +479,7 @@ title:  "Guides"
 
 #**Node.js Posts**
 - Links
+	- Official Node Docs [Link](https://nodejs.org/api/documentation.html)
 	- :fire: :raised_hands: Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)
 	- :fire: :raised_hands: Awesome NODE Frameworks [Link](https://github.com/pillarjs/node-frameworks)
 	- :fire: Awesome Gulp Resources [Link](https://github.com/alferov/awesome-gulp)
@@ -482,7 +489,7 @@ title:  "Guides"
 	- Node Module of the Week [Link](http://nmotw.in/)
 	- Node.js Weekly [Link](http://nodeweekly.com/)
 - Learning
-	- :raised_hands: the Stream Handbook
+	- :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[Link](https://github.com/substack/stream-handbook)
 - CheatSheets
 	- Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
 	- The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
@@ -511,6 +518,8 @@ title:  "Guides"
 	- NodeBootstrap: Get going with Express + Node + Bootstrap [Link](https://github.com/inadarei/nodebootstrap)
 	- Jade - robust, elegant, feature rich template engine for Node [Link](https://github.com/jadejs/jade)
 	- Co gives Generator Based Control Flow Goodness [Link](https://github.com/tj/co)
+	- NodeFibers: Fibers/coroutines support for v8 and Node [Link](https://github.com/laverdet/node-Fibers)
+	0 Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 
@@ -524,6 +533,8 @@ title:  "Guides"
 	- ElixirDose Blog [Link](http://www.elixirdose.com/)
 	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
 	- Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini... [Link](https://github.com/mroth/phoenix-showdown)
+- Posts
+	- Phoenix or Meteor? [Link](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
 - Slides
 	- Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
 	- Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
@@ -553,6 +564,7 @@ title:  "Guides"
 	- Reference Guide to using React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
 	- The Official Meteor Trello Roadmap [Link](https://trello.com/b/hjBDflxp/meteor-roadmap)
 	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
+	- Crater.io Discussion Board [Link](https://crater.io/)
 - Books and Learning Materials
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 	- Your First Meteor App [Link](http://meteortips.com/first-meteor-tutorial/)
@@ -587,6 +599,7 @@ title:  "Guides"
 	- How does React compare to Blaze? [Link](https://forums.meteor.com/t/which-view-layer-performs-better-blaze-vs-react/6921)
 	- Tips for Building Large Scale Apps With Meteor [Link](https://meteor.hackpad.com/Building-Large-Apps-Tips-d8PQ848nLyE)
 	- How does Meteor handle SEO? [Link](http://www.manuel-schoebel.com/blog/meteor-and-seo)
+	- What is the Isobuild Meteor Package System [Link](http://info.meteor.com/blog/isobuild-why-meteor-created-a-new-package-system)
 - Tutorials
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
@@ -606,6 +619,7 @@ title:  "Guides"
 		- Meteor Blaze Components [Github](https://github.com/peerlibrary/meteor-blaze-components)
 		- Meteor-UI: React + FLux [Github](https://github.com/meteor-space/ui)
 		- Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
+		- React + Famous Bridge [Link](https://github.com/pilwon/react-famous)
 	- Routing
 		- Iron Router [Github](https://github.com/iron-meteor/iron-router)
 		- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
@@ -619,6 +633,7 @@ title:  "Guides"
 	- Apps
 		- Telescope Open Social News App [Github](https://github.com/TelescopeJS/Telescope)
 	- Other
+		- Redis-livedata brings full stack reactivity support in meteor [Link](https://github.com/meteor/redis-livedata/)
 		- Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
 		- A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)
 		- Clustering Solution for Meteor with Load Balancing [Github](https://github.com/meteorhacks/cluster)
@@ -645,6 +660,7 @@ title:  "Guides"
 	- The React.js Way: Flux Architecture with Immutable.js [Link](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
 	- React is better in _some cases_ than Angular [Link](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
 	- Angular vs React + Flux [Link](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
+	- You're missing the point of React [Link](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a)
 - Tutorial
 	- Isomorphic Javascript Tutorial [Github](https://github.com/spikebrehm/isomorphic-tutorial)
 	- ReactJS Training Course [Link](https://github.com/ryanflorence/react-training/)
@@ -769,6 +785,15 @@ title:  "Guides"
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
 	- Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
 	- What is Linear Programming? [Slides](http://slides.com/denaeanderson/mathematics#/)
+- Videos
+	- :fire: Awesome Computer Talks [Link](https://github.com/JanVanRyswyck/awesome-talks)
+	- How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)
+
+#History of Computing
+- Links
+	- Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
+- Slides
+	- The Mythical Man Month Quick Summary [Slides](http://www.slideshare.net/MrCracker/the-mythical-man-month-49226879)
 
 #**Programming Languages Posts**
 - Link
@@ -776,6 +801,8 @@ title:  "Guides"
 	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
 	- :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/) 
 	- :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+- Posts
+	- What is Unicode? [Link](http://unicode.org/standard/WhatIsUnicode.html)
 
 #**Web Development and Deployment Posts**
 - Links
@@ -917,6 +944,7 @@ title:  "Guides"
 	- :fire: Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
 	- :fire: Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
 	- :fire: Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- :fire: Awesome Github [Link](https://github.com/phillipadsmith/awesome-github)
 	- :fire: Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
 	- :fire: Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
 	- :fire: Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
@@ -951,7 +979,7 @@ title:  "Guides"
 	- :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
 	- :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
 	- :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
-	- When is Agile Developement seriously practical?
+	- :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
 - Posts
 	- Making Things Happen (Book) [Post Coming Soon]()
 	- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
@@ -1143,14 +1171,17 @@ title:  "Guides"
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
 	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 	- Stanford Encyclopedia of Philosophy [Link](http://plato.stanford.edu/)
-- People I admire
+	- Brain Pickings Blog [Link](https://www.brainpickings.org/)
+- Amazing People
+	- Richard Feynman
+	- Erwin Schrodinger
+	- David Bohm
 	- Jon Stewart
 	- Steven Colbert
 	- Conan O'Brien
-	- Greg Giraldo
+	- Seth McFarline
 	- Louie C.K.
 	- Sarah Silvermnan
-	- Greg Giraldo
 	- George Carlin
 	- Rodney Dangerfield
 	- Andy Samberg
@@ -1158,19 +1189,19 @@ title:  "Guides"
 
 #**Comic Relief - _Your Moment of Zen_**
 - :raised_hands: Jon Stewart on _Crossfire_ [Link](https://www.youtube.com/watch?v=aFQFB5YpDZE)
-- :raised_hands: Steven Colbert is strapped to a chair for an hour [Link](https://www.youtube.com/watch?v=-HpBHWUPa8Q)
-- :raised_hands: Steven Colbert makes Donald Trump an Offer [Link](http://www.cc.com/video-clips/ifrr4g/the-colbert-report-donald-trump-s-october-surprise)
-- :raised_hands: The 24 Best Mr. Show Sketches [Link](http://splitsider.com/2013/06/the-24-best-mr-show-sketches/)
-- :raised_hands: The Subsitute Teacher [Link](https://www.youtube.com/watch?v=Dd7FixvoKBw)
-- :raised_hands: Borat Song [Link](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
-- :raised_hands: Steven Colbert at the White House Correspondents Dinner [Link](https://www.youtube.com/watch?v=2X93u3anTco)
-- :raised_hands: President Obama's Anger Translator [Link](https://www.youtube.com/watch?v=G6NfRMv-4OY)
-- :raised_hands: Louie C.K. has to poop [Link](https://www.youtube.com/watch?v=7MCj4YeUEik)
-- :raised_hands: George Carlin 101 Best Quotes [Link](http://jamesaquilone.com/101-greatest-george-carlin-quotes/)
-- :raised_hands: Greg Giraldo [Standup](https://www.youtube.com/watch?v=IqH2bUZDUPg)
-- :raised_hands: Dave Attel [Standup](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
-- :raised_hands: Sarah Silverman Top 10 [Link](http://www.ifc.com/fix/2013/10/10-genius-sarah-silverman-jokes)
-- :raised_hands: Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
-- :raised_hands: Larry David [Best of](https://www.youtube.com/watch?v=JHmpbDWdMJw)
-- :raised_hands: Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
-- :raised_hands: Borat Tries a Dating Service [Link](https://www.youtube.com/watch?v=lwxwwoJaYuo)
+- Steven Colbert is strapped to a chair for an hour [Link](https://www.youtube.com/watch?v=-HpBHWUPa8Q)
+- Steven Colbert makes Donald Trump an Offer [Link](http://www.cc.com/video-clips/ifrr4g/the-colbert-report-donald-trump-s-october-surprise)
+- The 24 Best Mr. Show Sketches [Link](http://splitsider.com/2013/06/the-24-best-mr-show-sketches/)
+- The Subsitute Teacher [Link](https://www.youtube.com/watch?v=Dd7FixvoKBw)
+- Borat Song [Link](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
+- Steven Colbert at the White House Correspondents Dinner [Link](https://www.youtube.com/watch?v=2X93u3anTco)
+- President Obama's Anger Translator [Link](https://www.youtube.com/watch?v=G6NfRMv-4OY)
+- Louie C.K. has to poop [Link](https://www.youtube.com/watch?v=7MCj4YeUEik)
+- George Carlin 101 Best Quotes [Link](http://jamesaquilone.com/101-greatest-george-carlin-quotes/)
+- Greg Giraldo [Standup](https://www.youtube.com/watch?v=IqH2bUZDUPg)
+- Dave Attel [Standup](https://www.youtube.com/watch?v=oAgQ6cJYA8Q)
+- Sarah Silverman Top 10 [Link](http://www.ifc.com/fix/2013/10/10-genius-sarah-silverman-jokes)
+- Conan hangs out with interns [Link](https://www.youtube.com/watch?v=ffVbnPjl86A)
+- Larry David Best of [Link](https://www.youtube.com/watch?v=JHmpbDWdMJw)
+- Ali G discusses Religion [Link](https://www.youtube.com/watch?v=35rHhxZKGes)
+- Borat Tries a Dating Service [Link](https://www.youtube.com/watch?v=lwxwwoJaYuo)
