@@ -823,6 +823,8 @@ title:  "Guides"
 	- What is this new Facebook project with Relay and GraphQL? [Link](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 	- MongoDB, PostgreSQL, or MySQL? [Link](https://www.quora.com/Which-database-should-I-use-for-a-killer-web-application-MongoDB-PostgreSQL-or-MySQL)
 	- What is Apache Hadoop? [Link](https://hadoop.apache.org/)
+- Books
+	- The Little MongoDB Book [Link](http://openmymind.net/mongodb.pdf)
 - Slides
 	- Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
 	- Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
