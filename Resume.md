@@ -45,26 +45,14 @@ permalink: /resume/
 
 + Objective-C
 + Swift
-+ RethinkDB
-+ MongoDB
-+ Ruby
-+ React.js / Flux
-+ Node.js / Express / Meteor
 + Javascript
++ Meteor 
++ React.js 
 + Elixir
 + Phoenix Framework
-
-
-
-
-### Other Skills and Current Learning
-
-+ Teaching
-+ Presentations
-+ Documentation
-+ Fitness
-
-
++ Ruby
++ MongoDB
++ RethinkDB
 
 
 ### Projects
@@ -109,4 +97,4 @@ permalink: /resume/
 
 ###Note
 
-You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Index](http://itshenry.com/Index.html) page for a general idea of what I'm capable of
+You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Guides](http://itshenry.com/Index.html) page for a general idea of what I'm capable of

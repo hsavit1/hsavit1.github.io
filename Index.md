@@ -193,8 +193,9 @@ title:  "Guides"
 
 ----
 
-#**Javascript, ECMA, and Typescript Posts**
+#**Javascript, ECMAScript, Coffeescript, and Typescript Posts**
 - Links
+	- :raised_hands: Superhero.js [Link](http://superherojs.com/)
 	- :raised_hands: Javascript.com, which has lots of links to free resources [Link](https://www.javascript.com/resources)
 	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/)
 	- :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
@@ -234,6 +235,7 @@ title:  "Guides"
 	- Eloquent Javascript Book [Link](http://eloquentjavascript.net/)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
 	- Javascript in 10 Minutes [Link](file:///Users/henrysavit/Downloads/js-in-ten-minutes.pdf)
+	- The Little Book of Coffeescript [Link](http://arcturo.github.io/library/coffeescript/index.html)
 - Quick References
 	- Javascript Data Object cheatsheet [Link](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
 - Tutorial 
@@ -558,6 +560,7 @@ title:  "Guides"
 	- Understanding Meteor Internals [Link](https://meteorhacks.com/understanding-meteor-internals)
 	- Using Meteor with Docker [Link](https://meteorhacks.com/docker-container-war-and-meteor)
 - Quick References
+	- :raised_hands: Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- The Official Meteor Docs [Link](http://docs.meteor.com/#/basic/underscore)
 	- :raised_hands: The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
@@ -572,6 +575,7 @@ title:  "Guides"
 	- Your First Meteor Deployment [Link](http://meteortips.com/deployment-tutorial/)
 - Videos
 	- Event Minded [Link](https://www.eventedmind.com/)
+	- Introduction to Meteor [Link](https://www.youtube.com/watch?v=dOCMpoeuwTI&utm_campaign=Core+Install+%26+Deploy&utm_source=hs_automation&utm_medium=email&utm_content=21068638&_hsenc=p2ANqtz-_zJqDvX5n-s9cqGsb3oLaLx-RvmGUoeRt-TNQjvDKKXQcbNwkfIux90jBW-HQ7D70Rokn3IKDtCnDePSrPDdDMmsObiQ&_hsmi=21070052)
 - Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
 	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
@@ -617,7 +621,7 @@ title:  "Guides"
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 	- A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
-	- Intro to Meteor [Link](http://mark.shropshires.net/sites/default/files/Intro%20to%20Meteor.pdf) 
+	- Intro to Meteor [Link](https://speakerdeck.com/shrop/intro-to-meteor) 
 - Github
 	- UI
 		- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
