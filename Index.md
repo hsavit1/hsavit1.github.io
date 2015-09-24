@@ -219,6 +219,7 @@ title:  "Guides"
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
 	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
+	- Introduction to Functional Javascript: Javascript through the years [Link](http://www.sitepoint.com/introduction-functional-javascript/)
 - Data Structures and Algorithms
 	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
 	- :raised_hands: Javascript Design Patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
@@ -230,6 +231,7 @@ title:  "Guides"
 	- :raised_hands: Learning Javascript Design Patterns Free Book [Link](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- Eloquent Javascript Book [Link](http://eloquentjavascript.net/)
 	- Free Javascript Books [Link](http://jsbooks.revolunet.com/)
+	- Javascript in 10 Minutes [Link](file:///Users/henrysavit/Downloads/js-in-ten-minutes.pdf)
 - Quick References
 	- Javascript Data Object cheatsheet [Link](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
 - Tutorial 
@@ -591,8 +593,9 @@ title:  "Guides"
 	- Deploy your app to Scalingo [Link](http://www.smashingthingstogether.com/deploying-your-app-to-scalingo-meteor-js/)
 - Slides
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
-	- :raised_hands: A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
+	- A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
+	- Intro to Meteor [Link](http://mark.shropshires.net/sites/default/files/Intro%20to%20Meteor.pdf) 
 - Github
 	- UI
 		- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
@@ -603,6 +606,7 @@ title:  "Guides"
 		- Iron Router [Github](https://github.com/iron-meteor/iron-router)
 		- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
 		- Meteor Astronomy Model Layer [Github](https://github.com/jagi/meteor-astronomy)
+		- Meteor uses SockJS for Websockets [Github](https://github.com/sockjs/sockjs-node) 
 	- Mobile
 		- Blaze [Github](http://meteor.github.io/blaze/)
 		- Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
@@ -845,7 +849,9 @@ title:  "Guides"
 	- What is Elastic Search? [Link](http://slides.com/yatendra/elastic-search#/)
 	- A guide to DNS [Slides](http://slides.com/justintalbott/dns#/)
 - Posts
+	- REST made simple [Link](http://programmers.stackexchange.com/questions/23891/what-is-rest-in-simple-english?rq=1)
 	- cURL vs wget [Link](http://www.thegeekstuff.com/2012/07/wget-curl/)
+	- REST vs CRUD [Link](http://programmers.stackexchange.com/questions/120716/difference-between-rest-and-crud)
 - Github
 	- Mongoose Web Server [Link](https://github.com/cesanta/mongoose)
 	- HTTP Server [Github](https://github.com/indexzero/http-server)
