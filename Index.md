@@ -566,6 +566,7 @@ title:  "Guides"
 	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
 	- Crater.io Discussion Board [Link](https://crater.io/)
 - Books and Learning Materials
+	- :fire: Awesome Meteor Learning [Link](https://github.com/ericdouglas/Meteor-Learning)
 	- :raised_hands: A big list of Meteor Learning Material [Link](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [Link](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
 	- Your First Meteor App [Link](http://meteortips.com/first-meteor-tutorial/)
 	- Your First Meteor Deployment [Link](http://meteortips.com/deployment-tutorial/)
@@ -583,6 +584,7 @@ title:  "Guides"
 	- Why does Meteor need it's own package system? [Link](https://www.quora.com/Node-js/Why-does-Meteor-use-its-own-package-system-rather-than-NPM)
 	- Questions/Answer via Quora [Link](https://www.quora.com/Meteor-Javascript-platform)
 - Posts
+	- Comparing Blaze, Angular1, Angular2, React [Link1](http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor), [Link2](http://www.shmck.com/comparing-front-end-frameworks-code-style/), [Link3](http://www.shmck.com/comparing-front-end-frameworks-community/), [Link4]()
 	- How does Meteor use Node.js? [Link](https://meteorhacks.com/how-meteor-uses-node)
 	- Meteor Streams: A messaging layer (Redis?) [Link](https://meteorhacks.com/introducing-meteor-streams)
 	- Investigation using iOS + Meteor for a Fast, Real Time DDM [Link](https://github.com/martijnwalraven/meteor-ios)
@@ -600,6 +602,9 @@ title:  "Guides"
 	- Tips for Building Large Scale Apps With Meteor [Link](https://meteor.hackpad.com/Building-Large-Apps-Tips-d8PQ848nLyE)
 	- How does Meteor handle SEO? [Link](http://www.manuel-schoebel.com/blog/meteor-and-seo)
 	- What is the Isobuild Meteor Package System [Link](http://info.meteor.com/blog/isobuild-why-meteor-created-a-new-package-system)
+	- What is Meteor's Optimistic UI? [Link](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
+- Videos
+	- 2 Weeks of React + Meteor [Link](http://info.meteor.com/blog/two-weeks-with-react-and-meteor)
 - Tutorials
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
