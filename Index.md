@@ -184,6 +184,7 @@ title:  "Guides"
 	- A link to getting started with React Native [Link](https://facebook.github.io/react-native/)
 	- Reapp [Link](http://reapp.io/)
 	- Xamarin: Cross Platform Dev in C# [Link](https://xamarin.com/)
+	- :fire: Awesome Xamarin [Link](https://github.com/benoitjadinon/awesome-xamarin)
 	- Ionic: Angular for mobile [Link](http://ionicframework.com/)
 	- Nativescript: Microsoft [Link](https://www.nativescript.org/)
 	- The Crosswalk Project: Making a cross platform app overe Meteor [Link](https://youtu.be/lwxwwoJaYuo?t=3m49s)
@@ -204,6 +205,7 @@ title:  "Guides"
 	- :fire: Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
 	- :fire: Awesome Typescript [Link](https://github.com/dzharii/awesome-typescript)
+	- :fire: Awesome Javascript Promises [Link](https://github.com/wbinnssmith/awesome-promises)
 	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- :raised_hands: Airbnb Javascript Style Guide [Link](https://github.com/airbnb/javascript)
@@ -767,11 +769,9 @@ title:  "Guides"
 
 #**Pure Programming Posts**
 - Posts
-	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
 	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
 	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 - Links
-	- :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
 	- :fire: Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
  	- :fire: Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
 	- :fire: :raised_hands: Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
@@ -782,12 +782,10 @@ title:  "Guides"
 	- :fire: Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
 	- :raised_hands: The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
 	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
-	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
 - Posts
-	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
@@ -797,6 +795,19 @@ title:  "Guides"
 - Videos
 	- :fire: Awesome Computer Talks [Link](https://github.com/JanVanRyswyck/awesome-talks)
 	- How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)
+
+#Data Structures and Algorithms 
+- Links
+	- :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
+	- :fire: Awesome academic programming courses [Link](https://github.com/prakhar1989/awesome-courses) 
+	- Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
+	- Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
+- Posts
+	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
+	- Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
+	- How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
+	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 
 #History of Computing
 - Links
@@ -826,6 +837,7 @@ title:  "Guides"
 	- :fire: Awesome SQL Alchemy [Link](https://github.com/dahlia/awesome-sqlalchemy)
 	- :fire: Awesome Cassandra [Link](https://github.com/yikebocai/awesome-cassandra)
 	- Turning the database inside out with Apache Samza [Link](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
+	- Facebook GraphQL [Link](https://github.com/facebook/graphql)
 - Posts
 	- ScyllaDB is 10x Faster than Cassandra! [Link](http://www.scylladb.com/)
 	- RethnkDB vs MongoDB [Link](https://www.rethinkdb.com/docs/rethinkdb-vs-mongodb/)
@@ -943,10 +955,11 @@ title:  "Guides"
 - Slides
 	- Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 
-#**Developer Environment and System Admin Posts**
+#**Developer Environment, Operating System, and System Admin Posts**
 - Links
 	- :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
 	- :fire: Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
+	- :fire: Awesome Linux Resources [Link](https://github.com/itech001/awesome-linux-resources)
 	- :fire: Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
 	- :fire: Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- :fire: :raised_hands: Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
@@ -991,6 +1004,7 @@ title:  "Guides"
 	- :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
 	- :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
 	- :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
+	- :fire: Awesome Documentation [Link](https://github.com/PharkMillups/beautiful-docs)
 - Posts
 	- Making Things Happen (Book) [Post Coming Soon]()
 	- Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
@@ -1028,7 +1042,7 @@ title:  "Guides"
 	- OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 	- :fire: Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
 
-#**Data Science and Public Data Posts**
+#**Data Science, Data Mining, and Public Data Posts**
 - Links
 	- :fire: :raised_hands: Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
 	- NASA Public Datasets [Link](https://data.nasa.gov/)
@@ -1045,6 +1059,8 @@ title:  "Guides"
 	- :fire: Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
 	- Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 	- Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
+- Posts
+	- Top 10 Data Mining Algorithms in plain English [Link](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - Github Projects
 	- Grafana [Link](https://github.com/grafana/grafana) 
 - Slides
