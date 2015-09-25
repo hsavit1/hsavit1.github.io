@@ -580,6 +580,8 @@ title:  "Guides"
 - Videos
 	- Event Minded [Link](https://www.eventedmind.com/)
 	- Introduction to Meteor [Link](https://www.youtube.com/watch?v=dOCMpoeuwTI&utm_campaign=Core+Install+%26+Deploy&utm_source=hs_automation&utm_medium=email&utm_content=21068638&_hsenc=p2ANqtz-_zJqDvX5n-s9cqGsb3oLaLx-RvmGUoeRt-TNQjvDKKXQcbNwkfIux90jBW-HQ7D70Rokn3IKDtCnDePSrPDdDMmsObiQ&_hsmi=21070052)
+	- 22 Vid YouTube Playlist [Link](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
+	- 17 Vid YouTube Playlist [Link](https://www.youtube.com/watch?v=LPIgeRkyOFs&list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
 - Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
 	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
@@ -617,7 +619,8 @@ title:  "Guides"
 	- BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
 	- Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
 	- :raised_hands: Meteor Help [Link](http://meteorhelp.com/)
-	- Learn Meteor in Days, not weeks [Link](http://meteortips.com/first-meteor-tutorial/)
+	- Your First Meteor Application [Link](http://meteortips.com/first-meteor-tutorial/)
+	- Your Second Meteor Application [Link](http://meteortips.com/second-meteor-tutorial/)
 	- Build a Slack clone in Meteor [Link](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started), and corresponding Github Repo [Github](https://github.com/RocketChat/Rocket.Chat)
 	- Building a Static Blog with Meteor [Link](https://meteorhacks.com/building-static-websites-with-meteor)
 	- Deploy your app to Scalingo [Link](http://www.smashingthingstogether.com/deploying-your-app-to-scalingo-meteor-js/)
