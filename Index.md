@@ -48,6 +48,7 @@ title:  "Guides"
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
+	- Functional Reactive Programming in an Imperative World [Link](https://realm.io/news/nacho-soto-functional-reactive-programming/)
 - WWDC Presentations
 	- :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
 	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
@@ -111,6 +112,7 @@ title:  "Guides"
 	- :fire: Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
 	- iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
 	- Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
+	- How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 - Slides
 	- REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
 	- Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
