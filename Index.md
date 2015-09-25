@@ -564,13 +564,13 @@ title:  "Guides"
 	- Understanding Meteor Internals [Link](https://meteorhacks.com/understanding-meteor-internals)
 	- Using Meteor with Docker [Link](https://meteorhacks.com/docker-container-war-and-meteor)
 - Quick References
-	- :raised_hands: Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
+	- :raised_hands: The Meteor Manual [Link](http://manual.meteor.com/)
+	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
 	- :raised_hands: A Meteor Cheat Sheet [Link](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [Link](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
 	- The Official Meteor Docs [Link](http://docs.meteor.com/#/basic/underscore)
 	- :raised_hands: The Meteor Cookbook [Link](https://github.com/awatson1978/meteor-cookbook)
 	- Reference Guide to using React in Meteor [Link](http://react-in-meteor.readthedocs.org/en/latest/)
 	- The Official Meteor Trello Roadmap [Link](https://trello.com/b/hjBDflxp/meteor-roadmap)
-	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
 	- Crater.io Discussion Board [Link](https://crater.io/)
 - Books and Learning Materials
 	- :fire: Awesome Meteor Learning [Link](https://github.com/ericdouglas/Meteor-Learning)
