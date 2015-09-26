@@ -11,7 +11,7 @@ title:  "Guides"
 #Index
 
 - Mobile Apps
-	- [Swift](#Swift) 
+	- [Swift](#**Swift**) 
 	- Objective C
 	- Cocoa
 	- iOS Testing
@@ -523,6 +523,7 @@ title:  "Guides"
 	- Node.js Weekly [Link](http://nodeweekly.com/)
 - Learning
 	- :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[Link](https://github.com/substack/stream-handbook)
+	- Browserify Handbook [Link](https://github.com/substack/browserify-handbook)
 - CheatSheets
 	- Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
 	- The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
