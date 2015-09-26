@@ -10,18 +10,18 @@ title:  "Guides"
 
 #Index
 
-	- Mobile Apps
-		- [Swift](#Swift) 
-		- Objective C
-		- Cocoa
-		- iOS Testing
-	- Javascript
-	- Haskell
-	- Erlang
-	- Elixir
-	- Meteor
-	- Phoenix
-	- Angular
+- Mobile Apps
+	- [Swift](#Swift) 
+	- Objective C
+	- Cocoa
+	- iOS Testing
+- Javascript
+- Haskell
+- Erlang
+- Elixir
+- Meteor
+- Phoenix
+- Angular
 
 
 
