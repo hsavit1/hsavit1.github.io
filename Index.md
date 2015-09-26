@@ -8,8 +8,24 @@ title:  "Guides"
 - :fire: indicates an _Awesome list_  
 
 
+#Index
+	- Mobile Apps
+		- [Swift](#Swift) 
+		- Objective C
+		- Cocoa
+		- iOS Testing
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+
+
+
 #**Swift**
-- Posts
+- Important Posts
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
@@ -21,7 +37,6 @@ title:  "Guides"
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
 	- Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
-	- Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 - Slides
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
@@ -57,8 +72,13 @@ title:  "Guides"
 	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
 	- What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
 	- Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
-- Posts
+- More Posts
 	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
+	- Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+	- Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+	- Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
+	- Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
+	- Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
 - Posts Coming Soon
 	- Figuring out FlatMap [Post Coming Soon]()
 	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
@@ -100,6 +120,7 @@ title:  "Guides"
 #**iOS, OSX, and Cocoa Posts**
 - Posts
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
+	- Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
 - Links
 	- :raised_hands: Cocoa Controls [Link](https://www.cocoacontrols.com/)
 	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
@@ -411,6 +432,8 @@ title:  "Guides"
 	- :raised_hands: Learn you a Haskell for a Great Good (Book) 
 	- Haskell [IDE](https://github.com/leksah/leksah)
 	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
+- Posts
+	- Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
 - Slides
 	- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
 	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
