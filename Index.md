@@ -14,6 +14,7 @@ title:  "Guides"
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
 	- :raised_hands: Objc.io [Link](https://www.objc.io/) 
+	- Swift Education [Link](http://swifteducation.github.io/)
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 	- :raised_hands: Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
@@ -56,6 +57,8 @@ title:  "Guides"
 	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
 	- What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
 	- Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
+- Posts
+	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
 - Posts Coming Soon
 	- Figuring out FlatMap [Post Coming Soon]()
 	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
@@ -563,6 +566,7 @@ title:  "Guides"
 	- DDP Specification [Link](https://github.com/meteor/meteor/blob/devel/packages/ddp/DDP.md)
 	- Understanding Meteor Internals [Link](https://meteorhacks.com/understanding-meteor-internals)
 	- Using Meteor with Docker [Link](https://meteorhacks.com/docker-container-war-and-meteor)
+	- Meteor Pad Editor [Link](http://meteorpad.com/pad/qr2oFzmiZ9nxpiYWt/Leaderboard)
 - Quick References
 	- :raised_hands: The Meteor Manual [Link](http://manual.meteor.com/)
 	- Unofficial Meteor FAQ [Link](https://github.com/oortcloud/unofficial-meteor-faq)
@@ -819,6 +823,8 @@ title:  "Guides"
 	- Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 - Slides
 	- The Mythical Man Month Quick Summary [Slides](http://www.slideshare.net/MrCracker/the-mythical-man-month-49226879)
+- Video
+	- The history of the Internet [YouTube](https://www.youtube.com/watch?v=9hIQjrMHTv4)
 
 #**Programming Languages Posts**
 - Link
@@ -831,6 +837,7 @@ title:  "Guides"
 
 #**Web Development and Deployment Posts**
 - Links
+	- HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
 	- Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
 - Slides
 	- Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
@@ -918,7 +925,9 @@ title:  "Guides"
 	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
 	- Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
 	- Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
-	
+- Video 
+	- What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
+
 #**Microservices and Scalable Architecture**
 - Links
 	- :fire: Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
