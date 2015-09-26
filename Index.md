@@ -11,7 +11,7 @@ title:  "Guides"
 #Index
 
 - Mobile Apps
-	- [Swift](# Swift) 
+	- [Swift](# **Swift**) 
 	- Objective C
 	- Cocoa
 	- iOS Testing
