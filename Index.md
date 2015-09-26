@@ -11,7 +11,7 @@ title:  "Guides"
 #Index
 
 - Mobile Apps
-	- [Swift](#**Swift**) 
+	- [Swift](# Swift) 
 	- Objective C
 	- Cocoa
 	- iOS Testing
@@ -25,7 +25,7 @@ title:  "Guides"
 
 
 
-#**Swift**
+# **Swift**
 - Important Posts
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
