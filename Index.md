@@ -243,6 +243,7 @@ title:  "Guides"
 - Design Patterns
 	- Introduction to Functional Javascript: Javascript through the years [Link](http://www.sitepoint.com/introduction-functional-javascript/)
 	- Javascript Design Patterns By Example [Link](http://www.sitepoint.com/javascript-application-design-patterns/)
+	- Journey from procedural programming to reactive programming [Link](http://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/)
 - Books
 	- :raised_hands: You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
@@ -297,6 +298,7 @@ title:  "Guides"
 	- Johnny-Five Javascript Robotics Framework [Github](http://johnny-five.io/)
 	- CSP Channels fo JS like Clojurescript's core.async or Go [Github](https://github.com/ubolonton/js-csp)
 	- 3D Library [Github](https://github.com/mrdoob/three.js)
+	- Mori: Take advantage of ClojureScript's persistent data structures [Github](https://github.com/swannodette/mori)
 - Slides
 	- :raised_hands: Javascript Fundamentals [SLides](http://slides.com/surtich/javascript-course#/)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
@@ -466,14 +468,24 @@ title:  "Guides"
 - Links
 	- :fire: :raised_hands: Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
+	- ClojureScript homepage [Link](http://cljsjs.github.io/)
 - Github
 	- Figwheel [Github](https://github.com/bhauman/lein-figwheel)
 	- Om: Interface to React [Github](https://github.com/omcljs/om)
 	- :raised_hands: Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [Link](http://himera.herokuapp.com/index.html)
 	- core.async [Github](https://github.com/clojure/core.async)
+	- Enlive: Selector based templating lib [Github](https://github.com/cgrand/enlive)
 - Tutorial 
 	- Clojurescript Tutorial [Link](https://www.niwi.nz/cljs-workshop/)
 	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
+	- Light Table ClojureScript Tutorial [Link](https://github.com/swannodette/lt-cljs-tutorial)
+	- A Very Gentle Introduction to Relational Programming [Link](https://github.com/swannodette/logic-tutorial)
+	- Enlive tutorial [Link](https://github.com/swannodette/enlive-tutorial)
+	- ClojureScript 101 [Link](http://swannodette.github.io/2013/11/07/clojurescript-101/)
+- Posts
+	- Functional Programming is a scam! [Link](http://swannodette.github.io/2013/06/10/porting-notchs-minecraft-demo-to-clojurescript/)
+	- What's next for Clojurescript? [Link](http://swannodette.github.io/2015/07/29/clojurescript-17/)
+	- Scripting ClojureScript with JavaScript [Link](http://swannodette.github.io/2015/03/10/scripting-clojurescript-with-javascript/)
 - Slides
 	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Posts Coming Soon
@@ -532,6 +544,10 @@ title:  "Guides"
 	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 	- Quick Node & Bootstrap Web App [Link](https://stormpath.com/blog/build-nodejs-express-stormpath-app/) 
 	- How to minimize website weight and get fast builds with Gulp.js [Link](http://www.sitepoint.com/introduction-gulp-js/)
+	- How to create an HTTP server [Link](http://www.sitepoint.com/creating-a-http-server-in-node-js/) and how to make HTTP requests with Node [Link](http://www.sitepoint.com/making-http-requests-in-node-js/)
+	- Intro to Node Streams [Link](http://www.sitepoint.com/introduction-to-streams/)
+	- Intro to Browserify [Link](http://www.sitepoint.com/getting-started-browserify/)
+	- Gulp + Browserify: The everything post [Link](https://viget.com/extend/gulp-browserify-starter-faq)
 - Slides
 	- :raised_hands: Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
