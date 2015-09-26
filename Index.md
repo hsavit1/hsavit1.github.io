@@ -13,6 +13,7 @@ title:  "Guides"
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
+	- SwiftLang [Link](http://swiftlang.eu/) 
 	- :raised_hands: Objc.io [Link](https://www.objc.io/) 
 	- Swift Education [Link](http://swifteducation.github.io/)
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
@@ -20,6 +21,7 @@ title:  "Guides"
 	- :raised_hands: Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
 	- Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
 	- Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+	- SwiftStub [Link](http://swiftstub.com/)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
 - Slides
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -56,6 +58,11 @@ title:  "Guides"
 	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
 	- What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
 	- Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
+- Video
+	- Swift Language Youtube Channel [Link](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
+	- Free Swift Lang Course [YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
+	- 250+ Swift Lang Video Tutorials [Link](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
+	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 - More Posts
 	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
 	- Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
@@ -511,6 +518,7 @@ title:  "Guides"
 	- 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
 	- Purescript Github Repo [Link](https://github.com/purescript/purescript)
 - Posts
+	- Try Logic Programming! A Gentle into to Prolog [Link](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
 	- Why would you ever learn Prolog? [Post Coming Soon]()
 - Slides
 	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
@@ -870,9 +878,11 @@ title:  "Guides"
 	- :fire: Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
 	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
 	- :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/) 
-	- :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+	- :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) and another [Graph](http://www.levenez.com/lang/lang_a4.pdf)
+	- Programming Languages through the years and modern trends [Link](https://en.wikipedia.org/wiki/History_of_programming_languages)
 - Posts
 	- What is Unicode? [Link](http://unicode.org/standard/WhatIsUnicode.html)
+	- What is Relational Programming? [Link](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
 
 #**Web Development and Deployment Posts**
 - Links
