@@ -8,9 +8,6 @@ title:  "Guides"
 - :fire: indicates an _Awesome list_  
 
 
-#Index
-
-
 # **Swift**
 - Important Posts
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
