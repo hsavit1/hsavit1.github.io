@@ -211,6 +211,7 @@ title:  "Guides"
 	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/)
 	- :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
 	- :fire: Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
+	- Must watch JS Videos [Link](https://github.com/AllThingsSmitty/must-watch-javascript)
 	- :fire: Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
 	- :fire: Awesome ECMA 6 Tools [Link](https://github.com/addyosmani/es6-tools)
 	- :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)
@@ -234,12 +235,14 @@ title:  "Guides"
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- SDK Design Guidelines [Link](https://github.com/huei90/javascript-sdk-design)
 	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
-	- Introduction to Functional Javascript: Javascript through the years [Link](http://www.sitepoint.com/introduction-functional-javascript/)
 - Data Structures and Algorithms
 	- :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
 	- :raised_hands: Javascript Design Patterns website [Link](http://www.dofactory.com/javascript/design-patterns)
 	- :raised_hands: Javascript Design Patterns code [Link](https://github.com/tcorral/Design-Patterns-in-Javascript)
 	- Revolutionary Data Structures [Link](https://github.com/substack/data-structures-of-the-revolution)
+- Design Patterns
+	- Introduction to Functional Javascript: Javascript through the years [Link](http://www.sitepoint.com/introduction-functional-javascript/)
+	- Javascript Design Patterns By Example [Link](http://www.sitepoint.com/javascript-application-design-patterns/)
 - Books
 	- :raised_hands: You Don't Know Javascript Book Series Github Page [Link](https://github.com/getify/You-Dont-Know-JS)
 	- :fire: Awesome Javascript Books [Link](https://github.com/heatroom/awesome-javascript-books)
@@ -261,12 +264,19 @@ title:  "Guides"
 - Interview
 	- Trivial Interview Questions in Javascript [Link](http://www.thatjsdude.com/interview/js1.html), Part 2 [Link](http://www.thatjsdude.com/interview/js2.html), Part 3 [Link](http://www.thatjsdude.com/interview/dom.html), Part 4 [Link](http://www.thatjsdude.com/interview/css.html#shadowDOM), Part 5 [Link](http://www.thatjsdude.com/interview/html.html)
 	- 25 Javascript interview questions [Link](http://www.toptal.com/javascript/interview-questions)
+	- 5 Important JS Interview Questions [Link](http://www.sitepoint.com/5-javascript-interview-exercises/) and 5 more [Link](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - Posts
 	- Isomorphic means Universal [Link](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 	- You might not need Jquery [Link](http://youmightnotneedjquery.com/)
 	- The state of JS Application Architecture in 2015 [Link](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
 	- ES6 Generators Deliver Go style Concurrency [Github](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
 	- Class hierarchies? Dont do that! [Link](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
+	- Closures Demystified [Link](http://www.sitepoint.com/javascript-closures-demystified/)
+	- Higher order functions in JS [Link](http://www.sitepoint.com/higher-order-functions-javascript/)
+	- Introduction to CoffeeScript [Link](http://www.sitepoint.com/accelerate-javascript-development-coffeescript/)
+	- A guide to AJAX [Link](http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/)
+	- Is AJAX still relevant? [Link](https://www.quora.com/Do-programmers-still-use-AJAX)
+	- What are some of the disadvantages of AJAX? [Link](https://www.quora.com/What-are-the-main-defects-and-demerits-of-AJAX)
 - Github Projects
 	- Promises/A+ [Link](https://promisesaplus.com/)
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
@@ -307,10 +317,13 @@ title:  "Guides"
 - Links
 	- :fire: :raised_hands: Awesome Go [Link](https://github.com/avelino/awesome-go)
 	- Free GO Books [Link](https://github.com/dariubs/GoBooks)
-	- Go Algorithms [Link](https://github.com/arnauddri/algorithms)
-	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
-	- :raised_hands: GO language patterns [Link](http://www.golangpatterns.info/)
 	- Effective Go Website [Link](https://golang.org/doc/effective_go.html)
+	- Currently Using Go List [Link](https://github.com/golang/go/wiki/GoUsers)
+- Tutorials
+	- Learn GO [By Example](https://gobyexample.com/), or read [an introduction](https://www.golang-book.com/books/intro)
+- Language Patterns, Data Structures, and Algorithms
+	- Go Algorithms [Link](https://github.com/arnauddri/algorithms)
+	- :raised_hands: GO language patterns [Link](http://www.golangpatterns.info/)
 - Slides
 	- :raised_hands: Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
 	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
@@ -518,6 +531,7 @@ title:  "Guides"
 	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
 	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
 	- Quick Node & Bootstrap Web App [Link](https://stormpath.com/blog/build-nodejs-express-stormpath-app/) 
+	- How to minimize website weight and get fast builds with Gulp.js [Link](http://www.sitepoint.com/introduction-gulp-js/)
 - Slides
 	- :raised_hands: Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
@@ -539,6 +553,7 @@ title:  "Guides"
 	0 Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
+	- Use Node + Redis [Link](http://www.sitepoint.com/using-redis-node-js/)
 
 #**Phoenix Framework Posts**
 - Links
