@@ -26,6 +26,7 @@ title:  "Guides"
 - Slides
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
+	- Idiomatic Swift [Slides](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
 	- Creating and Building a DSL in Swift [Slides](https://speakerdeck.com/kylef/dsls-in-swift)
 	- Practical Declarative [Slides](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [Slides](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
 	- Building for Open Source [Slides](https://speakerdeck.com/kylef/building-for-open-source)
@@ -36,7 +37,7 @@ title:  "Guides"
 	- Natasha the Robot Explains Functional Programming [Slides](http://www.slideshare.net/natashatherobot/funcitonal-swift-conference-the-functional-way?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=4)
 	- Make Swift More Functional [Slides](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
 	- FP in Swift [Slides](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
-	- :raised_hands: RAC 3 From the Guru [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
+	- :raised_hands: RAC 3 with Ash Furrow [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 	- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 	- Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
 - Presentations
@@ -149,12 +150,15 @@ title:  "Guides"
 
 #**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
+	- Reveal [Link](http://revealapp.com/)
 	- :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 	- Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
 	- Continuous Integration on iOS: My take [Post Coming Soon]()
 	- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
 	- UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
+- Presentations
+	- Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 
 #**WatchKit Posts**
 - Links
@@ -288,6 +292,9 @@ title:  "Guides"
 	- What are some of the disadvantages of AJAX? [Link](https://www.quora.com/What-are-the-main-defects-and-demerits-of-AJAX)
 	- Measuring Javascript Performance [Link](http://www.sitepoint.com/measuring-javascript-functions-performance/)
 	- Understanding .then and Promise Chaining [Link1](http://www.sitepoint.com/overview-javascript-promises/) and [Link2](http://www.sitepoint.com/deeper-dive-javascript-promises/)
+	- Why array.reduce remains supreme [Link](http://glebbahmutov.com/blog/reduce-reigns-supreme/)
+	- An introduction to Transducers in Javascript [Link1](http://simplectic.com/blog/2014/transducers-explained-1/), with Pipelines [Link2](http://simplectic.com/blog/2014/transducers-explained-pipelines/)
+	- Transpilers: This time it's different [Link](http://dailyjs.com/2015/02/26/babel/)
 - ECMAScript
 	- ECMAScript 6 Features [Link](https://github.com/lukehoban/es6features)
 	- :fire: Awesome ECMAScript 6 Learning [Link](https://github.com/ericdouglas/ES6-Learning)
@@ -301,7 +308,6 @@ title:  "Guides"
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
 	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
 	- :raised_hands: Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
-	- :raised_hands: RxJS [Github](https://github.com/Reactive-Extensions/RxJS)
 	- Facebook Jest Unit Testing [Github](https://github.com/facebook/jest)
 	- Require.js [Link](https://github.com/jrburke/requirejs)
 	- Underscore.js [Link](http://underscorejs.org/)
@@ -317,8 +323,10 @@ title:  "Guides"
 	- CSP Channels fo JS like Clojurescript's core.async or Go [Github](https://github.com/ubolonton/js-csp)
 	- 3D Library [Github](https://github.com/mrdoob/three.js)
 	- Mori: Take advantage of ClojureScript's persistent data structures [Github](https://github.com/swannodette/mori)
+	- :raised_hands: Reactive libraries RxJS [Github](https://github.com/Reactive-Extensions/RxJS), Cycle [Github](https://github.com/cyclejs/cycle-core), Bacon.js [Github](https://github.com/baconjs/bacon.js)
 - Slides
-	- :raised_hands: Javascript Fundamentals [SLides](http://slides.com/surtich/javascript-course#/)
+	- Javascript Fundamentals [SLides](http://slides.com/surtich/javascript-course#/)
+	- :raised_hands: Journey from procedural to reactive JavaScript with stops [Slides](http://slides.com/bahmutov/javascript-journey#/)
 	- RxJS [Slides](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
 	- ES6 Features [Slides](http://slides.com/gsklee/es6-not-yo-mommas-javascript#/1)
 	- MVC in Javascript [Slides](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
@@ -498,7 +506,8 @@ title:  "Guides"
 
 #**Clojure** 
 - Links
-	- :fire: :raised_hands: Awesome Clojure [Link](https://github.com/razum2um/awesome-clojure)
+	- :fire: Awesome Clojure [Link1](https://github.com/razum2um/awesome-clojure), [Link2](https://github.com/mbuczko/awesome-clojure)
+	- :fire: Awesome ClojureScript [Link](https://github.com/emrehan/clojurescript-awesome)
 	- Essential Clojure [Link](http://clojure-doc.org/articles/content.html#essentialse)
 	- ClojureScript homepage [Link](http://cljsjs.github.io/)
 - Github
@@ -604,12 +613,13 @@ title:  "Guides"
 	- Commander [Github](https://github.com/tj/commander.js)
 	- NodeMailer: Send Emails with Node [Github](https://github.com/andris9/Nodemailer)
 	- Kraken.js [Github](http://krakenjs.com/)
-	- Async: Async utilities for node and the browser [Link](https://github.com/caolan/async)
+	- Async: Async utilities for node and the browser [Github](https://github.com/caolan/async)
 	- NodeBootstrap: Get going with Express + Node + Bootstrap [Link](https://github.com/inadarei/nodebootstrap)
 	- Jade - robust, elegant, feature rich template engine for Node [Link](https://github.com/jadejs/jade)
 	- Co gives Generator Based Control Flow Goodness [Link](https://github.com/tj/co)
 	- NodeFibers: Fibers/coroutines support for v8 and Node [Link](https://github.com/laverdet/node-Fibers)
-	0 Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
+	- Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
+	- Highland.js: High level streams library [Github](https://github.com/caolan/highland)
 - Posts
 	- Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
 	- Use Node + Redis [Link](http://www.sitepoint.com/using-redis-node-js/)
@@ -624,6 +634,7 @@ title:  "Guides"
 	- ElixirDose Blog [Link](http://www.elixirdose.com/)
 	- Ecto Databse [Link](https://github.com/elixir-lang/ecto)
 	- Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini... [Link](https://github.com/mroth/phoenix-showdown)
+	- HOw to use RethinkDB + Phoenix [Link](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
 - Posts
 	- Phoenix or Meteor? [Link](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
 - Slides
@@ -892,7 +903,7 @@ title:  "Guides"
 	- :fire: Awesome Computer Talks [Link](https://github.com/JanVanRyswyck/awesome-talks)
 	- How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)
 
-#Data Structures and Algorithms 
+#**Data Structures and Algorithms** 
 - Links
 	- :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
@@ -908,7 +919,7 @@ title:  "Guides"
 	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 	- Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
 
-#History of Computing
+#**History of Computing**
 - Links
 	- Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 - Slides
