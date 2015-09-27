@@ -349,6 +349,8 @@ title:  "Guides"
 	- Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 - Videos
 	- :raised_hands: Rob Pike on concurrency [video](https://vimeo.com/49718712)
+- Posts
+	- Why is Google using Go over Haskell? [Link](https://www.quora.com/Why-is-Google-planning-to-switch-to-Go-as-its-primary-development-language-instead-of-Haskell)
 - Posts Coming Soon
 	- Drop everything and GO! (golang post) [Post Coming Soon]()
 
@@ -419,6 +421,8 @@ title:  "Guides"
 	- Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/) 
 - Posts
 	- Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
+	- Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
+	- Should I learn Erlang before Elixir? [Link](https://www.quora.com/Is-it-necessary-to-learn-Erlang-before-digging-into-Elixir)
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -435,6 +439,9 @@ title:  "Guides"
 	- Scala, if you're impatient [Link](http://horstmann.com/scala/)
 	- Go to Twitter's Scala Scool [Link](http://twitter.github.io/scala_school/)
 	- Apache Samza [Link](http://samza.apache.org/)
+- Posts
+	- Scala vs Clojure [Link](http://www.bestinclass.dk/blog/scala-vs-clojure-lets-get-down-to-business). [Link2](https://www.quora.com/What-are-some-advantages-of-Scala-over-Clojure), [Link3](https://www.quora.com/Is-Clojure-better-at-concurrency-than-Scala), [Link4](https://www.quora.com/Is-it-easier-to-learn-Clojure-rather-than-Scala)
+	- Is Scala faster than Clojure? [Link](https://www.quora.com/Is-Scala-faster-than-Clojure)
 - Posts Coming Soon
 	- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
 - Slides
@@ -448,7 +455,11 @@ title:  "Guides"
 	- Haskell [IDE](https://github.com/leksah/leksah)
 	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
 - Posts
+	- What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
 	- Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
+	- Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
+- Books
+	- Thinking functionally with Haskell [Link](https://www.quora.com/Reviews-of-Thinking-Functionally-with-Haskell-2014-book)
 - Slides
 	- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
 	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
@@ -499,9 +510,12 @@ title:  "Guides"
 	- Enlive tutorial [Link](https://github.com/swannodette/enlive-tutorial)
 	- ClojureScript 101 [Link](http://swannodette.github.io/2013/11/07/clojurescript-101/)
 - Posts
+	- :raised_hands: Why would someone ever learn Clojure? [Link](https://www.quora.com/Why-would-someone-learn-Clojure)
 	- Functional Programming is a scam! [Link](http://swannodette.github.io/2013/06/10/porting-notchs-minecraft-demo-to-clojurescript/)
 	- What's next for Clojurescript? [Link](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 	- Scripting ClojureScript with JavaScript [Link](http://swannodette.github.io/2015/03/10/scripting-clojurescript-with-javascript/)
+	- Clojure vs Scala [Link](https://www.quora.com/What-are-some-advantages-of-Clojure-over-Scala)
+	- Clojure vs Elixir [Link](https://www.quora.com/Functional-Programming/Why-choose-Clojure-over-Elixir)
 - Slides
 	- Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Posts Coming Soon
@@ -847,7 +861,6 @@ title:  "Guides"
 	- :fire: Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
 	- :fire: Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
 	- :raised_hands: The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
 	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
@@ -855,6 +868,9 @@ title:  "Guides"
 	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 	- The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
 	- Architectural and philosophical points from Tim Berners Lee [Link](http://www.w3.org/DesignIssues/)
+	- What are the best-kept secrets of great programmers? [Quora Link](http://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers)
+	- What makes a terrible software engineer? [Link](https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineer)
+	- How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
@@ -872,10 +888,13 @@ title:  "Guides"
 	- Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
 	- Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 - Posts
+	- Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
+	- What is Currying? [Link](https://www.quora.com/What-is-currying)
 	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
 	- Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
 	- How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
 	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
+	- Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
 
 #History of Computing
 - Links
@@ -895,6 +914,7 @@ title:  "Guides"
 - Posts
 	- What is Unicode? [Link](http://unicode.org/standard/WhatIsUnicode.html)
 	- What is Relational Programming? [Link](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
+	- What functional programming language should I learn? [Link](https://www.quora.com/Functional-Programming/Should-I-learn-F-Haskell-Scala-or-Clojure)
 
 #**Web Development and Deployment Posts**
 - Links
