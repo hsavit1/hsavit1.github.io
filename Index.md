@@ -1064,7 +1064,7 @@ title:  "Guides"
 	- :fire: Awesome Vagrant [Link](https://github.com/iJackUA/awesome-vagrant)
 	- :fire: Awesome Tools of the Trade from Hacker News [Link](https://github.com/cjbarber/ToolsOfTheTrade)
 	- :fire: Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
-	-:fire:  Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
+	- :fire: Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
 	- Chrome Dev Tools [Link](https://developer.chrome.com/devtools)
 - Posts
 	- Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
@@ -1312,7 +1312,6 @@ title:  "Guides"
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- :fire: Awesome AMAs [Link](https://github.com/sindresorhus/amas)
-	- Why is Evernote the best app and one of the few truly useful apps out there? [Post Coming Soon]()
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
 	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 	- Stanford Encyclopedia of Philosophy [Link](http://plato.stanford.edu/)
