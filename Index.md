@@ -213,6 +213,8 @@ title:  "Guides"
 
 #**Javascript, ECMAScript, Coffeescript, and Typescript Posts**
 - Links
+	- The Crockford Javascript Encyclopedia [Link](http://www.crockford.com/javascript/encyclopedia/)
+	- Crockford: Introducing JSON [Link](http://www.json.org/)
 	- :raised_hands: Superhero.js [Link](http://superherojs.com/)
 	- :raised_hands: Javascript.com, which has lots of links to free resources [Link](https://www.javascript.com/resources)
 	- :raised_hands: Javascript The Right Way [Link](http://www.jstherightway.org/)
@@ -279,6 +281,7 @@ title:  "Guides"
 	- Class hierarchies? Dont do that! [Link](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
 	- Closures Demystified [Link](http://www.sitepoint.com/javascript-closures-demystified/)
 	- Higher order functions in JS [Link](http://www.sitepoint.com/higher-order-functions-javascript/)
+	- Functional Javascript with Recursions & Tail Call Optimization [Link](http://www.integralist.co.uk/posts/js-recursion.html)
 	- Introduction to CoffeeScript [Link](http://www.sitepoint.com/accelerate-javascript-development-coffeescript/)
 	- A guide to AJAX [Link](http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/)
 	- Is AJAX still relevant? [Link](https://www.quora.com/Do-programmers-still-use-AJAX)
@@ -391,6 +394,7 @@ title:  "Guides"
 	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
 - Posts
 	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
+	- Erlang vs Clojure [Link](http://stackoverflow.com/questions/6244170/concurrency-model-erlang-vs-clojure)
 - Slides
 	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
 	- About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
@@ -460,6 +464,7 @@ title:  "Guides"
 	- Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
 - Books
 	- Thinking functionally with Haskell [Link](https://www.quora.com/Reviews-of-Thinking-Functionally-with-Haskell-2014-book)
+	- :raised_hands: Learn you a Haskell for Great Good! [Link](http://learnyouahaskell.com/chapters)
 - Slides
 	- Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
 	- Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
@@ -530,11 +535,17 @@ title:  "Guides"
 	- :raised_hands: The Rust Book [Link]((http://rustbyexample.com/index.html))
 	- Rust hit's 1.0 ! [Link](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
 	- Rust is a Drop in Replacement for C [Link](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
+- Posts
+	- What does Rust do best? [Link](https://www.quora.com/Rust-programming-language/What-does-Rust-do-best-and-what-are-projects-for-someone-new-to-the-language-that-highlights-these-strengths)
+	- Comparing Rust to Go [Link](https://www.quora.com/How-do-Go-and-Rust-languages-compare)
+	- Rust, D, Nimrod, Go [Link](https://www.quora.com/Of-the-emerging-systems-languages-Rust-D-Go-and-Nim-which-is-the-strongest-language-and-why)
+	- Rust vs Swift [Link](https://www.quora.com/Will-an-open-source-Swift-be-a-strong-competitor-to-Rust)
 
 #**Other Languages**
 - Links
 	- :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
 	- :fire: Awesome C [Link](https://notabug.org/koz.ross/awesome-c)
+	- :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
 	- :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
 	- :fire: Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
 	- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
@@ -542,7 +553,8 @@ title:  "Guides"
 	- Purescript Github Repo [Link](https://github.com/purescript/purescript)
 - Posts
 	- Try Logic Programming! A Gentle into to Prolog [Link](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
-	- Why would you ever learn Prolog? [Post Coming Soon]()
+	- What is the future of Julia? [Link](https://www.quora.com/Will-Julia-eventually-replace-Python)
+	- Julia's advantages over Python and R explained [Link](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
 - Slides
 	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
 	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
