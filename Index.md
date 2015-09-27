@@ -251,6 +251,7 @@ title:  "Guides"
 	- Javascript in 10 Minutes [Link](file:///Users/henrysavit/Downloads/js-in-ten-minutes.pdf)
 	- The Little Book of Coffeescript [Link](http://arcturo.github.io/library/coffeescript/index.html)
 	- THe RxJS Book [Link](http://xgrommx.github.io/rx-book/)
+	- Programming Javascript Applications [Link](http://chimera.labs.oreilly.com/books/1234000000262)
 - Video
 	- :fire: Awesome Must Watch JS [Link](https://github.com/bolshchikov/js-must-watch)
 	- Must watch JS Videos [Link](https://github.com/AllThingsSmitty/must-watch-javascript)
@@ -291,6 +292,7 @@ title:  "Guides"
 	- The future of ES Showcase [Link](https://github.com/sindresorhus/esnext-showcase)
 	- Understanding ES6 Generators [Link](http://davidwalsh.name/es6-generators)
 	- map and weakMap [Link](http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/)
+	- let vs const [Link](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
 - Github Projects
 	- Promises/A+ [Link](https://promisesaplus.com/)
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
@@ -851,6 +853,8 @@ title:  "Guides"
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
 - Posts
 	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+	- The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
+	- Architectural and philosophical points from Tim Berners Lee [Link](http://www.w3.org/DesignIssues/)
 - Slides
 	- What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
 	- Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
