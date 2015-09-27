@@ -64,7 +64,10 @@ title:  "Guides"
 	- Free Swift Lang Course [YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
 	- 250+ Swift Lang Video Tutorials [Link](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
 	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+- Important Github Projects
+	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift) 
 - More Posts
+	- Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
 	- Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
 	- Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
