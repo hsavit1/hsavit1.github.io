@@ -64,6 +64,7 @@ title:  "Guides"
 	- Free Swift Lang Course [YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
 	- 250+ Swift Lang Video Tutorials [Link](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
 	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
+	- Explaining the mutating keyword [Link](https://www.youtube.com/watch?v=uOrKvPDfLoE)
 - Important Github Projects
 	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift) 
 - More Posts
@@ -368,7 +369,7 @@ title:  "Guides"
 - Posts Coming Soon
 	- Drop everything and GO! (golang post) [Post Coming Soon]()
 
-#**Ruby and Ruby on Rails Posts** 
+#**Ruby, Ruby on Rails, Jekyll, and Middleman Posts** 
 - Links
 	- :fire: :raised_hands: Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
 	- :fire: Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
@@ -380,6 +381,11 @@ title:  "Guides"
 	- Learn Ruby by Doing Exmaple Problems [Link](https://www.learneroo.com/modules/61/nodes/338)
 	- Learn Ruby in 20 Minutes [Link](https://www.ruby-lang.org/en/documentation/quickstart/)
 	- Coming to Ruby from Other Languages [Link](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+	- Middleman static site generator [Link](https://middlemanapp.com/)
+- Reference
+	- Airbnb Ruby Style Guide [Link](https://github.com/airbnb/ruby)
+- Posts
+	- Styling your middleman static site with Sass tools like Bourbon, Neat, and Bitters [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
 - Posts Coming Soon
 	- _Book Review_: Eloquent Ruby [Post Coming Soon]()
 	- _Book Review_: Metaprogramming Ruby 2 [Post Coming Soon]()
@@ -392,7 +398,11 @@ title:  "Guides"
 - Slides
 	- What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 - Github
+	- Ruby Repository [Link](https://github.com/ruby/ruby)
 	- rbenv [Github](https://github.com/sstephenson/rbenv)
+	- Middleman Repository [Github](https://github.com/middleman/middleman)
+	- Jekyll Repository [Github](https://github.com/jekyll/jekyll)
+	- Rails Repository [Github](https://github.com/rails/rails)
 
 #**Erlang Posts**
 - Links
@@ -1218,6 +1228,7 @@ title:  "Guides"
 	- Material Design on the Web [Slides](https://speakerdeck.com/addyosmani/material-design-for-the-web)
 - Github
 	- Polymer Web Components [Link](https://github.com/Polymer/polymer)
+	- Bourbon Sass Mixin Library for writing CSS [Link](http://bourbon.io/)
 
 #**UX and User Experience**
 - Links
