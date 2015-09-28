@@ -1310,7 +1310,13 @@ title:  "Guides"
 	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html) 
 	- :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
+	- Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
 - Posts
+	- How would existing languages need to change to support quantum computing? [Link](https://www.quora.com/Will-programming-languages-need-to-be-rebuilt-in-the-face-of-quantum-computing-Would-it-be-worth-it)
+	- How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
+	- Can a quantum computer be modled on a standard computer? [Link](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
+	- How can quantum computation revolutionize the world? [Link](https://www.quora.com/How-can-quantum-computing-change-our-society-civilization)
+	- How do you build a simple quantum computer? [Link](https://www.quora.com/How-can-I-build-a-simple-quantum-computer)
 	- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels [Post Coming Soon]()
 	- _Book Review_: Quantum Computing Since Democrutus [Post Coming Soon]()
 	- _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
@@ -1323,12 +1329,23 @@ title:  "Guides"
 	- Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
 	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
 	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
+- Videos 
+	- Quantum Computers Animated [YouTube](https://www.youtube.com/watch?v=T2DXrs0OpHU)
+	- Michio Kaku explains how you program a quantum computer [YouTube](https://www.youtube.com/watch?v=rUWfod_8JsM)
+	- Krauss explains quantum computing [YouTube](https://www.youtube.com/watch?v=UUpqnBzBMEE)
+	- A High level TED talk [YouTube](https://www.youtube.com/watch?v=cugu4iW4W54)
+	- D-Waves quantum computer [YouTube](https://www.youtube.com/watch?v=LVChjHHy1w4)
 
 #**(Mostly Quantum) Physics Posts**
 - Links
 	- Check out my :fire: Awesome Physics Repo [Link]()
 	- An Primer of Quantum Cognition [Link](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
 	- Steven Hawking on God [Link](http://www.hawking.org.uk/does-god-play-dice.html)
+- Video
+	- Minute Physics YouTube Channel [Link](https://www.youtube.com/user/minutephysics)
+	- Dr Physics A's YouTube Channel [Link](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
+	- Simple intro into Fermi-Dirac / Bose-Einstein Statistics [YouTube](https://www.youtube.com/watch?v=2wF_CVuWyEg)
+	- Bose Einstein Condensation [YouTube](https://www.youtube.com/watch?v=nAGPAb4obs8)
 
 #**Mathematics Posts**
 - Links
@@ -1340,7 +1357,7 @@ title:  "Guides"
 	- Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
 	- Library for drawing Hilbert Curves [Github](https://github.com/cortesi/scurve)
 	- Calculus functions written in Julia [Link](https://github.com/johnmyleswhite/Calculus.jl)
-	
+
 #**Thoughts, Posts, Links, Videos, Stuff I Like** 
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
@@ -1374,6 +1391,7 @@ title:  "Guides"
 - The Subsitute Teacher [Link](https://www.youtube.com/watch?v=Dd7FixvoKBw)
 - Borat Song [Link](https://www.youtube.com/watch?v=Vb3IMTJjzfo)
 - Steven Colbert at the White House Correspondents Dinner [Link](https://www.youtube.com/watch?v=2X93u3anTco)
+- Seth McFarline roasts Donald Trump [Link](https://www.youtube.com/watch?v=97JSlRgOevg)
 - President Obama's Anger Translator [Link](https://www.youtube.com/watch?v=G6NfRMv-4OY)
 - Louie C.K. has to poop [Link](https://www.youtube.com/watch?v=7MCj4YeUEik)
 - George Carlin 101 Best Quotes [Link](http://jamesaquilone.com/101-greatest-george-carlin-quotes/)
