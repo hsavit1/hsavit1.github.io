@@ -1311,17 +1311,20 @@ title:  "Guides"
 	- :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
 	- Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
+	- This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
 - Posts
+	- Are quantum computers Turing Machines? [Link](https://www.quora.com/Are-quantum-computers-Turing-machines)
+	- How do you "store" quantum bits? [Link](https://www.quora.com/How-do-the-current-quantum-computers-store-quantum-bits)
 	- How would existing languages need to change to support quantum computing? [Link](https://www.quora.com/Will-programming-languages-need-to-be-rebuilt-in-the-face-of-quantum-computing-Would-it-be-worth-it)
 	- How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
 	- Can a quantum computer be modled on a standard computer? [Link](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
 	- How can quantum computation revolutionize the world? [Link](https://www.quora.com/How-can-quantum-computing-change-our-society-civilization)
 	- How do you build a simple quantum computer? [Link](https://www.quora.com/How-can-I-build-a-simple-quantum-computer)
+	- How can you model a quantum computer on a standard computer? [Link](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
 	- _Book Review_: Quantum Chance: Nonlocality, Teleportation, and Other Quantum Marvels [Post Coming Soon]()
 	- _Book Review_: Quantum Computing Since Democrutus [Post Coming Soon]()
 	- _Book Review_: Quantum Computing for Computer Scientists [Post Coming Soon]()
 	- Investingating the Capabilities of Quantum Machines [Post Coming Soon]()
-	- Learn some quantum mechanics! [Post Coming Soon]()
 - Slides
 	- Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
 	- Quantum Computing vs Security [Slides](https://speakerdeck.com/veorq/quantum-computers-vs-computers-security)
@@ -1329,6 +1332,12 @@ title:  "Guides"
 	- Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
 	- Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
 	- P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
+- Papers
+	- Quantum Theory from 5 Simple Axioms [Link](http://arxiv.org/abs/quant-ph/0101012)
+- Education
+	- Quantum Computing Since Democritus course page [Link](http://www.scottaaronson.com/democritus/)
+- Algorithms
+	- Quantum Computation: How do you explain the Deutsch-Jozsa algorithm? [Link](https://www.quora.com/Quantum-Computation/How-do-you-explain-the-Deutsch-Jozsa-algorithm)
 - Videos 
 	- Quantum Computers Animated [YouTube](https://www.youtube.com/watch?v=T2DXrs0OpHU)
 	- Michio Kaku explains how you program a quantum computer [YouTube](https://www.youtube.com/watch?v=rUWfod_8JsM)
@@ -1341,6 +1350,8 @@ title:  "Guides"
 	- Check out my :fire: Awesome Physics Repo [Link]()
 	- An Primer of Quantum Cognition [Link](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
 	- Steven Hawking on God [Link](http://www.hawking.org.uk/does-god-play-dice.html)
+- Posts
+	- What can one learn about Quantum Mechanics in 10 minutes? [Link](https://www.quora.com/Quantum-Mechanics/What-can-one-learn-about-Quantum-Mechanics-in-10-minutes)
 - Video
 	- Minute Physics YouTube Channel [Link](https://www.youtube.com/user/minutephysics)
 	- Dr Physics A's YouTube Channel [Link](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
