@@ -54,7 +54,8 @@ title:  "Guides"
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
 	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
-	- Functional Reactive Programming in an Imperative World [Link](https://realm.io/news/nacho-soto-functional-reactive-programming/)
+	- Functional Reactive Programming in an Imperative World [Presentation](https://realm.io/news/nacho-soto-functional-reactive-programming/)
+	- Swift Scripting [Presentation](https://realm.io/news/swift-scripting/)
 - WWDC Presentations
 	- :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
 	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
@@ -78,9 +79,9 @@ title:  "Guides"
 	- Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
 	- Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
 	- Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
+	- Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
 - Posts Coming Soon
-	- Figuring out FlatMap [Post Coming Soon]()
-	- The best Swift libraries on Github (looong post) [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
+	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
 	- Collection of Fantastic Articles About Swift [Post Coming Soon](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 	- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 	- Protocol Oriented Programming in Swift [Post Coming Soon]()
@@ -95,7 +96,6 @@ title:  "Guides"
 	- NS_ENUM and Swift [Post Coming Soon]()
 	- Playing with Swift Protocols [Post Coming Soon](http://itshenry.com/2015/09/05/swift-protocols.html)
 	- Functional Reactive Programming with Swift with RAC 3.0 [Post Coming Soon]()
-	- Chris Eidhof from ObjC.io is onto something huge with Functional View Controllers [Post Coming Soon]()
 
 #**Objective-C Posts**
 - Posts
@@ -146,14 +146,8 @@ title:  "Guides"
 - Posts Coming Soon
 	- A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
 	- What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()
-	- The best apps out there (thinking) [Post Coming Soon]()
 	- Why would anyone ever use Core Data? [Post Coming Soon]()
-	- FASTLANE for iOS: A ruby library that is a GODSEND when it comes to the deployment of iOS Apps [Post Coming Soon]()
-	- Xcode is awesome!! Xcode is s#it!! Thoughts about this polarixing IDE [Post Coming Soon]()
 	- Javascript Core [Post Coming Soon]()
-	- Do iOS developers really need a library like Mantle anymore? [Post Coming Soon]()
-	- Grand Central Dispatch + NSOperationQueue = NSMassiveHeadaches [Post Coming Soon]()
-	- How to _properly_ implement a caching system with iOS [Post Coming Soon]()
 
 #**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
@@ -1051,6 +1045,10 @@ title:  "Guides"
 	- Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
 - Video 
 	- What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
+
+#**Architecture and Distributed Computing**
+- Links
+	- Architectural patterns of resilient distributed systems [Link](https://github.com/Randommood/Strangeloop2015)
 
 #**Microservices and Scalable Architecture**
 - Links
