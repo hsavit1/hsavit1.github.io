@@ -1331,8 +1331,16 @@ title:  "Guides"
 	- Steven Hawking on God [Link](http://www.hawking.org.uk/does-god-play-dice.html)
 
 #**Mathematics Posts**
-- :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
-
+- Links
+	- :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
+- Posts
+	- Differential Equations in Computer Science [Link](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)
+- Github
+	- The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
+	- Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
+	- Library for drawing Hilbert Curves [Github](https://github.com/cortesi/scurve)
+	- Calculus functions written in Julia [Link](https://github.com/johnmyleswhite/Calculus.jl)
+	
 #**Thoughts, Posts, Links, Videos, Stuff I Like** 
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
