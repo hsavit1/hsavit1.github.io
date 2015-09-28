@@ -1300,18 +1300,16 @@ title:  "Guides"
 #**Quantum Computing Posts**
 - Links
 	- An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
-	- Breaking news with the Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
-	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
 	- Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
 	- Check out my :fire: Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
-	- EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
 	- LibQuantum C Library [Link](http://www.libquantum.de/)
 	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
 	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html) 
-	- :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
+	- :raised_hands: This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
 	- Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
-	- This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
+- News
+	- Breaking news with the Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
 - Posts
 	- Are quantum computers Turing Machines? [Link](https://www.quora.com/Are-quantum-computers-Turing-machines)
 	- How do you "store" quantum bits? [Link](https://www.quora.com/How-do-the-current-quantum-computers-store-quantum-bits)
@@ -1336,7 +1334,10 @@ title:  "Guides"
 	- Quantum Theory from 5 Simple Axioms [Link](http://arxiv.org/abs/quant-ph/0101012)
 - Education
 	- Quantum Computing Since Democritus course page [Link](http://www.scottaaronson.com/democritus/)
+	- EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
 - Algorithms
+	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
+	- :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- Quantum Computation: How do you explain the Deutsch-Jozsa algorithm? [Link](https://www.quora.com/Quantum-Computation/How-do-you-explain-the-Deutsch-Jozsa-algorithm)
 - Videos 
 	- Quantum Computers Animated [YouTube](https://www.youtube.com/watch?v=T2DXrs0OpHU)
