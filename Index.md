@@ -151,15 +151,16 @@ title:  "Guides"
 
 #**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
-	- Reveal [Link](http://revealapp.com/)
-	- :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
+	- Reveal testing [Link](http://revealapp.com/)
 	- Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
 	- Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
-	- Continuous Integration on iOS: My take [Post Coming Soon]()
-	- Testing on iOS with TDD, BDD, and more! [Post Coming Soon]()
 	- UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
 - Presentations
 	- Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+- Posts
+	- The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
+- Slides
+	- :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 
 #**WatchKit Posts**
 - Links
@@ -230,6 +231,7 @@ title:  "Guides"
 	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
+	- :raised_hands: ECMAScript6 Features overview and Comparison [Link](http://es6-features.org/#Constants)
 	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
 	- Introduction to JSX [Link](http://jsx.github.io/)
 	- How to Start with Javascript [Link](http://jugoncalv.es/blog/javascript/how-to-start-with-javascript/)
