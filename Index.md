@@ -121,6 +121,7 @@ title:  "Guides"
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 	- Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
 - Links
+	- The iOS Times Curated Review of the latest leading Github Projects [Link](http://theiostimes.com/)
 	- :raised_hands: Cocoa Controls [Link](https://www.cocoacontrols.com/)
 	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
 	- :fire: :raised_hands: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
@@ -159,6 +160,8 @@ title:  "Guides"
 	- Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
 - Posts
 	- The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
+- Tutorials
+	- Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Slides
 	- :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 
