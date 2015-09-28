@@ -24,6 +24,7 @@ title:  "Guides"
 	- SwiftStub [Link](http://swiftstub.com/)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
 - Slides
+	- Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
 	- Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
 	- Idiomatic Swift [Slides](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
@@ -40,6 +41,8 @@ title:  "Guides"
 	- :raised_hands: RAC 3 with Ash Furrow [Slides](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [Slides](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
 	- Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
 	- Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
+	- Lessons from Production Swift [Slides](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
+	- Emerging Best Practices in Swift [Slides](https://speakerdeck.com/ashfurrow/emerging-best-practices-in-swift)
 - Presentations
 	- Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
 	- 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
@@ -471,6 +474,7 @@ title:  "Guides"
 	- _Book Review_: Functional Programming with Scala [Post Coming Soon]()
 - Slides
 	- Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
+	- Introduction to Akka [Slides](http://slides.com/oliviermartin/akka#/)
 
 #**Haskell Posts**
 - Links
@@ -613,10 +617,13 @@ title:  "Guides"
 	- Intro to Node Streams [Link](http://www.sitepoint.com/introduction-to-streams/)
 	- Intro to Browserify [Link](http://www.sitepoint.com/getting-started-browserify/)
 	- Gulp + Browserify: The everything post [Link](https://viget.com/extend/gulp-browserify-starter-faq)
+	- Building a blog with Metalsmith [Link](https://azurelogic.com/posts/building-a-blog-with-metalsmith/)
+	- Metalsmith Walkthough Tutorial [Link](https://github.com/RobinThrift/metalsmith-tutorial)
 - Slides
 	- :raised_hands: Node Fundamentals [Link](http://slides.com/surtich/node-fundamentals#/)
 	- Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
+	- Metalsmith Static Site Generator [Github](https://github.com/segmentio/metalsmith)
 	- Bower [Github](https://github.com/bower/bower)
 	- WebTorrent: Steaming torrent client for node & the browser [Github](https://github.com/feross/webtorrent)
 	- Gulp: A toolkit that will help automate time-consuming tasks [Github](https://github.com/gulpjs/gulp)
@@ -1274,6 +1281,10 @@ title:  "Guides"
 	- MLH [Link](https://mlh.io/seasons/f2014/events)
 	- Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
 
+#**Fantastic Programming Reading Material**
+- Links
+	- The Dot Post [Link](http://www.thedotpost.com/frontend)
+
 #**Economics and Bitcoin Posts**
 - Links
 	- :fire: Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
@@ -1322,14 +1333,16 @@ title:  "Guides"
 #**Mathematics Posts**
 - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 
-#**Thoughts, Posts, Links** 
+#**Thoughts, Posts, Links, Videos, Stuff I Like** 
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- :fire: Awesome AMAs [Link](https://github.com/sindresorhus/amas)
 	- American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
-	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 	- Stanford Encyclopedia of Philosophy [Link](http://plato.stanford.edu/)
 	- Brain Pickings Blog [Link](https://www.brainpickings.org/)
+- Videos
+	- Richard Feynman on Social Science [YouTube](https://www.youtube.com/watch?v=IaO69CF5mbY)
+	- Talks at Google [Link](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 - Amazing People
 	- Richard Feynman
 	- Erwin Schrodinger
