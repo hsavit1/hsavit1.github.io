@@ -69,7 +69,7 @@ title:  "Guides"
 	- 250+ Swift Lang Video Tutorials [Link](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
 	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 	- Explaining the mutating keyword [Link](https://www.youtube.com/watch?v=uOrKvPDfLoE)
-- Important Github Projects
+- Incredible Github Projects
 	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift) 
 - More Posts
 	- Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
@@ -80,11 +80,10 @@ title:  "Guides"
 	- Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
 	- Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
 	- Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
+	- Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
 - Posts Coming Soon
 	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
-	- Collection of Fantastic Articles About Swift [Post Coming Soon](http://itshenry.com/2015/09/05/fantastic-swift-articles.html)
 	- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
-	- Protocol Oriented Programming in Swift [Post Coming Soon]()
 	- Exploring Functional Programming in Swift [Post Coming Soon]()
 	- _Book Review_: Functional Programming in Swift (ObjC.io) [Post Coming Soon]()
 	- _Book Review_: Advanced Swift (ObjC.io) [Post Coming Soon]()
@@ -93,9 +92,6 @@ title:  "Guides"
 	- _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
 	- _Book Review_: Swift Quick Syntax Reference (Apress) [Post Coming Soon]()
 	- _Book Review_: Transitioning to Swift (Apress) [Post Coming Soon]()
-	- NS_ENUM and Swift [Post Coming Soon]()
-	- Playing with Swift Protocols [Post Coming Soon](http://itshenry.com/2015/09/05/swift-protocols.html)
-	- Functional Reactive Programming with Swift with RAC 3.0 [Post Coming Soon]()
 
 #**Objective-C Posts**
 - Posts
@@ -233,6 +229,7 @@ title:  "Guides"
 	- :fire: Awesome Javascript Promises [Link](https://github.com/wbinnssmith/awesome-promises)
 	- :raised_hands: Essential Javascript Links [Link](https://github.com/ericelliott/essential-javascript-links)
 	- :fire: Awesome Javascript Tools [Link](https://github.com/codefellows/jstools)
+	- :raised_hands: The Javascript Promise Cookbook [Link](https://github.com/mattdesl/promise-cookbook#the-problem)
 	- Principles of Writing Consistent, Idiomatic Javascript [Link](https://github.com/rwaldron/idiomatic.js)
 	- :raised_hands: ECMAScript6 Features overview and Comparison [Link](http://es6-features.org/#Constants)
 	- Javascript Quality Guide [Link](https://github.com/bevacqua/js)
