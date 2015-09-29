@@ -81,6 +81,7 @@ title:  "Guides"
 	- Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
 	- Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
 	- Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
+	- Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
 - Posts Coming Soon
 	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
 	- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
