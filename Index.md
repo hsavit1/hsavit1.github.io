@@ -4,8 +4,8 @@ title:  "Guides"
 ---
 
 
-- :raised_hands: indicates a _must see_ 
-- :fire: indicates an _Awesome list_  
+- :raised_hands: indicates a _must see_
+- :fire: indicates an _Awesome list_
 
 
 # **Swift**
@@ -13,8 +13,8 @@ title:  "Guides"
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
-	- SwiftLang Website [Link](http://swiftlang.eu/) 
-	- :raised_hands: Objc.io [Link](https://www.objc.io/) 
+	- SwiftLang Website [Link](http://swiftlang.eu/)
+	- :raised_hands: Objc.io [Link](https://www.objc.io/)
 	- Swift Education [Link](http://swifteducation.github.io/)
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
 	- :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
@@ -52,7 +52,7 @@ title:  "Guides"
 	- :raised_hands: Functional Programming in Swift [Presentation](https://realm.io/news/altconf-chris-eidhof-functional-programming-in-swift/)
 	- Bottom Up Programming in Swift [Presentation](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
 	- Make a Cocoapods Framework [Presentation](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
-	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/) 
+	- Object Oriented Functional Programming [Presentation](https://realm.io/news/altconf-saul-mora-object-orientated-functional-programming/)
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 	- Functional Reactive Programming in an Imperative World [Presentation](https://realm.io/news/nacho-soto-functional-reactive-programming/)
 	- Swift Scripting [Presentation](https://realm.io/news/swift-scripting/)
@@ -70,7 +70,7 @@ title:  "Guides"
 	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 	- Explaining the mutating keyword [Link](https://www.youtube.com/watch?v=uOrKvPDfLoE)
 - Incredible Github Projects
-	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift) 
+	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
 - More Posts
 	- Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
@@ -83,7 +83,7 @@ title:  "Guides"
 	- Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
 	- Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
 - Posts Coming Soon
-	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)	
+	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 	- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
 	- Exploring Functional Programming in Swift [Post Coming Soon]()
 	- _Book Review_: Functional Programming in Swift (ObjC.io) [Post Coming Soon]()
@@ -171,13 +171,13 @@ title:  "Guides"
 #**Java and Android Posts**
 - Links
 	- :fire: :raised_hands: Awesome Java [Link](https://github.com/akullpp/awesome-java)
-	- :fire: :raised_hands: Awesome Android [Link](https://github.com/snowdream/awesome-android) 
+	- :fire: :raised_hands: Awesome Android [Link](https://github.com/snowdream/awesome-android)
 	- :fire: Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
 	- :fire: Awesome Android Security [Link](https://github.com/ashishb/android-security-awesome)
 	- :fire: Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
 	- :fire: Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
 	- :fire: Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
-	- :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm) 
+	- :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm)
 - Slides
 	- New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
 	- Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
@@ -268,7 +268,7 @@ title:  "Guides"
 - Quick References
 	- Javascript Data Object cheatsheet [Link](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
 	- :raised_hands: Airbnb Javascript Style Guide [Link](https://github.com/airbnb/javascript)
-- Tutorial 
+- Tutorial
 	- :raised_hands: Mozilla's Official Javascript Reference [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 	- Mozilla's Official DOM Reference [Link](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 	- A test-driven approach to assessing JS skills [Link](https://github.com/rmurphey/js-assessment)
@@ -310,7 +310,7 @@ title:  "Guides"
 - Github Projects
 	- Promises/A+ [Link](https://promisesaplus.com/)
 	- JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
-	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/) 
+	- ImmutableJS Project [Link](http://facebook.github.io/immutable-js/)
 	- :raised_hands: Browserify [Link](http://browserify.org/) and the Browserify Handbook [Github](https://github.com/substack/browserify-handbook)
 	- Facebook Jest Unit Testing [Github](https://github.com/facebook/jest)
 	- Require.js [Link](https://github.com/jrburke/requirejs)
@@ -369,7 +369,7 @@ title:  "Guides"
 - Posts Coming Soon
 	- Drop everything and GO! (golang post) [Post Coming Soon]()
 
-#**Ruby, Ruby on Rails, Jekyll, and Middleman Posts** 
+#**Ruby, Ruby on Rails, Jekyll, and Middleman Posts**
 - Links
 	- :fire: :raised_hands: Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
 	- :fire: Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)
@@ -381,7 +381,7 @@ title:  "Guides"
 	- Learn Ruby by Doing Exmaple Problems [Link](https://www.learneroo.com/modules/61/nodes/338)
 	- Learn Ruby in 20 Minutes [Link](https://www.ruby-lang.org/en/documentation/quickstart/)
 	- Coming to Ruby from Other Languages [Link](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
-- Static Site Generators 
+- Static Site Generators
 	- :raised_hands: {static is} The New Dynamic [Link](http://www.thenewdynamic.org/tool/jekyll/)
 	- Middleman static site generator [Link](https://middlemanapp.com/)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
@@ -411,11 +411,11 @@ title:  "Guides"
 - Links
 	- :fire: :raised_hands: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
 	- :fire: Awesome Erlang Bookmarks [Link](https://github.com/0xAX/erlang-bookmarks/wiki/Erlang-bookmarks)
-	- Learn Erlang By Example [Link](http://erlangbyexample.org/) 
-	- Take the Erlang Course [Link](http://www.erlang.org/course/course.html) 
-	- Some Exercises [Link](http://www.erlang.org/course/exercises.html) 
+	- Learn Erlang By Example [Link](http://erlangbyexample.org/)
+	- Take the Erlang Course [Link](http://www.erlang.org/course/course.html)
+	- Some Exercises [Link](http://www.erlang.org/course/exercises.html)
 	- Learn you an Erlang for a Great Good (Book) [Link](http://learnyousomeerlang.com/content)
-	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html) 
+	- Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html)
 - Posts
 	- Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
 	- Erlang vs Clojure [Link](http://stackoverflow.com/questions/6244170/concurrency-model-erlang-vs-clojure)
@@ -446,7 +446,7 @@ title:  "Guides"
 	- Elixir Demo [Slides](https://speakerdeck.com/benjamintan/ruby-plus-elixir-polyglottin-ftw)
 	- Rubyists, Have a sip of Elixir! [Slides](https://speakerdeck.com/benjamintan/rubyists-have-a-sip-of-elixir)
 	- Elixir, Zero to Web [Slides](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
-	- Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/) 
+	- Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/)
 - Posts
 	- Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
 	- Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
@@ -459,7 +459,7 @@ title:  "Guides"
 	- Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
 	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
 
-#**Scala Posts** 
+#**Scala Posts**
 - Links
 	- :fire: :raised_hands: Awesome Scala [Link](https://github.com/lauris/awesome-scala)
 	- Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
@@ -480,10 +480,10 @@ title:  "Guides"
 - Links
 	- :fire: :raised_hands: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
 	- Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
-	- :raised_hands: Learn you a Haskell for a Great Good (Book) 
+	- :raised_hands: Learn you a Haskell for a Great Good (Book)
 	- Haskell [IDE](https://github.com/leksah/leksah)
 	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
-	- FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build) 
+	- FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
 - Posts
 	- What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
 	- Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
@@ -514,7 +514,7 @@ title:  "Guides"
 - Links
 	- Why Python? :raised_hands: [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
 	- :fire: :raised_hands: Awesome Python [Link](https://github.com/vinta/awesome-python)
-	- What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index) 
+	- What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index)
 	- 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
 	- Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
 	- Python 3 Patterns Online Book [Link](Python 3 Patterns, Recipes and Idioms)
@@ -524,7 +524,7 @@ title:  "Guides"
 	- Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
 	- Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 
-#**Clojure** 
+#**Clojure**
 - Links
 	- :fire: Awesome Clojure [Link1](https://github.com/razum2um/awesome-clojure), [Link2](https://github.com/mbuczko/awesome-clojure)
 	- :fire: Awesome ClojureScript [Link](https://github.com/emrehan/clojurescript-awesome)
@@ -536,7 +536,7 @@ title:  "Guides"
 	- :raised_hands: Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [Link](http://himera.herokuapp.com/index.html)
 	- core.async [Github](https://github.com/clojure/core.async)
 	- Enlive: Selector based templating lib [Github](https://github.com/cgrand/enlive)
-- Tutorial 
+- Tutorial
 	- Clojurescript Tutorial [Link](https://www.niwi.nz/cljs-workshop/)
 	- Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 	- Light Table ClojureScript Tutorial [Link](https://github.com/swannodette/lt-cljs-tutorial)
@@ -572,7 +572,7 @@ title:  "Guides"
 
 #**Other Languages**
 - Links
-	- :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp) 
+	- :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp)
 	- :fire: Awesome C [Link](https://notabug.org/koz.ross/awesome-c)
 	- :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
 	- :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
@@ -607,14 +607,14 @@ title:  "Guides"
 - CheatSheets
 	- Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
 	- The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
-	- Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44) 
+	- Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44)
 	- Npm command cheatsheet [Link](https://gentlenode.com/journal/node-1-npm-complete-cheatsheet/19)
 - Tutorial
 	- :raised_hands: Art of Node: A short intro to Node.js [Link](https://github.com/maxogden/art-of-node#the-art-of-node)
 	- NodeSchool Workshops [Link](http://nodeschool.io/#workshopper-list)
-	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/) 
+	- Solid Node Resource [Link](http://amirrajan.net/nodejs-by-example/)
 	- How to Node [Link](http://howtonode.org/deploy-blog-to-heroku)
-	- Quick Node & Bootstrap Web App [Link](https://stormpath.com/blog/build-nodejs-express-stormpath-app/) 
+	- Quick Node & Bootstrap Web App [Link](https://stormpath.com/blog/build-nodejs-express-stormpath-app/)
 	- How to minimize website weight and get fast builds with Gulp.js [Link](http://www.sitepoint.com/introduction-gulp-js/)
 	- How to create an HTTP server [Link](http://www.sitepoint.com/creating-a-http-server-in-node-js/) and how to make HTTP requests with Node [Link](http://www.sitepoint.com/making-http-requests-in-node-js/)
 	- Intro to Node Streams [Link](http://www.sitepoint.com/introduction-to-streams/)
@@ -704,7 +704,7 @@ title:  "Guides"
 	- 17 Vid YouTube Playlist [Link](https://www.youtube.com/watch?v=LPIgeRkyOFs&list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
 - Meteor Logistics
 	- Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
-	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS) 
+	- What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS)
 	- What startups are using Meteor in prouction? [Link](https://www.quora.com/Which-startups-use-Meteor-in-production)
 	- How is Meteor used in Production? [Link](https://meteorhacks.com/meteor-in-production-a-case-study)
 	- Is Meteor Ready? [Link](https://www.quora.com/Is-MeteorJS-the-best-JavaScript-framework)
@@ -748,7 +748,7 @@ title:  "Guides"
 	- Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
 	- A quick introduction to Meteor [Link](http://slides.com/dasniko/meteor#/)
 	- :raised_hands: Exploring the Real Time Web with Meteor [Link](http://slides.com/cramrov/meteor#/)
-	- Intro to Meteor [Link](https://speakerdeck.com/shrop/intro-to-meteor) 
+	- Intro to Meteor [Link](https://speakerdeck.com/shrop/intro-to-meteor)
 - Github
 	- UI
 		- Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
@@ -758,9 +758,9 @@ title:  "Guides"
 		- React + Famous Bridge [Link](https://github.com/pilwon/react-famous)
 	- Routing
 		- Iron Router [Github](https://github.com/iron-meteor/iron-router)
-		- meteor-REST [Github](https://github.com/stubailo/meteor-rest) 
+		- meteor-REST [Github](https://github.com/stubailo/meteor-rest)
 		- Meteor Astronomy Model Layer [Github](https://github.com/jagi/meteor-astronomy)
-		- Meteor uses SockJS for Websockets [Github](https://github.com/sockjs/sockjs-node) 
+		- Meteor uses SockJS for Websockets [Github](https://github.com/sockjs/sockjs-node)
 	- Mobile
 		- Blaze [Github](http://meteor.github.io/blaze/)
 		- Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
@@ -777,7 +777,7 @@ title:  "Guides"
 		- File uploads in Meteor [Github](https://github.com/CulturalMe/meteor-slingshot)
 
 #**ReactJS, Redux, Flux Posts**
-- Links 
+- Links
 	- :raised_hands: React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
 	- :raised_hands: :fire: Awesome React [Link](https://github.com/enaqx/awesome-react)
 	- :fire: Awesome RxJS + React/Flux Libraries [Link](https://github.com/christianramsey/rx-react-flux)
@@ -806,7 +806,7 @@ title:  "Guides"
 	- FOR FLUX SAKE: Flux beginner's tutorial [Github](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
 	- Full Stack Redux Tutorial [Link](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 	- React Redux Universal Hot Example: A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader [Github](https://github.com/erikras/react-redux-universal-hot-example/)
-	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html) 
+	- ToDo List Official Flux Tutorial [Link](http://facebook.github.io/flux/docs/todo-list.html)
 	- Write a Basic App in Redux [Link](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
 	- Static Site Generation with React and Webpack [Link](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
 	- Isomorphic Tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts [Link](https://github.com/spikebrehm/isomorphic-tutorial)
@@ -832,7 +832,7 @@ title:  "Guides"
 	- React Bindings for Redux [Github](https://github.com/rackt/react-redux)
 	- React Hot Loader [Github](http://gaearon.github.io/react-hot-loader/)
 	- TodoMVC with React and RxJS [Github](https://github.com/fdecampredon/react-rxjs-todomvc)
-	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/) 
+	- ngReact: Use React components in your Angular applicatiaons [Github](http://davidchang.github.io/ngReact/)
 	- Redux Dev Tools with hot reloading, action replay, and customizable UI [Github](https://github.com/gaearon/redux-devtools)
 	- Universal React Boilerplate [Github](https://github.com/cloverfield-tools/universal-react-boilerplate)
 	- React D3 [Github](https://reactiva.github.io/react-d3-website/)
@@ -842,7 +842,7 @@ title:  "Guides"
 	- Radium React Components [Github](https://github.com/FormidableLabs/radium)
 	- React Starter Kit [Github](https://github.com/kriasoft/react-starter-kit)
 	- React Static Boilerplate [Github](https://github.com/koistya/react-static-boilerplate)
-- Video 
+- Video
 	- React.js Conference Videos [Link](http://conf.reactjs.com/)
 	- Egghead Video Series: [Link](https://egghead.io/series/react-fundamentals)
 	- $ Orielly: A practical introduction to React.js [Link](https://player.oreilly.com/videos/9781491925652)
@@ -883,7 +883,7 @@ title:  "Guides"
 	- MEAN is Great, but then you grow up [Link](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
 	- Angular vs Backbone [Link](https://www.quora.com/How-do-Angular-js-and-Backbone-js-compare)
 	- Hardcore Angular Optimization [Link](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
-- Books 
+- Books
 	- Backbone.js Applications by Addy Osmani [Link](http://addyosmani.github.io/backbone-fundamentals/)
 - Slides
 	- All about Angular [Slides](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
@@ -926,11 +926,11 @@ title:  "Guides"
 	- :fire: Awesome Computer Talks [Link](https://github.com/JanVanRyswyck/awesome-talks)
 	- How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)
 
-#**Data Structures and Algorithms** 
+#**Data Structures and Algorithms**
 - Links
 	- :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
 	- Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
-	- :fire: Awesome academic programming courses [Link](https://github.com/prakhar1989/awesome-courses) 
+	- :fire: Awesome academic programming courses [Link](https://github.com/prakhar1989/awesome-courses)
 	- Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
 	- Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 	- Open Data Structures Textbook [Link](http://opendatastructures.org/)
@@ -957,7 +957,7 @@ title:  "Guides"
 - Link
 	- :fire: Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
 	- How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
-	- :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/) 
+	- :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/)
 	- :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) and another [Graph](http://www.levenez.com/lang/lang_a4.pdf)
 	- Programming Languages through the years and modern trends [Link](https://en.wikipedia.org/wiki/History_of_programming_languages)
 - Posts
@@ -1055,7 +1055,7 @@ title:  "Guides"
 	- POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
 	- Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
 	- Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
-- Video 
+- Video
 	- What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
 
 #**Architecture and Distributed Computing**
@@ -1112,7 +1112,7 @@ title:  "Guides"
 	- :fire: Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
 	- :fire: :raised_hands: Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
 	- :fire: Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
-	- :fire: Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles) 
+	- :fire: Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles)
 	- :fire: Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
 	- :fire: Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
 	- :fire: Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
@@ -1123,7 +1123,7 @@ title:  "Guides"
 	- ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 	- iTerms [Link](https://github.com/gnachman/iTerm2)
 	- What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
-	- VimAwesome Plugins [Link](http://vimawesome.com/) 
+	- VimAwesome Plugins [Link](http://vimawesome.com/)
 	- Powerline Vim [Link](https://github.com/powerline/powerline)
 	- OSX System Administration Posts [Link](https://miteshshah.github.io/sysadmin/)
 	- Nuclide [Link](https://github.com/facebook/nuclide)
@@ -1134,7 +1134,7 @@ title:  "Guides"
 	- Color Sublime: See Sublime Colors [Link](http://colorsublime.com/)
 - Posts
 	- Learn Enough Command Line to be Dangerous [Link](http://www.learnenough.com/command-line/)
-- Quick References 
+- Quick References
 	- BASH cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
 - Slides
 	- What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
@@ -1145,7 +1145,7 @@ title:  "Guides"
 	- Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
 	- Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)
 
-#**Software Development Posts** 
+#**Software Development Posts**
 - Links
 	- :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
 	- :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
@@ -1210,9 +1210,9 @@ title:  "Guides"
 - Posts
 	- Top 10 Data Mining Algorithms in plain English [Link](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - Github Projects
-	- Grafana [Link](https://github.com/grafana/grafana) 
+	- Grafana [Link](https://github.com/grafana/grafana)
 - Slides
-	- Statistics for Hackers [Link](https://speakerdeck.com/jakevdp/statistics-for-hackers) 
+	- Statistics for Hackers [Link](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 
 #**Design and Front End Web Development Posts**
 - Links
@@ -1313,7 +1313,7 @@ title:  "Guides"
 	- Check out my :fire: Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
 	- LibQuantum C Library [Link](http://www.libquantum.de/)
 	- Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
-	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html) 
+	- Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
 	- C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
 	- :raised_hands: This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
 	- Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
@@ -1348,7 +1348,7 @@ title:  "Guides"
 	- Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
 	- :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
 	- Quantum Computation: How do you explain the Deutsch-Jozsa algorithm? [Link](https://www.quora.com/Quantum-Computation/How-do-you-explain-the-Deutsch-Jozsa-algorithm)
-- Videos 
+- Videos
 	- Quantum Computers Animated [YouTube](https://www.youtube.com/watch?v=T2DXrs0OpHU)
 	- Michio Kaku explains how you program a quantum computer [YouTube](https://www.youtube.com/watch?v=rUWfod_8JsM)
 	- Krauss explains quantum computing [YouTube](https://www.youtube.com/watch?v=UUpqnBzBMEE)
@@ -1375,13 +1375,15 @@ title:  "Guides"
 - Posts
 	- Differential Equations in Computer Science [Link](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)
 	- Haskell: What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
+  - What is a functor? Cateory theory and the concept of adjointeness [Link](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Terry.pdf)
+  - What's the difference between a function and a functor? [Link](https://www.quora.com/What-is-the-difference-between-a-function-and-a-functor)
 - Github
 	- The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
 	- Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
 	- Library for drawing Hilbert Curves [Github](https://github.com/cortesi/scurve)
 	- Calculus functions written in Julia [Link](https://github.com/johnmyleswhite/Calculus.jl)
 
-#**Thoughts, Posts, Links, Videos, Stuff I Like** 
+#**Thoughts, Posts, Links, Videos, Stuff I Like**
 - Links
 	- :fire: Awesome Mind Expanding Books [Link](https://github.com/hackerkid/Mind-Expanding-Books)
 	- :fire: Awesome AMAs [Link](https://github.com/sindresorhus/amas)
