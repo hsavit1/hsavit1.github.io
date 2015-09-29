@@ -380,7 +380,10 @@ title:  "Guides"
 	- Learn Ruby by Doing Exmaple Problems [Link](https://www.learneroo.com/modules/61/nodes/338)
 	- Learn Ruby in 20 Minutes [Link](https://www.ruby-lang.org/en/documentation/quickstart/)
 	- Coming to Ruby from Other Languages [Link](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+- Static Site Generators 
+	- :raised_hands: {static is} The New Dynamic [Link](http://www.thenewdynamic.org/tool/jekyll/)
 	- Middleman static site generator [Link](https://middlemanapp.com/)
+	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
 - Reference
 	- Airbnb Ruby Style Guide [Link](https://github.com/airbnb/ruby)
 - Posts
@@ -1224,11 +1227,9 @@ title:  "Guides"
 	- :fire: Awesome Bootstrap Themes [Link](https://github.com/therebelrobot/awesome-bootstrap)
 	- :fire: Awesome Sass [Link](https://github.com/HugoGiraudel/awesome-sass)
 	- Free Bootstrap Themes [Link](http://startbootstrap.com/template-categories/all/)
-	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
 	- :fire: Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
 	- Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
 	- Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
-	- :raised_hands: {static is} The New Dynamic [Link](http://www.thenewdynamic.org/tool/jekyll/)
 - Posts
 	- Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
 	- What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
