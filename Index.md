@@ -13,7 +13,7 @@ title:  "Guides"
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
 	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
 - Links
-	- SwiftLang [Link](http://swiftlang.eu/) 
+	- SwiftLang Website [Link](http://swiftlang.eu/) 
 	- :raised_hands: Objc.io [Link](https://www.objc.io/) 
 	- Swift Education [Link](http://swifteducation.github.io/)
 	- :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
