@@ -387,7 +387,7 @@ title:  "Guides"
 - Reference
 	- Airbnb Ruby Style Guide [Link](https://github.com/airbnb/ruby)
 - Posts
-	- Styling your middleman static site with Sass tools like Bourbon, Neat, and Bitters [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
+	- Styling your middleman static site with Sass tools like Bourbon [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
 - Posts Coming Soon
 	- _Book Review_: Eloquent Ruby [Post Coming Soon]()
 	- _Book Review_: Metaprogramming Ruby 2 [Post Coming Soon]()
