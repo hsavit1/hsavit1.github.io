@@ -1374,6 +1374,7 @@ title:  "Guides"
 	- :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
 - Posts
 	- Differential Equations in Computer Science [Link](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)
+	- Haskell: What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
 - Github
 	- The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
 	- Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
