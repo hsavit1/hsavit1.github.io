@@ -886,8 +886,8 @@ title:  "Guides"
 
 -----
 
-#**Pure Programming Posts**
-- Posts
+#**Pure Computer Science Posts**
+- Posts Coming Soon
 	- _Book Review_: Working Effectively with Legacy Code [Post Coming Soon]()
 	- _Book Review_: Distributed Algorithms: An intuitive approach (Book) [Post Coming Soon]()
 - Links
@@ -900,9 +900,9 @@ title:  "Guides"
 	- :fire: Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
 	- :fire: Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
 	- :raised_hands: The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
-	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 	- The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
+	- :fire: Awesome Gists [Link](https://github.com/vsouza/awesome-gists)
 - Posts
 	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 	- The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
@@ -926,6 +926,7 @@ title:  "Guides"
 	- :fire: Awesome academic programming courses [Link](https://github.com/prakhar1989/awesome-courses) 
 	- Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
 	- Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
+	- Open Data Structures Textbook [Link](http://opendatastructures.org/)
 - Posts
 	- Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
 	- What is Currying? [Link](https://www.quora.com/What-is-currying)
@@ -934,6 +935,8 @@ title:  "Guides"
 	- How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
 	- :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 	- Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
+- Videos
+	- Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 
 #**History of Computing**
 - Links
@@ -1281,9 +1284,10 @@ title:  "Guides"
 	- MLH [Link](https://mlh.io/seasons/f2014/events)
 	- Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
 
-#**Fantastic Programming Reading Material**
+#**Fantastic Programming Periodicals**
 - Links
 	- The Dot Post [Link](http://www.thedotpost.com/frontend)
+	- Objc.io [Link](http://www.objc.io.com)
 
 #**Economics and Bitcoin Posts**
 - Links
@@ -1358,6 +1362,7 @@ title:  "Guides"
 	- Dr Physics A's YouTube Channel [Link](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
 	- Simple intro into Fermi-Dirac / Bose-Einstein Statistics [YouTube](https://www.youtube.com/watch?v=2wF_CVuWyEg)
 	- Bose Einstein Condensation [YouTube](https://www.youtube.com/watch?v=nAGPAb4obs8)
+	- Why, as citizens of the Earth, we should fund a trip to Europa [Link](http://bigthink.com/think-tank/bill-nye-how-finding-et-will-change-the-world)
 
 #**Mathematics Posts**
 - Links
@@ -1391,9 +1396,6 @@ title:  "Guides"
 	- Louie C.K.
 	- Sarah Silvermnan
 	- George Carlin
-	- Rodney Dangerfield
-	- Andy Samberg
-	- Sacha Baron Cohen
 
 #**Comic Relief - _Your Moment of Zen_**
 - :raised_hands: Jon Stewart on _Crossfire_ [Link](https://www.youtube.com/watch?v=aFQFB5YpDZE)
