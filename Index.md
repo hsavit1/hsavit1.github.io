@@ -483,10 +483,13 @@ title:  "Guides"
 	- :raised_hands: Learn you a Haskell for a Great Good (Book) 
 	- Haskell [IDE](https://github.com/leksah/leksah)
 	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
+	- FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build) 
 - Posts
 	- What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
 	- Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
 	- Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
+- Tutorial
+	- School of Haskell online tutorials [Link](https://www.fpcomplete.com/school?show=tutorials)
 - Books
 	- Thinking functionally with Haskell [Link](https://www.quora.com/Reviews-of-Thinking-Functionally-with-Haskell-2014-book)
 	- :raised_hands: Learn you a Haskell for Great Good! [Link](http://learnyouahaskell.com/chapters)
