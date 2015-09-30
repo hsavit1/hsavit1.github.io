@@ -1,6 +1,5 @@
 ---
 layout: page
-
 ---
 
 
@@ -57,7 +56,9 @@ layout: page
 	- Functional Reactive Programming in an Imperative World [Presentation](https://realm.io/news/nacho-soto-functional-reactive-programming/)
 	- Swift Scripting [Presentation](https://realm.io/news/swift-scripting/)
 - WWDC Presentations
+  - WWDC Full Text WriteUps [Link](http://asciiwwdc.com/)
 	- :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
+  - Make all Value Types Equatable [Link](https://developer.apple.com/videos/wwdc/2015/?id=414)
 	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
 	- UI Testing in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=406)
 	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
@@ -72,6 +73,9 @@ layout: page
 - Incredible Github Projects
 	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
 - More Posts
+  - Protocol Oriented Programming Gist [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95) and another look into the concept [Link](http://willowtreeapps.com/blog/protocol-oriented-programming/)
+  - If you're subclassing, you're doing it wrong [Link](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+  - Every Swift Value Type Should be Equatable [Link](https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/)
 	- Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
 	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
 	- Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
@@ -510,6 +514,8 @@ layout: page
 - Slides
 	- What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
 	- Building Web Apps with Elm ([Slides](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
+- Posts
+  - What is the future of the Elm programming language? [Link](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)
 
 #**Python Posts**
 - Links
@@ -546,6 +552,8 @@ layout: page
 	- ClojureScript 101 [Link](http://swannodette.github.io/2013/11/07/clojurescript-101/)
 - Posts
 	- :raised_hands: Why would someone ever learn Clojure? [Link](https://www.quora.com/Why-would-someone-learn-Clojure)
+  - Why learn ClojureScript? [Link](https://www.quora.com/Why-ClojureScript)
+  - Bringing functional to the frontend: Clojure + ClojureScript for the web [Link](http://blog.getprismatic.com/bringing-functional-to-the-frontend-clojure-clojurescript-for-the-web/)
 	- Functional Programming is a scam! [Link](http://swannodette.github.io/2013/06/10/porting-notchs-minecraft-demo-to-clojurescript/)
 	- What's next for Clojurescript? [Link](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 	- Scripting ClojureScript with JavaScript [Link](http://swannodette.github.io/2015/03/10/scripting-clojurescript-with-javascript/)
@@ -578,13 +586,19 @@ layout: page
 	- :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
 	- :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
 	- :fire: Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
+  - :fire: Awesome Crystal [Link](https://github.com/veelenga/awesome-crystal)
 	- Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 	- 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+- Github Repositories
 	- Purescript Github Repo [Link](https://github.com/purescript/purescript)
+  - Crystal Github Repo [Link](https://github.com/manastech/crystal)
+  - Nim Github Repo [Link](https://github.com/nim-lang/Nim)
+  - LiveScript Github Repo [Link](https://github.com/gkz/LiveScript/)
 - Posts
 	- Try Logic Programming! A Gentle into to Prolog [Link](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
 	- What is the future of Julia? [Link](https://www.quora.com/Will-Julia-eventually-replace-Python)
 	- Julia's advantages over Python and R explained [Link](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
+  - Compaing MATLAB/Octave, Python NumPy,	R, and Julia [Link](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
 - Slides
 	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
 	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
@@ -936,6 +950,7 @@ layout: page
 	- Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
 	- Open Data Structures Textbook [Link](http://opendatastructures.org/)
 - Posts
+  - The beauty of the Bresenham's Algorithm, visualized [Link](http://members.chello.at/~easyfilter/bresenham.html)
 	- Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
 	- What is Currying? [Link](https://www.quora.com/What-is-currying)
 	- Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
@@ -961,6 +976,7 @@ layout: page
 	- :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/)
 	- :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) and another [Graph](http://www.levenez.com/lang/lang_a4.pdf)
 	- Programming Languages through the years and modern trends [Link](https://en.wikipedia.org/wiki/History_of_programming_languages)
+  - List of concurrent and parallel programming languages [Link](https://en.wikipedia.org/wiki/List_of_concurrent_and_parallel_programming_languages)
 - Posts
 	- What is Unicode? [Link](http://unicode.org/standard/WhatIsUnicode.html)
 	- What is Relational Programming? [Link](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
@@ -1294,6 +1310,7 @@ layout: page
 - Links
 	- The Dot Post [Link](http://www.thedotpost.com/frontend)
 	- Objc.io [Link](http://www.objc.io.com)
+  - ProgrammingIsTerrible.com [Link](http://programmingisterrible.com/)
 
 #**Economics and Bitcoin Posts**
 - Links
