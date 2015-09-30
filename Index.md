@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  "Guides"
+title: Guides
+permalink: /guides/
 ---
 
 
