@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Guides
-permalink:/Index.html/
 ---
 
 
