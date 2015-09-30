@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guides
-permalink: /guides/
+permalink:/Index.html/
 ---
 
 
