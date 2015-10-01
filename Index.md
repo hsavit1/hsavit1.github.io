@@ -10,8 +10,10 @@ layout: page
 # **Swift**
 - Important Posts
 	- :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
-	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
+	- SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html
+  - MVVM in Swift [Link](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 - Links
+  - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
 	- SwiftLang Website [Link](http://swiftlang.eu/)
 	- :raised_hands: Objc.io [Link](https://www.objc.io/)
 	- Swift Education [Link](http://swifteducation.github.io/)
@@ -22,6 +24,7 @@ layout: page
 	- Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 	- SwiftStub [Link](http://swiftstub.com/)
 	- Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
+  - Fucking Closure Syntax [Link](http://fuckingclosuresyntax.com/)
 - Slides
 	- Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
 	- Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -55,37 +58,52 @@ layout: page
 	- A Eulogy for Objective C [Presentation](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
 	- Functional Reactive Programming in an Imperative World [Presentation](https://realm.io/news/nacho-soto-functional-reactive-programming/)
 	- Swift Scripting [Presentation](https://realm.io/news/swift-scripting/)
+  - Functional Programming in a Playground [Presentation](https://www.youtube.com/watch?v=estNbh2TF3E)
+  - Functional Programming as a Functionalist [Presentation](https://www.youtube.com/watch?v=rJosPrqBqrA)
+  - Making Friends with Value Types [Presentation](https://realm.io/news/andy-matuschak-controlling-complexity/)
 - WWDC Presentations
-  - WWDC Full Text WriteUps [Link](http://asciiwwdc.com/)
-	- :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
-  - Make all Value Types Equatable [Link](https://developer.apple.com/videos/wwdc/2015/?id=414)
-	- Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
-	- UI Testing in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=406)
-	- Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
-	- What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
-	- Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
+  + WWDC Full Text WriteUps [Link](http://asciiwwdc.com/)
+  + :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
+  + Protocol Oriented Programming Gist covers whatever went on in the lecture [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
+  + Make all Value Types Equatable [Link](https://developer.apple.com/videos/wwdc/2015/?id=414)
+	+ Advanced NSOperations [Link](https://developer.apple.com/videos/wwdc/2015/?id=226)
+	+ UI Testing in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=406)
+	+ Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
+	+ What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
+	+ Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
 - Video
 	- Swift Language Youtube Channel [Link](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
 	- Free Swift Lang Course [YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
-	- 250+ Swift Lang Video Tutorials [Link](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G)
 	- Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
 	- Explaining the mutating keyword [Link](https://www.youtube.com/watch?v=uOrKvPDfLoE)
 - Incredible Github Projects
 	- Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
 - More Posts
-  - Protocol Oriented Programming Gist [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95) and another look into the concept [Link](http://willowtreeapps.com/blog/protocol-oriented-programming/)
-  - If you're subclassing, you're doing it wrong [Link](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
-  - Every Swift Value Type Should be Equatable [Link](https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/)
-	- Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
-	- Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
-	- Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
-	- Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
-	- Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
-	- Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
-	- Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
-	- Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
-	- Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
-	- Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
+  + 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
+    + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
+    + Swift's pattern-matching switch statement [Link](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
+    + Custom pattern matching in Swift [Link](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
+    + Protocols in Swift [Link](http://austinzheng.com/2014/12/24/protocols-in-swift/)
+    + Generics in Swift, Part 1 [Link](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
+    + Generics in Swift, Part 2 [Link](http://austinzheng.com/)
+  + Swift 2 Error Handling [Link](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
+  + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
+  + Sequences and Generators in Swift [Link](http://austinzheng.com/2015/01/24/swift-seq/)
+  + Protocol Oriented Programming in Swift
+    + Another look into the concept of P.O.P.  [Link](http://willowtreeapps.com/blog/protocol-oriented-programming/)
+    + Protocol Oriented MVVM [Link](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/)
+  + If you're subclassing, you're doing it wrong. POP and VOP explained [Link](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
+  + Every Swift Value Type Should be Equatable [Link](https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/)
+	+ Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
+	+ Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
+	+ Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+	+ Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+	+ Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
+	+ Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
+	+ Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
+	+ Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
+	+ Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
+	+ Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
 - Posts Coming Soon
 	- The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
 	- Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
@@ -122,6 +140,7 @@ layout: page
 	- A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
 	- Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
 - Links
+  - The Best FRP iOS Learning Resources [Link](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 	- The iOS Times Curated Review of the latest leading Github Projects [Link](http://theiostimes.com/)
 	- :raised_hands: Cocoa Controls [Link](https://www.cocoacontrols.com/)
 	- iOS 9 Sampler [Link](https://github.com/shu223/iOS-9-Sampler)
@@ -361,6 +380,7 @@ layout: page
 - Language Patterns, Data Structures, and Algorithms
 	- Go Algorithms [Link](https://github.com/arnauddri/algorithms)
 	- :raised_hands: GO language patterns [Link](http://www.golangpatterns.info/)
+  - How I start with Go [Link](https://howistart.org/posts/go/1)
 - Slides
 	- :raised_hands: Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
 	- Channels Are Not Enough... or Why Pipelining Is Not That Easy [Link](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
@@ -389,6 +409,8 @@ layout: page
 	- :raised_hands: {static is} The New Dynamic [Link](http://www.thenewdynamic.org/tool/jekyll/)
 	- Middleman static site generator [Link](https://middlemanapp.com/)
 	- Jekyll Themes [Link](http://drjekyllthemes.github.io/)
+- Tutorial
+  - How I start with Ruby [Link](https://howistart.org/posts/ruby/1)
 - Reference
 	- Airbnb Ruby Style Guide [Link](https://github.com/airbnb/ruby)
 - Posts
@@ -427,9 +449,12 @@ layout: page
 	- Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
 	- About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
 	- Erlang 101 [Slides](http://slides.com/eddywong/erlang-101#/)
+- Tutorial
+  - How I start with Erlang [Link](https://howistart.org/posts/erlang/1)
 
 #**Elixir Posts**
 - Links
+  - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)
 	- :fire: :raised_hands: Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
 	- :raised_hands: Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
 	- A Crash Course for Erlang Devs [Link](http://elixir-lang.org/crash-course.html)
@@ -456,6 +481,7 @@ layout: page
 	- Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
 	- Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
 	- Should I learn Erlang before Elixir? [Link](https://www.quora.com/Is-it-necessary-to-learn-Erlang-before-digging-into-Elixir)
+  - One of the single best Elixir blogs on the web, made by the creator of Elixir [Link](http://blog.plataformatec.com.br/tag/elixir/)
 - Posts Coming Soon
 	- _Book Review_: Meta Programming Elixir [Post Coming Soon]()
 	- _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -463,6 +489,9 @@ layout: page
 - Tutorial
 	- Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
 	- Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
+  - How I start with Elixir [Link](https://howistart.org/posts/elixir/1)
+- Github
+  - Ecto database wrapper [Link](https://github.com/elixir-lang/ecto)
 
 #**Scala Posts**
 - Links
@@ -490,11 +519,13 @@ layout: page
 	- FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
 	- FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
 - Posts
+  - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
 	- What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
 	- Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
 	- Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
 - Tutorial
 	- School of Haskell online tutorials [Link](https://www.fpcomplete.com/school?show=tutorials)
+  - How I start with Haskell [Link](https://howistart.org/posts/haskell/1)
 - Books
 	- Thinking functionally with Haskell [Link](https://www.quora.com/Reviews-of-Thinking-Functionally-with-Haskell-2014-book)
 	- :raised_hands: Learn you a Haskell for Great Good! [Link](http://learnyouahaskell.com/chapters)
@@ -602,6 +633,8 @@ layout: page
 - Slides
 	- There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
 	- Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
+- Tutorial
+  - How I start with Nim [Link](https://howistart.org/posts/nim/1)
 
 -----
 
@@ -926,6 +959,7 @@ layout: page
 	- :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
 	- :fire: Awesome Gists [Link](https://github.com/vsouza/awesome-gists)
 - Posts
+  - Monads are just Burritos [Link](http://khanlou.com/2015/09/what-the-heck-is-a-monad/)
 	- The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 	- The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
 	- Architectural and philosophical points from Tim Berners Lee [Link](http://www.w3.org/DesignIssues/)
@@ -1003,6 +1037,7 @@ layout: page
 	- What is this new Facebook project with Relay and GraphQL? [Link](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
 	- MongoDB, PostgreSQL, or MySQL? [Link](https://www.quora.com/Which-database-should-I-use-for-a-killer-web-application-MongoDB-PostgreSQL-or-MySQL)
 	- What is Apache Hadoop? [Link](https://hadoop.apache.org/)
+  - Using Migration Scripts in Database Deployments [Link](https://www.simple-talk.com/sql/database-administration/using-migration-scripts-in-database-deployments/)
 - Books
 	- The Little MongoDB Book [Link](http://openmymind.net/mongodb.pdf)
 - Slides
