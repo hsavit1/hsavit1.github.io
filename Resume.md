@@ -40,17 +40,24 @@ permalink: /resume/
 
 
 
-### Current Technical Skills and Currently Learning
+### Skills
 
 
 + Objective-C
 + Swift
++ Java
 + Javascript
+
+
+### _Still Experimenting With_
+
+
 + Meteor 
 + React.js 
 + Elixir
 + Phoenix Framework
 + Ruby
++ Python
 + MongoDB
 + RethinkDB
 

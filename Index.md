@@ -12,6 +12,7 @@ layout: page
     - :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
     - MVVM in Swift [Link](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
+    - The Difference between RxSwift and ReactiveCocoa [Link](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons)
 - Links
     - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
     - Swift Sandbox Newsletter [Link](http://swiftsandbox.io/)
@@ -27,6 +28,7 @@ layout: page
     - Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
     - Fucking Closure Syntax [Link](http://fuckingclosuresyntax.com/)
     - Ray Wenderlich Tutorial Pages [Link](http://www.raywenderlich.com/category/swift)
+    - The Swift Diary [Link](http://inessential.com/swiftdiary)
 - Slides
     - Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -86,8 +88,11 @@ layout: page
 - Swift Data Structures and Algorithms
     + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
-    + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-lists-and-performance/)
+    + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
 - More Posts
+    + FRP With ReactiveCocoa in Swift 
+        + Introduction [Link](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
+        + Reacting to Events [Link](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
     + Understanding Downcasting Operators in Swift [Link](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type)
     + 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
         + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
@@ -99,6 +104,9 @@ layout: page
     + Swift 2 Error Handling [Link](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
     + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
     + Sequences and Generators in Swift [Link](http://austinzheng.com/2015/01/24/swift-seq/)
+    + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
+    + Deques, Queues, and Lists in Swift with indirect [Link](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
+    + Can we please make a standard style for closures? [Link](https://bigonotetaking.wordpress.com/2015/08/04/ramblings-on-stylish-closures-currying-and-operators/)
     + Protocol Oriented Programming in Swift
         + Swift Diagrams Playground for P.O.P. [Link](https://github.com/alskipp/Swift-Diagram-Playgrounds?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_1)
         + Gist covers whatever went on in the lecture [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
@@ -111,6 +119,8 @@ layout: page
         + Protocols in Swift [Link](http://ashfurrow.com/blog/protocols-and-swift/)
         + Ray Wenderlich intro to P.O.P. [Link](http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
         + Protocol Extensions are the death of the Pipe forward operator [Link](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/)
+        + How Protocol Oriented Programming could stilm improve [Link](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
+        + THe Swift Protocol Proposal [Link](http://kickingbear.com/blog/archives/521)
     + Associated Types
         + Illuminating Forum Post [Link](https://forums.developer.apple.com/message/18038)
         + How to make Generic Protocols in Swift [Link](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
@@ -139,7 +149,7 @@ layout: page
     - _Book Review_: Swift Quick Syntax Reference (Apress) [Post Coming Soon]()
     - _Book Review_: Transitioning to Swift (Apress) [Post Coming Soon]()
 - Github
-  - Neon [Link](https://github.com/mamaral/Neon)
+    - Neon [Link](https://github.com/mamaral/Neon)
 
 #**Objective-C Posts**
 - Posts
@@ -232,6 +242,18 @@ layout: page
     - :fire: Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
     - :fire: Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
     - :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm)
+    - Algorithms and Data Structures implemented in Java [Link](http://codelibrary.ml/doubly-linked-list/java)
+- Tutorials
+    - The Official Java Language Tutorial [Link](https://docs.oracle.com/javase/tutorial/java/index.html)
+- Posts
+    + Abstract Classes vs Interfaces [Link](http://letstalkaboutjava.blogspot.in/2015/03/differences-between-abstract-class-and.html) 
+    + Individual cases where Java can be faster than C++ [Link](https://www.quora.com/In-what-cases-is-Java-faster-if-at-all-than-C)
+- Java Interview Questions
+    - Java Interview Questions Website [Link](http://java-questions.com/)
+    - Big List [Link](http://www.tutorialspoint.com/java/java_interview_questions.htm)
+    - 115 Java Interview Questions [Link](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
+    - What are some good Java interview Questions? [Link](https://www.quora.com/What-are-good-interview-questions-for-Java-developers)
+    - The most important concepts in Java [Link](https://www.quora.com/What-are-the-most-important-concepts-in-Java-that-should-be-learned-and-reviewed-before-a-technical-interview)
 - Slides
     - New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
     - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
@@ -245,8 +267,10 @@ layout: page
     - How much time do AndroidAnntoations really save for you? [Post Coming Soon]()
     - Using RxJava with Retrolambdas [Post Coming Soon]()
     - Parallels of Android and iOS (loong post) [Post Coming Soon]()
-    - What the iOS Developer in me really likes about Android [Post Coming Soon]()
-    - Why Android is the future (outside of NYC and Silicon Valley) [Post Coming Soon]()
+- Github
+    + Netflix's fault tolerant Hysterix Project [Github](https://github.com/Netflix/Hystrix)
+    + Apache Cassandra [Github](http://cassandra.apache.org/)
+    
 
 #**Hybrid App Development Posts**
 - Posts
@@ -354,6 +378,7 @@ layout: page
     - Why array.reduce remains supreme [Link](http://glebbahmutov.com/blog/reduce-reigns-supreme/)
     - An introduction to Transducers in Javascript [Link1](http://simplectic.com/blog/2014/transducers-explained-1/), with Pipelines [Link2](http://simplectic.com/blog/2014/transducers-explained-pipelines/)
     - Transpilers: This time it's different [Link](http://dailyjs.com/2015/02/26/babel/)
+    - What's a Persistent Data Structure? [Link](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
 - ECMAScript
     - ECMAScript 7 Evolution [Link](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
     - ECMAScript Compatibility Tables [Link](https://github.com/kangax/compat-table)
@@ -436,6 +461,7 @@ layout: page
     - Writing, building, installing, and testing Go code [Link](https://www.youtube.com/watch?v=XCsL89YtqCs)
 - Posts
     - Why is Google using Go over Haskell? [Link](https://www.quora.com/Why-is-Google-planning-to-switch-to-Go-as-its-primary-development-language-instead-of-Haskell)
+    - Why does go have the syntax that it does? [Link](https://www.quora.com/Many-people-complain-that-Go-has-ancient-syntax-and-lacks-modern-language-features-Why-did-Google-create-such-an-old-fashioned-C-like-language-What-is-the-purpose)
 - Posts Coming Soon
     - Drop everything and GO! (golang post) [Post Coming Soon]()
 
@@ -459,13 +485,20 @@ layout: page
     - Python Tips [Link](https://github.com/rasbt/python_reference)
 - Posts
     - Concurrency and Multithreading in Python [Link](https://www.quora.com/How-do-I-do-multithreading-in-Python)
+    - Abstract Classes vs Interfaces in Python [Link](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
+    - List of important hidden features in Python [Link](http://stackoverflow.com/questions/101268/hidden-features-of-python)
+    - Python Properties vs Atrributes [Link](http://stackoverflow.com/questions/7374748/whats-the-difference-between-a-python-property-and-attribute)
+    - What's new in Python 3? [Link](https://docs.python.org/3/whatsnew/3.0.html)
 - References
     + Python Command Line Reference Guide [Link](https://docs.python.org/3.3/using/cmdline.html)
     + Python Quick Reference Page [Link](http://rgruet.free.fr/PQR27/PQR2.7.html#ClassDef)
     + Python 3 Cheat Sheet [Link](http://overapi.com/python/)
     + Static/Abstract/Class methods in Python [Link](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
+    + Python Language Reference Reference [Link](https://docs.python.org/3/reference/index.html#reference-index)
+    + Python Standard Library Reference [Link](https://docs.python.org/3/library/index.html)
 - Tutorial
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
+    + Learn Python the Hard Way [Link](http://learnpythonthehardway.org/book/index.html)
 - Slides
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
@@ -510,6 +543,9 @@ layout: page
     - Refractor in Ruby Cheatsheet [Link](http://ghendry.net/refactor.html)
 - Posts
     - Styling your middleman static site with Sass tools like Bourbon [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
+    - Full Comparison between Python and Ruby [Link](http://mitsuhiko.pocoo.org/pythonruby.html) [Link2](https://www.quora.com/How-do-Python-and-Ruby-compare/answer/Fabio-Akita?share=1)
+    - Ruby vs Java [Link](http://a-developer-life.blogspot.com/2013/03/ruby-vs-java.html)
+    - Generators and Coroutines in Ruby [Link](http://blog.ontoillogical.com/blog/2014/07/21/delimited-continuations-in-ruby-part-2/)
 - Posts Coming Soon
     - _Book Review_: Eloquent Ruby [Post Coming Soon]()
     - _Book Review_: Metaprogramming Ruby 2 [Post Coming Soon]()
@@ -551,6 +587,7 @@ layout: page
 
 #**Elixir Posts**
 - Links
+    - An Elixir Blog made by Elixir's Creator [Link](http://blog.plataformatec.com.br/tag/elixir/)
     - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)
     - :fire: :raised_hands: Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
     - A Crash Course for Erlang Devs [Link](http://elixir-lang.org/crash-course.html)
@@ -583,6 +620,8 @@ layout: page
     - One of the single best Elixir blogs on the web, made by the creator of Elixir [Link](http://blog.plataformatec.com.br/tag/elixir/)
     - Elixir vs Ruby [Link](http://www.littlelines.com/blog/2014/06/27/elixir-vs-ruby-showdown-part-one/)
     - Lispy Elixir [Link](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
+    - A review of the Elixir Language [Link](https://www.quora.com/Reviews-of-Elixir-programming-language)
+    - Elixir vs Go vs Rust vs Scala for backend languages [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm) 
 - Posts Coming Soon
     - _Book Review_: Meta Programming Elixir [Post Coming Soon]()
     - _Book Review_: Programming Elixir [Post Coming Soon]()
@@ -615,20 +654,24 @@ layout: page
     - Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
     - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python) 
     - Why NOT Haskell? [Link](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
+    - Reviews of the Haskell Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
 - Tutorial
     - How to unit test in Haskell [Link](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md)
     - Big List of Haskell Tutorials [Link](https://wiki.haskell.org/Tutorials#Using_monads)
     - Haskell Study Plan [Link](http://web.archive.org/web/20100416040111/http://www.alpheccar.org/en/posts/show/67)
     - School of Haskell online tutorials [Link](https://www.fpcomplete.com/school?show=tutorials)
     - How I start with Haskell [Link](https://howistart.org/posts/haskell/1)
+    - How to use GHCI [Link](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)
 - Books
     - Thinking functionally with Haskell [Link](https://www.quora.com/Reviews-of-Thinking-Functionally-with-Haskell-2014-book)
     - :raised_hands: Learn you a Haskell for Great Good! [Link](http://learnyouahaskell.com/chapters)
+    - Real World Haskell [Link](http://book.realworldhaskell.org/)
 - Slides
     - Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
     - Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
     - Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
     - Haskell for Normal People [Slides](http://slides.com/benleggett/haskellpres#/)
+    - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
 - Github
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
 
@@ -661,7 +704,10 @@ layout: page
     - :raised_hands: Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [Link](http://himera.herokuapp.com/index.html)
     - core.async [Github](https://github.com/clojure/core.async)
     - Enlive: Selector based templating lib [Github](https://github.com/cgrand/enlive)
+    - Leiningen automates your Clojure projects without setting your hair on fire [Link](https://github.com/technomancy/leiningen)
 - Tutorial
+    - Clojure Koans [Link](https://github.com/functional-koans/clojure-koans)
+    - ClojureScript Online Koans [Link](http://clojurescriptkoans.com/)
     - Clojurescript Tutorial [Link](https://www.niwi.nz/cljs-workshop/)
     - ClojureScript Light Table Tutorial [Link](https://github.com/swannodette/lt-cljs-tutorial)
     - Learn Clojure with [Koans](https://github.com/functional-koans/clojure-koans), [4Clojure](https://www.4clojure.com/problems), [awesome-clojure](https://github.com/razum2um/awesome-clojure)
@@ -669,6 +715,8 @@ layout: page
     - A Very Gentle Introduction to Relational Programming [Link](https://github.com/swannodette/logic-tutorial)
     - Enlive tutorial [Link](https://github.com/swannodette/enlive-tutorial)
     - ClojureScript 101 [Link](http://swannodette.github.io/2013/11/07/clojurescript-101/)
+- Presentations
+    - Simple Made Easy with Clojure [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) 
 - Posts
     - :raised_hands: Why would someone ever learn Clojure? [Link](https://www.quora.com/Why-would-someone-learn-Clojure)
     - Why learn ClojureScript? [Link](https://www.quora.com/Why-ClojureScript)
@@ -716,7 +764,8 @@ layout: page
 - Slides
     - Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
     - Introduction to Akka [Slides](http://slides.com/oliviermartin/akka#/)
-
+- Github
+    + Akka Repository [Github](https://github.com/akka/akka)
 
 #**Other Languages**
 - Links
@@ -740,14 +789,16 @@ layout: page
     - OCaml Github Page [Link](https://github.com/ocaml/ocaml)
     - Harlan GPU Computing [Link](https://github.com/eholk/harlan)
     - Gambit (Scheme Evolved) [Link](https://github.com/feeley/gambit)
+    - Racket Programming Language [Link](https://github.com/racket/racket)
 - Posts
     - Try Logic Programming! A Gentle into to Prolog [Link](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
     - What is the future of Julia? [Link](https://www.quora.com/Will-Julia-eventually-replace-Python)
     - Julia's advantages over Python and R explained [Link](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
     - Compaing MATLAB/Octave, Python NumPy, R, and Julia [Link](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
+    - What are the most important parts of C++ for interviews? [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview)
 - Slides
     - There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
-    - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4)
+    - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
 - Tutorial
     - How I start with Nim [Link](https://howistart.org/posts/nim/1)
 
@@ -1087,6 +1138,7 @@ layout: page
     - How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
     - What makes a terrible software engineer? [Link](https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineer)
     - Shouuld I learn Scheme for Functional Programming? [Link](https://www.quora.com/Is-Scheme-worth-learning)
+    - How to Work at Facebook or Google in only 6 months [Link](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Jimmy-Saade?srid=TAJ1&share=1)
 - Slides
     - What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
     - Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
@@ -1119,12 +1171,16 @@ layout: page
     - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
     - Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
+    - How to Study Cormen's Algos Book [Link](https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=TAJ1&share=1)
+    - Important Algorithmic Info to know about C++ [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview/answer/Jimmy-Saade?srid=TAJ1&share=1)
 - Videos
     - Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 
 #**History of Computing**
 - Links
     - Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
+- Posts
+    - What's the cultural relationship between programming language theory and theoretical computer science? [Link](https://www.quora.com/Whats-the-cultural-relationship-between-programming-language-theory-and-theoretical-computer-science) 
 - Slides
     - The Mythical Man Month Quick Summary [Slides](http://www.slideshare.net/MrCracker/the-mythical-man-month-49226879)
 - Video
@@ -1137,12 +1193,13 @@ layout: page
     - :raised_hands: Learn X in Y minutes [Link](http://learnxinyminutes.com/)
     - :raised_hands: The Evolution of Programming Languages [TimeLine](https://en.wikipedia.org/wiki/Timeline_of_programming_languages) and another [Graph](http://www.levenez.com/lang/lang_a4.pdf)
     - Programming Languages through the years and modern trends [Link](https://en.wikipedia.org/wiki/History_of_programming_languages)
-  - List of concurrent and parallel programming languages [Link](https://en.wikipedia.org/wiki/List_of_concurrent_and_parallel_programming_languages)
+    - List of concurrent and parallel programming languages [Link](https://en.wikipedia.org/wiki/List_of_concurrent_and_parallel_programming_languages)
 - Posts
     - What is Unicode? [Link](http://unicode.org/standard/WhatIsUnicode.html)
     - What is Relational Programming? [Link](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
     - What functional programming language should I learn? [Link](https://www.quora.com/Functional-Programming/Should-I-learn-F-Haskell-Scala-or-Clojure)
-
+    - Are macros and meta-programming really necessary in functional programming languages? [Link](https://www.quora.com/Are-macros-and-meta-programming-really-necessary-in-functional-programming-languages)
+    
 #**Web Development and Deployment Posts**
 - Links
     - HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
@@ -1589,7 +1646,7 @@ layout: page
     - Jon Stewart
     - Steven Colbert
     - Conan O'Brien
-  - Trey Parker / Matt Stone
+    - Trey Parker / Matt Stone
     - Seth McFarline
     - Louie C.K.
     - Sarah Silvermnan

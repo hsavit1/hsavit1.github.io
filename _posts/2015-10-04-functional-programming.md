@@ -38,6 +38,8 @@ Also see the "Purely Functional Data Structures" written in 1996 by some guy nam
 
 Here's the book [Link](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 
+Also check out the first class Haskell Patterns repository [Link](https://hackage.haskell.org/package/first-class-patterns)
+
 1. Ideal Hash Trees
 2. Functional Priority Search Queues
 3. One sided flexible arrays
