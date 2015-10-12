@@ -21,14 +21,15 @@ layout: page
     - Swift Education [Link](http://swifteducation.github.io/)
     - :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
     - :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
-    - :raised_hands: Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
-    - Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
     - Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
     - SwiftStub [Link](http://swiftstub.com/)
     - Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
     - Fucking Closure Syntax [Link](http://fuckingclosuresyntax.com/)
     - Ray Wenderlich Tutorial Pages [Link](http://www.raywenderlich.com/category/swift)
+    - A Better way to learn Swift [Link](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - The Swift Diary [Link](http://inessential.com/swiftdiary)
+    - Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+    - Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
 - Slides
     - Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -65,7 +66,10 @@ layout: page
     - Functional Programming in a Playground [Presentation](https://www.youtube.com/watch?v=estNbh2TF3E)
     - Functional Programming as a Functionalist [Presentation](https://www.youtube.com/watch?v=rJosPrqBqrA)
     - Making Friends with Value Types [Presentation](https://realm.io/news/andy-matuschak-controlling-complexity/)
+    - A look into Realm's Core DB Engine [Presentation](https://realm.io/news/jp-simard-realm-core-database-engine/)
+    - Hidden Gems in Swift [Presentation](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
 - WWDC Presentations
+    + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
     + WWDC Full Text WriteUps [Link](http://asciiwwdc.com/)
     + :raised_hands: Protocol-Oriented Programming in Swift [Link](https://developer.apple.com/videos/wwdc/2015/?id=408)
@@ -90,9 +94,19 @@ layout: page
     + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
     + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
 - More Posts
+    + Web Services  
+        +  Calling APIs and Parsing JSON with Swift [Link](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
+        +  Calling a REST Api in Swift [Link](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
+        + How to Make REST API Calls and Parse JSON with Swift [Link](http://devdactic.com/rest-api-parse-json-swift/)
     + FRP With ReactiveCocoa in Swift 
         + Introduction [Link](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [Link](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
+        + :raised_hands: Functors, Applicatives, and Monads in Swift [Link](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+    + Swift Error Handling
+        + Swift Failiable Initializers [Link](http://www.jessesquires.com/swift-failable-initializers-revisited/)
+        + Swift 2.0: Why Guard is Better than If [Link](http://natashatherobot.com/swift-guard-better-than-if/)
+        + Swift 2 Error Handling [Link](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
+        + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
     + Understanding Downcasting Operators in Swift [Link](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type)
     + 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
         + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
@@ -101,13 +115,11 @@ layout: page
         + Protocols in Swift [Link](http://austinzheng.com/2014/12/24/protocols-in-swift/)
         + Generics in Swift, Part 1 [Link](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
         + Generics in Swift, Part 2 [Link](http://austinzheng.com/)
-    + Swift 2 Error Handling [Link](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
-    + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
     + Sequences and Generators in Swift [Link](http://austinzheng.com/2015/01/24/swift-seq/)
-    + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
     + Deques, Queues, and Lists in Swift with indirect [Link](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
     + Can we please make a standard style for closures? [Link](https://bigonotetaking.wordpress.com/2015/08/04/ramblings-on-stylish-closures-currying-and-operators/)
     + Protocol Oriented Programming in Swift
+        + Protocol Oriented MVVM [Link](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/)
         + Swift Diagrams Playground for P.O.P. [Link](https://github.com/alskipp/Swift-Diagram-Playgrounds?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_1)
         + Gist covers whatever went on in the lecture [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
         + What are the advantages? [Link](http://www.infoq.com/news/2015/06/protocol-oriented-swift)
@@ -121,22 +133,30 @@ layout: page
         + Protocol Extensions are the death of the Pipe forward operator [Link](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/)
         + How Protocol Oriented Programming could stilm improve [Link](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
         + THe Swift Protocol Proposal [Link](http://kickingbear.com/blog/archives/521)
+        + Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
     + Associated Types
         + Illuminating Forum Post [Link](https://forums.developer.apple.com/message/18038)
         + How to make Generic Protocols in Swift [Link](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
-    + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
-    + Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
-    + Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
-    + Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
-    + Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
-    + Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
-    + Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
-    + Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
+    + Swift Initializers
+        + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
+        + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
+        + Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
+        + Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
+         + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
+         + IBOutlet Style in Swift [Link](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
+    + Pattern Matching
+        + Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
+        + Pattern Matching in Swift [Link](http://oleb.net/blog/2015/09/swift-pattern-matching/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+    + Types 
+        + Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
+        + Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
     + Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
     + Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
-    + Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
-    + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
-    + C++ Advice to Swift Devs [Link](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
+    + Language Comparisons
+        + Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
+        + C++ Advice to Swift Devs [Link](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
+    + Design Patterns
+        + Template Method Pattern in Swift [Link](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
 - Posts Coming Soon
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
@@ -150,6 +170,9 @@ layout: page
     - _Book Review_: Transitioning to Swift (Apress) [Post Coming Soon]()
 - Github
     - Neon [Link](https://github.com/mamaral/Neon)
+    - Cracking the Coding Interview Questions [Link](https://github.com/bizz84/CrackingTheCodingInterview)
+    - Design Patterns in Swift [Link](https://github.com/bizz84/CrackingTheCodingInterview)
+    - SwiftlyJSON [Link](https://github.com/SwiftyJSON/SwiftyJSON)
 
 #**Objective-C Posts**
 - Posts
@@ -174,6 +197,10 @@ layout: page
 - Posts
     - A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
     - Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
+    - How to work with 3D Quick Touch [Link](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
+    - iOS 9 Split View Drag and Drop [Link](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
+    - How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+    - Peek and Pop in iOS 9 [Link](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
 - Links
     - The Best FRP iOS Learning Resources [Link](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
     - The iOS Times Curated Review of the latest leading Github Projects [Link](http://theiostimes.com/)
@@ -191,14 +218,11 @@ layout: page
     - :fire: Awesome Apple [Link](https://github.com/joeljfischer/awesome-apple)
     - iOS App Reverse Engineering Book [Link](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
     - Ruby Motion Cocoa Wrappers [Link](https://github.com/rubymotion/BubbleWrap)
-    - How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
 - Slides
     - REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
     - Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
     - Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
     - Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
-- Presentation
-    - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
 - Posts Coming Soon
     - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
     - What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()
@@ -215,9 +239,15 @@ layout: page
     - UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
 - Presentations
     - Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+    - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
+    - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
 - Posts
     - The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
-  - Cryptography with Swift [Link](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+    - Cryptography with Swift [Link](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+    - Mocks in Swift Via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
+    - BDD Testing with Swift [Link](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
+    - Unit Testing in Swift [Link](https://bendyworks.com/unit-testing-in-swift/)
+    - Unit Testing Tips and Tricks [Link](http://natashatherobot.com/swift-unit-testing-tips-and-tricks/)
 - Tutorials
     - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Slides
@@ -225,6 +255,8 @@ layout: page
 - Github
   - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
   - iOS Snapshot Test Cases [Link](https://github.com/facebook/ios-snapshot-test-case)
+  - Quick Testing Framework [Github](https://github.com/Quick/Quick)
+  - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
 
 #**WatchKit Posts**
 - Links
@@ -241,19 +273,41 @@ layout: page
     - :fire: Awesome Android Testing [Link](https://github.com/hotchemi/awesome-android-testing)
     - :fire: Awesome Android Tools [Link](https://github.com/wasabeef/awesome-android-tools)
     - :fire: Awesome Android Performance [Link](https://github.com/Juude/awesome-android-performance)
-    - :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm)
     - Algorithms and Data Structures implemented in Java [Link](http://codelibrary.ml/doubly-linked-list/java)
+    - Must Read Android Developer Blogs [Link](https://www.quora.com/What-are-must-read-Android-developer-blogs)
+    - :fire: :raised_hands: Codepath Android Guide [Link](https://github.com/codepath/android_guides)
+    - Official Android Pages [Link](http://developer.android.com/training/index.html)
 - Tutorials
     - The Official Java Language Tutorial [Link](https://docs.oracle.com/javase/tutorial/java/index.html)
+- Books
+    - Java Programming Language Wikibook [Link](https://en.wikibooks.org/wiki/Java_Programming/Language_Fundamentals)
 - Posts
-    + Abstract Classes vs Interfaces [Link](http://letstalkaboutjava.blogspot.in/2015/03/differences-between-abstract-class-and.html) 
+    + Abstract Classes vs Interfaces in Java [Link](http://stackoverflow.com/questions/761194/interface-vs-abstract-class-general-oo) 
     + Individual cases where Java can be faster than C++ [Link](https://www.quora.com/In-what-cases-is-Java-faster-if-at-all-than-C)
+    + How to implement Structs in Java [Link](http://stackoverflow.com/questions/36701/struct-like-objects-in-java)
+    + How to implement callbacks in Java [Link](http://stackoverflow.com/questions/1476170/how-to-implement-callbacks-in-java/1477229#1477229)
 - Java Interview Questions
     - Java Interview Questions Website [Link](http://java-questions.com/)
     - Big List [Link](http://www.tutorialspoint.com/java/java_interview_questions.htm)
     - 115 Java Interview Questions [Link](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
     - What are some good Java interview Questions? [Link](https://www.quora.com/What-are-good-interview-questions-for-Java-developers)
     - The most important concepts in Java [Link](https://www.quora.com/What-are-the-most-important-concepts-in-Java-that-should-be-learned-and-reviewed-before-a-technical-interview)
+    - Android Interview Questions [Link](http://www.javacodegeeks.com/2011/08/android-interview-questions-answers.html)
+- Education
+    - Design Patterns in Java [Link](http://www.javacodegeeks.com/2015/09/java-design-patterns.html)
+    - Advanced Java Concepts [Link](http://www.javacodegeeks.com/2015/09/advanced-java.html)
+    - Understanding Android UI [Link](http://www.javacodegeeks.com/2015/09/android-ui-design-basics.html)
+    - The Ultimate Guide to Java 8 [Link](http://www.javacodegeeks.com/2014/05/java-8-features-tutorial.html)
+    - Ultimate Guide to Java Unit Testing [Link](http://www.javacodegeeks.com/2014/11/junit-tutorial-unit-testing.html)
+    - Ultimate Guide to Java Concurrency [Link](http://www.javacodegeeks.com/2015/09/java-concurrency-essentials.html)
+- Video
+    - Understanding Java garbage collection and What you can do about it [Link](https://www.youtube.com/watch?v=_e5hujoTkgY)
+- JVM
+    - :fire: Awesome JVM [Link](https://github.com/deephacks/awesome-jvm)
+    - The Official Java 8 Virtual Machine Specification [Link](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf)
+    - The Java Memory Model [Link](http://www.cs.umd.edu/~pugh/java/memoryModel/)
+    - Hotspot JVM Memory Layout [Link](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html)
+    - The JSR-133 Cookbook for Compiler Writers [Link](http://gee.cs.oswego.edu/dl/jmm/cookbook.html)
 - Slides
     - New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
     - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
@@ -270,6 +324,7 @@ layout: page
 - Github
     + Netflix's fault tolerant Hysterix Project [Github](https://github.com/Netflix/Hystrix)
     + Apache Cassandra [Github](http://cassandra.apache.org/)
+    + Java RetroLambdas [Github](https://github.com/orfjackal/retrolambda)
     
 
 #**Hybrid App Development Posts**
@@ -483,6 +538,9 @@ layout: page
     - Python for stupid people [Link](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md#environments-and-environment-management)
     - Curated Scientific Python posts [Link](https://github.com/svaksha/pythonidae)
     - Python Tips [Link](https://github.com/rasbt/python_reference)
+    - SCI-Kit Machine Learning in Python [Link](http://scikit-learn.org/stable/)
+    - PyPi: The Python Package Index [Link](https://pypi.python.org/pypi)
+    - Python Code Style Guide [Link](https://www.python.org/dev/peps/pep-0008/)
 - Posts
     - Concurrency and Multithreading in Python [Link](https://www.quora.com/How-do-I-do-multithreading-in-Python)
     - Abstract Classes vs Interfaces in Python [Link](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
@@ -503,10 +561,14 @@ layout: page
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 - Books
-    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [Link](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html)  
+    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [Link](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
+    - Python Machine Learning Book [Link](https://github.com/rasbt/python-machine-learning-book) 
 - Github
     - Python Github Projects [Link](https://github.com/checkcheckzz/python-github-projects)
     - Python Mode Vim [Link](https://github.com/klen/python-mode)
+    - Understand Machine Learning and Python Classification Tests [Link](https://github.com/rasbt/pattern_classification)
+    - Python Reference [Link](https://github.com/rasbt/python_reference)
+    - scikit-learn: machine learning in Python [Link](https://github.com/scikit-learn/scikit-learn)
 - Video
     - Vim as a Python IDE [Link](https://www.youtube.com/watch?v=YhqsjUUHj6g)
 
@@ -578,6 +640,9 @@ layout: page
 - Posts
     - Why you should learn Erlang [Post](http://videlalvaro.github.io/2014/02/why-you-should-learn-erlang.html)
     - Erlang vs Clojure [Link](http://stackoverflow.com/questions/6244170/concurrency-model-erlang-vs-clojure)
+    - How learning Erlang will make you a better programmer [Link](https://www.quora.com/Will-learning-Erlang-make-me-a-better-programmer-in-other-languages)
+    - How does Erlang compare for Web Development? [Link](https://www.quora.com/Erlang-programming-language/Why-choose-Erlang-for-web-development)
+    - What are the Worst Parts about Erlang? [Link](https://www.quora.com/What-are-the-disadvantages-of-Erlang-over-other-programming-languages)
 - Slides
     - Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
     - About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
@@ -644,6 +709,7 @@ layout: page
     - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
     - FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
     - A Gentle introduction to Haskell [Link](https://www.cs.auckland.ac.nz/references/haskell/haskell-intro-html/intro.html)
+    - FRP with Haskell [Link](https://wiki.haskell.org/FRP#Books)
 - Posts
     - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry)
     - :raised_hands: Amazing Post on how to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
@@ -655,6 +721,10 @@ layout: page
     - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python) 
     - Why NOT Haskell? [Link](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
     - Reviews of the Haskell Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
+    - What is Haskell notably good for? [Link](https://www.quora.com/What-is-Haskell-notably-good-for)
+    - What do most Haskell users think of Javascript? [Link](https://www.quora.com/Do-most-Haskell-users-think-JavaScript-sucks)
+    - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
+    - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
 - Tutorial
     - How to unit test in Haskell [Link](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md)
     - Big List of Haskell Tutorials [Link](https://wiki.haskell.org/Tutorials#Using_monads)
@@ -780,6 +850,7 @@ layout: page
 - Tutorial
     - How to make a makefile [Link](http://mrbook.org/blog/tutorials/make/)
 - Github Repositories
+    - F# Github Repository [Link](https://github.com/fsharp/fsharp)
     - Purescript Github Repo [Link](https://github.com/purescript/purescript)
     - Crystal Github Repo [Link](https://github.com/manastech/crystal)
     - Nim Github Repo [Link](https://github.com/nim-lang/Nim)
@@ -796,6 +867,8 @@ layout: page
     - Julia's advantages over Python and R explained [Link](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
     - Compaing MATLAB/Octave, Python NumPy, R, and Julia [Link](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
     - What are the most important parts of C++ for interviews? [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview)
+    - How is F# Doing in Industry? [Link](https://www.quora.com/How-is-F-going-at-the-moment-Is-there-any-application-built-with-F)
+    - Difference between Structs and Classes in C++ [Link](https://en.wikipedia.org/wiki/C%2B%2B_classes#Differences_between_struct_and_classes_in_C.2B.2B)
 - Slides
     - There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
     - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
@@ -818,6 +891,7 @@ layout: page
 - Learning
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[Link](https://github.com/substack/stream-handbook)
     - Browserify Handbook [Link](https://github.com/substack/browserify-handbook)
+    - Online Lessons for Node.js [Link](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
 - CheatSheets
     - Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
     - The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
@@ -1061,6 +1135,7 @@ layout: page
     - Egghead Video Series: [Link](https://egghead.io/series/react-fundamentals)
     - $ Orielly: A practical introduction to React.js [Link](https://player.oreilly.com/videos/9781491925652)
     - Big Binary [Link](http://bigbinary.com/videos/learn-reactjs-in-steps/minimal-reactjs-setup)
+    - RxJS Intro Videos [Link](https://egghead.io/series/introduction-to-reactive-programming)
 
 #**AngularJS and BackboneJS Posts**
 - Links
@@ -1132,13 +1207,23 @@ layout: page
     - The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
     - The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
     - Architectural and philosophical points from Tim Berners Lee [Link](http://www.w3.org/DesignIssues/)
+    - Is Structure and Interpretation of Computer Programs worth reading? [Link](https://www.quora.com/Is-Structure-and-Interpretation-of-Computer-Programs-SICP-worth-reading)
 - Posts 
     - What is Metaprogramming? [Link](https://www.quora.com/What-is-metaprogramming)
     - What is Lisp? [Link](https://www.quora.com/What-is-Lisp-language)
     - How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
     - What makes a terrible software engineer? [Link](https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineer)
     - Shouuld I learn Scheme for Functional Programming? [Link](https://www.quora.com/Is-Scheme-worth-learning)
+    - Is Structure and Interpretation of Computer Programs worth reading? [Link](https://www.quora.com/Is-Structure-and-Interpretation-of-Computer-Programs-SICP-worth-reading)
+    - What are the top five books every computer programmer should study at least once? [Link](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once/answer/Tikhon-Jelvis)
+- Interviews
+    - What is the worst part of working at Google? [Link](https://www.quora.com/What-is-the-worst-part-about-working-at-Google)
     - How to Work at Facebook or Google in only 6 months [Link](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Jimmy-Saade?srid=TAJ1&share=1)
+    - Computer Science Interview Guide [Link](https://github.com/schmatz/cs-interview-guide)
+    - Interview [Link](https://github.com/andreis/interview)
+    - Work at Google without a College Degree [Link](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
+    - Get that job at Facebook [Link](https://www.facebook.com/notes/10150964382448920)
+    - What is the best advice for an engineering internship interview at Google or Facebook? [Link](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
 - Slides
     - What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
     - Refractoring is Therapy [Slides](http://www.slideshare.net/kytrinyx/therapeutic-refactoring)
@@ -1225,6 +1310,10 @@ layout: page
   - Using Migration Scripts in Database Deployments [Link](https://www.simple-talk.com/sql/database-administration/using-migration-scripts-in-database-deployments/)
 - Books
     - The Little MongoDB Book [Link](http://openmymind.net/mongodb.pdf)
+- Education
+    - All About Redis [Link](http://www.javacodegeeks.com/2015/09/redis-a-nosql-key-value-store.html)
+    - All About MongoDB [Link](http://www.javacodegeeks.com/2015/09/mongodb-a-scalable-nosql-db.html)
+    - All About CouchDB [Link](http://www.webcodegeeks.com/web-development/couchdb-database-for-the-web/) 
 - Slides
     - Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
     - Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
@@ -1298,6 +1387,8 @@ layout: page
 #**Architecture and Distributed Computing**
 - Links
     - Architectural patterns of resilient distributed systems [Link](https://github.com/Randommood/Strangeloop2015)
+- Posts
+    - What's the difference between a process and a thread? [Link](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread) 
 
 #**Microservices and Scalable Architecture**
 - Links
@@ -1448,6 +1539,7 @@ layout: page
     - :fire: Awesome Dashboard and Visualisation [Link](https://github.com/obazoud/awesome-dashboard)
     - Probabilistic Programming for Hackers [Book Link](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     - Museum of Modern Art Databse [Link](https://github.com/MuseumofModernArt/collection)
+    - Data Science Blogs [Link](https://github.com/rushter/data-science-blogs)
 - Posts
     - Top 10 Data Mining Algorithms in plain English [Link](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - Github Projects
@@ -1508,8 +1600,7 @@ layout: page
     - Prerender.io Javascript SEO [Link](https://github.com/prerender/prerender)
     - SEO.js [Link](http://getseojs.com/)
 - Posts
-    - Thoughts about VC funding [Post Coming Soon]()
-    - Why does everyone want to be a Unicorn? I'd rather be a Gorilla [Post Coming Soon]()
+    - Guide to Your Equity [Link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
     - Keys when trying to attract the best talent [Link](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
 
 #**Presentation and Self Advertisement Tools**
