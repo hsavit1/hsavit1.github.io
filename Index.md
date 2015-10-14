@@ -21,15 +21,13 @@ layout: page
     - Swift Education [Link](http://swifteducation.github.io/)
     - :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
     - :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
-    - Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
     - SwiftStub [Link](http://swiftstub.com/)
     - Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
     - Fucking Closure Syntax [Link](http://fuckingclosuresyntax.com/)
     - Ray Wenderlich Tutorial Pages [Link](http://www.raywenderlich.com/category/swift)
     - A Better way to learn Swift [Link](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - The Swift Diary [Link](http://inessential.com/swiftdiary)
-    - Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
-    - Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
+    - Human Friendly Swift Blog [Link](http://blog.human-friendly.com/tag/swift)
 - Slides
     - Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -50,8 +48,10 @@ layout: page
     - Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
     - Lessons from Production Swift [Slides](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
     - Emerging Best Practices in Swift [Slides](https://speakerdeck.com/ashfurrow/emerging-best-practices-in-swift)
+    - Swift Performance [Slides](http://blog.human-friendly.com/swift-performance-iosdevuk)
 - Presentations
     - Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
+    - Using Core Data with Swift [Presentation](https://realm.io/news/jesse-squires-core-data-swift/)
     - 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
     - Advanced UITableViews [Presentation](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
     - The best of Obj-C to Swift [Presentation](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
@@ -87,6 +87,8 @@ layout: page
     - Swift tutorial Video Series [Link](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - Core Data
     + A Swift Into To Core Data [Link](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
+    + Moving from ObjC to Swift with Core Data [Link](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
+    + 
 - Swift Data Structures, Algorithms, and Design Patterns
     + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
@@ -151,6 +153,7 @@ layout: page
         + How Protocol Oriented Programming could stilm improve [Link](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
         + THe Swift Protocol Proposal [Link](http://kickingbear.com/blog/archives/521)
         + Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
+        + Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
     + Swift Initializers
         + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -175,6 +178,9 @@ layout: page
     + Interpolability
         + Swift & the ObjC Runtime [Link](http://nshipster.com/swift-objc-runtime/)
         + How is Swift Faster than Objective-C? [Link](https://www.quora.com/How-is-Swift-faster-than-Objective-C)
+        + Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+    + Other
+        + Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
     + Language Comparisons
         + Comparing Swift and Javascript [Link](http://www.mircozeiss.com/swift-for-javascript-developers/)
         + C++ Advice to Swift Devs [Link](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
@@ -270,6 +276,7 @@ layout: page
     - Unit Testing in Swift [Link](https://bendyworks.com/unit-testing-in-swift/)
     - Unit Testing Tips and Tricks [Link](http://natashatherobot.com/swift-unit-testing-tips-and-tricks/)
     - Automating iOS Testing and Screenshots [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
+    - You need 180 ScreenShots if you want to change the UI in a significant way [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
 - Tutorials
     - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Slides
@@ -335,7 +342,6 @@ layout: page
     - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
     - Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
     - Java 8:  Lambdas, Monads and Java Collections [Slides](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
-    - Coming to Scala from Java [Slides](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
     - Java Generics [Slides](https://speakerdeck.com/gayashanna/java-generics)
 - Github
     + Netflix's fault tolerant Hysterix Project [Github](https://github.com/Netflix/Hystrix)
@@ -662,7 +668,9 @@ layout: page
     - Rails Repository [Github](https://github.com/rails/rails)
     - Opal: Ruby to Javascript Transpiler [Link](https://github.com/opal/opal)
     - Volt Web Framework [Link](https://github.com/voltrb/volt/)
-     
+  
+
+
 #**Erlang Posts**
 - Links
     - :fire: :raised_hands: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)
@@ -684,6 +692,7 @@ layout: page
     - Erlang 101 [Slides](http://slides.com/eddywong/erlang-101#/)
 - Tutorial
     - How I start with Erlang [Link](https://howistart.org/posts/erlang/1)
+
 
 #**Elixir Posts**
 - Links
@@ -868,11 +877,21 @@ layout: page
 - Posts
     - Scala vs Clojure [Link](http://www.bestinclass.dk/blog/scala-vs-clojure-lets-get-down-to-business). [Link2](https://www.quora.com/What-are-some-advantages-of-Scala-over-Clojure), [Link3](https://www.quora.com/Is-Clojure-better-at-concurrency-than-Scala), [Link4](https://www.quora.com/Is-it-easier-to-learn-Clojure-rather-than-Scala)
     - Is Scala faster than Clojure? [Link](https://www.quora.com/Is-Scala-faster-than-Clojure)
+    - Is learning Scala worth it? [Link](https://www.quora.com/Is-learning-Scala-worth-it)
+    - Does Java 8 Null the potential of Scala? [Link](https://www.quora.com/Should-I-skip-Java-and-just-learn-Scala)
+    - Is Java 8 replacing Scala? [Link](https://www.quora.com/Will-Java-8-be-a-significant-blow-to-the-appeal-of-Scala-and-Clojure)
+    - Differences between Scala and Java [Link](http://kukuruku.co/hub/scala/java-8-vs-scala-the-difference-in-approaches-and-mutual-innovations)
+- Reference
+    - Scala Documentation and Overview [Link](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html)
+- Tutorial
+    - A Scala Tour for Java Programmers [Link](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)
+    - A tour of Scala [Link](http://docs.scala-lang.org/tutorials/#)
 - Posts Coming Soon
     - _Book Review_: Functional Programming with Scala [Post Coming Soon]()
 - Slides
     - Scala on Android is ready for Prime Time [Slides](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
     - Introduction to Akka [Slides](http://slides.com/oliviermartin/akka#/)
+    - Coming to Scala from Java [Slides](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
 - Github
     + Akka Repository [Github](https://github.com/akka/akka)
 
@@ -1417,6 +1436,7 @@ layout: page
     - :fire: Awesome Web Performance Optimization [Link](https://github.com/davidsonfellipe/awesome-wpo)
     - :fire: Awesome RESTful APIs [Link](https://github.com/Kikobeats/awesome-api)
     - :fire: Awesome .htpaccess snippets [Link](https://github.com/phanan/htaccess)
+    - :fire: Awesome AWS [Link](https://github.com/donnemartin/awesome-aws)
     - How to design a REST API [Link](http://blog.octo.com/en/design-a-rest-api/)
     - HTTP API Design Guide [Link](https://github.com/interagent/http-api-design)
     - JSON API Design Guide [Link](http://jsonapi.org/)
