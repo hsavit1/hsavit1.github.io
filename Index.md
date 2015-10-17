@@ -14,20 +14,29 @@ layout: page
     - MVVM in Swift [Link](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
     - The Difference between RxSwift and ReactiveCocoa [Link](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons)
 - Links
-    - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
-    - Swift Sandbox Newsletter [Link](http://swiftsandbox.io/)
-    - SwiftLang Website [Link](http://swiftlang.eu/)
-    - :raised_hands: Objc.io [Link](https://www.objc.io/)
     - Swift Education [Link](http://swifteducation.github.io/)
     - :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
-    - :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
     - SwiftStub [Link](http://swiftstub.com/)
     - Play with Swift [Link](http://brettbukowski.github.io/SwiftExamples/)
     - Fucking Closure Syntax [Link](http://fuckingclosuresyntax.com/)
     - Ray Wenderlich Tutorial Pages [Link](http://www.raywenderlich.com/category/swift)
     - A Better way to learn Swift [Link](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
+    - Try Swift in the Browser [Link](http://www.runswiftlang.com/learn)
+- Quick References 
+    - SwiftDoc [Link](http://swiftdoc.org/)
+    - iOS Cookies [Link](http://www.ioscookies.com/)
+- Blogs
     - The Swift Diary [Link](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [Link](http://blog.human-friendly.com/tag/swift)
+    - :raised_hands: Objc.io [Link](https://www.objc.io/)
+    - NSBlog with Mike Ask [Link](https://www.mikeash.com/pyblog/)
+- Newsletters 
+    - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
+    - iOS Goodies [Link](http://ios-goodies.com/)
+    - iOS Dev Weekly [Link](https://iosdevweekly.com/)
+    - Swift Sandbox Newsletter [Link](http://swiftsandbox.io/)
+    - SwiftLang Website [Link](http://swiftlang.eu/)
+    - :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 - Slides
     - Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
@@ -85,6 +94,8 @@ layout: page
     - Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
     - Explaining the mutating keyword [Link](https://www.youtube.com/watch?v=uOrKvPDfLoE)
     - Swift tutorial Video Series [Link](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
+- Free Books
+    - Learn Swift [Link](http://books.aidanf.net/learn-swift)
 - Core Data
     + A Swift Into To Core Data [Link](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + Moving from ObjC to Swift with Core Data [Link](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
@@ -95,6 +106,7 @@ layout: page
     + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
     + Template Method Pattern in Swift [Link](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
     + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
+    + Creating a Cocoa Bindings Observable Pattern in Swift [Link](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
 - More Posts
     + Opinions
         + What are the Worst parts of Swift? [Link](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
@@ -106,10 +118,10 @@ layout: page
         + Swift is _not_ functional [Link](https://www.reddit.com/r/swift/comments/281jqe/rob_napier_swift_is_not_functional/)
         + Functional Paradigms in Swift [Link](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
         + Functional Programming in the Swift Language [Link](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
+        + Map and FlatMap demystified [Link](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
     + Interview Situations
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
-        + 15 Questions [Link](http://career.guru99.com/top-15-swift-interview-questions/) 
     + Web Services and Networking
         + Calling APIs and Parsing JSON with Swift [Link](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
         + Calling a REST Api in Swift [Link](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
@@ -171,6 +183,8 @@ layout: page
         + Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
         + Understanding Downcasting Operators in Swift [Link](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type) 
         + Swift Manual Retain/Release [Link](http://www.russbishop.net/swift-manual-retain-release)
+        + How I handle Optionals in Swift [Link](http://blog.human-friendly.com/how-i-handle-optionals-in-swift)
+        + How to unwrap an optional in 9 different ways [Link](https://twitter.com/Kametrixom/status/636187970509406209)
     + Associated Types and Objects
         + Associated Types in Swift Explained [Link](http://www.russbishop.net/swift-associated-types)
         + Illuminating Forum Post [Link](https://forums.developer.apple.com/message/18038)
@@ -178,7 +192,7 @@ layout: page
     + Interpolability
         + Swift & the ObjC Runtime [Link](http://nshipster.com/swift-objc-runtime/)
         + How is Swift Faster than Objective-C? [Link](https://www.quora.com/How-is-Swift-faster-than-Objective-C)
-        + Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+        + Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/)
     + Other
         + Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
     + Language Comparisons
@@ -201,16 +215,13 @@ layout: page
     - Design Patterns in Swift [Link](https://github.com/bizz84/CrackingTheCodingInterview)
     - SwiftlyJSON [Link](https://github.com/SwiftyJSON/SwiftyJSON)
 
+
 #**Objective-C Posts**
 - Posts
     - The best ObjectiveC libraries on Github [Post](http://itshenry.com/2015/09/12/ios-libraries.html)
     - Method Swizzling and Associated Objects in Objective C and their Swift equivalents [Post](http://itshenry.com/2015/10/08/methodSwizz-assObjs.html)
+    - How to perform callbacks in ObjC [Link](http://stackoverflow.com/questions/1015608/how-to-perform-callbacks-in-objective-c)
 - Posts Coming Soon
-    - MVVM with ReactiveCocoa will change the world [Post Coming Soon]()
-    - Testing for equality in Objective-C [Post Coming Soon]()
-    - My Attempt to Develop Lighter UITableViewControllers [Post Coming Soon]()
-    - Exploring the VIPER Architecture in Objective C [Post Coming Soon]()
-    - Grand Central Dispatch Vocabulary Cheet Sheet [Post Coming Soon]()
     - _Book Review_: Core Data for iOS [Post Coming Soon]()
     - _Book Review_: Effective Objective-C 2.0 [Post Coming Soon]()
     - _Book Review_: Pro Design Patterns in Objective C [Post Coming Soon]()
@@ -287,11 +298,15 @@ layout: page
   - Quick Testing Framework [Github](https://github.com/Quick/Quick)
   - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
 
-#**WatchKit Posts**
+#**watchOS and tvOS Posts**
 - Links
     - WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
     - :fire: :raised_hands: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
     - :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
+- Presentations
+    - tvOS
+        - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
+    - watchOS
 
 #**Java Posts**
 - Links
@@ -941,7 +956,9 @@ layout: page
 - Tutorial
     - How I start with Nim [Link](https://howistart.org/posts/nim/1)
 
+
 -----
+
 
 #**Node.js Posts**
 - Links
@@ -1000,6 +1017,7 @@ layout: page
 - Posts
     - Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
     - Use Node + Redis [Link](http://www.sitepoint.com/using-redis-node-js/)
+
 
 #**Phoenix Framework Posts**
 - Links
@@ -1371,6 +1389,18 @@ layout: page
         - How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
 
 
+#**Automata Theory and Formal Languages Posts**
+- Links
+    - Course Notes: Formal Languages and Automata Theory [Link](http://www.ics.uci.edu/~goodrich/teach/cs162/notes/)
+- Posts
+    - What is a Context Free Grammar? (CFG) [Link](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html)
+    - What is a Turing Machine? [Link](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html)
+    - Turing Machine vs a Pushdown Automata [Link](https://www.quora.com/Inituitively-how-much-more-powerful-is-a-Turing-machine-when-compared-to-a-pushdown-automaton)
+    - What is Automata Theory used for? [Link](https://www.quora.com/What-is-automata-theory-used-for)
+    - Which statement is true: "all regular languages are finite" or "all finite languages are regular"? [Link](https://www.quora.com/Which-statement-is-true-all-regular-languages-are-finite-or-all-finite-languages-are-regular)
+    - What is the difference between a finite-state machine and a Turing machine? [Link](https://www.quora.com/What-is-the-difference-between-a-finite-state-machine-and-a-Turing-machine)
+    - What is the use of studying "Automata Theory and Formal Language" in Computer Science? [Link](https://www.quora.com/What-is-the-use-of-studying-Automata-Theory-and-Formal-Language-in-Computer-Science)
+
 #**Programming Pitfalls and AntiPatterns**
 - Posts
     - What is Buffer Overflow? [Link](https://en.wikipedia.org/wiki/Buffer_overflow)
@@ -1656,7 +1686,7 @@ layout: page
 - Links
     - :fire: :raised_hands: Awesome Design [Link](https://github.com/troyericg/awesome-design)
     - :fire: :raised_hands: Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-  - The iOS Design Guidelines [Link](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
+    - The iOS Design Guidelines [Link](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
     - :fire: Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
     - :fire: Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
     - :fire: Awesome Frontdesk for Front End Devs [Link](https://github.com/miripiruni/frontdesk)
@@ -1673,9 +1703,13 @@ layout: page
     - :fire: Awesome Markdown [Link](https://github.com/writekit/awesome-markdown)
     - Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
     - Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
+    - iOS 9 Sketch 3 Templates [Link](http://facebook.github.io/design/ios9.html)
 - Posts
     - Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
     - What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
+    - Improve your UI/UX design with Functional Animations [Link](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
+    - How to Prototype Effectively [Link](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)
+    - Making Learning Easy by Design [Link](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798) 
 - Slides
     - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [Slides](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
@@ -1708,6 +1742,9 @@ layout: page
 - Posts
     - Guide to Your Equity [Link](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
     - Keys when trying to attract the best talent [Link](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
+    - How to Price an App [Link](http://www.marco.org/2015/10/13/pragmatic-pricing)
+    - How to raise money crowdfunding [Link](https://medium.com/@jerols/6-things-we-learned-from-running-a-private-crowdfunding-campaign-33ac835de4dd)
+    - Poaching is for animals, not people [Link](https://signalvnoise.com/posts/3962-poaching-is-for-animals-not-employees)
 
 
 #**Presentation and Self Advertisement Tools**
@@ -1723,8 +1760,7 @@ layout: page
     - Emoji Markdown CheatSheet [Github](https://github.com/arvida/emoji-cheat-sheet.com/)
     - Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
 - Posts
-    - Why the slide format is here to stay and book format is on it's way out [Post Coming Soon]()
-    - Why you need a website [Post Coming Soon]()
+    - How to be that one person that everyone wants to know [Link](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39)
 - Hackathons
     - MLH [Link](https://mlh.io/seasons/f2014/events)
     - Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
