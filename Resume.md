@@ -40,26 +40,27 @@ permalink: /resume/
 
 
 
-### Skills
+### Great Skills
 
 
 + Objective-C
 + Swift
 + Java
-+ Javascript
 
 
 ### _Still Experimenting With_
 
-
-+ Meteor 
++ Javascript
++ Node.js
 + React.js 
++ Meteor Framework
 + Elixir
 + Phoenix Framework
 + Ruby
 + Python
 + MongoDB
 + RethinkDB
++ Docker
 
 
 ### Projects

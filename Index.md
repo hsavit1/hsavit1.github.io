@@ -216,6 +216,7 @@ layout: page
     - SwiftlyJSON [Link](https://github.com/SwiftyJSON/SwiftyJSON)
 
 
+
 #**Objective-C Posts**
 - Posts
     - The best ObjectiveC libraries on Github [Post](http://itshenry.com/2015/09/12/ios-libraries.html)
@@ -231,14 +232,22 @@ layout: page
     - _Book Review_: Cocoa Design Patterns [Post Coming Soon]()
     - _Book Review_: Pro Performance Optimization in iOS [Post Coming Soon]()
 
+
+
 #**iOS, OSX, Cocoa Posts, and Design**
 - Posts
-    - A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
-    - Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
-    - How to work with 3D Quick Touch [Link](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
-    - iOS 9 Split View Drag and Drop [Link](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
-    - How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
-    - Peek and Pop in iOS 9 [Link](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+    - Structures
+        - A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
+    - UIKit 
+        - Understanding UIScrollView [Link](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
+        - Transitions in Swift [Link](http://mathewsanders.com/interactive-transitions-in-swift/)
+        - Animations in Swift [Link](http://mathewsanders.com/animations-in-swift-part-two/)
+        - Adaptive Layouts for the iPhone 6 [Link](http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/)
+    - iOS 9
+        - How to work with 3D Quick Touch [Link](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
+        - iOS 9 Split View Drag and Drop [Link](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
+        - How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+        - Peek and Pop in iOS 9 [Link](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
 - Links
     - The Best FRP iOS Learning Resources [Link](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
     - The iOS Times Curated Review of the latest leading Github Projects [Link](http://theiostimes.com/)
@@ -268,6 +277,8 @@ layout: page
     - Javascript Core [Post Coming Soon]()
 - Design
   - iOS Design Tips [Link](http://ramotion.github.io/iOS-design-tips/)
+
+
 
 #**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
@@ -307,6 +318,8 @@ layout: page
     - tvOS
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
     - watchOS
+
+
 
 #**Java Posts**
 - Links
@@ -362,7 +375,8 @@ layout: page
     + Netflix's fault tolerant Hysterix Project [Github](https://github.com/Netflix/Hystrix)
     + Apache Cassandra [Github](http://cassandra.apache.org/)
     + Java RetroLambdas [Github](https://github.com/orfjackal/retrolambda)
-    
+   
+
 
 #**Android Posts**
 - Links
@@ -380,6 +394,7 @@ layout: page
 - Slides
     - Android for iOS Devs [Slides](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
     - Java vs Scala for Android Dev [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
+
 
 
 #**Hybrid App Development Posts**
@@ -403,7 +418,11 @@ layout: page
 - Tutorial
     - Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
 
+
+
 ----
+
+
 
 #**Javascript, ECMAScript, Coffeescript, and Typescript Posts**
 - Links
@@ -537,6 +556,8 @@ layout: page
     - _Book Review_: Eloquent Javascript [Post Coming Soon]()
     - _Book Review_: The Priciples of Object Oriented Javascript [Post Coming Soon]()
 
+
+
 #**Golang Posts**
 - Posts
     - Go versus Node.js [Link](http://www.hostingadvice.com/blog/nodejs-vs-golang/)
@@ -574,6 +595,7 @@ layout: page
     - Why does go have the syntax that it does? [Link](https://www.quora.com/Many-people-complain-that-Go-has-ancient-syntax-and-lacks-modern-language-features-Why-did-Google-create-such-an-old-fashioned-C-like-language-What-is-the-purpose)
 - Posts Coming Soon
     - Drop everything and GO! (golang post) [Post Coming Soon]()
+
 
 
 #**Python Posts**
@@ -627,6 +649,7 @@ layout: page
     - scikit-learn: machine learning in Python [Link](https://github.com/scikit-learn/scikit-learn)
 - Video
     - Vim as a Python IDE [Link](https://www.youtube.com/watch?v=YhqsjUUHj6g)
+
 
 
 #**Ruby, Ruby on Rails, Jekyll, and Middleman Posts**
@@ -709,6 +732,7 @@ layout: page
     - How I start with Erlang [Link](https://howistart.org/posts/erlang/1)
 
 
+
 #**Elixir Posts**
 - Links
     - An Elixir Blog made by Elixir's Creator [Link](http://blog.plataformatec.com.br/tag/elixir/)
@@ -759,6 +783,8 @@ layout: page
     - ExDoc Produces HTML documentation for Elixir Projects [Link](https://github.com/elixir-lang/ex_doc)
     - Plug composable web app modules [Link](https://github.com/elixir-lang/plug)
     
+
+
 #**Haskell Posts**
 - Links
     - :fire: :raised_hands: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
@@ -770,23 +796,31 @@ layout: page
     - A Gentle introduction to Haskell [Link](https://www.cs.auckland.ac.nz/references/haskell/haskell-intro-html/intro.html)
     - FRP with Haskell [Link](https://wiki.haskell.org/FRP#Books)
 - Posts
-    - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry)
-    - :raised_hands: Amazing Post on how to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
-    - All About Monads [Link](https://wiki.haskell.org/All_About_Monads)
-    - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
-    - What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
-    - Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
-    - Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
-    - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python) 
-    - Why NOT Haskell? [Link](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
-    - Reviews of the Haskell Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
-    - What is Haskell notably good for? [Link](https://www.quora.com/What-is-Haskell-notably-good-for)
-    - What do most Haskell users think of Javascript? [Link](https://www.quora.com/Do-most-Haskell-users-think-JavaScript-sucks)
-    - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
-    - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
-    - Is Haskell more expressive? [Link](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
-    - How does Garbage Collection work in Haskell? [Link](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
-    - Key Differences between Haskell and Standard ML? [Link](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
+    - Functional Programming and Category Theory
+        - All About Monads [Link](https://wiki.haskell.org/All_About_Monads)
+        - What is a Monad? [Link](http://stackoverflow.com/questions/44965/what-is-a-monad/71697#71697)
+        - What Category do Haskell Types and Functions Live In? [Link](http://blog.sigfpe.com/2009/10/what-category-do-haskell-types-and.html)
+    - Learning Haskell
+        - :raised_hands: Amazing Post on how to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
+        - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
+    - Opinions
+        - What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
+        - Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
+        - Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
+        - Why NOT Haskell? [Link](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
+        - Reviews of the Haskell Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
+        - What is Haskell notably good for? [Link](https://www.quora.com/What-is-Haskell-notably-good-for)
+        - What do most Haskell users think of Javascript? [Link](https://www.quora.com/Do-most-Haskell-users-think-JavaScript-sucks)
+        - What is the best IDE for programming in Haskell? [Link](https://www.quora.com/What-is-the-best-IDE-for-programming-in-Haskell)
+    - Uses of Haskell
+        - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
+        - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry) 
+    - Other
+        - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
+        - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
+        - Is Haskell more expressive? [Link](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
+        - How does Garbage Collection work in Haskell? [Link](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
+        - Key Differences between Haskell and Standard ML? [Link](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
 - Tutorial
     - How to unit test in Haskell [Link](https://github.com/kazu-yamamoto/unit-test-example/blob/master/markdown/en/tutorial.md)
     - Big List of Haskell Tutorials [Link](https://wiki.haskell.org/Tutorials#Using_monads)
@@ -821,6 +855,7 @@ layout: page
     - Elm walkthrough web app [Link](https://github.com/evancz/start-app)
 - Posts
     - What is the future of the Elm programming language? [Link](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)
+
 
 
 #**Clojure**
@@ -866,6 +901,7 @@ layout: page
     - _Book Review_: Mastering Clojure Macros [Post Coming Soon]()
 
 
+
 #**Rust Posts**
 - Links
     - :fire: :raised_hands: Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
@@ -879,6 +915,7 @@ layout: page
     - Rust, D, Nimrod, Go [Link](https://www.quora.com/Of-the-emerging-systems-languages-Rust-D-Go-and-Nim-which-is-the-strongest-language-and-why)
     - Rust vs Swift [Link](https://www.quora.com/Will-an-open-source-Swift-be-a-strong-competitor-to-Rust)
     - How does Rust Enforce Safety? [Link](https://www.quora.com/How-does-Rust-enforce-safety)
+
 
 
 #**Scala Posts**
@@ -911,6 +948,7 @@ layout: page
     + Akka Repository [Github](https://github.com/akka/akka)
 
 
+
 #**C and C++ Posts**
 - Links
     - :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp)
@@ -920,6 +958,7 @@ layout: page
 - Posts
     - What are the most important parts of C++ for interviews? [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview)
     - Difference between Structs and Classes in C++ [Link](https://en.wikipedia.org/wiki/C%2B%2B_classes#Differences_between_struct_and_classes_in_C.2B.2B)
+
 
 
 #**Other Languages**
@@ -957,7 +996,9 @@ layout: page
     - How I start with Nim [Link](https://howistart.org/posts/nim/1)
 
 
+
 -----
+
 
 
 #**Node.js Posts**
@@ -1019,6 +1060,7 @@ layout: page
     - Use Node + Redis [Link](http://www.sitepoint.com/using-redis-node-js/)
 
 
+
 #**Phoenix Framework Posts**
 - Links
     - Hacker News Phoenix Creator AMA [Link](https://news.ycombinator.com/item?id=8671618)
@@ -1042,6 +1084,8 @@ layout: page
     - Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
     - Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
     - Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
+
+
 
 #**Meteor Posts**
 - Links
@@ -1148,6 +1192,8 @@ layout: page
         - Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
         - File uploads in Meteor [Github](https://github.com/CulturalMe/meteor-slingshot)
 
+
+
 #**ReactJS, Redux, Flux Posts**
 - Links
     - :raised_hands: React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
@@ -1222,6 +1268,7 @@ layout: page
     - RxJS Intro Videos [Link](https://egghead.io/series/introduction-to-reactive-programming)
 
 
+
 #**AngularJS and BackboneJS Posts**
 - Links
     - AngularJS CheatSheet [Link](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
@@ -1265,7 +1312,11 @@ layout: page
 - Talks
     - Angular 1 vs Angular 2 [Talk](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [Reading](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
 
+
+
 -----
+
+
 
 #**Everything Computer Science Posts**
 - Posts Coming Soon
@@ -1320,6 +1371,7 @@ layout: page
     - How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)
 
 
+
 #**Data Structures, Algorithms, Functional Programming, and Design Patterns**
 - Links
     - :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
@@ -1338,6 +1390,7 @@ layout: page
     - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
 - Algorithms
+    - How do Random Forests work in Layman's Terms? [Link](https://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms)
     - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
     - How to Study Cormen's Algos Book [Link](https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=TAJ1&share=1)
     - Important Algorithmic Info to know about C++ [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview/answer/Jimmy-Saade?srid=TAJ1&share=1)
@@ -1356,6 +1409,7 @@ layout: page
     - Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 
 
+
 #**History of Computing**
 - Links
     - Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
@@ -1365,6 +1419,7 @@ layout: page
     - The Mythical Man Month Quick Summary [Slides](http://www.slideshare.net/MrCracker/the-mythical-man-month-49226879)
 - Video
     - The history of the Internet [YouTube](https://www.youtube.com/watch?v=9hIQjrMHTv4)
+
 
 
 #**Programming Languages Posts**
@@ -1389,6 +1444,7 @@ layout: page
         - How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
 
 
+
 #**Automata Theory and Formal Languages Posts**
 - Links
     - Course Notes: Formal Languages and Automata Theory [Link](http://www.ics.uci.edu/~goodrich/teach/cs162/notes/)
@@ -1401,10 +1457,13 @@ layout: page
     - What is the difference between a finite-state machine and a Turing machine? [Link](https://www.quora.com/What-is-the-difference-between-a-finite-state-machine-and-a-Turing-machine)
     - What is the use of studying "Automata Theory and Formal Language" in Computer Science? [Link](https://www.quora.com/What-is-the-use-of-studying-Automata-Theory-and-Formal-Language-in-Computer-Science)
 
+
+
 #**Programming Pitfalls and AntiPatterns**
 - Posts
     - What is Buffer Overflow? [Link](https://en.wikipedia.org/wiki/Buffer_overflow)
     - What is a Dangling Pointer? [Link](https://en.wikipedia.org/wiki/Dangling_pointer)
+
 
 
 #**Web Development and Deployment Posts**
@@ -1414,6 +1473,7 @@ layout: page
   - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
 - Slides
     - Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
+
 
 
 #**DataBase Posts**
@@ -1454,6 +1514,7 @@ layout: page
     - MongoDB Quick Video: Schemaless JSON Doc Store [Youtube](https://www.youtube.com/watch?v=rnIx_QPngUM)
     - Redis Quick Video [Youtube](https://www.youtube.com/watch?v=7W1n_SwTw14)
     - Memcache Quick Video [Link](https://www.youtube.com/watch?v=-h9q2FmX4eo)
+
 
 
 #**Netowrking, IP, Routing, Servers, and Backend Development Posts**
@@ -1510,11 +1571,24 @@ layout: page
     - What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
 
 
-#**Architecture and Distributed Computing**
+
+#**Architecture, Compilers, and Distributed Computing**
 - Links
     - Architectural patterns of resilient distributed systems [Link](https://github.com/Randommood/Strangeloop2015)
 - Posts
     - What's the difference between a process and a thread? [Link](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread) 
+    - GCC Compiler Quora Page [Link](https://www.quora.com/GCC-compiler)
+    - GNU Compiler Quora Page [Link](https://www.quora.com/GNU)
+    - LLVM Compiler Quora Page [Link](https://www.quora.com/LLVM) 
+    - How does the source code of a program (lets say a C program) cover its journey from compilation to its completion? [Link](http://qr.ae/R4UbEz)
+    - If we double the size of a computer chip, can we fit more transistors? [Link](If we double the size of a computer chip, can we fit more transistors?)
+    - Does Moore's Law no longer hold for single core processing speeds? [Link](https://www.quora.com/Does-Moores-Law-no-longer-hold-for-single-core-processing-speeds-What-is-the-significance-of-that-for-Moores-Law-and-computing-power-generally)
+    - How does a computer chip work? [Link](https://www.quora.com/How-does-a-computer-chip-work)
+    - How does understanding the inner workings of a computer make you a better programmer? [Link](https://www.quora.com/How-does-understanding-the-inner-workings-of-a-computer-make-you-a-better-programmer)
+    - Why is the GPU bigger than the CPU? [Link](https://www.quora.com/Why-are-GPUs-so-much-larger-than-CPUs)
+    - How does Intel stay ahead of AMD? [Link](https://www.quora.com/How-has-Intel-been-able-to-stay-so-ahead-of-AMD)
+    - What are the differences between parallel, concurrent and asynchronous programming? [Link](https://www.quora.com/What-are-the-differences-between-parallel-concurrent-and-asynchronous-programming)
+    - Why haven't CPU clock speeds increased in the past 15 years? [Link](https://www.quora.com/Why-havent-CPU-clock-speeds-increased-in-the-last-5-years)
 
 
 #**Microservices and Scalable Architecture**
@@ -1539,6 +1613,7 @@ layout: page
     - Vamp Microserivces Platfrom [Gtihub](https://github.com/magneticio/vamp/)
 
 
+
 #**Project Management and DevOps Posts**
 - Posts
     - _Book Review_: Cracking the PM Interview [Post Coming Soon]()
@@ -1560,6 +1635,7 @@ layout: page
     - Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 - Github
     - Make GANT Charts Easily with this tool [Link](http://knsv.github.io/mermaid/)
+
 
      
 #**Developer Environment, Operating System, and System Admin Posts**
@@ -1607,6 +1683,7 @@ layout: page
     - Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)
 
 
+
 #**Software Development Posts**
 - Links
     - :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
@@ -1630,15 +1707,24 @@ layout: page
     - Accessibilty Testing [Slides](https://speakerdeck.com/neurites/accessibilitytesting)
 
 
-#**Machine Learning Posts**
+
+#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
 - Links
     - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
     - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
     - Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
     - :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
     - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-    - How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+- Projects
     - Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+- Books
+    - How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+- Posts
+    - How to create an artificial neural network in a simple and concise way [Link](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
+    - Typical use cases for machine learning algos [Link](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
+    - What is Deep Learning? [Link](https://www.quora.com/What-is-deep-learning) 
+    - Why does computer vision advance faster than Natural Language Processing? [Link](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
+
 
 
 #**Security Posts**
@@ -1654,6 +1740,7 @@ layout: page
     - :fire: Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
     - OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
     - :fire: Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
+
 
 
 #**Data Science, Data Mining, and Public Data Posts**
@@ -1718,11 +1805,14 @@ layout: page
     - Polymer Web Components [Link](https://github.com/Polymer/polymer)
     - Bourbon Sass Mixin Library for writing CSS [Link](http://bourbon.io/)
 
+
+
 #**UX and User Experience**
 - Links
     - UX Design Tips for your App [Link](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb)
 - Posts
     - A picture is worth a 1000 numbers [Post](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1)
+
 
 
 #**Startups, SEO, and Marketing Posts**
@@ -1747,6 +1837,7 @@ layout: page
     - Poaching is for animals, not people [Link](https://signalvnoise.com/posts/3962-poaching-is-for-animals-not-employees)
 
 
+
 #**Presentation and Self Advertisement Tools**
 - Links
     - Reveal.js [Link](https://github.com/hakimel/reveal.js/)
@@ -1766,6 +1857,7 @@ layout: page
     - Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
 
 
+
 #**Fantastic Programming Periodicals**
 - Links
     - The Dot Post [Link](http://www.thedotpost.com/frontend)
@@ -1773,6 +1865,7 @@ layout: page
     - ProgrammingIsTerrible.com [Link](http://programmingisterrible.com/)
     - InfoQ Website [Link](http://www.infoq.com/about-us)
     - Uncle Bob [Link](http://blog.8thlight.com/uncle-bob/2015/08/06/let-the-magic-die.html)
+
 
 
 #**Economics and Bitcoin Posts**
@@ -1786,6 +1879,7 @@ layout: page
     - _Book Review_: The Price of Innequality [Post Coming Soon]()
     - _Book Review_: The Black Swan [Post Coming Soon]()
     - _Book Review_: AntiFragile [Post Coming Soon]()
+
 
 
 #**Quantum Computing Posts**
@@ -1802,7 +1896,9 @@ layout: page
 - News
     - Breaking news with the Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
 - Posts
+    - How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
     - Are quantum computers Turing Machines? [Link](https://www.quora.com/Are-quantum-computers-Turing-machines)
+    - How do Quantum Fourier Transforms work? [Link](https://www.quora.com/How-does-Quantum-Fourier-Transform-work)
     - How do you "store" quantum bits? [Link](https://www.quora.com/How-do-the-current-quantum-computers-store-quantum-bits)
     - How would existing languages need to change to support quantum computing? [Link](https://www.quora.com/Will-programming-languages-need-to-be-rebuilt-in-the-face-of-quantum-computing-Would-it-be-worth-it)
     - How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
@@ -1837,19 +1933,37 @@ layout: page
     - A High level TED talk [YouTube](https://www.youtube.com/watch?v=cugu4iW4W54)
     - D-Waves quantum computer [YouTube](https://www.youtube.com/watch?v=LVChjHHy1w4)
 
+
+
 #**(Mostly Quantum) Physics Posts**
 - Links
     - Check out my :fire: Awesome Physics Repo [Link]()
     - An Primer of Quantum Cognition [Link](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
     - Steven Hawking on God [Link](http://www.hawking.org.uk/does-god-play-dice.html)
 - Posts
+    - What is Mathematica? [Link](https://www.quora.com/Mathematica)
     - What can one learn about Quantum Mechanics in 10 minutes? [Link](https://www.quora.com/Quantum-Mechanics/What-can-one-learn-about-Quantum-Mechanics-in-10-minutes)
+    - How do you read a Feynman Diagram? [Link](https://www.quora.com/How-do-you-understand-read-Feynmans-diagram)
     - Where do most Physics grad Students struggle? [Link](https://www.quora.com/Physics/What-are-the-main-concepts-in-physics-that-new-graduate-students-in-physics-PhD-programs-often-have-difficulties-with)
     - What are the Physics of Computers? [Link](http://ffden-2.phys.uaf.edu/212_fall2009.web/chris_plutt/index.html)
     - How far have we come since Einstein? [Link](https://www.quora.com/If-we-were-to-bring-back-Albert-Einstein-from-the-dead-how-long-will-it-take-to-bring-him-up-to-speed-in-physics)
     - What is Time? [Link](https://www.quora.com/What-does-time-mean-to-a-physicist)
+    - What is a Lagrangian? [Link](https://www.quora.com/Laymans-Terms/What-is-a-Lagrangian)
+    - What is a Hamiltonian? [Link](https://www.quora.com/Hamiltonian-Mechanics)
+    - What is Density Functional Theory? [Link](https://www.quora.com/Computational-Science-Scientific-Computing/What-is-Density-functional-theory-DFT)
+    - What is a Higgs Boson? [Link](https://www.quora.com/Why-is-the-Higgs-boson-called-the-God-particle)
+    - How does superconductivity work? [Link](https://www.quora.com/How-does-superconductivity-work)
+    - What is a Rydberg Atom? [Link](https://www.quora.com/Is-it-possible-for-a-macroscopic-atom-to-exist)
+    - What's the difference between boson and Bose Einstein condensate? [Link](https://www.quora.com/Whats-the-difference-between-boson-and-Bose-Einstein-condensate)
+    - What is a BEC? [Link](https://www.quora.com/What-is-a-Bose-Einstein-condensate)
+    - What are some recently discovered solid state materials? [Link](https://www.quora.com/What-weird-and-wonderful-properties-of-solid-state-materials-have-been-discovered-in-recent-years)
+    - What is High Energy Physics in Layman's Terms? [Link](https://www.quora.com/What-is-high-energy-physics-in-laymans-terms)
+    - What is a Black Hole? [Link](https://www.quora.com/What-is-a-black-hole)
+    - What are the postulates of Quantum Mechanics? [Link](https://www.quora.com/What-are-the-postulates-of-quantum-mechanics)
     - What is the importance of Physics in Computer Science? [Link](https://www.quora.com/What-is-the-importance-of-Physics-in-Computer-Science)
     - Why Physics over Computer Science [Link](https://www.quora.com/Why-should-I-choose-physics-over-computer-science)
+    - What is Quantum Field Theory? [Link](https://www.quora.com/What-is-quantum-field-theory)
+    - How do Feynman Diagrams work? [Link](https://www.quora.com/What-is-the-bigger-picture-of-the-original-Feynman-Diagrams)
 - Video
     - Minute Physics YouTube Channel [Link](https://www.youtube.com/user/minutephysics)
     - Dr Physics A's YouTube Channel [Link](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
@@ -1858,21 +1972,43 @@ layout: page
     - Why, as citizens of the Earth, we should fund a trip to Europa [Link](http://bigthink.com/think-tank/bill-nye-how-finding-et-will-change-the-world)
 
 
+
 #**Mathematics Posts**
 - Links
     - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
    - Math as Code in Javascript [Link](https://github.com/Jam3/math-as-code) 
 - Posts
-    - Differential Equations in Computer Science [Link](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)
-    - Haskell: What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
-    - What is a functor? Cateory theory and the concept of adjointeness [Link](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Terry.pdf)
-    - What's the difference between a function and a functor? [Link](https://www.quora.com/What-is-the-difference-between-a-function-and-a-functor)
-    - What's the mathematical definition of a language? [Link](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)
+    - Statistics 
+        - Why is Bayes' Theorem important? [Link](https://www.quora.com/Why-is-Bayes-Theorem-important)
+    - Differential Equations
+        - Differential Equations in Computer Science [Link](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)
+    - Fourier Transforms
+        - An easy to discribe FFTs [Link](https://www.quora.com/What-is-an-intuitive-way-of-explaining-how-the-Fourier-transform-works)
+    - Category Theory, Lambda Calculus
+        - Haskell: What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
+        - What is a functor? Cateory theory and the concept of adjointeness [Link](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Terry.pdf)
+        - What's the difference between a function and a functor? [Link](https://www.quora.com/What-is-the-difference-between-a-function-and-a-functor)
+        - What is a Category? [Link](https://www.quora.com/What-is-a-category-1)
+        - What is a Morphism? [Link](https://www.quora.com/Category-Theory/What-is-a-morphism)
+        - What are the key terms of Category Theory? [Link](https://www.quora.com/What-are-the-key-terms-of-category-theory)
+        - Categories for the practising physicist [Link](http://www.cs.ox.ac.uk/people/bob.coecke/ctfwp1_final.pdf)
+        - How does Category Theory Relate to Knot Theory? [Link](https://www.quora.com/What-is-the-importance-of-knot-theory-to-category-theory)
+        - What is the difference between homomorphism and homeomorphism? [Link](https://www.quora.com/What-is-the-difference-between-homomorphism-and-homeomorphism)
+    - Math & Computer Science 
+        - What's the mathematical definition of a language? [Link](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)
+        - What are some must know topics in Discrete Math and Probability for compeitive programming? [Link](https://www.quora.com/What-are-some-must-know-topics-in-discrete-math-and-probability-for-competitive-programming)
+        - What are Morkov Chain Monte Carlo methods in layman's terms? [Link](https://www.quora.com/What-are-Markov-Chain-Monte-Carlo-methods-in-laymans-terms)
+    - Fractal Geometry
+        - What is a Fractal? [Link](https://www.quora.com/What-is-a-fractal-1)
+    - Graph Theory
+        - What is Graph Theory? [Link](https://www.quora.com/What-is-graph-theory)
+        - What are the applications of Graph Theory? [Link](https://www.quora.com/What-are-the-applications-of-graph-theory)
 - Github
     - The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
     - Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
     - Library for drawing Hilbert Curves [Github](https://github.com/cortesi/scurve)
     - Calculus functions written in Julia [Link](https://github.com/johnmyleswhite/Calculus.jl)
+
 
 
 #**Thoughts, Posts, Links, Videos, Stuff I Like**
@@ -1907,6 +2043,8 @@ layout: page
     - Louie C.K.
     - Sarah Silvermnan
     - George Carlin
+
+
 
 #**Comic Relief - _Your Moment of Zen_**
 - :raised_hands: Jon Stewart on _Crossfire_ [Link](https://www.youtube.com/watch?v=aFQFB5YpDZE)
