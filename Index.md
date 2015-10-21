@@ -7,7 +7,66 @@ layout: page
 - :fire: indicates an _Awesome list_
 
 
-# **Swift**
+#**Index**
+- Swift
+- Objective-C
+- iOS, OSX, Cocoa Posts, and Design 
+- iOS Testing, DevOps, Delivery
+- watchOS and tvOS
+- Java
+- Android
+- Hybrid App Development
+- Javascript, ECMAScript, Coffeescript, and Typescript
+- Golang
+- Python
+- Ruby, Rails, Jekyll
+- Erlang
+- Elixir
+- Haskell
+- Elm
+- Rust
+- Scala
+- C and C++
+- Other Languages
+- Node.js
+- Phoenix
+- Meteor
+- React, Redux, Flux
+- Angular, Backbone
+- Everything Computer Science
+- Data Structures, Algorithms, Functional Programming, Complexity, and Design Patterns
+- History of Computing
+- Learning Programming Languages and Programming Paradigms
+- Automata Theory and Formal Languages Posts
+- Machine Learning, Copmuter Vision, Natural Language Processing Posts
+- Programming Pitfalls and AntiPatterns
+- DataBase Posts
+- Netowrking, IP, Routing, Servers, and Backend Development Posts
+- Architecture, Compilers, and Distributed Computing
+- Microservices and Scalable Architecture
+- Project Management and DevOps Posts
+- Software Development, Continuous Integration, Delivery, and Deployment
+- Web Development and Deployment
+- Software testing
+- Developer Environment, Operating System, and System Admin Posts
+- Security
+- Data Science, Data Mining, and Public Data Posts
+- Design and Front End Web Development
+- UX and User Experience
+- Startups, SEO, and Marketing
+- Presentation and Self Advertisement
+- Fantastic Programming Periodicals
+- Economics and Bitcoin Posts
+- Everything Computer Science
+- Quantum Computation
+- (Mostly Quantum) Physics
+- Mathematics
+- Thoughts, Posts, Links, Videos, Stuff I Like
+- Comic Relief
+
+
+
+#**Swift**
 - Cool Posts
     - :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
@@ -593,8 +652,8 @@ layout: page
 - Posts
     - Why is Google using Go over Haskell? [Link](https://www.quora.com/Why-is-Google-planning-to-switch-to-Go-as-its-primary-development-language-instead-of-Haskell)
     - Why does go have the syntax that it does? [Link](https://www.quora.com/Many-people-complain-that-Go-has-ancient-syntax-and-lacks-modern-language-features-Why-did-Google-create-such-an-old-fashioned-C-like-language-What-is-the-purpose)
-- Posts Coming Soon
-    - Drop everything and GO! (golang post) [Post Coming Soon]()
+    - Why NOT use Go? [Link](http://qr.ae/R4en7L)
+    - Is Golang Ugly? [Link](http://qr.ae/R4eKiy)
 
 
 
@@ -799,7 +858,12 @@ layout: page
     - Functional Programming and Category Theory
         - All About Monads [Link](https://wiki.haskell.org/All_About_Monads)
         - What is a Monad? [Link](http://stackoverflow.com/questions/44965/what-is-a-monad/71697#71697)
+        - The easiest way to understanding Haskell's Monads [Link](http://qr.ae/R4eKKN)
         - What Category do Haskell Types and Functions Live In? [Link](http://blog.sigfpe.com/2009/10/what-category-do-haskell-types-and.html)
+        - Does Haskell need Design Patterns? [Link](http://qr.ae/R4enrL)
+        - Resources for math background in Haskell [Link](http://qr.ae/R4enbV)
+        - What is a GADT? [Link](http://qr.ae/R4enLi)
+        - Kind vs Type? [Link](http://qr.ae/R4evm3)
     - Learning Haskell
         - :raised_hands: Amazing Post on how to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
@@ -812,6 +876,11 @@ layout: page
         - What is Haskell notably good for? [Link](https://www.quora.com/What-is-Haskell-notably-good-for)
         - What do most Haskell users think of Javascript? [Link](https://www.quora.com/Do-most-Haskell-users-think-JavaScript-sucks)
         - What is the best IDE for programming in Haskell? [Link](https://www.quora.com/What-is-the-best-IDE-for-programming-in-Haskell)
+        - Haskell vs OCaml [Link](http://qr.ae/R4eTxu)
+        - Things OCaml can do that Haskell can't [Link](http://qr.ae/R4eYPu)
+        - What can be improved with Haskell? [Link](http://qr.ae/R4e2MO)
+        - Why would you give up on Haskell [Link](http://qr.ae/R4e2J9)
+        - How good is Haskell at scripting? [Link](http://qr.ae/R4eYSa)
     - Uses of Haskell
         - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry) 
@@ -1372,7 +1441,7 @@ layout: page
 
 
 
-#**Data Structures, Algorithms, Functional Programming, and Design Patterns**
+#**Data Structures, Algorithms, Functional Programming, Complexity, and Design Patterns**
 - Links
     - :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
     - Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
@@ -1389,6 +1458,8 @@ layout: page
     - Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
     - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
+- Computational Complexity
+    - Explain P vs NP [Link](http://qr.ae/R4e1y0)
 - Algorithms
     - How do Random Forests work in Layman's Terms? [Link](https://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms)
     - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
@@ -1422,7 +1493,7 @@ layout: page
 
 
 
-#**Programming Languages Posts**
+#**Learning Programming Languages and Programming Paradigms**
 - Link
     - :fire: Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
     - How to Study Programming Languages [Link](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
@@ -1442,6 +1513,7 @@ layout: page
         - Is functional GUI programming possible? [Link](http://stackoverflow.com/questions/2672791/is-functional-gui-programming-possible?rq=1)
         - What is the most Widely Used Functional Programming Language? [Link](https://www.quora.com/Functional-Programming/Which-is-the-most-widely-used-functional-programming-language-today-Oct-2014)
         - How do I think like a functional programmer? [Link](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
+        - What are the pros and cons of Functional Programming? [Link](http://qr.ae/R4e10X)
 
 
 
@@ -1459,20 +1531,30 @@ layout: page
 
 
 
+#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
+- Links
+    - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+    - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+    - Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
+    - :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+    - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+- Projects
+    - Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+- Books
+    - How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
+- Posts
+    - How to create an artificial neural network in a simple and concise way [Link](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
+    - Typical use cases for machine learning algos [Link](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
+    - What is Deep Learning? [Link](https://www.quora.com/What-is-deep-learning) 
+    - Why does computer vision advance faster than Natural Language Processing? [Link](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
+
+
+
+
 #**Programming Pitfalls and AntiPatterns**
 - Posts
     - What is Buffer Overflow? [Link](https://en.wikipedia.org/wiki/Buffer_overflow)
     - What is a Dangling Pointer? [Link](https://en.wikipedia.org/wiki/Dangling_pointer)
-
-
-
-#**Web Development and Deployment Posts**
-- Links
-    - HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
-    - Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
-  - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
-- Slides
-    - Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
 
 
 
@@ -1637,7 +1719,42 @@ layout: page
     - Make GANT Charts Easily with this tool [Link](http://knsv.github.io/mermaid/)
 
 
-     
+
+#**Software Development, Continuous Integration, Delivery, and Deployment**
+- Links
+    - :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
+    - :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
+    - :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
+    - :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
+    - :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
+    - :fire: Awesome Documentation [Link](https://github.com/PharkMillups/beautiful-docs)
+- Posts
+    - What is Continuous Delivery? [Link](http://qr.ae/R4eCkT)
+    - Making Things Happen (Book) [Post Coming Soon]()
+    - Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
+    - The Mythical Man Month (Book) [Post Coming Soon]()
+    - Essential Scrum (Book) [Post Coming Soon]()
+- Slides
+    - The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
+
+
+
+#**Web Development and Deployment Posts**
+- Links
+    - HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
+    - Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
+  - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
+- Slides
+    - Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
+
+
+
+#**Software Testing Posts**
+- Links
+- Slides
+    - Accessibilty Testing [Slides](https://speakerdeck.com/neurites/accessibilitytesting)
+
+
 #**Developer Environment, Operating System, and System Admin Posts**
 - Links
     - :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
@@ -1681,49 +1798,6 @@ layout: page
 - Sublime Packages I Use
     - Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
     - Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)
-
-
-
-#**Software Development Posts**
-- Links
-    - :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
-    - :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
-    - :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
-    - :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
-    - :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
-    - :fire: Awesome Documentation [Link](https://github.com/PharkMillups/beautiful-docs)
-- Posts
-    - Making Things Happen (Book) [Post Coming Soon]()
-    - Design Patterns: Gang of 4 (Book) [Post Coming Soon]()
-    - The Mythical Man Month (Book) [Post Coming Soon]()
-    - Essential Scrum (Book) [Post Coming Soon]()
-- Slides
-    - The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
-
-
-#**Software Testing Posts**
-- Links
-- Slides
-    - Accessibilty Testing [Slides](https://speakerdeck.com/neurites/accessibilitytesting)
-
-
-
-#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
-- Links
-    - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-    - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-    - Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-    - :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
-    - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-- Projects
-    - Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
-- Books
-    - How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-- Posts
-    - How to create an artificial neural network in a simple and concise way [Link](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
-    - Typical use cases for machine learning algos [Link](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
-    - What is Deep Learning? [Link](https://www.quora.com/What-is-deep-learning) 
-    - Why does computer vision advance faster than Natural Language Processing? [Link](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
 
 
 
@@ -1773,7 +1847,6 @@ layout: page
 - Links
     - :fire: :raised_hands: Awesome Design [Link](https://github.com/troyericg/awesome-design)
     - :fire: :raised_hands: Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-    - The iOS Design Guidelines [Link](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
     - :fire: Awesome Android UI [Link](https://github.com/wasabeef/awesome-android-ui)
     - :fire: Awesome HTML5 [Link](https://github.com/diegocard/awesome-html5)
     - :fire: Awesome Frontdesk for Front End Devs [Link](https://github.com/miripiruni/frontdesk)
@@ -1791,6 +1864,9 @@ layout: page
     - Bootstrap 4 [Link](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
     - Official Bootstrap Themes [Link](http://themes.getbootstrap.com/)
     - iOS 9 Sketch 3 Templates [Link](http://facebook.github.io/design/ios9.html)
+- Guides
+    - Frontend Guidelines [Link](https://github.com/bendc/frontend-guidelines)
+    - The iOS Design Guidelines [Link](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
 - Posts
     - Why deisgning for the operating system has taken a backseat [Post Coming Soon]()
     - What are Web Components? [Link](https://css-tricks.com/modular-future-web-components/)
@@ -1950,6 +2026,7 @@ layout: page
     - What is Time? [Link](https://www.quora.com/What-does-time-mean-to-a-physicist)
     - What is a Lagrangian? [Link](https://www.quora.com/Laymans-Terms/What-is-a-Lagrangian)
     - What is a Hamiltonian? [Link](https://www.quora.com/Hamiltonian-Mechanics)
+    - What is the Holographic Principle? [Link](https://www.quora.com/What-is-the-holographic-principle-Does-it-mean-that-our-universe-is-a-hologram)
     - What is Density Functional Theory? [Link](https://www.quora.com/Computational-Science-Scientific-Computing/What-is-Density-functional-theory-DFT)
     - What is a Higgs Boson? [Link](https://www.quora.com/Why-is-the-Higgs-boson-called-the-God-particle)
     - How does superconductivity work? [Link](https://www.quora.com/How-does-superconductivity-work)
@@ -1970,6 +2047,8 @@ layout: page
     - Simple intro into Fermi-Dirac / Bose-Einstein Statistics [YouTube](https://www.youtube.com/watch?v=2wF_CVuWyEg)
     - Bose Einstein Condensation [YouTube](https://www.youtube.com/watch?v=nAGPAb4obs8)
     - Why, as citizens of the Earth, we should fund a trip to Europa [Link](http://bigthink.com/think-tank/bill-nye-how-finding-et-will-change-the-world)
+- Derivations
+    - Derive the Hisenberg Uncertainty Principle [Link](https://www.quora.com/Physics/How-did-Heisenberg-derive-his-Uncertainty-Principle-Please-supply-the-mathematical-derivation)
 
 
 
@@ -1978,6 +2057,21 @@ layout: page
     - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
    - Math as Code in Javascript [Link](https://github.com/Jam3/math-as-code) 
 - Posts
+    - People
+        - Most badass math guy of all time [Link](http://qr.ae/R4eAc0)
+    - What
+        - Why is Euler's Identity considered the most beautiful theorem in math? [Link](http://qr.ae/R4azfL)
+        - How to calculate e [Link](http://qr.ae/R4a3po)
+        - What is e [Link](http://qr.ae/R4a3FJ)
+    - Linear Algebra
+        - What is the point of Linear Algebra? [Link](https://www.quora.com/What-is-the-point-of-linear-algebra)
+        - What is a Jacobian? [Link](https://www.quora.com/What-is-the-importance-of-determinants-in-linear-algebra)
+    - Analysis
+        - What is an intuitive explanation of Sturm-Liouville theory? [Link](https://www.quora.com/What-is-an-intuitive-explanation-of-Sturm-Liouville-theory)
+    - Space
+        - What is Hilbert Space? [Link](https://www.quora.com/What-are-Hilbert-Spaces-in-laymens-terms)
+        - What are Hilbert Spaces good for? [Link](https://www.quora.com/What-is-Hilbert-space-good-for)
+        - Simplest explination of Hilbert Space [Link](https://www.quora.com/What-is-an-intuitive-explanation-of-a-Hilbert-space)
     - Statistics 
         - Why is Bayes' Theorem important? [Link](https://www.quora.com/Why-is-Bayes-Theorem-important)
     - Differential Equations
@@ -2034,12 +2128,10 @@ layout: page
 - Amazing People
     - Richard Feynman
     - Erwin Schrodinger
-    - David Bohm
     - Jon Stewart
     - Steven Colbert
     - Conan O'Brien
     - Trey Parker / Matt Stone
-    - Seth McFarline
     - Louie C.K.
     - Sarah Silvermnan
     - George Carlin
