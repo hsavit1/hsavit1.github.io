@@ -45,11 +45,11 @@ permalink: /resume/
 
 + Objective-C
 + Swift
-+ Java
 
 
 ### _Still Experimenting With_
 
++ Java
 + Javascript
 + Node.js
 + React.js 
@@ -61,6 +61,12 @@ permalink: /resume/
 + MongoDB
 + RethinkDB
 + Docker
+
+
+### _Learning_
+
++ Haskell
++ Erlang
 
 
 ### Projects
