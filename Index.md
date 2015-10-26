@@ -755,6 +755,7 @@ layout: page
     - Take the Erlang Course [Link](http://www.erlang.org/course/course.html)
     - Some Exercises [Link](http://www.erlang.org/course/exercises.html)
     - Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html)
+    - Erlang Solutions Website [Link](https://www.erlang-solutions.com/)
 - References
     - Erlang CheatSheet [Link](http://apoie.org/Erlang%20-%20CheatSheet%20v1.0.pdf) 
 - Books 
@@ -826,6 +827,7 @@ layout: page
     - Lispy Elixir [Link](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
     - A review of the Elixir Language [Link](https://www.quora.com/Reviews-of-Elixir-programming-language)
     - Elixir vs Go vs Rust vs Scala for backend languages [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm) 
+    - OTP: A Functional Approach [Link](https://viget.com/extend/otp-ocaml-haskell-elixir)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
@@ -841,6 +843,8 @@ layout: page
 
 #**Haskell Posts**
 - Links
+    - School of Haskell [Link](https://www.fpcomplete.com/school)
+    - Haskell Wiki [Link](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [Link](https://gist.github.com/leroux/6395804)
     - :raised_hands: What I wish I knew when learning Haskell [Link](http://dev.stephendiehl.com/hask/)
     - Stephen Diehl's Blog [Link](http://www.stephendiehl.com/posts.html)
@@ -868,6 +872,7 @@ layout: page
     - An Overview of Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Overview)
     - Haskell Style Guide [Link](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
 - Books
+    - Introduction to Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
     - Haskell Wikibook [Link](https://en.wikibooks.org/wiki/Haskell)
     - Learn Haskell Fast and Hard [Link](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
     - Problem Solving in HAskell [Link](http://www.cs.kent.ac.uk/people/staff/sjt/Haskell_craft/probSolving.html)
@@ -881,6 +886,7 @@ layout: page
     - Haskell Implementation Reading List [Link](http://www.stephendiehl.com/posts/essential_compilers.html)
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
 - Tutorial
+    - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
     - 99Haskell.org [Link](http://www.99haskell.org/)
     - The Haskell Meta Tutorial [Link](https://wiki.haskell.org/Meta-tutorial)
     - Write you a Haskell Compiler [Link](http://dev.stephendiehl.com/fun/)
@@ -1257,6 +1263,7 @@ layout: page
     - Browserify Handbook [Link](https://github.com/substack/browserify-handbook)
     - Online Lessons for Node.js [Link](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
 - CheatSheets
+    - StrongLoop Node.js CheatSheet [Link](https://dzone.com/storage/assets/3112-rc141-010d-nodejs_3%20(1).pdf)
     - Node-Webkit Cheatsheet [Link](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
     - The complete Node cheatsheet [Link](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
     - Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44)
@@ -1645,6 +1652,8 @@ layout: page
     - Funtional Programming Concepts Neatly Explained [Link](https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.md) 
     - Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
     - New Purely Functional Data Structures [Link](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki/1550#1550?newreg=3044016abbd549fcbd2f4c14e8239f55)
+- Concurrency
+    - Concurrent Programming for Scalable Web Based Architectures [Link](http://berb.github.io/diploma-thesis/community/index.html)
 - Design Patterns
     - Great Design Patterns Website [Link](http://www.oodesign.com/)
     - Design Patterns Quora Page [Link](https://www.quora.com/Design-Patterns)
@@ -1766,7 +1775,7 @@ layout: page
 
 
 
-#**Netowrking, IP, Routing, Servers, and Backend Development Posts**
+#**Networking, IP, Routing, Servers, and Backend Development Posts**
 - Links
     - :fire: :raised_hands: Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
     - :fire: Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
@@ -2272,6 +2281,7 @@ layout: page
     - Fourier Transforms
         - An easy to discribe FFTs [Link](https://www.quora.com/What-is-an-intuitive-way-of-explaining-how-the-Fourier-transform-works)
     - Category Theory, Lambda Calculus
+        - Lambda Calculus with Aligators [Link](http://worrydream.com/AlligatorEggs/)
         - Why do we NEED Monads? [Link](http://stackoverflow.com/questions/28139259/why-do-we-need-monads)
         - What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
         - What is a functor? Cateory theory and the concept of adjointeness [Link](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2008/REUPapers/Terry.pdf)
