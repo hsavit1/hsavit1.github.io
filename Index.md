@@ -722,6 +722,8 @@ layout: page
     - The Ruby User's Guide [Link](http://www.rubyist.net/~slagell/ruby/objinitialization.html)
     - Ruby Metaprogramming Spell Book [Link](http://ducktypo.blogspot.com/2010/08/metaprogramming-spell-book.html)
     - Refractor in Ruby Cheatsheet [Link](http://ghendry.net/refactor.html)
+- Video
+    - Ruby Tapas [Link](http://www.rubytapas.com/episodes)
 - Posts
     - Styling your middleman static site with Sass tools like Bourbon [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
     - Full Comparison between Python and Ruby [Link](http://mitsuhiko.pocoo.org/pythonruby.html) [Link2](https://www.quora.com/How-do-Python-and-Ruby-compare/answer/Fabio-Akita?share=1)
@@ -756,6 +758,7 @@ layout: page
     - Some Exercises [Link](http://www.erlang.org/course/exercises.html)
     - Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html)
     - Erlang Solutions Website [Link](https://www.erlang-solutions.com/)
+    - Erlang Patterns [Link](http://www.erlangpatterns.org/)
 - References
     - Erlang CheatSheet [Link](http://apoie.org/Erlang%20-%20CheatSheet%20v1.0.pdf) 
 - Books 
@@ -799,11 +802,14 @@ layout: page
     - Elixir School [Link](https://github.com/doomspork/elixir-school)
     - Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
     - :fire: A list of companies currently using Elixir [Link](https://github.com/doomspork/elixir-companies) 
+    - Elixire Reg Ex [Link](http://www.elixre.uk/)
 - Learning
     - Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
     - More Pattern Matching [Link](http://eftimov.net/pattern-matching-elixir/)
     - Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
     - The best resources for Learning Elixir [Link](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
+    - Elixir Experience [Link](http://elixirexperience.com/)
+    - Elixir Quiz [Link](http://elixirquiz.github.io/)
 - Rerferences
     - The Unofficial Elixir Documentation [Link](http://elixir-lang.readthedocs.org/en/latest/index.html)   
     - :raised_hands: Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
@@ -828,6 +834,8 @@ layout: page
     - A review of the Elixir Language [Link](https://www.quora.com/Reviews-of-Elixir-programming-language)
     - Elixir vs Go vs Rust vs Scala for backend languages [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm) 
     - OTP: A Functional Approach [Link](https://viget.com/extend/otp-ocaml-haskell-elixir)
+    - The Erlangist: Understanding Elixir Macros Part 1 [Link](http://www.theerlangelist.com/article/macros_1), Part 2 [Link](http://www.theerlangelist.com/article/macros_2), Part 3 [Link](http://www.theerlangelist.com/article/macros_3), Part 4 [Link](http://www.theerlangelist.com/article/macros_4), Part 5 [Link](http://www.theerlangelist.com/article/macros_5), Part 6 [Link](http://www.theerlangelist.com/article/macros_6)
+    - Better pipelines with Mondadex [Link](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
@@ -838,6 +846,7 @@ layout: page
     - Plug composable web app modules [Link](https://github.com/elixir-lang/plug)
 - Video
     - LearnElixir.tv [Link](https://www.learnelixir.tv/episodes)
+    - Elixir Sips [Link](http://elixirsips.com/)
     
 
 
@@ -963,6 +972,7 @@ layout: page
     - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
 - Video
     - Haskell's Vimeo Channel [Link](https://vimeo.com/channels/haskell)
+    - :fire: Haskell Must Watch [Link](https://github.com/drKraken/haskell-must-watch)
 - Github
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [Link](https://github.com/scotty-web/scotty)
