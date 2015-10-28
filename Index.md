@@ -42,7 +42,7 @@ layout: page
 - Programming Pitfalls and AntiPatterns
 - DataBase Posts
 - Netowrking, IP, Routing, Servers, and Backend Development Posts
-- Architecture, Compilers, and Distributed Computing
+- Architecture, Compilers, Operatiing Systems, Linux, Unix, and Distributed Computing
 - Microservices and Scalable Architecture
 - Project Management and DevOps Posts
 - Software Development, Continuous Integration, Delivery, and Deployment
@@ -730,6 +730,7 @@ layout: page
     - The Ruby User's Guide [Link](http://www.rubyist.net/~slagell/ruby/objinitialization.html)
     - Ruby Metaprogramming Spell Book [Link](http://ducktypo.blogspot.com/2010/08/metaprogramming-spell-book.html)
     - Refractor in Ruby Cheatsheet [Link](http://ghendry.net/refactor.html)
+    - Rails CheatSheet [Link](http://www.pragtob.info/rails-beginner-cheatsheet/)
 - Video
     - Ruby Tapas [Link](http://www.rubytapas.com/episodes)
 - Posts
@@ -909,6 +910,7 @@ layout: page
     - Real World Haskell [Link](http://book.realworldhaskell.org/)
     - Parallel and Concurrent Programming in Haskell [Link](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
     - Haskell Implementation Reading List [Link](http://www.stephendiehl.com/posts/essential_compilers.html)
+    - Haskell: The Cradt of Functional Programming [Link](http://www.haskellcraft.com/craft3e/Home.html)
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
 - Tutorial
     - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
@@ -995,6 +997,7 @@ layout: page
     - Blaze HTML [Link](https://github.com/jaspervdj/blaze-html/)
     - Facebook PFFF Static Analysis tool [Link](https://github.com/facebook/pfff/wiki/Main)
     - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
+    - Stackage Haskell Tool Stack [Link](https://www.stackage.org/)
 - Gists
     - A Reader Monad [Link](https://gist.github.com/egonSchiele/5752172)
 - Interview
@@ -1344,7 +1347,7 @@ layout: page
     - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
     - Phoenix Website [Link](http://www.phoenixframework.org/docs/overview)
     - Official Guide [Link](http://www.phoenixframework.org/docs/up-and-running)
-    - Pheonix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
+    - Phoenix + Flux + React [Link](https://github.com/hsavit1/phoenix-flux-react)
     - ElixirDose Blog [Link](http://www.elixirdose.com/)
     - Ecto Databse [Link](https://github.com/elixir-lang/ecto)
     - Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini... [Link](https://github.com/mroth/phoenix-showdown)
@@ -1364,7 +1367,8 @@ layout: page
     - Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
     - Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
     - Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
-
+- Github
+    - Phoenix Chat Example [Link](https://github.com/chrismccord/phoenix_chat_example)
 
 
 #**Meteor Posts**
@@ -1731,10 +1735,17 @@ layout: page
 
 
 
-#**Automata Theory and Formal Languages Posts**
+#**Automata Theory and Formal Languages, Regular Expressions Posts**
 - Links
     - Course Notes: Formal Languages and Automata Theory [Link](http://www.ics.uci.edu/~goodrich/teach/cs162/notes/)
+    - Regular Expressions Tutorial [Link](http://www.regular-expressions.info/tutorial.html)
+- References 
+    - Regular Expression CheatSheet [Link](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
+- Books
+    - Pearson Book List [Link](http://www.pearsonhighered.com/educator/course/Automata-Theory-of-Computation/91015444.page)
+    - Learn Regex the Hard Way [Link](http://regex.learncodethehardway.org/)
 - Posts
+    - How are Regular Expressions Implemented? [Link](https://www.quora.com/How-are-regular-expressions-implemented)
     - What is a Context Free Grammar? (CFG) [Link](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html)
     - What is a Turing Machine? [Link](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html)
     - Turing Machine vs a Pushdown Automata [Link](https://www.quora.com/Inituitively-how-much-more-powerful-is-a-Turing-machine-when-compared-to-a-pushdown-automaton)
@@ -1742,6 +1753,9 @@ layout: page
     - Which statement is true: "all regular languages are finite" or "all finite languages are regular"? [Link](https://www.quora.com/Which-statement-is-true-all-regular-languages-are-finite-or-all-finite-languages-are-regular)
     - What is the difference between a finite-state machine and a Turing machine? [Link](https://www.quora.com/What-is-the-difference-between-a-finite-state-machine-and-a-Turing-machine)
     - What is the use of studying "Automata Theory and Formal Language" in Computer Science? [Link](https://www.quora.com/What-is-the-use-of-studying-Automata-Theory-and-Formal-Language-in-Computer-Science)
+- Slides
+    - Introduction to Automata Theory [Link](http://www.eecs.wsu.edu/~ananth/CptS317/Lectures/IntroToAutomataTheory.pdf)
+    - Introduction to Regular Expressions [Link](http://slides.com/stefangretcan/regex#/)
 
 
 
@@ -1867,15 +1881,27 @@ layout: page
 
 
 
-#**Architecture, Compilers, Linux, and Distributed Computing**
+#**Architecture, Compilers, Operatiing Systems, Linux, Unix, and Distributed Computing**
 - Links
     - Architectural patterns of resilient distributed systems [Link](https://github.com/Randommood/Strangeloop2015)
     - :raised_hands: The Linux Information Project [Link](http://www.linfo.org/)
+    - :fire: Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
+    - :fire: Awesome Linux Resources [Link](https://github.com/itech001/awesome-linux-resources)
 - Posts
     - Quora Page on Compilers [Link](https://www.quora.com/Compilers) 
     - Difference between Kernel Threads and User Threads? [Link](https://www.quora.com/What-do-the-kernel-thread-and-user-thread-actually-do-Why-mapping-is-done-Is-the-user-thread-mapped-to-the-kernel-thread-only-if-they-require-O-S-service)
     - Building an interpreter vs building a compiler [Link](https://www.quora.com/What-takes-more-time-Building-an-interpreter-or-a-compiler)
     - What is the Linux Kernel? [Link](https://www.quora.com/What-is-linux-kernel)
+    - What is an OS? [Link](https://www.quora.com/What-is-operating-system-and-types-of-operating-systems)
+    - How Operating Systems Work [Link](http://computer.howstuffworks.com/operating-system2.htm)
+    - How Caching Works [Link](http://computer.howstuffworks.com/cache.htm)
+    - How RAM Works [Link](http://computer.howstuffworks.com/ram.htm)
+    - How Virtual Memory Works [Link](http://computer.howstuffworks.com/virtual-memory.htm)
+    - How Microprocessors Work [Link](http://computer.howstuffworks.com/microprocessor.htm)
+    - How PCs Work [Link](http://computer.howstuffworks.com/pc.htm)
+    - How Computer Memory Works [Link](http://computer.howstuffworks.com/computer-memory.htm)
+    - What are Unix and Linux? How do they differ? [Link](https://www.quora.com/What-are-Unix-and-Linux-How-do-they-differ)
+    - Why choose BSD over Linux? [Link](http://qr.ae/RkKp8v)
     - Linux Kernel: What is the difference between high memory and normal memory? [Link](https://www.quora.com/Linux-Kernel/What-is-the-difference-between-high-memory-and-normal-memory)
     - What's the difference between a process and a thread? [Link](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread) 
     - GCC Compiler Quora Page [Link](https://www.quora.com/GCC-compiler)
@@ -1890,6 +1916,8 @@ layout: page
     - How does Intel stay ahead of AMD? [Link](https://www.quora.com/How-has-Intel-been-able-to-stay-so-ahead-of-AMD)
     - What are the differences between parallel, concurrent and asynchronous programming? [Link](https://www.quora.com/What-are-the-differences-between-parallel-concurrent-and-asynchronous-programming)
     - Why haven't CPU clock speeds increased in the past 15 years? [Link](https://www.quora.com/Why-havent-CPU-clock-speeds-increased-in-the-last-5-years)
+    - What is POSIX? [Link](https://en.wikipedia.org/wiki/POSIX)
+    - History of UNIX [Link](https://en.wikipedia.org/wiki/History_of_Unix)
 - Books
     - Linux-Insides [Link](https://0xax.gitbooks.io/linux-insides/content/)
 
@@ -1958,8 +1986,6 @@ layout: page
 - Links
     - :fire: Awesome OSX Command Line [Link](https://github.com/herrbischoff/awesome-osx-command-line?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
     - :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
-    - :fire: Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
-    - :fire: Awesome Linux Resources [Link](https://github.com/itech001/awesome-linux-resources)
     - :fire: Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
     - :fire: Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
     - :fire: :raised_hands: Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
@@ -1994,10 +2020,12 @@ layout: page
     - Bash FAQ [Link](http://mywiki.wooledge.org/BashFAQ)
     - Linux Shell Scripting Guide [Link](http://learnbyexample.net/linux-shell-scripting/)
     - Linux Shell Guide [Link](http://learnbyexample.net/linux-shell/)
+    - Homebrew Forumlas Index [Link](http://brewformulas.org/)
 - Books
     - :raised_hands: How to Make a Computer Operating System [Link](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
     - Pro Git 1st [Link](https://github.com/progit/progit)
     - Pro Git 2nd [Link](https://github.com/progit/progit2)
+    - Learn the Command Line the Hard Way [Link](http://cli.learncodethehardway.org/book/)
 - Slides
     - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
     - HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
