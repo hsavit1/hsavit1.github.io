@@ -119,6 +119,7 @@ layout: page
     - Emerging Best Practices in Swift [Slides](https://speakerdeck.com/ashfurrow/emerging-best-practices-in-swift)
     - Swift Performance [Slides](http://blog.human-friendly.com/swift-performance-iosdevuk)
 - Presentations
+    - Emerging best practices in Swift [Link](https://www.youtube.com/watch?index=40&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59&v=YsUTuwpbURA)
     - Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
     - Using Core Data with Swift [Presentation](https://realm.io/news/jesse-squires-core-data-swift/)
     - 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
@@ -179,9 +180,11 @@ layout: page
         + Functional Paradigms in Swift [Link](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
         + Functional Programming in the Swift Language [Link](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
         + Map and FlatMap demystified [Link](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
+        + Using Local Closures with Swift [Link](http://www.thomashanning.com/swift-using-local-closures/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
     + Interview Situations
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
+        + LeetCode [Link](https://github.com/diwu/LeetCode-Solutions-in-Swift)
     + Web Services and Networking
         + Calling APIs and Parsing JSON with Swift [Link](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
         + Calling a REST Api in Swift [Link](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
@@ -198,7 +201,7 @@ layout: page
         + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
         + Guard and Defer [Link](http://nshipster.com/guard-and-defer/)
         + Unmanaged Type [Link](http://nshipster.com/unmanaged/)
-    + 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
+    + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
         + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
         + Swift's pattern-matching switch statement [Link](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
         + Custom pattern matching in Swift [Link](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
@@ -235,6 +238,8 @@ layout: page
          + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
          + IBOutlet Style in Swift [Link](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
     + Enums and Pattern Matching
+        + Advanced Swift Pattern Matching in Detail [Link](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
+        + Advanced and Practical Enum Usage in Swift [Link](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
         + The Power of Swift [Link](https://www.objc.io/issues/16-swift/power-of-swift/)
         + Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
         + What is a variadic parameter? [Link](https://www.quora.com/Apple-Swift-programming-language/What-is-a-variadic-parameter)
@@ -309,6 +314,7 @@ layout: page
         - iOS 9 Split View Drag and Drop [Link](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
         - How iOS 9's Quick Actions Shortcut Works [Link](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
         - Peek and Pop in iOS 9 [Link](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+        - Weigh your fruit with 3D Touch [Link](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
 - Links
     - Cocoa at Tumblr [Link](http://cocoa.tumblr.com/)
     - :fire: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
@@ -354,10 +360,12 @@ layout: page
     - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
     - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
 - Posts
+    - Mocks in Swift via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
     - The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
     - Cryptography with Swift [Link](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
     - Mocks in Swift Via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
     - BDD Testing with Swift [Link](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
+    - TDD with Swift [Link](http://swiftandpainless.com/category/tdd/)
     - Unit Testing in Swift [Link](https://bendyworks.com/unit-testing-in-swift/)
     - Unit Testing Tips and Tricks [Link](http://natashatherobot.com/swift-unit-testing-tips-and-tricks/)
     - Automating iOS Testing and Screenshots [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
@@ -759,6 +767,7 @@ layout: page
     - Learn OTP Design Principles [Link](http://www.erlang.org/doc/design_principles/des_princ.html)
     - Erlang Solutions Website [Link](https://www.erlang-solutions.com/)
     - Erlang Patterns [Link](http://www.erlangpatterns.org/)
+    - Planet Erlang [Link](http://www.planeterlang.com/)
 - References
     - Erlang CheatSheet [Link](http://apoie.org/Erlang%20-%20CheatSheet%20v1.0.pdf) 
 - Books 
@@ -795,6 +804,7 @@ layout: page
     - An Elixir Blog made by Elixir's Creator [Link](http://blog.plataformatec.com.br/tag/elixir/)
     - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)
     - :fire: :raised_hands: Awesome Elixir [Link](https://github.com/h4cc/awesome-elixir)
+    - Hex Package Manager Website [Link](https://hex.pm/)
     - A Crash Course for Erlang Devs [Link](http://elixir-lang.org/crash-course.html)
     - Official Repo [Link](https://github.com/elixir-lang/elixir)
     - Write some Elixir Schemes [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
@@ -811,8 +821,10 @@ layout: page
     - Elixir Experience [Link](http://elixirexperience.com/)
     - Elixir Quiz [Link](http://elixirquiz.github.io/)
 - Rerferences
+    - Official Docs [Link](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
     - The Unofficial Elixir Documentation [Link](http://elixir-lang.readthedocs.org/en/latest/index.html)   
     - :raised_hands: Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
+    - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)
 - Slides
     - Write Less and Do More with Elixir Macros [Link](http://slides.com/chrismccord/elixir-macros#/)
     - Hello Elixir!! [Slides](https://speakerdeck.com/benjamintan/hello-elixir)
@@ -840,15 +852,18 @@ layout: page
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
     - How I start with Elixir [Link](https://howistart.org/posts/elixir/1)
+    - Elixir School [Link](https://github.com/doomspork/elixir-school)
+    - Little Elixir Schemer [Link](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
 - Github
     - Ecto database wrapper [Link](https://github.com/elixir-lang/ecto)
     - ExDoc Produces HTML documentation for Elixir Projects [Link](https://github.com/elixir-lang/ex_doc)
     - Plug composable web app modules [Link](https://github.com/elixir-lang/plug)
+    - Monads in ELixir [Link](https://github.com/rob-brown/MonadEx)
 - Video
     - LearnElixir.tv [Link](https://www.learnelixir.tv/episodes)
     - Elixir Sips [Link](http://elixirsips.com/)
-    
-
+    - Phoenix Screencasts [Link](http://phoenixscreencasts.com/episodes)
+    - ExCasts [Link](https://excasts.com/)
 
 #**Haskell Posts**
 - Links
@@ -873,6 +888,7 @@ layout: page
     - Data Structures and I/O Libraries [Link](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [Link](http://www.stephendiehl.com/posts/poll.html)
 - Reference
+    - Haskell Documentation [Link](https://wiki.haskell.org/Monad)
     - Getting Started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
     - Haskell Language Cheat Sheet [Link](http://cheatsheet.codeslower.com/CheatSheet.pdf)
     - Simple Haskell CheatSheet [Link](http://www.cheat-sheets.org/saved-copy/Haskell.Haskell_Cheat_Sheet.pdf)
@@ -998,6 +1014,8 @@ layout: page
     - Go at Google: [Link](http://talks.golang.org/2012/splash.article)
 - References 
     - Golang CheatSheet [Link](https://github.com/a8m/go-lang-cheat-sheet)
+- Books 
+    - Building Web Apps with Go [Link](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - Github 
     - Go Data Structures [Link](https://github.com/Workiva/go-datastructures) 
 - Tutorials
@@ -1027,6 +1045,7 @@ layout: page
 - Interview
     - Golang Interview Questions and Answers [Link](http://www.golangpro.com/2015/08/golang-interview-questions-answers.html?m=1)
     - 20 Go Interview Questions and Ans [Link](http://career.guru99.com/top-20-go-programming-interview-questions/)
+
 
 
 #**Elm Posts**
@@ -1231,6 +1250,7 @@ layout: page
     - Racket
         - Racket Programming Language [Link](https://github.com/racket/racket)
         - The Racket Guide [Link](http://docs.racket-lang.org/guide/)
+        - Pollen Project [Link](http://pollenpub.com/)
     - Pixie 
         - Pixit Programming Language [Link](https://github.com/pixie-lang/pixie)
     - D
@@ -1378,6 +1398,8 @@ layout: page
     - Introduction to Meteor [Link](https://www.youtube.com/watch?v=dOCMpoeuwTI&utm_campaign=Core+Install+%26+Deploy&utm_source=hs_automation&utm_medium=email&utm_content=21068638&_hsenc=p2ANqtz-_zJqDvX5n-s9cqGsb3oLaLx-RvmGUoeRt-TNQjvDKKXQcbNwkfIux90jBW-HQ7D70Rokn3IKDtCnDePSrPDdDMmsObiQ&_hsmi=21070052)
     - 22 Vid YouTube Playlist [Link](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
     - 17 Vid YouTube Playlist [Link](https://www.youtube.com/watch?v=LPIgeRkyOFs&list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
+    - 2 Weeks of React + Meteor [Link](http://info.meteor.com/blog/two-weeks-with-react-and-meteor)
+    - Devcasts Meteor [Link](https://www.devcasts.io/tag/meteor/)
 - Meteor Logistics
     - Why should I use Meteor? [Link](https://www.quora.com/Should-I-use-Meteor-Why)
     - What about Meteor sucks? [Link](https://www.quora.com/What-are-some-downsides-of-MeteorJS)
@@ -1409,8 +1431,6 @@ layout: page
     - How does Meteor handle SEO? [Link](http://www.manuel-schoebel.com/blog/meteor-and-seo)
     - What is the Isobuild Meteor Package System [Link](http://info.meteor.com/blog/isobuild-why-meteor-created-a-new-package-system)
     - What is Meteor's Optimistic UI? [Link](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
-- Videos
-    - 2 Weeks of React + Meteor [Link](http://info.meteor.com/blog/two-weeks-with-react-and-meteor)
 - Tutorials
     - BulletProof Meteor [Link](https://bulletproofmeteor.com/basics/introduction)
     - Official Meteor Tutorial [Link](https://www.meteor.com/tutorials/blaze/creating-an-app)
@@ -1732,11 +1752,11 @@ layout: page
 
 
 
-#**Web Development and Deployment Posts**
+#**General Web Development and Performance Posts**
 - Links
+    - 50+ Web Performance Terms [Link](https://dzone.com/articles/50-web-performance-terms-a-glossary-for-understand) 
     - HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
-    - Deployment with Docker [Link](http://www.tomsitpro.com/articles/docker-deployment-tutorial,2-929.html)
-  - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
+    - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
 - Slides
     - Web Broswer Architecture explained [Slides](http://slides.com/chit_raa/browser-architecture#/)
 
@@ -1812,8 +1832,6 @@ layout: page
     - GNU Wget [Link](http://www.gnu.org/software/wget/)
     - HTTP Stats Codes Diagram [Link](http://i.stack.imgur.com/whhD1.png)
     - HTTP Status Code Descriptions [Link](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
-    - What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
-    - What is BSON? [Link](http://bsonspec.org/)
 - References
     - DZone HTTP [Link](https://dzone.com/storage/assets/4158-rc172-010d-http_0.pdf) 
 - Slides
@@ -1830,6 +1848,9 @@ layout: page
     - REST made simple [Link](http://programmers.stackexchange.com/questions/23891/what-is-rest-in-simple-english?rq=1)
     - cURL vs wget [Link](http://www.thegeekstuff.com/2012/07/wget-curl/)
     - REST vs CRUD [Link](http://programmers.stackexchange.com/questions/120716/difference-between-rest-and-crud)
+    - Scalability: How does Heroku Work? [Link](https://www.quora.com/Scalability/How-does-Heroku-work)
+    - What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
+    - What is BSON? [Link](http://bsonspec.org/)
 - Github
     - Mongoose Web Server [Link](https://github.com/cesanta/mongoose)
     - HTTP Server [Github](https://github.com/indexzero/http-server)
@@ -1837,10 +1858,13 @@ layout: page
     - POSTMan [Github](https://github.com/postmanlabs/postman-app-support)
     - Recreating DialUp Modems with Javascript [Link](https://github.com/samccone/noise)
     - Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
+    - Heroku Command Line Interface [Link](https://github.com/heroku/heroku)
+    - Docker Powered Mini Heroku in about 200 Lines of Bash [Link](https://github.com/progrium/dokku)
 - Video
     - What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
 - Interview
     - 100 Networking Interview Questions [Link](http://career.guru99.com/top-100-networking-interview-questions-answers/)
+
 
 
 #**Architecture, Compilers, Linux, and Distributed Computing**
@@ -1866,6 +1890,9 @@ layout: page
     - How does Intel stay ahead of AMD? [Link](https://www.quora.com/How-has-Intel-been-able-to-stay-so-ahead-of-AMD)
     - What are the differences between parallel, concurrent and asynchronous programming? [Link](https://www.quora.com/What-are-the-differences-between-parallel-concurrent-and-asynchronous-programming)
     - Why haven't CPU clock speeds increased in the past 15 years? [Link](https://www.quora.com/Why-havent-CPU-clock-speeds-increased-in-the-last-5-years)
+- Books
+    - Linux-Insides [Link](https://0xax.gitbooks.io/linux-insides/content/)
+
 
 
 #**Microservices and Scalable Architecture**
@@ -1892,9 +1919,9 @@ layout: page
 
 
 
-#**Project Management and DevOps Posts**
+#**Docker, Project Management and DevOps Posts**
 - Links
-    - :fire: :raised_hands: Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
+    - :fire: Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
     - :fire: Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)
     - :fire: Awesome Container Technologies [Link](https://github.com/tcnksm/awesome-container)
     - :fire: Awesome Apache Mesos [Link](https://github.com/dharmeshkakadia/awesome-mesos)
@@ -1903,16 +1930,27 @@ layout: page
     - :fire: Awesome Self Hosted [Link](https://github.com/Kickball/awesome-selfhosted)
     - :fire: Awesome Free Open Source Software for Developers [Link](https://github.com/httpsGithubParty/FOSS-for-Dev)
     - Chrome Dev Tools [Link](https://developer.chrome.com/devtools)
+    - Kubernetes by Google [Link](http://kubernetes.io/)
 - References
     - SCRUM Ref Guide [Link](https://dzone.com/refcardz/scrum)  
+    - The Official Docker User Guide [Link](https://docs.docker.com/userguide/)
 - Posts
     - Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
+    - :raised_hands: App Container Specification [Link](https://github.com/appc/spec/blob/master/SPEC.md)
+    - rkt, appc, and Docker: A Take on the Linux Container Upstream [Link](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/)
+    - 4 Day Docker and Kubernotes Training [Link](https://dzone.com/articles/4-day-docker-and-kubernetes-training)
+    - Docker Containers on the Desktop [Link](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
+    - Let's Review Docker (it sucks) [Link](http://iops.io/blog/docker-hype/)
+    - Make a Docker Based Website [Link](http://project-webdev.blogspot.de/2015/05/create-site-based-on-docker-part1.html)
+    - Rkt App Containers > Docker [Link](https://github.com/coreos/rkt)
 - Videos
     - Offical Docker Self Paced Training Videos [Link](http://training.docker.com/self-paced-training)
+    - Devcasts Docker Screencasts [Link](https://www.devcasts.io/search/?q=docker) 
 - Slides
     - Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
 - Github
     - Make GANT Charts Easily with this tool [Link](http://knsv.github.io/mermaid/)
+
 
 
      
@@ -1949,10 +1987,17 @@ layout: page
 - Posts
     - Learn Enough Command Line to be Dangerous [Link](http://www.learnenough.com/command-line/)
     - 5 Useful Git Tips in Pictures [Link](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
+    - How to use Vim [Link](http://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor)
 - Quick References
-    - BASH cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
+    - Bash cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
+    - Advanced Bash Scripting Guide [Link](http://tldp.org/LDP/abs/html/)
+    - Bash FAQ [Link](http://mywiki.wooledge.org/BashFAQ)
+    - Linux Shell Scripting Guide [Link](http://learnbyexample.net/linux-shell-scripting/)
+    - Linux Shell Guide [Link](http://learnbyexample.net/linux-shell/)
 - Books
     - :raised_hands: How to Make a Computer Operating System [Link](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
+    - Pro Git 1st [Link](https://github.com/progit/progit)
+    - Pro Git 2nd [Link](https://github.com/progit/progit2)
 - Slides
     - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
     - HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
@@ -1960,6 +2005,10 @@ layout: page
     - :raised_hands: The Art of the Command Line [Link](https://github.com/jlevy/the-art-of-command-line)
     - Vundle Vim Plugin Manager [Link](https://github.com/VundleVim/Vundle.vim)
     - Browsersync for web development testing [Github](http://www.browsersync.io/)
+    - Mac OSX Dev Setup [Link](https://github.com/donnemartin/dev-setup)
+- Video
+    - Shell Tutorials [Link](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+    - Unix Shell Scripting Tutorial [Link](https://www.youtube.com/playlist?list=PL18DF64CBBAEAAE77)
 - Sublime Packages I Use
     - Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
     - Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)
@@ -1991,26 +2040,6 @@ layout: page
 
 
 
-#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
-- Links
-    - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
-    - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
-    - Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
-    - :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
-    - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-- Projects
-    - Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
-    - Homomorphic Machine Learning in Haskell [Link](https://github.com/mikeizbicki/HLearn)
-- Books
-    - How to make an OS [Link](https://github.com/hsavit1/How-to-Make-a-Computer-Operating-System)
-- Posts
-    - How to create an artificial neural network in a simple and concise way [Link](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
-    - Typical use cases for machine learning algos [Link](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
-    - What is Deep Learning? [Link](https://www.quora.com/What-is-deep-learning) 
-    - Why does computer vision advance faster than Natural Language Processing? [Link](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
-
-
-
 #**Security Posts**
 - Links
     - :fire: :raised_hands: Awesome Security [Link](https://github.com/sbilly/awesome-security)
@@ -2024,6 +2053,38 @@ layout: page
     - :fire: Awesome Cryptography [Link](https://github.com/MaciejCzyzewski/retter)
     - OSX Security Privacy Guide [Link](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
     - :fire: Awesome Apache HTTP Server Configs [Link](https://github.com/h5bp/server-configs-apache)
+
+
+
+#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
+- Links
+    - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
+    - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)
+    - Neural Network Lib for iOS [Link](http://nikolaypavlov.github.io/MLPNeuralNet/)
+    - :fire: Awesome Artificial Intelligence [Link](https://github.com/owainlewis/awesome-artificial-intelligence)
+    - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+- Projects
+    - Machine Learning in Go [Link](https://github.com/hsavit1/golearn)
+    - Homomorphic Machine Learning in Haskell [Link](https://github.com/mikeizbicki/HLearn)
+    - What is CRISPR? [Link](http://www.nature.com/news/crispr-the-disruptor-1.17673)
+- Books
+    - What are the best books for machine learning? [Link](https://www.quora.com/Which-are-the-best-books-for-machine-learning)
+    - Machine Learning: A Probabilisitc Perspective [Link](http://www.cs.ubc.ca/~murphyk/MLbook/)
+    - The elements of statistical learning [Link](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
+    - Pattern Recognition and Machine Learning [Link](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
+- Online Course
+    - Stanford Machine Learning Course [Link](https://www.coursera.org/learn/machine-learning)
+- Posts
+    - How do I learn Machine Learning? [Link](https://www.quora.com/How-do-I-learn-machine-learning-1)
+    - How to create an artificial neural network in a simple and concise way [Link](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
+    - Typical use cases for machine learning algos [Link](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
+    - What is Deep Learning? [Link](https://www.quora.com/What-is-deep-learning) 
+    - What is Data Mining? [Link](https://www.quora.com/What-is-data-mining)
+    - Why does computer vision advance faster than Natural Language Processing? [Link](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
+    - What is all the hype around CRISPR? [Link](https://www.quora.com/What-is-editing-genomes-using-CRISPR-all-about/answer/Brian-Farley-3?srid=zSlG&share=1)
+    - Top 10 Data Mining and Machine Learning Algorithms [Link](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain) [Link2](https://www.quora.com/What-are-the-top-10-algorithms-every-researcher-in-Machine-Learning-should-know-about)
+    - Top 10 Problems in Machine Learning [Link](https://www.quora.com/What-are-the-top-10-problems-in-machine-learning)
+    - Selecting the Right Machine Learning Approach [Link](https://dzone.com/articles/selecting-the-right-machine-learning-approach)
 
 
 
@@ -2049,13 +2110,26 @@ layout: page
     - Plotly [Link](https://plot.ly/python/user-guide/)
 - Posts
     - Top 10 Data Mining Algorithms in plain English [Link](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+    - How do data scientists use statistics? [Link](https://www.quora.com/How-do-data-scientists-use-statistics)
+    - How do I become an expret in R? [Link](https://www.quora.com/How-do-I-become-an-expert-in-R)
+    - Top 10 Algos for DataMining and Machine Learning [Link](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms)
+- Blogs
+    - Advanced R [Link](http://adv-r.had.co.nz/)
 - Github Projects
     - Grafana [Link](https://github.com/grafana/grafana)
+    - Lightning Data Visualisation [Link](http://lightning-viz.org/)
+- Learning
+    - Data School [Link](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+- Video
+    - Deep Learning: Intelligence from Big Data [Link](https://www.youtube.com/watch?v=czLI3oLDe8M)
 - Slides
-    - Statistics for Hackers [Link](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+    - Statistics for Hackers [Slides](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+    - Introduction to Data Science [Slides](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+    - How to become a data scientist [Slides](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - Books
     - Mining the Social Web with IPython Notebooks [Link](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
     
+
 
 #**Design and Front End Web Development Posts**
 - Links
@@ -2169,6 +2243,8 @@ layout: page
     - Self Study Plan Quant Dev [Link](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
     - Understanding how to become a quant analyst [Link](https://www.quantstart.com/articles/Understanding-How-to-Become-a-Quantitative-Analyst)
     - Work in HFT [Link](https://www.quantstart.com/articles/How-to-Get-a-Job-at-a-High-Frequency-Trading-Firm)
+- Posts
+    - What it takes to be a billionaire [Link](https://www.quora.com/What-are-good-ways-to-prepare-my-kids-to-become-billionaires)
 
 
 
@@ -2185,7 +2261,8 @@ layout: page
     - :raised_hands: This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
     - Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
 - News
-    - Breaking news with the Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
+    - Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
+    - Microsoft Quantum Labs [Link](http://www.techinsider.io/microsoft-hybrid-quantum-computer-2015-10)
 - Posts
     - How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
     - Are quantum computers Turing Machines? [Link](https://www.quora.com/Are-quantum-computers-Turing-machines)
