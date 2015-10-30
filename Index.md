@@ -138,6 +138,8 @@ layout: page
     - Making Friends with Value Types [Presentation](https://realm.io/news/andy-matuschak-controlling-complexity/)
     - A look into Realm's Core DB Engine [Presentation](https://realm.io/news/jp-simard-realm-core-database-engine/)
     - Hidden Gems in Swift [Presentation](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
+    - Library Oriented Programming [Presentation](https://www.youtube.com/watch?v=lqNUTW0F4bw&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
+    - * Oriented Programming [Presentation](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
 - WWDC Presentations
     + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
@@ -161,7 +163,7 @@ layout: page
     - Why Realm is great and why we're not going to use it [Link](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
     + A Swift Into To Core Data [Link](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + Moving from ObjC to Swift with Core Data [Link](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
-    + 
+    + CloudKit Introduction [Link](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
 - Swift Data Structures, Algorithms, and Design Patterns
     + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
@@ -170,6 +172,8 @@ layout: page
     + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
     + Creating a Cocoa Bindings Observable Pattern in Swift [Link](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
 - More Posts
+    + Application Structure
+        + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
     + Opinions
         + What are the Worst parts of Swift? [Link](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
     + Scripting
@@ -202,6 +206,7 @@ layout: page
         + Swift 2 Error Handling and Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
         + Guard and Defer [Link](http://nshipster.com/guard-and-defer/)
         + Unmanaged Type [Link](http://nshipster.com/unmanaged/)
+        + try/catch with asynchronous closures [Link](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
     + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
         + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
         + Swift's pattern-matching switch statement [Link](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
@@ -231,6 +236,7 @@ layout: page
         + THe Swift Protocol Proposal [Link](http://kickingbear.com/blog/archives/521)
         + Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
         + Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+        + Minimal Swift 2.1 Protocol Coformance [Link](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
     + Swift Initializers
         + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -241,6 +247,7 @@ layout: page
     + Enums and Pattern Matching
         + Advanced Swift Pattern Matching in Detail [Link](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
         + Advanced and Practical Enum Usage in Swift [Link](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
+        + Control Flow & Pattern Matching [Link](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
         + The Power of Swift [Link](https://www.objc.io/issues/16-swift/power-of-swift/)
         + Ranges and Intervals in Swift [Link](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)
         + What is a variadic parameter? [Link](https://www.quora.com/Apple-Swift-programming-language/What-is-a-variadic-parameter)
@@ -249,6 +256,7 @@ layout: page
         + Swift Pattern Matching in Detail [Link](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
         + Enumerating Tuple Values in Swift [Link](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
     + Optionals and Types 
+        + Swift Optionals Made Simple [Link](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
         + Swift's Type System Solves a Problem I don't Have [Link](http://inessential.com/2015/07/19/solving_problems_i_dont_have_except_th)
         + Understanding Downcasting Operators in Swift [Link](http://stackoverflow.com/questions/25708649/downcasting-optionals-in-swift-as-type-or-as-type) 
@@ -356,30 +364,41 @@ layout: page
     - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
     - UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
     - Better Unit Testing with Swift [Link](http://masilotti.com/better-swift-unit-testing/)
+    - Unofficial XCTest Documentation Website [Link](http://masilotti.com/xctest-documentation/)
 - Presentations
     - Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
     - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
     - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
+    - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
+    - Network Testing in Swift [Link](https://realm.io/news/soffes-swift-network-testing-dvr/)
 - Posts
+    - Painless automated builds with Fastlane and BuildKite [Link](Painless Automated iOS Builds with fastlane and Buildkite)
+    - Functional iOS Unit Testing [Link](http://www.ebaytechblog.com/2015/04/15/functional-ios-testing-in-swift/)
+    - More functional testing [Link](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
+    - Unit Testing with @testable in Xcode 7 [Link](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
+    - Mocking Objects in Swift [Link](http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)
     - Mocks in Swift via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
     - The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
     - Cryptography with Swift [Link](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
-    - Mocks in Swift Via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
     - BDD Testing with Swift [Link](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
     - TDD with Swift [Link](http://swiftandpainless.com/category/tdd/)
     - Unit Testing in Swift [Link](https://bendyworks.com/unit-testing-in-swift/)
     - Unit Testing Tips and Tricks [Link](http://natashatherobot.com/swift-unit-testing-tips-and-tricks/)
     - Automating iOS Testing and Screenshots [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
     - You need 180 ScreenShots if you want to change the UI in a significant way [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
+    - How testing has improved in Swift 2 [Link](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
 - Tutorials
     - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Slides
     - :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 - Github
-  - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
-  - iOS Snapshot Test Cases [Link](https://github.com/facebook/ios-snapshot-test-case)
-  - Quick Testing Framework [Github](https://github.com/Quick/Quick)
-  - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
+    - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
+    - iOS Snapshot Test Cases [Link](https://github.com/facebook/ios-snapshot-test-case)
+    - Quick Testing Framework [Github](https://github.com/Quick/Quick)
+    - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
+- Video 
+    - Swift Unit Testing Course [Link](http://code.tutsplus.com/courses/unit-testing-with-swift-and-xctest)
+
 
 
 
@@ -393,7 +412,7 @@ layout: page
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
         - Apple TV: A world without WebOS [Link](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.rdk3bnrqc)
         - Interacting with the new AppleTV Remote [Link](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
-    - watchOS
+        - 200 mb app sizes: Is tvOS the future of apps? [Link](https://realm.io/news/is-tvos-the-future-of-apps/)
 
 
 
@@ -676,6 +695,7 @@ layout: page
 - Tutorial
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [Link](http://learnpythonthehardway.org/book/index.html)
+    + 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
 - Slides
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
@@ -706,6 +726,7 @@ layout: page
     - :fire: Awesome Ruby Bookmarks [Link](https://github.com/dreikanter/ruby-bookmarks)
     - :fire: Awesome Ruby Development Bookmarks [Link](https://github.com/saberma/ruby-dev-bookmarks)
     - :fire: Awesome Rails [Link](https://github.com/ekremkaraca/awesome-rails)
+    - :fire: Awesome Rails Gems [Link](https://github.com/hothero/awesome-rails-gem)
     - Metaprogramming with Ruby (Coming soon. Until then, check this [presentation](https://speakerdeck.com/mattyoho/metaprogramming-ruby))
     - Learn Ruby in 20 Minutes [Link](https://www.ruby-lang.org/en/documentation/quickstart/)
     - Coming to Ruby from Other Languages [Link](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
@@ -732,8 +753,10 @@ layout: page
     - Ruby Metaprogramming Spell Book [Link](http://ducktypo.blogspot.com/2010/08/metaprogramming-spell-book.html)
     - Refractor in Ruby Cheatsheet [Link](http://ghendry.net/refactor.html)
     - Rails CheatSheet [Link](http://www.pragtob.info/rails-beginner-cheatsheet/)
+    - Ruby on Rails Architectural Design [Link](http://adrianmejia.com/blog/2011/08/11/ruby-on-rails-architectural-design/)
 - Video
     - Ruby Tapas [Link](http://www.rubytapas.com/episodes)
+    - Rails Conf 2015 [Link](https://www.youtube.com/watch?v=aApmOZwdPqA&list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK)
 - Posts
     - Styling your middleman static site with Sass tools like Bourbon [Link](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
     - Full Comparison between Python and Ruby [Link](http://mitsuhiko.pocoo.org/pythonruby.html) [Link2](https://www.quora.com/How-do-Python-and-Ruby-compare/answer/Fabio-Akita?share=1)
@@ -823,11 +846,14 @@ layout: page
     - Elixir Experience [Link](http://elixirexperience.com/)
     - Elixir Quiz [Link](http://elixirquiz.github.io/)
     - Elixir Express [Link](https://github.com/chrismccord/elixir_express)
+    - Fizzbuzz [Link](http://www.leighhalliday.com/fizzbuzz-in-elixir)
 - Rerferences
     - Official Docs [Link](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
     - The Unofficial Elixir Documentation [Link](http://elixir-lang.readthedocs.org/en/latest/index.html)   
     - :raised_hands: Elixir Language Cheat Sheet [Link](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
     - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)
+    - Use Erlang Term Storage (ETS) to create State [Link](http://www.erlang.org/doc/man/ets.html)
+    - Design Goals of Elixir [Link](http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/)
 - Slides
     - Write Less and Do More with Elixir Macros [Link](http://www.chrismccord.com/blog/2014/03/13/write-less-do-more-and-have-fun-with-elixir-macros/)
     - Hello Elixir!! [Slides](https://speakerdeck.com/benjamintan/hello-elixir)
@@ -839,6 +865,8 @@ layout: page
     - Elixir, Zero to Web [Slides](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
     - Do More with Elixir Macros [Slides](http://slides.com/chrismccord/elixir-macros#/)
     - Comparing Interfaces in Swift and Elixir [Link](Comparing protocols and extensions in Swift and Elixir)
+- Community News
+    - ElixirStream.com [Link](http://elixirstream.com/)
 - Posts
     - Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
     - Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
@@ -863,6 +891,7 @@ layout: page
     - Plug composable web app modules [Link](https://github.com/elixir-lang/plug)
     - Monads in ELixir [Link](https://github.com/rob-brown/MonadEx)
 - Video
+    - ElixirPipe.com [Link](http://elixirpipe.com/)
     - ElixirConf 2014 Playlist [Link](https://www.youtube.com/watch?v=rt8h_xeESLg&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
     - ElixirConf 2015 Playlist [Link](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZb7L66A9JvYWu_ItURk8qJ)
     - Metaprogramming Elixir [Link](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-metaprogramming-elixir/)
@@ -895,14 +924,17 @@ layout: page
     - Data Structures and I/O Libraries [Link](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [Link](http://www.stephendiehl.com/posts/poll.html)
 - Reference
+    - :raised_hands: How to read Haskell [Link](https://wiki.haskell.org/How_to_read_Haskell)
+    - List of all the Haskell Keywords [Link](https://wiki.haskell.org/Keywords)
     - Haskell Documentation [Link](https://wiki.haskell.org/Monad)
     - Getting Started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
-    - Haskell Language Cheat Sheet [Link](http://cheatsheet.codeslower.com/CheatSheet.pdf)
+    - :raised_hands: Haskell Language Cheat Sheet [Link](http://cheatsheet.codeslower.com/CheatSheet.pdf)
     - Simple Haskell CheatSheet [Link](http://www.cheat-sheets.org/saved-copy/Haskell.Haskell_Cheat_Sheet.pdf)
     - Haskell's Syntax [Link](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
     - Haskell Cookbook [Link](https://wiki.haskell.org/Cookbook)
     - An Overview of Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Overview)
     - Haskell Style Guide [Link](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
+    - Haskell's Future [Link](https://wiki.haskell.org/Future_of_Haskell)
 - Books
     - Introduction to Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
     - Haskell Wikibook [Link](https://en.wikibooks.org/wiki/Haskell)
@@ -920,6 +952,7 @@ layout: page
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
 - Tutorial
     - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
+    - All the Haskell Tutorials [Link](https://wiki.haskell.org/Category:Tutorials)
     - 99Haskell.org [Link](http://www.99haskell.org/)
     - The Haskell Meta Tutorial [Link](https://wiki.haskell.org/Meta-tutorial)
     - Write you a Haskell Compiler [Link](http://dev.stephendiehl.com/fun/)
@@ -933,6 +966,7 @@ layout: page
     - Offical Haskell Programming Contests [Link](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [Link](http://dailyhaskellexercise.tumblr.com/)
     - Learn You A Haskell Exercises [Link](https://github.com/noelmarkham/learn-you-a-haskell-exercises)
+    - Project Euler [Link](https://wiki.haskell.org/Euler_problems)
 - Posts
     - Web Development 
         - Haskell for Web Developers [Link](http://www.stephendiehl.com/posts/haskell_web.html)
@@ -963,13 +997,13 @@ layout: page
         - Functional Lenses Derivation [Link](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - Does Haskell have Tail Recursive Optimization? [Link](http://stackoverflow.com/questions/13042353/does-haskell-have-tail-recursive-optimization/13052612#13052612)
     - Opinions
+        - What is the Future of Haskell? [Link](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
         - What are the advantages of Haskell over other functional programming languages? [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-other-functional-programming-languages)
         - What is so great about Haskell? [Link](https://www.quora.com/Why-do-computer-scientists-like-Haskell-so-much)
         - Hole Driven Haskell [Link](http://matthew.brecknell.net/post/hole-driven-haskell/)
         - Hasekll vs Clojure [Link](https://www.quora.com/What-are-the-advantages-of-Haskell-over-Clojure)
         - Why NOT Haskell? [Link](https://www.quora.com/Why-dont-more-programmers-use-Haskell)
-        - Reviews of the Haskell Language [Link](https://www.quora.com/Reviews-of-Haskell-programming-language)
         - What is Haskell notably good for? [Link](https://www.quora.com/What-is-Haskell-notably-good-for)
         - What do most Haskell users think of Javascript? [Link](https://www.quora.com/Do-most-Haskell-users-think-JavaScript-sucks)
         - What is the best IDE for programming in Haskell? [Link](https://www.quora.com/What-is-the-best-IDE-for-programming-in-Haskell)
@@ -982,7 +1016,7 @@ layout: page
     - Uses of Haskell
         - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry) 
-    - Other
+    - Language Related
         - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
         - Is Haskell more expressive? [Link](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
@@ -995,6 +1029,7 @@ layout: page
     - Haskell for Normal People [Slides](http://slides.com/benleggett/haskellpres#/)
     - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
 - Video
+    - Learn Haskell From Scratch Playlist [Link](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [Link](https://vimeo.com/channels/haskell)
     - :fire: Haskell Must Watch [Link](https://github.com/drKraken/haskell-must-watch)
 - Github
@@ -1085,11 +1120,13 @@ layout: page
     - What is the Rationale behind ClojureScript? [Link](https://github.com/clojure/clojurescript/wiki/Rationale)
     - ClojureBridge [Link](http://www.clojurebridge.org/)
     - Datomic [Link](http://www.datomic.com/)
+    - The Clojure Toolbox [Link](http://www.clojure-toolbox.com/)
 - Web Development
     - Compojure Framework [Link](https://github.com/weavejester/compojure/wiki)
 - References
     - Clojure Cheat Sheet [Link](http://clojure.org/cheatsheet)
     - ClojureScript Cheat Sheet [Link](http://cljs.info/cheatsheet/)
+    - Clojure Documentation [Link](http://clojure-doc.org/)
     - ClojureDocs Website [Link](http://clojuredocs.org/)
     - Learn Clojure in 15 minutes [Link](http://adambard.com/blog/clojure-in-15-minutes/)
     - ClojureScript JavaScript Translations [Link](http://himera.herokuapp.com/index.html)
@@ -1097,6 +1134,7 @@ layout: page
 - Books 
     - :raised_hands: Clojure for the Brave and True [Link](http://www.braveclojure.com/introduction/)
     - Clojure from the Ground Up [Link](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
+    - The Joy of Clojure [Link](http://www.joyofclojure.com/)
 - Github
     - Figwheel [Github](https://github.com/bhauman/lein-figwheel)
     - Om: ClojureScript Interface to React [Github](https://github.com/omcljs/om)
@@ -1137,6 +1175,8 @@ layout: page
     - Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Video
     - Clojure.tv Youtube Channel [Link](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
+    - Clojure Screencasts [Link](http://www.clojurescreencasts.com/)
+    - Learn Clojure Videos [Link](http://learn-clojure.com/clojure_videos.html)
 
 
 
@@ -1148,6 +1188,7 @@ layout: page
     - Rust is a Drop in Replacement for C [Link](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 - References
     - Rust Cheat Sheet [Link](http://clchiou.github.io/2015-01-09/rust-cheat-sheet/)
+    - A Swift Guide to Rust [Link](http://faq.sealedabstract.com/rust/#why-rust)
 - Books 
     - :raised_hands: The Rust Book [Link](http://rustbyexample.com/index.html)
 - Posts
@@ -1230,6 +1271,7 @@ layout: page
     - Lisp
         - Common Lisp Tips [Link](http://lisptips.com/)
         - Common Lisp Quick Reference [Link](http://clqr.boundp.org/index.html)
+        - What is the "cons" operator in Lisp ? [Link](https://en.wikipedia.org/wiki/Cons)
 - Practice 
     - 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
 - Github Repositories and Other Helpful Links
@@ -1883,6 +1925,7 @@ layout: page
     - Scalability: How does Heroku Work? [Link](https://www.quora.com/Scalability/How-does-Heroku-work)
     - What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
     - What is BSON? [Link](http://bsonspec.org/)
+    - Explain how the Internet works [Link](https://www.quora.com/How-does-the-Internet-work)
 - Github
     - Mongoose Web Server [Link](https://github.com/cesanta/mongoose)
     - HTTP Server [Github](https://github.com/indexzero/http-server)
@@ -2349,7 +2392,7 @@ layout: page
 
 
 
-#**(Mostly Quantum) Physics Posts**
+#**(Mostly Quantum and Theoretical) Physics Posts**
 - Links
     - Check out my :fire: Awesome Physics Repo [Link]()
     - An Primer of Quantum Cognition [Link](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
@@ -2385,6 +2428,7 @@ layout: page
     - Simple intro into Fermi-Dirac / Bose-Einstein Statistics [YouTube](https://www.youtube.com/watch?v=2wF_CVuWyEg)
     - Bose Einstein Condensation [YouTube](https://www.youtube.com/watch?v=nAGPAb4obs8)
     - Why, as citizens of the Earth, we should fund a trip to Europa [Link](http://bigthink.com/think-tank/bill-nye-how-finding-et-will-change-the-world)
+    - Lisa Randall explains "The Universe Today" [Link](https://www.youtube.com/watch?v=TCbH6MdNbrk) 
 - Derivations
     - Derive the Hisenberg Uncertainty Principle [Link](https://www.quora.com/Physics/How-did-Heisenberg-derive-his-Uncertainty-Principle-Please-supply-the-mathematical-derivation)
 
@@ -2436,6 +2480,7 @@ layout: page
         - Kleisli Category [Link](http://ncatlab.org/nlab/show/Kleisli+category)
         - Functors by nLab [Link](http://ncatlab.org/nlab/show/functor)
     - Math & Computer Science 
+        - The Coq Proof Assistant [Link](https://coq.inria.fr/) 
         - What's the mathematical definition of a language? [Link](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)
         - What are some must know topics in Discrete Math and Probability for compeitive programming? [Link](https://www.quora.com/What-are-some-must-know-topics-in-discrete-math-and-probability-for-competitive-programming)
         - What are Morkov Chain Monte Carlo methods in layman's terms? [Link](https://www.quora.com/What-are-Markov-Chain-Monte-Carlo-methods-in-laymans-terms)
@@ -2475,7 +2520,8 @@ layout: page
     - 7 Days in Hell 
 - Amazing People
     - Richard Feynman
-    - Erwin Schrodinger
+    - Brian Greene
+    - Lisa Randall
     - Jon Stewart
     - Trey Parker / Matt Stone
     - Louie C.K.
