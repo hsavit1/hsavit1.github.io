@@ -159,11 +159,13 @@ layout: page
     - Swift tutorial Video Series [Link](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - Free Books
     - Learn Swift [Link](http://books.aidanf.net/learn-swift)
+    - Swift for Programmers [Link](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 - Core Data and Other Options
     - Why Realm is great and why we're not going to use it [Link](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
     + A Swift Into To Core Data [Link](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + Moving from ObjC to Swift with Core Data [Link](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
     + CloudKit Introduction [Link](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
+    + Create a Data Access Layer with SQLite.swift and Swift 2 [Link](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
 - Swift Data Structures, Algorithms, and Design Patterns
     + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
@@ -171,6 +173,12 @@ layout: page
     + Template Method Pattern in Swift [Link](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
     + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
     + Creating a Cocoa Bindings Observable Pattern in Swift [Link](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
+    + Linked Lists, Enums, Value Types [Link](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
+    + A persistent tree with Enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
+    + Red Black Tree in Swift [Link](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
+    + Singly Linked List [Link](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
+    + Observer Pattern in Swift [Link](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
+    + Make a DSL in Swift [Link](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
 - More Posts
     + Application Structure
         + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
@@ -186,6 +194,8 @@ layout: page
         + Functional Programming in the Swift Language [Link](https://medium.com/swift-programming/2-functional-swift-c98be9533183)
         + Map and FlatMap demystified [Link](http://www.uraimo.com/2015/10/08/Swift2-map-flatmap-demystified/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
         + Using Local Closures with Swift [Link](http://www.thomashanning.com/swift-using-local-closures/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
+        + Function Params are Tuples in Swift [Link](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
+        + weak vs unowned [Link](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
     + Interview Situations
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
@@ -221,6 +231,7 @@ layout: page
         + Sets vs Dictionaries in Swift [Link](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
     + Protocol Oriented Programming in Swift
         + Protocol Oriented MVVM [Link](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/)
+        + Protocol Extensions vs Type Extensions [Link](https://gist.github.com/hsavit1/3337f80d9fe1396c44ce)
         + Swift Diagrams Playground for P.O.P. [Link](https://github.com/alskipp/Swift-Diagram-Playgrounds?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_1)
         + Gist covers whatever went on in the lecture [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
         + What are the advantages? [Link](http://www.infoq.com/news/2015/06/protocol-oriented-swift)
@@ -242,8 +253,8 @@ layout: page
         + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
         + Immutable Swift [Link](http://nomothetis.svbtle.com/immutable-swift)
         + Instance methods are Curried Functions in Swift [Link](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/)
-         + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
-         + IBOutlet Style in Swift [Link](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
+        + What's the point of Laziness? [Link](http://owensd.io/2015/08/09/filter-performance.html)
+        + IBOutlet Style in Swift [Link](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)
     + Enums and Pattern Matching
         + Advanced Swift Pattern Matching in Detail [Link](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
         + Advanced and Practical Enum Usage in Swift [Link](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
@@ -272,6 +283,9 @@ layout: page
         + Swift & the ObjC Runtime [Link](http://nshipster.com/swift-objc-runtime/)
         + How is Swift Faster than Objective-C? [Link](https://www.quora.com/How-is-Swift-faster-than-Objective-C)
         + Wrapping a C library in a Swift Framework [Link](http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/)
+    + Type Reflection
+        + Simple Reflection in Swift [Link](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
+        + Understanding Reflection in Swift and how to use it [Link](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
     + Other
         + Operator Overloading and JSON Parsing in Swift [Link](https://realm.io/news/swift-thinking/)
     + Language Comparisons
@@ -325,6 +339,7 @@ layout: page
         - Peek and Pop in iOS 9 [Link](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
         - Weigh your fruit with 3D Touch [Link](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
 - Links
+    - Mixpanel iOS and iPhone trends [Link](https://mixpanel.com/trends/#report/iphone_models)
     - Cocoa at Tumblr [Link](http://cocoa.tumblr.com/)
     - :fire: Awesome iOS [Link](https://github.com/vsouza/awesome-ios)
     - The iOS Times Curated Review of the latest leading Github Projects [Link](http://theiostimes.com/)
@@ -372,6 +387,8 @@ layout: page
     - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
     - Network Testing in Swift [Link](https://realm.io/news/soffes-swift-network-testing-dvr/)
 - Posts
+    - Swift Unit Testing Resources [Link](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
+    - Unit Testing in Swift 2 [Link](http://masteringswift.blogspot.com/2015/07/swift-2-and-unit-testing.html)
     - Painless automated builds with Fastlane and BuildKite [Link](Painless Automated iOS Builds with fastlane and Buildkite)
     - Functional iOS Unit Testing [Link](http://www.ebaytechblog.com/2015/04/15/functional-ios-testing-in-swift/)
     - More functional testing [Link](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
@@ -387,6 +404,7 @@ layout: page
     - Automating iOS Testing and Screenshots [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
     - You need 180 ScreenShots if you want to change the UI in a significant way [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
     - How testing has improved in Swift 2 [Link](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
+    - TDD with FBSnapShotTestCase [Link](http://devmonologue.com/ios/category/test-driven-development/)
 - Tutorials
     - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
 - Slides
@@ -407,6 +425,7 @@ layout: page
     - WatchOS 2 Sampler [Link](https://github.com/shu223/watchOS-2-Sampler)
     - :fire: :raised_hands: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
     - :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
+    - Gone in tvOS [Link](https://gist.github.com/erica/d9b36c57500a6832ef7b)
 - Presentations
     - tvOS
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
@@ -658,12 +677,13 @@ layout: page
 
 #**Python Posts**
 - Links
+    - Easy Python [Link](http://easy-python.readthedocs.org/en/latest/#contribute)
     - The Hitchiker's Guide to Python [Link](https://github.com/kennethreitz/python-guide)
     - Why Python? :raised_hands: [Link](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
     - :fire: :raised_hands: Awesome Python [Link](https://github.com/vinta/awesome-python)
     - :fire: Awesome Python Learning [Link](https://github.com/CodementorIO/Python-Learning-Resources)
     - What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index)
-    - 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problem_32:_Calculate_the_Greatest_Common_Divisor_.28GCD.29_using_Euclid.27s_algorithm)
+    - 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions)
     - Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
     - Python 3 Patterns Online Book [Link](Python 3 Patterns, Recipes and Idioms)
     - IPython and Libraries [Link](https://github.com/ipython/ipython)
@@ -677,6 +697,7 @@ layout: page
     - PyPi: The Python Package Index [Link](https://pypi.python.org/pypi)
     - Python Code Style Guide [Link](https://www.python.org/dev/peps/pep-0008/)
     - Functors, Applicatives, and Monads in Python [Link](https://github.com/dbrattli/OSlash/wiki/Functors,-Applicatives,-And-Monads-In-Pictures)
+    - Full Stack Python [Link](http://www.fullstackpython.com/table-of-contents.html)
 - Posts
     - Concurrency and Multithreading in Python [Link](https://www.quora.com/How-do-I-do-multithreading-in-Python)
     - Abstract Classes vs Interfaces in Python [Link](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
@@ -700,9 +721,14 @@ layout: page
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 - Books
+    - Intermediate Python [Link](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [Link](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
     - Python Machine Learning Book [Link](https://github.com/rasbt/python-machine-learning-book) 
     - Python for Signal Processing [Link](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+    - Problem Solving with Algorithms and Data Structures using Python [Link](http://interactivepython.org/runestone/static/pythonds/index.html)
+    - All Python Books [Link](http://importpython.com/books/)
+    - Full Stack Python Guide to Deployments [Link](http://www.deploypython.com/)
+    - Python for Scientists [Link](http://nbviewer.ipython.org/gist/rpmuller/5920182)
 - Github
     - IPython Interactive Computing [Link](http://ipython.org/)
     - Jupyter [Link](https://try.jupyter.org/)
@@ -717,6 +743,8 @@ layout: page
     - Top 25 Python Interview Questions [Link]()
     - 50 Python QA [Link](http://www.careerride.com/python-interview-questions.aspx)
     - Toptal Questions [Link](http://www.toptal.com/python/interview-questions)
+    - Project Euler [Link](http://www.s-anand.net/euler.html) [Link2](http://www.toddsifleet.com/projects/euler) [Link3](https://zach.se/project-euler-solutions/) [Link4](http://www.nayuki.io/page/project-euler-solutions)
+
 
 
 #**Ruby, Ruby on Rails, Jekyll, and Middleman Posts**
@@ -841,6 +869,7 @@ layout: page
 - Learning
     - Exploring Pattern Matching in Elixir [Link](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
     - More Pattern Matching [Link](http://eftimov.net/pattern-matching-elixir/)
+    - Understaning Elixir Macros in Pictures [Link](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
     - Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
     - The best resources for Learning Elixir [Link](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
     - Elixir Experience [Link](http://elixirexperience.com/)
@@ -867,6 +896,7 @@ layout: page
     - Comparing Interfaces in Swift and Elixir [Link](Comparing protocols and extensions in Swift and Elixir)
 - Community News
     - ElixirStream.com [Link](http://elixirstream.com/)
+    - ElixirStatus.com [Link](http://elixirstatus.com/)
 - Posts
     - Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
     - Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
@@ -879,6 +909,9 @@ layout: page
     - OTP: A Functional Approach [Link](https://viget.com/extend/otp-ocaml-haskell-elixir)
     - The Erlangist: Understanding Elixir Macros Part 1 [Link](http://www.theerlangelist.com/article/macros_1), Part 2 [Link](http://www.theerlangelist.com/article/macros_2), Part 3 [Link](http://www.theerlangelist.com/article/macros_3), Part 4 [Link](http://www.theerlangelist.com/article/macros_4), Part 5 [Link](http://www.theerlangelist.com/article/macros_5), Part 6 [Link](http://www.theerlangelist.com/article/macros_6)
     - Better pipelines with Mondadex [Link](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
+    - Designing OTP Applications in Elixir [Link](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
+    - Expressing Intent Via Pattern Matching [Link](http://eftimov.net/pattern-matching-intent/)
+    - Understanding Elixir Macros [Link](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
@@ -915,8 +948,8 @@ layout: page
     - Hakyll Static Site [Link](https://github.com/jaspervdj/hakyll)
     - :fire: :raised_hands: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
     - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
-    - Haskell [IDE](https://github.com/leksah/leksah)
-    - FPComplete: an Amazing Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
+    - Haskell IDE [Link](https://github.com/leksah/leksah)
+    - FPComplete: a Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
     - A Gentle introduction to Haskell [Link](https://www.cs.auckland.ac.nz/references/haskell/haskell-intro-html/intro.html)
     - FRP with Haskell [Link](https://wiki.haskell.org/FRP#Books)
     - Haskell Reddit Page [Link](https://www.reddit.com/r/haskell/)
@@ -924,8 +957,11 @@ layout: page
     - Data Structures and I/O Libraries [Link](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [Link](http://www.stephendiehl.com/posts/poll.html)
 - Reference
+    - :raised_hands: Hoggle Haskell API Search Engine [Link](https://www.haskell.org/hoogle/)
     - :raised_hands: How to read Haskell [Link](https://wiki.haskell.org/How_to_read_Haskell)
+    - Reference Card Haskell Wiki [Link](https://wiki.haskell.org/Reference_card)
     - List of all the Haskell Keywords [Link](https://wiki.haskell.org/Keywords)
+    - Haskell Operators and other Lexical Notation [Link](http://www.imada.sdu.dk/~rolf/Edu/DM509/E06/haskell-operatorer.pdf)
     - Haskell Documentation [Link](https://wiki.haskell.org/Monad)
     - Getting Started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
     - :raised_hands: Haskell Language Cheat Sheet [Link](http://cheatsheet.codeslower.com/CheatSheet.pdf)
@@ -936,6 +972,7 @@ layout: page
     - Haskell Style Guide [Link](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
     - Haskell's Future [Link](https://wiki.haskell.org/Future_of_Haskell)
 - Books
+    - Purely Functional Data Structures [Link](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
     - Haskell Wikibook [Link](https://en.wikibooks.org/wiki/Haskell)
     - Learn Haskell Fast and Hard [Link](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
@@ -950,6 +987,7 @@ layout: page
     - Haskell Implementation Reading List [Link](http://www.stephendiehl.com/posts/essential_compilers.html)
     - Haskell: The Cradt of Functional Programming [Link](http://www.haskellcraft.com/craft3e/Home.html)
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
+    - Haskell Programming [Link](http://okmij.org/ftp/Haskell/)
 - Tutorial
     - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
     - All the Haskell Tutorials [Link](https://wiki.haskell.org/Category:Tutorials)
@@ -987,6 +1025,7 @@ layout: page
         - What is a GADT? [Link](http://qr.ae/R4enLi)
         - Kind vs Type? [Link](http://qr.ae/R4evm3)
         - Performing derivations in Haskell [Link](http://qr.ae/R4Z2OS) 
+        - Functional Lenses Derivation [Link](http://www.twanvl.nl/blog/haskell/cps-functional-references)
     - Learning Haskell
         - :raised_hands: How to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
@@ -994,7 +1033,6 @@ layout: page
         - Deriving Type Signatures [Link](https://github.com/ekmett/lens/wiki/Derivation)
         - The Dining Philosophers Problem With Ron Swanson [Link](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
         - Beautiful Concurrency [Link](https://www.fpcomplete.com/school/advanced-haskell/beautiful-concurrency)
-        - Functional Lenses Derivation [Link](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - Does Haskell have Tail Recursive Optimization? [Link](http://stackoverflow.com/questions/13042353/does-haskell-have-tail-recursive-optimization/13052612#13052612)
     - Opinions
         - What is the Future of Haskell? [Link](https://www.quora.com/What-is-the-future-of-Haskell)
@@ -1016,6 +1054,10 @@ layout: page
     - Uses of Haskell
         - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry) 
+    - Algorithms, Data Structures, Design Patterns
+        - DS and A using Haskell [Link](http://okmij.org/ftp/Haskell/AlgorithmsH.html)
+        - Monoids and FingerTrees [Link](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)        
+        - How to use Design Patterns in Haskell [Link](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
     - Language Related
         - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
@@ -1272,8 +1314,11 @@ layout: page
         - Common Lisp Tips [Link](http://lisptips.com/)
         - Common Lisp Quick Reference [Link](http://clqr.boundp.org/index.html)
         - What is the "cons" operator in Lisp ? [Link](https://en.wikipedia.org/wiki/Cons)
+    - Prolog
+        - Learn Prolog via Examples [Link](http://kti.ms.mff.cuni.cz/~bartak/prolog.old/learning.html)
 - Practice 
     - 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+    - 99 Lisp Problems [Link](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 - Github Repositories and Other Helpful Links
     - OCaml
         - OCaml website [Link](https://ocaml.org/)
@@ -1386,6 +1431,7 @@ layout: page
     - Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
     - Highland.js: High level streams library [Github](https://github.com/caolan/highland)
 - Posts
+    - Node with 1 Million Concurrent Connections [Link](http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/)
     - Why would anyone ever use Bower? [Link](https://www.quora.com/Why-use-Bower-when-there-is-npm)
     - Use Node + Redis [Link](http://www.sitepoint.com/using-redis-node-js/)
 
@@ -1418,6 +1464,7 @@ layout: page
     - Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
     - Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
     - Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
+    - Writing a Blog Engine in Phoenix Series [Link](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.2n6x0a5bx)
 - Video
     - ElixirConf 2015: What's next for Phoenix? [Link](https://www.youtube.com/watch?v=IMUpYOc9z3c)
     - ElixirConf 2015: Using Phoenix with Elm [Link](https://www.youtube.com/watch?v=MgFDZx1LmOE)
@@ -1704,6 +1751,7 @@ layout: page
     - What is the best advice for an engineering internship interview at Google or Facebook? [Link](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
     - :fire: Awesome Interview Resources [Link](https://github.com/davidhampgonsalves/interview-resources)
     - :fire: Awesome Interview Guide [Link](https://github.com/schmatz/cs-interview-guide)
+    - Coding for Interviews [Link](http://codingforinterviews.com/practice)
 - Slides
     - What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
     - Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
@@ -1723,11 +1771,11 @@ layout: page
     - Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
     - Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
     - Open Data Structures Textbook [Link](http://opendatastructures.org/)
+    - Bloom Filters by Example [Link](http://billmill.org/bloomfilter-tutorial/)
 - Posts
     - How to find a solution [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
     - The Lesser Known Yet Useful Ones [Link](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
     - Top Coder Explains Data Structures [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
-    - What is Currying? [Link](https://www.quora.com/What-is-currying)
     - Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
     - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
@@ -1740,12 +1788,16 @@ layout: page
     - Binary Trees and Red Black Trees [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
     - The beauty of the Bresenham's Algorithm, visualized [Link](http://members.chello.at/~easyfilter/bresenham.html)
     - What is Tail Call Recusion / Optimization? [Link](http://stackoverflow.com/questions/310974/what-is-tail-call-optimization)
+    - Cluster Analysis [Link](https://en.wikipedia.org/wiki/Cluster_analysis)
+    - K Means Clustering [Link](https://en.wikipedia.org/wiki/K-means_clustering)
 - Functional Programming 
+    - :fire: Awesome Functional Programming [Link](https://github.com/lucasviola/awesome-functional-programming)
     - Functional Programming at Facebook [Slides](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
     - Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
     - Funtional Programming Concepts Neatly Explained [Link](https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.md) 
     - Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
     - New Purely Functional Data Structures [Link](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki/1550#1550?newreg=3044016abbd549fcbd2f4c14e8239f55)
+    - What is Currying? [Link](https://www.quora.com/What-is-currying)
 - Concurrency
     - Concurrent Programming for Scalable Web Based Architectures [Link](http://berb.github.io/diploma-thesis/community/index.html)
 - Design Patterns
@@ -1798,6 +1850,7 @@ layout: page
 #**Automata Theory and Formal Languages, Regular Expressions Posts**
 - Links
     - Course Notes: Formal Languages and Automata Theory [Link](http://www.ics.uci.edu/~goodrich/teach/cs162/notes/)
+    - RegExOne.com Interative Tutorial [Link](http://regexone.com/)
     - Regular Expressions Tutorial [Link](http://www.regular-expressions.info/tutorial.html)
 - References 
     - Regular Expression CheatSheet [Link](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
@@ -1806,6 +1859,7 @@ layout: page
     - Learn Regex the Hard Way [Link](http://regex.learncodethehardway.org/)
 - Posts
     - How are Regular Expressions Implemented? [Link](https://www.quora.com/How-are-regular-expressions-implemented)
+    - 8 RegExpressions you should know [Link](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
     - What is a Context Free Grammar? (CFG) [Link](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html)
     - What is a Turing Machine? [Link](http://www.alanturing.net/turing_archive/pages/reference%20articles/what%20is%20a%20turing%20machine.html)
     - Turing Machine vs a Pushdown Automata [Link](https://www.quora.com/Inituitively-how-much-more-powerful-is-a-Turing-machine-when-compared-to-a-pushdown-automaton)
@@ -2181,6 +2235,7 @@ layout: page
 - Links
     - :raised_hands: Jupyter [Link](http://nbviewer.ipython.org/)
     - :fire: :raised_hands: Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)
+    - UCI Center for Intelligence Datasets [Link](http://archive.ics.uci.edu/ml/index.html) 
     - NASA Public Datasets [Link](https://data.nasa.gov/)
     - :fire: Awesome JSON Libraries and Resources [Link](https://github.com/burningtree/awesome-json)
     - :fire: Awesome JSON Datasets [Link](https://github.com/jdorfman/Awesome-JSON-Datasets/tree/master)
@@ -2462,6 +2517,7 @@ layout: page
     - Fourier Transforms
         - An easy to discribe FFTs [Link](https://www.quora.com/What-is-an-intuitive-way-of-explaining-how-the-Fourier-transform-works)
     - Category Theory, Lambda Calculus
+        - Homotopy Type Theory [Link](http://homotopytypetheory.org/)
         - Lambda Calculus with Aligators [Link](http://worrydream.com/AlligatorEggs/)
         - Why do we NEED Monads? [Link](http://stackoverflow.com/questions/28139259/why-do-we-need-monads)
         - What was the Curry Howard Isomorphism? [Link](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
