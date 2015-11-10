@@ -5,6 +5,7 @@ layout: page
 
 - :raised_hands: indicates a _must see_
 - :fire: indicates an _Awesome list_
+- :book: indicates a book
 
 
 #**Index**
@@ -81,6 +82,7 @@ layout: page
     - A Better way to learn Swift [Link](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - Try Swift in the Browser [Link](http://www.runswiftlang.com/learn)
 - Quick References 
+    - :raised_hands: That Thing In Swift [Link](https://thatthinginswift.com/)
     - SwiftDoc [Link](http://swiftdoc.org/)
     - iOS Cookies [Link](http://www.ioscookies.com/)
     - FRP iOS Learning Resources [Link](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
@@ -140,6 +142,7 @@ layout: page
     - Hidden Gems in Swift [Presentation](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
     - Library Oriented Programming [Presentation](https://www.youtube.com/watch?v=lqNUTW0F4bw&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - * Oriented Programming [Presentation](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
+    - FRP in Swift 2.0 [Presentation](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
 - WWDC Presentations
     + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
@@ -151,7 +154,7 @@ layout: page
     + Continuous Integration made Easy in Xcode 7 [Link](https://developer.apple.com/videos/wwdc/2015/?id=410)
     + What's new in Xcode [Link](https://developer.apple.com/videos/wwdc/2015/?id=104)
     + Swift in Practice [Link](https://developer.apple.com/videos/wwdc/2015/?id=411)
-- Video
+- Other Video
     - Swift Language Youtube Channel [Link](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
     - Free Swift Lang Course [YouTube](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
     - Functional Swift [Link](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
@@ -179,15 +182,22 @@ layout: page
     + Singly Linked List [Link](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
     + Observer Pattern in Swift [Link](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
     + Make a DSL in Swift [Link](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
+    + Simplfied Login with Swift Enums [Link](https://realm.io/news/david-east-simplifying-login-swift-enums/)
+    + Segues > Delegation [Link](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
+    + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html)
 - More Posts
     + Application Structure
         + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
     + Opinions
+        + Wishlist for Swift 3.0 [Link](https://realm.io/news/swift-3-wishlist/)
         + What are the Worst parts of Swift? [Link](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
     + Scripting
         + Learn Swift by running Scripts [Link](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
         + Scripting in Swift is Pretty Awesome! [Link](http://krakendev.io/blog/scripting-in-swift)
+    + GCD and Concurrency
+        + Methods of concurrency — GCD, agents, tasks and invocations [Link](http://overooped.com/post/41803252527/methods-of-concurrency)
     + Functional 
+        + Monads & C# Tasks in Swift [Link](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
         + Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
         + Swift is _not_ functional [Link](https://www.reddit.com/r/swift/comments/281jqe/rob_napier_swift_is_not_functional/)
         + Functional Paradigms in Swift [Link](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
@@ -200,6 +210,9 @@ layout: page
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
         + LeetCode [Link](https://github.com/diwu/LeetCode-Solutions-in-Swift)
+        + Coding Questions [Link](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
+        + iOS Dev interview questions [Link](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
+        + Macroscopic iOS interview questions [Link](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
     + Web Services and Networking
         + Calling APIs and Parsing JSON with Swift [Link](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
         + Calling a REST Api in Swift [Link](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
@@ -231,6 +244,7 @@ layout: page
         + Sets vs Dictionaries in Swift [Link](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
     + Protocol Oriented Programming in Swift
         + Protocol Oriented MVVM [Link](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/)
+        + Functional thinking via Protocol Extensions [Link](http://kelan.io/2015/approachable-functional-thinking-using-protocol-extensions/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
         + Protocol Extensions vs Type Extensions [Link](https://gist.github.com/hsavit1/3337f80d9fe1396c44ce)
         + Swift Diagrams Playground for P.O.P. [Link](https://github.com/alskipp/Swift-Diagram-Playgrounds?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_1)
         + Gist covers whatever went on in the lecture [Link](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
@@ -387,6 +401,7 @@ layout: page
     - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
     - Network Testing in Swift [Link](https://realm.io/news/soffes-swift-network-testing-dvr/)
 - Posts
+    - Using the Leaks Instrument [Link](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [Link](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
     - Unit Testing in Swift 2 [Link](http://masteringswift.blogspot.com/2015/07/swift-2-and-unit-testing.html)
     - Painless automated builds with Fastlane and BuildKite [Link](Painless Automated iOS Builds with fastlane and Buildkite)
@@ -713,7 +728,9 @@ layout: page
     + Static/Abstract/Class methods in Python [Link](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
     + Python Language Reference Reference [Link](https://docs.python.org/3/reference/index.html#reference-index)
     + Python Standard Library Reference [Link](https://docs.python.org/3/library/index.html)
+    + Built in Python Functions [Link](https://docs.python.org/2/library/functions.html)
 - Tutorial
+    + The Python Tutorial [Link](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [Link](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
@@ -947,7 +964,8 @@ layout: page
     - FP101x Course [Link](https://github.com/fptudelft/FP101x-Content-2015)
     - Hakyll Static Site [Link](https://github.com/jaspervdj/hakyll)
     - :fire: :raised_hands: Awesome Haskell [Link](https://github.com/krispo/awesome-haskell)
-    - Learn Haskell [By Example](https://lotz84.github.io/haskellbyexample/), or by the [github guide](https://github.com/bitemyapp/learnhaskell)
+    - :raised_hands: Learn Haskell By Example [Link](https://lotz84.github.io/haskellbyexample/)
+    - :raised_hands: The ultimate github guide to learn Haskell [Link](https://github.com/bitemyapp/learnhaskell)
     - Haskell IDE [Link](https://github.com/leksah/leksah)
     - FPComplete: a Haskell in browser IDE [Link](https://www.fpcomplete.com/page/project-build)
     - A Gentle introduction to Haskell [Link](https://www.cs.auckland.ac.nz/references/haskell/haskell-intro-html/intro.html)
@@ -988,6 +1006,8 @@ layout: page
     - Haskell: The Cradt of Functional Programming [Link](http://www.haskellcraft.com/craft3e/Home.html)
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
     - Haskell Programming [Link](http://okmij.org/ftp/Haskell/)
+- Blogs 
+    - bitemyapp [Link](http://bitemyapp.com/)
 - Tutorial
     - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
     - All the Haskell Tutorials [Link](https://wiki.haskell.org/Category:Tutorials)
@@ -1138,9 +1158,12 @@ layout: page
 - Links
     - :fire: :raised_hands: Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
     - Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
+- References
+    - Elm Syntax [Link](http://elm-lang.org/docs/syntax)
+    - Reactivity [Link](http://elm-lang.org/guide/reactivity)
 - Tutorial 
     - Learn Elm by Example [Link](http://elm-by-example.org/toc.html)
-    - The Elm Architecture Tutorial [Link](https://github.com/evancz/elm-architecture-tutorial)
+    - :raised_hands: The Elm Architecture Tutorial [Link](https://github.com/evancz/elm-architecture-tutorial)
     - From Haskell to Elm [Link](https://github.com/eeue56/haskell-to-elm)
 - Slides
     - What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
@@ -1148,6 +1171,11 @@ layout: page
     - Elm walkthrough web app [Link](https://github.com/evancz/start-app)
 - Posts
     - What is the future of the Elm programming language? [Link](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)
+    - My take on Elm [Link](http://theburningmonk.com/2014/07/elm-functional-reactive-dreams-missile-command/)
+    - Elm vs F# [Link](http://theburningmonk.com/2014/07/contrasting-f-and-elms-record-types/)
+- Github
+    - Potential Elm Projects [Link](https://github.com/elm-lang/projects)
+    - TodoMVC in Elm [Link](https://github.com/evancz/elm-todomvc/)
 
 
 
@@ -1882,6 +1910,7 @@ layout: page
 
 #**General Web Development and Performance Posts**
 - Links
+    - Google Web Fundamentals Website [Link](https://developers.google.com/web/fundamentals/)
     - 50+ Web Performance Terms [Link](https://dzone.com/articles/50-web-performance-terms-a-glossary-for-understand) 
     - HTML Cheat Sheet [Link](http://www.simplehtmlguide.com/cheatsheet.php)
     - Charles HTTP Proxy [Link](http://www.charlesproxy.com)
@@ -2211,6 +2240,7 @@ layout: page
     - Homomorphic Machine Learning in Haskell [Link](https://github.com/mikeizbicki/HLearn)
     - What is CRISPR? [Link](http://www.nature.com/news/crispr-the-disruptor-1.17673)
 - Books
+    - :raised_hands: Dive into Machine Learning [Link](http://hangtwenty.github.io/dive-into-machine-learning/)
     - What are the best books for machine learning? [Link](https://www.quora.com/Which-are-the-best-books-for-machine-learning)
     - Machine Learning: A Probabilisitc Perspective [Link](http://www.cs.ubc.ca/~murphyk/MLbook/)
     - The elements of statistical learning [Link](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
@@ -2290,6 +2320,7 @@ layout: page
     - :fire: Awesome Front End Dev [Link](https://github.com/dypsilon/frontend-dev-bookmarks)
     - :fire: Awesome Photography [Link](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
     - :fire: Awesome Images [Link](https://github.com/heyalexej/awesome-images)
+    - :fire: Awesome Stock Photos [Link](https://github.com/neutraltone/awesome-stock-resources)
     - :fire: Awesome Sketch3 [Link](https://github.com/diessica/awesome-sketch)
     - :fire: Awesome Front End Development Interview Questions [Link](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
     - :fire: Awesome Web Components [Link](https://github.com/mateusortiz/webcomponents-the-right-way)
@@ -2391,6 +2422,8 @@ layout: page
     - Self Study Plan Quant Dev [Link](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
     - Understanding how to become a quant analyst [Link](https://www.quantstart.com/articles/Understanding-How-to-Become-a-Quantitative-Analyst)
     - Work in HFT [Link](https://www.quantstart.com/articles/How-to-Get-a-Job-at-a-High-Frequency-Trading-Firm)
+    - Haskell in Quantitative Finance industry [Link](https://www.fpcomplete.com/business/haskell-financial-analysis/)
+    - Haskell Integrated Analysis Platform [Link](https://www.fpcomplete.com/business/iap-faq/#whatisIAP)
 - Posts
     - What it takes to be a billionaire [Link](https://www.quora.com/What-are-good-ways-to-prepare-my-kids-to-become-billionaires)
 
