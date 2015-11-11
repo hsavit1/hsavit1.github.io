@@ -47,7 +47,7 @@ layout: page
 - Microservices and Scalable Architecture
 - Project Management and DevOps Posts
 - Software Development, Continuous Integration, Delivery, and Deployment
-- Web Development and Deployment
+- General Web Development and Deployment
 - Software testing
 - Developer Environment, Operating System, and System Admin Posts
 - Security
@@ -81,6 +81,8 @@ layout: page
     - Ray Wenderlich Tutorial Pages [Link](http://www.raywenderlich.com/category/swift)
     - A Better way to learn Swift [Link](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - Try Swift in the Browser [Link](http://www.runswiftlang.com/learn)
+    - MetalByExample.com [Link](http://metalbyexample.com)
+    - RAC Marbles [Link](http://neilpa.me/rac-marbles/)
 - Quick References 
     - :raised_hands: That Thing In Swift [Link](https://thatthinginswift.com/)
     - SwiftDoc [Link](http://swiftdoc.org/)
@@ -92,6 +94,8 @@ layout: page
     - Human Friendly Swift Blog [Link](http://blog.human-friendly.com/tag/swift)
     - :raised_hands: Objc.io [Link](https://www.objc.io/)
     - NSBlog with Mike Ask [Link](https://www.mikeash.com/pyblog/)
+    - Use Your Loaf [Link](http://useyourloaf.com/blog/archives/)
+    - Chris Eidhof [Link](http://chris.eidhof.nl)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [Link](http://ios-goodies.com/)
@@ -100,6 +104,7 @@ layout: page
     - SwiftLang Website [Link](http://swiftlang.eu/)
     - :fire: Awesome Swift News [Link](https://github.com/ksm/SwiftInFlux)
 - Slides
+    - All the slides from Swift Summit 2015 [Link](https://speakerdeck.com/swiftsummit) 
     - Catching up with Swift [Slides](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [Slides](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
     - Thinking Functionally Using Swift [Slides](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
@@ -120,6 +125,8 @@ layout: page
     - Lessons from Production Swift [Slides](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
     - Emerging Best Practices in Swift [Slides](https://speakerdeck.com/ashfurrow/emerging-best-practices-in-swift)
     - Swift Performance [Slides](http://blog.human-friendly.com/swift-performance-iosdevuk)
+    - The monad among us [Slides](https://speakerdeck.com/swiftsummit/al-skipp-the-monad-among-us)
+    - { JSON, Swift, and Type Safety } [Slides](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
 - Presentations
     - Emerging best practices in Swift [Link](https://www.youtube.com/watch?index=40&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59&v=YsUTuwpbURA)
     - Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
@@ -143,6 +150,7 @@ layout: page
     - Library Oriented Programming [Presentation](https://www.youtube.com/watch?v=lqNUTW0F4bw&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - * Oriented Programming [Presentation](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - FRP in Swift 2.0 [Presentation](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
+    - Metal and Swift [Presenetation](https://realm.io/news/swift-summit-simon-gladman-metal/)
 - WWDC Presentations
     + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
@@ -184,7 +192,7 @@ layout: page
     + Make a DSL in Swift [Link](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
     + Simplfied Login with Swift Enums [Link](https://realm.io/news/david-east-simplifying-login-swift-enums/)
     + Segues > Delegation [Link](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
-    + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html)
+    + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html) 
 - More Posts
     + Application Structure
         + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
@@ -206,6 +214,7 @@ layout: page
         + Using Local Closures with Swift [Link](http://www.thomashanning.com/swift-using-local-closures/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
         + Function Params are Tuples in Swift [Link](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
         + weak vs unowned [Link](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
+        + Lenses in Swift [Link](http://chris.eidhof.nl/posts/lenses-in-swift.html)
     + Interview Situations
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
@@ -399,7 +408,8 @@ layout: page
     - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
     - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
     - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
-    - Network Testing in Swift [Link](https://realm.io/news/soffes-swift-network-testing-dvr/)
+    - Network Testing in Swift [Presentation](https://realm.io/news/soffes-swift-network-testing-dvr/)
+    - Testing View Controllers with Quick [Presentation](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
 - Posts
     - Using the Leaks Instrument [Link](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [Link](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
@@ -429,6 +439,7 @@ layout: page
     - iOS Snapshot Test Cases [Link](https://github.com/facebook/ios-snapshot-test-case)
     - Quick Testing Framework [Github](https://github.com/Quick/Quick)
     - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
+    - Swift Lint [Link](https://github.com/realm/SwiftLint)
 - Video 
     - Swift Unit Testing Course [Link](http://code.tutsplus.com/courses/unit-testing-with-swift-and-xctest)
 
@@ -441,13 +452,19 @@ layout: page
     - :fire: :raised_hands: Awesome WatchOS [Link](https://github.com/yenchenlin1994/awesome-watchos)
     - :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
     - Gone in tvOS [Link](https://gist.github.com/erica/d9b36c57500a6832ef7b)
+    - :fire: Awesome tvOS [Link](https://github.com/mbcrump/awesome-tvos/blob/master/README.md)
 - Presentations
     - tvOS
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
         - Apple TV: A world without WebOS [Link](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.rdk3bnrqc)
         - Interacting with the new AppleTV Remote [Link](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
         - 200 mb app sizes: Is tvOS the future of apps? [Link](https://realm.io/news/is-tvos-the-future-of-apps/)
-
+- Slides
+    - watchOS
+        - How to Build a Compelling Watch App [Link](http://www.kristinathai.com/wp-content/uploads/2014/09/Compelling-Watch-App.pdf)
+- Github
+    - The Emergence Artsy tvOS Project [Link](https://github.com/artsy/Emergence/)
+    - Code Reviewing Emergence [Link](http://artsy.github.io/blog/2015/11/05/Emergence-Code-Review/)
 
 
 #**Java Posts**
@@ -713,6 +730,8 @@ layout: page
     - Python Code Style Guide [Link](https://www.python.org/dev/peps/pep-0008/)
     - Functors, Applicatives, and Monads in Python [Link](https://github.com/dbrattli/OSlash/wiki/Functors,-Applicatives,-And-Monads-In-Pictures)
     - Full Stack Python [Link](http://www.fullstackpython.com/table-of-contents.html)
+    - PC: Python Central [Link](http://pythoncentral.io/)
+    - Python 2to3 tool [Link](https://docs.python.org/2/library/2to3.html)
 - Posts
     - Concurrency and Multithreading in Python [Link](https://www.quora.com/How-do-I-do-multithreading-in-Python)
     - Abstract Classes vs Interfaces in Python [Link](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
@@ -729,6 +748,7 @@ layout: page
     + Python Language Reference Reference [Link](https://docs.python.org/3/reference/index.html#reference-index)
     + Python Standard Library Reference [Link](https://docs.python.org/3/library/index.html)
     + Built in Python Functions [Link](https://docs.python.org/2/library/functions.html)
+    + The Python Standard Library [Link](https://docs.python.org/2/library/index.html)
 - Tutorial
     + The Python Tutorial [Link](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
@@ -951,11 +971,12 @@ layout: page
 
 
 
-#**Haskell Posts**
+#**Haskell and Purescript Posts**
 - Links
     - School of Haskell [Link](https://www.fpcomplete.com/school)
     - Haskell Wiki [Link](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [Link](https://gist.github.com/leroux/6395804)
+    - :fire: Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
     - :raised_hands: What I wish I knew when learning Haskell [Link](http://dev.stephendiehl.com/hask/)
     - Stephen Diehl's Blog [Link](http://www.stephendiehl.com/posts.html)
     - Official Haskell Tutorials [Link](https://wiki.haskell.org/Tutorials)
@@ -989,6 +1010,8 @@ layout: page
     - An Overview of Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Overview)
     - Haskell Style Guide [Link](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
     - Haskell's Future [Link](https://wiki.haskell.org/Future_of_Haskell)
+    - How to Desugar Haskell Code [Link](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
+    - :raised_hands: Typeclassopedia [Link](https://wiki.haskell.org/Typeclassopedia)
 - Books
     - Purely Functional Data Structures [Link](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
@@ -1006,9 +1029,12 @@ layout: page
     - Haskell: The Cradt of Functional Programming [Link](http://www.haskellcraft.com/craft3e/Home.html)
     - A Haskell Reading List [Link](http://conal.net/papers/icfp97/icfp97.pdf)
     - Haskell Programming [Link](http://okmij.org/ftp/Haskell/)
+    - The Haskell Articles [Link](https://github.com/quchen/articles)
+    - Functional Graph Library User Guide [Link](http://web.engr.oregonstate.edu/~erwig/fgl/haskell/old/fgl0103.pdf)
 - Blogs 
     - bitemyapp [Link](http://bitemyapp.com/)
 - Tutorial
+    - Monad Tutorials Timeline [Link](https://wiki.haskell.org/Monad_tutorials_timeline)
     - Basics of Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
     - All the Haskell Tutorials [Link](https://wiki.haskell.org/Category:Tutorials)
     - 99Haskell.org [Link](http://www.99haskell.org/)
@@ -1033,6 +1059,7 @@ layout: page
         - Make a concurrent web scraper with Haskell [Link](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
         - Working with HTML in Haskell [Link](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates) 
     - Functional Programming and Category Theory
+        - Explanation of Category Theory in Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Category_theory)
         - Monads made difficult [Link](http://www.stephendiehl.com/posts/monads.html)
         - You could have invented Monads! [Link](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
         - What is the Reader Monad? [Link](http://www.maztravel.com/haskell/readerMonad.html)
@@ -1072,13 +1099,13 @@ layout: page
         - How good is Haskell at scripting? [Link](http://qr.ae/R4eYSa)
         - Differences between Haskell and Racket [Link](https://www.quora.com/What-are-the-relative-strengths-and-weaknesses-of-Racket-and-Haskell)
     - Uses of Haskell
-        - Difficult Problems that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
+        - Difficult Problems in Python that Haskell Makes Easy [Link](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [Link](https://wiki.haskell.org/Haskell_in_industry) 
     - Algorithms, Data Structures, Design Patterns
         - DS and A using Haskell [Link](http://okmij.org/ftp/Haskell/AlgorithmsH.html)
         - Monoids and FingerTrees [Link](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)        
         - How to use Design Patterns in Haskell [Link](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
-    - Language Related
+    - Language Syntax Related
         - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
         - Is Haskell more expressive? [Link](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
@@ -1090,6 +1117,7 @@ layout: page
     - Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
     - Haskell for Normal People [Slides](http://slides.com/benleggett/haskellpres#/)
     - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
+    - Monad Transformers [Link](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
 - Video
     - Learn Haskell From Scratch Playlist [Link](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [Link](https://vimeo.com/channels/haskell)
@@ -1325,7 +1353,6 @@ layout: page
 - Links
     - :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
     - :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
-    - :fire: Awesome Purescript [Link](https://github.com/passy/awesome-purescript)
     - :fire: Awesome Crystal [Link](https://github.com/veelenga/awesome-crystal)
     - :fire: Awesome Common Lisp [Link](https://github.com/CodyReichert/awesome-cl)
     - :fire: Awesome OCaml [Link](https://github.com/rizo/awesome-ocaml)
@@ -1800,6 +1827,9 @@ layout: page
     - Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
     - Open Data Structures Textbook [Link](http://opendatastructures.org/)
     - Bloom Filters by Example [Link](http://billmill.org/bloomfilter-tutorial/)
+- Tutorial
+    - Parallel Programming Algorithms Tutorial [Link](http://www.tutorialspoint.com/parallel_algorithm/index.htm)
+    - Software Architecture and Design Tutorial [Link](http://www.tutorialspoint.com/software_architecture_design/index.htm)
 - Posts
     - How to find a solution [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
     - The Lesser Known Yet Useful Ones [Link](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
@@ -1885,6 +1915,8 @@ layout: page
 - Books
     - Pearson Book List [Link](http://www.pearsonhighered.com/educator/course/Automata-Theory-of-Computation/91015444.page)
     - Learn Regex the Hard Way [Link](http://regex.learncodethehardway.org/)
+- Tutorial
+    - Automata Theory Tutorial [Link](http://www.tutorialspoint.com/automata_theory/index.htm)
 - Posts
     - How are Regular Expressions Implemented? [Link](https://www.quora.com/How-are-regular-expressions-implemented)
     - 8 RegExpressions you should know [Link](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -1962,7 +1994,7 @@ layout: page
 
 
 
-#**Networking, IP, Routing, Servers, and Backend Development Posts**
+#**Networking, HTTP, IP, Routing, Servers, and Backend Development Posts**
 - Links
     - :fire: :raised_hands: Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
     - :fire: Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)
@@ -1990,7 +2022,9 @@ layout: page
     - HTTP Stats Codes Diagram [Link](http://i.stack.imgur.com/whhD1.png)
     - HTTP Status Code Descriptions [Link](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 - References
+    - HTTP Tutorial [Link](http://www.tutorialspoint.com/http/index.htm)
     - DZone HTTP [Link](https://dzone.com/storage/assets/4158-rc172-010d-http_0.pdf) 
+    - Data Communication and Computer Networking Tutorial [Link](http://www.tutorialspoint.com/data_communication_computer_network/index.htm)
 - Slides
     - HTTP 2.0 [Slides](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
     - Websockets for Absolute Beginners [Slides](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -2009,6 +2043,7 @@ layout: page
     - What is Heroku? [Link](http://stackoverflow.com/questions/11008787/what-exactly-is-heroku)
     - What is BSON? [Link](http://bsonspec.org/)
     - Explain how the Internet works [Link](https://www.quora.com/How-does-the-Internet-work)
+    - Route internet traffic through a tor docker container [Link](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
 - Github
     - Mongoose Web Server [Link](https://github.com/cesanta/mongoose)
     - HTTP Server [Github](https://github.com/indexzero/http-server)
@@ -2031,6 +2066,7 @@ layout: page
     - :raised_hands: The Linux Information Project [Link](http://www.linfo.org/)
     - :fire: Awesome Linux [Link](https://github.com/aleksandar-todorovic/awesome-linux)
     - :fire: Awesome Linux Resources [Link](https://github.com/itech001/awesome-linux-resources)
+    - fu*kingclangwarnings.com [Link](http://fuckingclangwarnings.com/)
 - Posts
     - Quora Page on Compilers [Link](https://www.quora.com/Compilers) 
     - Difference between Kernel Threads and User Threads? [Link](https://www.quora.com/What-do-the-kernel-thread-and-user-thread-actually-do-Why-mapping-is-done-Is-the-user-thread-mapped-to-the-kernel-thread-only-if-they-require-O-S-service)
@@ -2195,6 +2231,8 @@ layout: page
     - :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
     - :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
     - :fire: Awesome Documentation [Link](https://github.com/PharkMillups/beautiful-docs)
+- Tutorial
+    - Agile Methodology Tutorial [Link](http://www.tutorialspoint.com/agile/index.htm)
 - Slides
     - The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
 - References
@@ -2285,6 +2323,8 @@ layout: page
     - Data Mining Quora Page [Link](https://www.quora.com/topic/Data-Mining)
     - Data Mining at Dell [Link](http://www.statsoft.com/textbook/data-mining-techniques)
     - Data Mining information Page [Link](http://www.laits.utexas.edu/~anorman/BUS.FOR/course.mat/Alex/)
+- Tutorial 
+    - Data Mining Tutorial [Link](http://www.tutorialspoint.com/data_mining/index.htm)
 - Posts
     - Top 10 Data Mining Algorithms in plain English [Link](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
     - How do data scientists use statistics? [Link](https://www.quora.com/How-do-data-scientists-use-statistics)
@@ -2578,6 +2618,7 @@ layout: page
     - Graph Theory
         - What is Graph Theory? [Link](https://www.quora.com/What-is-graph-theory)
         - What are the applications of Graph Theory? [Link](https://www.quora.com/What-are-the-applications-of-graph-theory)
+        - Graph Theory Tutorial [Link](http://www.tutorialspoint.com/graph_theory/index.htm)
 - Github
     - The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
     - Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
@@ -2594,6 +2635,7 @@ layout: page
     - American Eskimo Dogs [Link](http://www.akc.org/dog-breeds/american-eskimo-dog/)
     - Stanford Encyclopedia of Philosophy [Link](http://plato.stanford.edu/)
     - Brain Pickings Blog [Link](https://www.brainpickings.org/)
+    - Astronomy picture of the day [Link](http://apod.nasa.gov/apod/archivepix.html)
 - Posts
     - How does Math help with Programming? [Link](https://www.quora.com/What-are-the-advantages-of-having-a-degree-in-math-and-working-as-a-programmer), [Link2](https://www.quora.com/Are-there-disadvantages-to-having-a-degree-in-math-and-working-as-a-programmer-If-so-what-are-they)
     - How does Physics Help with Programming? [Link](https://www.quora.com/What-are-the-advantages-of-having-a-degree-in-physics-and-working-as-a-programmer) 
