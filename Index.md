@@ -271,6 +271,7 @@ layout: page
         + Swift Default Protocol Implementations [Link](http://nshipster.com/swift-default-protocol-implementations/)
         + Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
         + Minimal Swift 2.1 Protocol Coformance [Link](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
+        + Favor Mixins over inheritance [Link](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
     + Swift Initializers
         + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -453,6 +454,10 @@ layout: page
     - :fire: Awesome WatchKit [Link](https://github.com/sanketfirodiya/sample-watchkit-apps)
     - Gone in tvOS [Link](https://gist.github.com/erica/d9b36c57500a6832ef7b)
     - :fire: Awesome tvOS [Link](https://github.com/mbcrump/awesome-tvos/blob/master/README.md)
+- Posts
+    + tvOS
+        + Storing user information on tvOS [Link](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
+    + watchOS
 - Presentations
     - tvOS
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
@@ -707,7 +712,7 @@ layout: page
 
 
 
-#**Python Posts**
+#**Python and pypy Posts**
 - Links
     - Easy Python [Link](http://easy-python.readthedocs.org/en/latest/#contribute)
     - The Hitchiker's Guide to Python [Link](https://github.com/kennethreitz/python-guide)
@@ -721,7 +726,6 @@ layout: page
     - IPython and Libraries [Link](https://github.com/ipython/ipython)
     - Design Patterns In Python [Link](https://github.com/faif/python-patterns)
     - Full Stack Python Development [Link](http://www.fullstackpython.com/vim.html)
-    - Django [Link](https://www.djangoproject.com/)
     - Python for stupid people [Link](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md#environments-and-environment-management)
     - Curated Scientific Python posts [Link](https://github.com/svaksha/pythonidae)
     - Python Tips [Link](https://github.com/rasbt/python_reference)
@@ -739,6 +743,7 @@ layout: page
     - Python Properties vs Atrributes [Link](http://stackoverflow.com/questions/7374748/whats-the-difference-between-a-python-property-and-attribute)
     - What's new in Python 3? [Link](https://docs.python.org/3/whatsnew/3.0.html)
     - In what ways does Python beat Java? [Link](https://www.quora.com/What-are-the-most-practical-beneficials-for-Python-comparing-to-Java) 
+    - Python vs Ruby [Link](https://ochronus.com/a-rubyists-confessions-on-python/)
 - References
     + Python Cheat Sheet [Link](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [Link](https://docs.python.org/3.3/using/cmdline.html)
@@ -749,12 +754,14 @@ layout: page
     + Python Standard Library Reference [Link](https://docs.python.org/3/library/index.html)
     + Built in Python Functions [Link](https://docs.python.org/2/library/functions.html)
     + The Python Standard Library [Link](https://docs.python.org/2/library/index.html)
+    + What is pypy? [Link](http://doc.pypy.org/en/latest/introduction.html)
 - Tutorial
     + The Python Tutorial [Link](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [Link](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
 - Slides
+    - 10 Awesome Features of Python 3.# [Link](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
 - Books
@@ -781,6 +788,28 @@ layout: page
     - 50 Python QA [Link](http://www.careerride.com/python-interview-questions.aspx)
     - Toptal Questions [Link](http://www.toptal.com/python/interview-questions)
     - Project Euler [Link](http://www.s-anand.net/euler.html) [Link2](http://www.toddsifleet.com/projects/euler) [Link3](https://zach.se/project-euler-solutions/) [Link4](http://www.nayuki.io/page/project-euler-solutions)
+
+
+
+#**Django, Flask, and other Python Web Frameworks**
+- Links
+    + :fire: Awesome Django [Link](http://awesome-django.com/)
+    + :fire: Awesome Flask [Link](https://github.com/humiaozuzu/awesome-flask)
+    - Full Stack Django [Link](http://www.fullstackpython.com/django.html)
+    + Full Stack Flask [Link](http://www.fullstackpython.com/flask.html)
+    + Effective Django [Link](http://www.effectivedjango.com/)
++ Posts
+    + Flash or Django? [Link](https://www.quora.com/Should-I-learn-Flask-or-Django)
++ Tutorial
+    + The Flaskr Tutorial [Link](http://flask.pocoo.org/docs/0.10/tutorial/)
+    + Official Django Tutorial [Link](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
+- References
+    - Flask Documentation [Link](http://flask.pocoo.org/docs/0.10/quickstart/)
+- Github
+    + Django Repository [Link](https://github.com/django/django)
+    + Django Angular [Link](https://github.com/jrief/django-angular/)
+    + Tornado Repository [Link](https://github.com/tornadoweb/tornado)
+    + Flask Repository [Link](https://github.com/mitsuhiko/flask)
 
 
 
@@ -995,6 +1024,7 @@ layout: page
     - Cabal Sandboxes [Link](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
     - Data Structures and I/O Libraries [Link](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [Link](http://www.stephendiehl.com/posts/poll.html)
+    - Human Haskell [Link](http://ohaskell.dshevchenko.biz/en/index.html)
 - Reference
     - :raised_hands: Hoggle Haskell API Search Engine [Link](https://www.haskell.org/hoogle/)
     - :raised_hands: How to read Haskell [Link](https://wiki.haskell.org/How_to_read_Haskell)
@@ -1186,6 +1216,7 @@ layout: page
 - Links
     - :fire: :raised_hands: Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
     - Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)
+    - Elm's Time Travel Debugger [Link](http://debug.elm-lang.org/)
 - References
     - Elm Syntax [Link](http://elm-lang.org/docs/syntax)
     - Reactivity [Link](http://elm-lang.org/guide/reactivity)
@@ -1638,6 +1669,13 @@ layout: page
         - Meteor-Up: Production Quality Meteor Deployments [Github](https://github.com/arunoda/meteor-up/tree/mupx#)
         - File uploads in Meteor [Github](https://github.com/CulturalMe/meteor-slingshot)
 
+
+#**Aurelia**
+- Links
+- Posts
+    - Aurelia or React? [Link](http://ilikekillnerds.com/2015/03/aurelia-vs-react-js-based-on-actual-use/)
+- Github
+    - Aurelia 
 
 
 #**ReactJS, Redux, Flux Posts**
@@ -2464,9 +2502,11 @@ layout: page
     - Work in HFT [Link](https://www.quantstart.com/articles/How-to-Get-a-Job-at-a-High-Frequency-Trading-Firm)
     - Haskell in Quantitative Finance industry [Link](https://www.fpcomplete.com/business/haskell-financial-analysis/)
     - Haskell Integrated Analysis Platform [Link](https://www.fpcomplete.com/business/iap-faq/#whatisIAP)
+    - Quantitative Economic Modeling in Python and Julia [Link](http://quant-econ.net/index.html)
 - Posts
     - What it takes to be a billionaire [Link](https://www.quora.com/What-are-good-ways-to-prepare-my-kids-to-become-billionaires)
-
+- Github
+    + QuantEcon.py [Link](https://github.com/QuantEcon/QuantEcon.py)
 
 
 #**Quantum Computing Posts**
@@ -2559,6 +2599,7 @@ layout: page
     - Lisa Randall explains "The Universe Today" [Link](https://www.youtube.com/watch?v=TCbH6MdNbrk) 
 - Derivations
     - Derive the Hisenberg Uncertainty Principle [Link](https://www.quora.com/Physics/How-did-Heisenberg-derive-his-Uncertainty-Principle-Please-supply-the-mathematical-derivation)
+    - Pi is derived from Quantum Mechanics! [Link](http://www.forbes.com/sites/kevinknudson/2015/11/10/everything-you-ever-wanted-to-know-about-pi-part-2-a-new-proof-of-the-wallis-formula-via-physics/)
 
 
 
