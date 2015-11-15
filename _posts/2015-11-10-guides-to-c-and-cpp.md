@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to C and C++""
+title:  "Guide to C and C++"
 date:   2015-11-10 17:20:15
 comments: true
 ---
