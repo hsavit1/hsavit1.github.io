@@ -44,6 +44,8 @@ comments: true
     - Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
     - New Purely Functional Data Structures [Link](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki/1550#1550?newreg=3044016abbd549fcbd2f4c14e8239f55)
     - What is Currying? [Link](https://www.quora.com/What-is-currying)
+    - Domain modeling in a functional world [Link](http://www.slideshare.net/debasishg/qconny-12)
+    - Functional Programming Patterns [Link](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
 - Concurrency
     - Concurrent Programming for Scalable Web Based Architectures [Link](http://berb.github.io/diploma-thesis/community/index.html)
 - Design Patterns
