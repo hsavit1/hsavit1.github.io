@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "Guide to Computer Science"
+date:   2015-11-10 17:20:15
+comments: true
+---
+
+#**Everything Computer Science Posts**
+- Links
+    - What's trending on Github [Link](https://www.coolgithubprojects.com/)
+    - :fire: Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)
+    - :fire: Awesome Programming Posts [Link](https://github.com/hellerve/programming-talks)
+    - :fire: :raised_hands: Awesome Answers to Programming Questions [Link](https://github.com/jugoncalves/awesome-answers)
+    - :fire: Awesome Interview Questions [Link](https://github.com/ChiperSoft/InterviewThis)
+    - :fire: Awesome Project Boilerplate Code and Templates [Link](https://github.com/melvin0008/awesome-projects-boilerplates)
+    - :fire: Awesome Language Processing [Link](https://github.com/edobashira/speech-language-processing)
+    - :fire: Awesome Linguistics [Link](https://github.com/theimpossibleastronaut/awesome-linguistics)
+    - :fire: Awesome Computer Vision [Link](https://github.com/jbhuang0604/awesome-computer-vision)
+    - :raised_hands: The Most Important Papers in CS [Link](https://github.com/papers-we-love/papers-we-love)
+    - The ThoughtBot Guides [Link](https://github.com/thoughtbot/guides)
+    - :raised_hands: Programming Best Practices [Link](https://github.com/timoxley/best-practices)
+    - :fire: Awesome Gists [Link](https://github.com/vsouza/awesome-gists)
+    - :fire: Awesome Open Source Computer Science University Courses [Link](https://github.com/open-source-society/computer-science-and-engineering) 
+    - Posts
+    - Java vs C++ vs Python [Link](http://punchplace.blogspot.com/2012/06/c-vs-java-vs-python.html)
+    - Monads are just Burritos [Link](http://khanlou.com/2015/09/what-the-heck-is-a-monad/)
+    - The introduction to Reactive Programming that you've been missing [Link](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+    - The Principle of Least Power [Link](http://blog.codinghorror.com/the-principle-of-least-power/)
+    - Architectural and philosophical points from Tim Berners Lee [Link](http://www.w3.org/DesignIssues/)
+    - Is Structure and Interpretation of Computer Programs worth reading? [Link](https://www.quora.com/Is-Structure-and-Interpretation-of-Computer-Programs-SICP-worth-reading)
+- Posts 
+    - What does it mean for something to be computable? [Link](https://www.quora.com/What-does-it-mean-for-something-to-be-computable)
+    - What is the Church Turing thesis? [Link](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
+    - What is Metaprogramming? [Link](https://www.quora.com/What-is-metaprogramming)
+    - What is Lisp? [Link](https://www.quora.com/What-is-Lisp-language)
+    - What makes a terrible software engineer? [Link](https://www.quora.com/What-are-the-characteristics-of-a-bad-software-engineer)
+    - Shouuld I learn Scheme for Functional Programming? [Link](https://www.quora.com/Is-Scheme-worth-learning)
+    - Is Structure and Interpretation of Computer Programs worth reading? [Link](https://www.quora.com/Is-Structure-and-Interpretation-of-Computer-Programs-SICP-worth-reading)
+    - What are the top five books every computer programmer should study at least once? [Link](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once/answer/Tikhon-Jelvis)
+- Interviews
+    - What is the worst part of working at Google? [Link](https://www.quora.com/What-is-the-worst-part-about-working-at-Google)
+    - How to Work at Facebook or Google in only 6 months [Link](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Jimmy-Saade?srid=TAJ1&share=1)
+    - Computer Science Interview Guide [Link](https://github.com/schmatz/cs-interview-guide)
+    - Interview [Link](https://github.com/andreis/interview)
+    - Work at Google without a College Degree [Link](https://medium.com/this-happened-to-me/four-steps-to-google-without-a-degree-8f381aa6bd5e)
+    - Get that job at Facebook [Link](https://www.facebook.com/notes/10150964382448920)
+    - What is the best advice for an engineering internship interview at Google or Facebook? [Link](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
+    - :fire: Awesome Interview Resources [Link](https://github.com/davidhampgonsalves/interview-resources)
+    - :fire: Awesome Interview Guide [Link](https://github.com/schmatz/cs-interview-guide)
+    - Coding for Interviews [Link](http://codingforinterviews.com/practice)
+- Slides
+    - What is Functional Programming [Link](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
+    - Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
+    - What is Linear Programming? [Slides](http://slides.com/denaeanderson/mathematics#/)
+- Videos
+    - :fire: Awesome Computer Talks [Link](https://github.com/JanVanRyswyck/awesome-talks)
+    - How to stay relevant as a programmer [Link](https://www.youtube.com/watch?v=ZZUY37RQS-k)

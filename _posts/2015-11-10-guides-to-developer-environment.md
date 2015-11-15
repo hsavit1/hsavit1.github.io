@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Guide to Developer Environment, Operating System, and System Admin"
+date:   2015-11-10 17:20:15
+comments: true
+---
+
+#**Developer Environment, Operating System, and System Admin Posts**
+- Links
+    - :fire: Awesome OSX Command Line [Link](https://github.com/herrbischoff/awesome-osx-command-line?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
+    - :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)
+    - :fire: Awesome Sysadmin [Link](https://github.com/kahun/awesome-sysadmin)
+    - :fire: Awesome Shell [Link](https://github.com/alebcay/awesome-shell)
+    - :fire: :raised_hands: Awesome ZSH [Link](https://github.com/unixorn/awesome-zsh-plugins)
+    - :fire: Awesome Emacs [Link](https://github.com/emacs-tw/awesome-emacs)
+    - :fire: Awesome DotFiles [Link](https://github.com/webpro/awesome-dotfiles)
+    - :fire: Awesome Codeface [Link](https://github.com/chrissimpkins/codeface)
+    - :fire: Awesome VIM [Link](https://github.com/matteocrippa/awesome-vim)
+    - :fire: Awesome Github Cheat Sheet [Link](https://github.com/tiimgreen/github-cheat-sheet#readme)
+    - :fire: Awesome Github [Link](https://github.com/phillipadsmith/awesome-github)
+    - :fire: Awesome Git Cheat Sheet [Link](https://github.com/arslanbilal/git-cheat-sheet)
+    - :fire: Awesome Git Additions [Link](https://github.com/stevemao/awesome-git-addons)
+    - :fire: Awesome Sublime Text [Link](https://github.com/dreikanter/sublime-bookmarks)
+    - ZSH CHeetSheet [Link](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
+    - iTerms [Link](https://github.com/gnachman/iTerm2)
+    - What is HTT-Pie ? [Link](https://miteshshah.github.io/sysadmin/httpie-http-for-humans/#install-httpie)
+    - VimAwesome Plugins [Link](http://vimawesome.com/)
+    - Powerline Vim [Link](https://github.com/powerline/powerline)
+    - OSX System Administration Posts [Link](https://miteshshah.github.io/sysadmin/)
+    - Nuclide [Link](https://github.com/facebook/nuclide)
+    - Sublime Text [Link](http://www.sublimetext.com/)
+    - LightTable [Link](https://github.com/LightTable/LightTable)
+    - Atom / Electron [Link](https://github.com/atom/atom)
+    - MongoHub Mac Client [Link](https://github.com/jeromelebel/MongoHub-Mac)
+    - Color Sublime: See Sublime Colors [Link](http://colorsublime.com/)
+- Posts
+    - Learn Enough Command Line to be Dangerous [Link](http://www.learnenough.com/command-line/)
+    - 5 Useful Git Tips in Pictures [Link](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
+    - How to use Vim [Link](http://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor)
+- Quick References
+    - Bash cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
+    - Advanced Bash Scripting Guide [Link](http://tldp.org/LDP/abs/html/)
+    - Bash FAQ [Link](http://mywiki.wooledge.org/BashFAQ)
+    - Linux Shell Scripting Guide [Link](http://learnbyexample.net/linux-shell-scripting/)
+    - Linux Shell Guide [Link](http://learnbyexample.net/linux-shell/)
+    - Homebrew Forumlas Index [Link](http://brewformulas.org/)
+- Books
+    - :raised_hands: How to Make a Computer Operating System [Link](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
+    - Pro Git 1st [Link](https://github.com/progit/progit)
+    - Pro Git 2nd [Link](https://github.com/progit/progit2)
+    - Learn the Command Line the Hard Way [Link](http://cli.learncodethehardway.org/book/)
+- Slides
+    - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
+    - HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
+- Github
+    - :raised_hands: The Art of the Command Line [Link](https://github.com/jlevy/the-art-of-command-line)
+    - Vundle Vim Plugin Manager [Link](https://github.com/VundleVim/Vundle.vim)
+    - Browsersync for web development testing [Github](http://www.browsersync.io/)
+    - Mac OSX Dev Setup [Link](https://github.com/donnemartin/dev-setup)
+- Video
+    - Shell Tutorials [Link](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
+    - Unix Shell Scripting Tutorial [Link](https://www.youtube.com/playlist?list=PL18DF64CBBAEAAE77)
+- Sublime Packages I Use
+    - Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
+    - Sublime Github: Useful Github Commands [Link](https://github.com/bgreenlee/sublime-github)

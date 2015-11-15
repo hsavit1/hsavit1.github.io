@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Guide to Quantum Computing"
+date:   2015-11-10 17:20:15
+comments: true
+---
+
+#**Quantum Computing Posts**
+- Links
+    - QCL: A Programming Language for Quantum Computers [Link](http://tph.tuwien.ac.at/~oemer/qcl.html)
+    - An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)
+    - Potential Quantum Computing Applications [Link](http://www.dwavesys.com/quantum-computing/applications)
+    - Check out my :fire: Awesome Quantum Computation Repo [Link](https://github.com/hsavit1/Awesome-Quantum-Computation)
+    - LibQuantum C Library [Link](http://www.libquantum.de/)
+    - Google's Quantum Computing Playground [Link](http://www.quantumplayground.net/#/playground/5191954035900416)
+    - Shor's Algorithm Test [Link](http://phys.org/news/2014-11-simon-algorithm-quantum-timefaster-standard.html)
+    - C++11 QComp Library [Link](http://vsoftco.github.io/qpp/)
+    - :raised_hands: This guy answers all of your questions about quantum computing [Link](https://www.quora.com/Allan-Steinhardt/answers/Quantum-Computation)
+    - Quantum Computation Quora Page [Link](https://www.quora.com/Quantum-Computation)
+- News
+    - Quantum Internet [Link](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
+    - Microsoft Quantum Labs [Link](http://www.techinsider.io/microsoft-hybrid-quantum-computer-2015-10)
+- Posts
+    - How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
+    - Are quantum computers Turing Machines? [Link](https://www.quora.com/Are-quantum-computers-Turing-machines)
+    - How do Quantum Fourier Transforms work? [Link](https://www.quora.com/How-does-Quantum-Fourier-Transform-work)
+    - How do you "store" quantum bits? [Link](https://www.quora.com/How-do-the-current-quantum-computers-store-quantum-bits)
+    - How would existing languages need to change to support quantum computing? [Link](https://www.quora.com/Will-programming-languages-need-to-be-rebuilt-in-the-face-of-quantum-computing-Would-it-be-worth-it)
+    - How does adiabatic quantum computation work in layman's terms? [Link](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
+    - Can a quantum computer be modled on a standard computer? [Link](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
+    - How can quantum computation revolutionize the world? [Link](https://www.quora.com/How-can-quantum-computing-change-our-society-civilization)
+    - How do you build a simple quantum computer? [Link](https://www.quora.com/How-can-I-build-a-simple-quantum-computer)
+    - How can you model a quantum computer on a standard computer? [Link](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
+- Slides
+    - Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
+    - Quantum Computing vs Security [Slides](https://speakerdeck.com/veorq/quantum-computers-vs-computers-security)
+    - Science Behind Quantum Computing [Slides](https://speakerdeck.com/psibi/science-behind-quantum-computing)
+    - Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
+    - Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
+    - P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
+- Papers
+    - Quantum Theory from 5 Simple Axioms [Link](http://arxiv.org/abs/quant-ph/0101012)
+- Education
+    - Quantum Computing Since Democritus course page [Link](http://www.scottaaronson.com/democritus/)
+    - EdX Quantum Computation Course [Link](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x)
+- Algorithms
+    - Berkley Course Quantum Algorithms Introduction [Link](https://www.cs.berkeley.edu/~vazirani/algorithms/chap10.pdf)
+    - :raised_hands: Quantum Algorithms Zoo [Link](http://math.nist.gov/quantum/zoo/)
+    - Quantum Computation: How do you explain the Deutsch-Jozsa algorithm? [Link](https://www.quora.com/Quantum-Computation/How-do-you-explain-the-Deutsch-Jozsa-algorithm)
+- Videos
+    - Quantum Computers Animated [YouTube](https://www.youtube.com/watch?v=T2DXrs0OpHU)
+    - Michio Kaku explains how you program a quantum computer [YouTube](https://www.youtube.com/watch?v=rUWfod_8JsM)
+    - Krauss explains quantum computing [YouTube](https://www.youtube.com/watch?v=UUpqnBzBMEE)
+    - A High level TED talk [YouTube](https://www.youtube.com/watch?v=cugu4iW4W54)
+    - D-Waves quantum computer [YouTube](https://www.youtube.com/watch?v=LVChjHHy1w4)

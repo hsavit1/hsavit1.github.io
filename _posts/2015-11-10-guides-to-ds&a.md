@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Guide to Data Structures, Algorithms, Functional Programming, Complexity, and Design Patterns"
+date:   2015-11-10 17:20:15
+comments: true
+---
+
+#**Data Structures, Algorithms, Functional Programming, Complexity, and Design Patterns**
+- Links
+    - :raised_hands: All the design patterns [Link](https://sourcemaking.com/design_patterns)
+    - Design Patterns Quick Reference [Link](http://viralpatel.net/blogs/download/design-pattern-scard.pdf)
+    - :fire: :raised_hands: Awesome Algorithms [Link](https://github.com/tayllan/awesome-algorithms)
+    - Algorithm Visualisation [Link](https://github.com/hsavit1/algovis)
+    - :fire: Awesome academic programming courses [Link](https://github.com/prakhar1989/awesome-courses)
+    - Huge list of data structures [Link](http://theshayna.com/data-structures-and-algorithms-tutorials/)
+    - Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
+    - Open Data Structures Textbook [Link](http://opendatastructures.org/)
+    - Bloom Filters by Example [Link](http://billmill.org/bloomfilter-tutorial/)
+- Tutorial
+    - Parallel Programming Algorithms Tutorial [Link](http://www.tutorialspoint.com/parallel_algorithm/index.htm)
+    - Software Architecture and Design Tutorial [Link](http://www.tutorialspoint.com/software_architecture_design/index.htm)
+- Posts
+    - How to find a solution [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+    - The Lesser Known Yet Useful Ones [Link](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+    - Top Coder Explains Data Structures [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
+    - Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
+    - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
+    - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
+- Algorithms
+    - How do Random Forests work in Layman's Terms? [Link](https://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms)
+    - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
+    - How to Study Cormen's Algos Book [Link](https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=TAJ1&share=1)
+    - Important Algorithmic Info to know about C++ [Link](https://www.quora.com/What-are-the-most-important-concepts-in-C-and-C++-that-should-be-learnt-and-understood-before-a-programming-interview/answer/Jimmy-Saade?srid=TAJ1&share=1)
+    - 3 Part Series on Graph Algorithms [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/)
+    - Binary Trees and Red Black Trees [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+    - The beauty of the Bresenham's Algorithm, visualized [Link](http://members.chello.at/~easyfilter/bresenham.html)
+    - What is Tail Call Recusion / Optimization? [Link](http://stackoverflow.com/questions/310974/what-is-tail-call-optimization)
+    - Cluster Analysis [Link](https://en.wikipedia.org/wiki/Cluster_analysis)
+    - K Means Clustering [Link](https://en.wikipedia.org/wiki/K-means_clustering)
+- Functional Programming 
+    - :fire: Awesome Functional Programming [Link](https://github.com/lucasviola/awesome-functional-programming)
+    - Functional Programming at Facebook [Slides](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
+    - Why are lists used so much in functional programming? [Link](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
+    - Funtional Programming Concepts Neatly Explained [Link](https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.md) 
+    - Should we make everything functional? [Link](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)
+    - New Purely Functional Data Structures [Link](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki/1550#1550?newreg=3044016abbd549fcbd2f4c14e8239f55)
+    - What is Currying? [Link](https://www.quora.com/What-is-currying)
+- Concurrency
+    - Concurrent Programming for Scalable Web Based Architectures [Link](http://berb.github.io/diploma-thesis/community/index.html)
+- Design Patterns
+    - Great Design Patterns Website [Link](http://www.oodesign.com/)
+    - Design Patterns Quora Page [Link](https://www.quora.com/Design-Patterns)
+- Videos
+    - Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
+- Complexity
+    - P vs NP Problem [Link](https://en.wikipedia.org/wiki/P_versus_NP_problem)
