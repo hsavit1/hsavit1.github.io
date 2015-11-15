@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Guide to Microservices and Scalable Architecture"
