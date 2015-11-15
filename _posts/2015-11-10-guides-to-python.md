@@ -36,6 +36,9 @@ comments: true
     - In what ways does Python beat Java? [Link](https://www.quora.com/What-are-the-most-practical-beneficials-for-Python-comparing-to-Java) 
     - Python vs Ruby [Link](https://ochronus.com/a-rubyists-confessions-on-python/)
     - 6 Important Deisgn Patterns in Python, Explained [Link](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
+    - Understanding Python Metaclasses [Link](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+    - Advanced Python Decorators and Metaclasses [Link](http://lgiordani.com/blog/2014/10/14/decorators-and-metaclasses/)
+    - A Primer on Python Metaclasses [Link](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
 - References
     + Python Cheat Sheet [Link](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [Link](https://docs.python.org/3.3/using/cmdline.html)
@@ -53,11 +56,17 @@ comments: true
     + A Functional Programming How To in Python [Link](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [Link](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
+- Stack Overflow Questions / Answers
+    - What is a metaclass in Python? [Link](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
+    - @classmethod and @staticmethod explained [Link](http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner)
+    - @classmethod vs @staticmethod [Link](http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python?lq=1)
+    - '__str__' vs '__repr__' in python [Link](http://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python?rq=1)
 - Slides
     - 10 Awesome Features of Python 3.# [Link](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
     - Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
+    - Why Python Metaclasses? [Link](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
 - Books
     - Intermediate Python [Link](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [Link](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
@@ -66,6 +75,7 @@ comments: true
     - Problem Solving with Algorithms and Data Structures using Python [Link](http://interactivepython.org/runestone/static/pythonds/index.html)
     - All Python Books [Link](http://importpython.com/books/)
     - Full Stack Python Guide to Deployments [Link](http://www.deploypython.com/)
+- Scientific Applications
     - Python for Scientists [Link](http://nbviewer.ipython.org/gist/rpmuller/5920182)
 - Github
     - IPython Interactive Computing [Link](http://ipython.org/)
