@@ -50,6 +50,9 @@ comments: true
 - Community News
     - ElixirStream.com [Link](http://elixirstream.com/)
     - ElixirStatus.com [Link](http://elixirstatus.com/)
+- Blogs
+    - Zohaib [Link](http://zohaib.me/)
+    - Learning Elixir [Link](http://learningelixir.joekain.com/)
 - Posts
     - Why Elixir over Go? [Link](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
     - Why I'm betting on Elixir [Link](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
@@ -65,6 +68,8 @@ comments: true
     - Designing OTP Applications in Elixir [Link](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
     - Expressing Intent Via Pattern Matching [Link](http://eftimov.net/pattern-matching-intent/)
     - Understanding Elixir Macros [Link](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
+    - Railway Oriented Programming in Elixir [Link](http://zohaib.me/railway-programming-pattern-in-elixir/)
+    - Elixir Stream Patterns [Link](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
