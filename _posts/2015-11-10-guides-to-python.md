@@ -13,7 +13,6 @@ comments: true
     - :fire: Awesome Python Learning [Link](https://github.com/CodementorIO/Python-Learning-Resources)
     - What is Python? [Link](https://docs.python.org/2/tutorial/index.html#tutorial-index)
     - 99 Python Problems [Link](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions)
-    - Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
     - Python 3 Patterns Online Book [Link](Python 3 Patterns, Recipes and Idioms)
     - IPython and Libraries [Link](https://github.com/ipython/ipython)
     - Design Patterns In Python [Link](https://github.com/faif/python-patterns)
@@ -58,6 +57,7 @@ comments: true
     - 10 Awesome Features of Python 3.# [Link](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
+    - Functional Streams with Python [Link](https://speakerdeck.com/kachayev/streams-abstraction)
 - Books
     - Intermediate Python [Link](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [Link](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
@@ -75,6 +75,7 @@ comments: true
     - Understand Machine Learning and Python Classification Tests [Link](https://github.com/rasbt/pattern_classification)
     - Python Reference [Link](https://github.com/rasbt/python_reference)
     - scikit-learn: machine learning in Python [Link](https://github.com/scikit-learn/scikit-learn)
+    - Python Monad Library [Link](https://github.com/dbrattli/OSlash) 
 - Video
     - Vim as a Python IDE [Link](https://www.youtube.com/watch?v=YhqsjUUHj6g)
 - Interview Questions
