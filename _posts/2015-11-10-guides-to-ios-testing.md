@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Guides to iOS Testing, DevOps, and Delivery"
+date:   2015-11-10 17:20:15
+comments: true
+---
+
+#**iOS Testing, DevOps, and Delivery Posts**
+- Github Projects
+    - Reveal testing [Link](http://revealapp.com/)
+    - Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
+    - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
+    - UI Testing Cheat Sheet [Link](http://masilotti.com/ui-testing-cheat-sheet/)
+    - Better Unit Testing with Swift [Link](http://masilotti.com/better-swift-unit-testing/)
+    - Unofficial XCTest Documentation Website [Link](http://masilotti.com/xctest-documentation/)
+- Presentations
+    - Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+    - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
+    - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
+    - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
+    - Network Testing in Swift [Presentation](https://realm.io/news/soffes-swift-network-testing-dvr/)
+    - Testing View Controllers with Quick [Presentation](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
+- Posts
+    - Using the Leaks Instrument [Link](http://www.russbishop.net/shoot-the-heap)
+    - Swift Unit Testing Resources [Link](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
+    - Unit Testing in Swift 2 [Link](http://masteringswift.blogspot.com/2015/07/swift-2-and-unit-testing.html)
+    - Painless automated builds with Fastlane and BuildKite [Link](Painless Automated iOS Builds with fastlane and Buildkite)
+    - Functional iOS Unit Testing [Link](http://www.ebaytechblog.com/2015/04/15/functional-ios-testing-in-swift/)
+    - More functional testing [Link](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/)
+    - Unit Testing with @testable in Xcode 7 [Link](http://natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
+    - Mocking Objects in Swift [Link](http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)
+    - Mocks in Swift via Protocols [Link](http://blog.eliperkins.me/mocks-in-swift-via-protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
+    - The state of iOS testing in 2015 [Link](http://www.mokacoding.com/blog/ios-testing-in-2015/)
+    - Cryptography with Swift [Link](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+    - BDD Testing with Swift [Link](http://railsware.com/blog/2014/07/04/bdd-style-testing-in-swift-with-sleipnir/)
+    - TDD with Swift [Link](http://swiftandpainless.com/category/tdd/)
+    - Unit Testing in Swift [Link](https://bendyworks.com/unit-testing-in-swift/)
+    - Unit Testing Tips and Tricks [Link](http://natashatherobot.com/swift-unit-testing-tips-and-tricks/)
+    - Automating iOS Testing and Screenshots [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
+    - You need 180 ScreenShots if you want to change the UI in a significant way [Link](http://www.russbishop.net/storm-sim-requires-180-screenshots)
+    - How testing has improved in Swift 2 [Link](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
+    - TDD with FBSnapShotTestCase [Link](http://devmonologue.com/ios/category/test-driven-development/)
+- Tutorials
+    - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
+- Slides
+    - :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
+- Github
+    - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
+    - iOS Snapshot Test Cases [Link](https://github.com/facebook/ios-snapshot-test-case)
+    - Quick Testing Framework [Github](https://github.com/Quick/Quick)
+    - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
+    - Swift Lint [Link](https://github.com/realm/SwiftLint)
+- Video 
+    - Swift Unit Testing Course [Link](http://code.tutsplus.com/courses/unit-testing-with-swift-and-xctest)
