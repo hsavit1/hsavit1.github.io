@@ -65,6 +65,8 @@ comments: true
     - Haskell Programming [Link](http://okmij.org/ftp/Haskell/)
     - The Haskell Articles [Link](https://github.com/quchen/articles)
     - Functional Graph Library User Guide [Link](http://web.engr.oregonstate.edu/~erwig/fgl/haskell/old/fgl0103.pdf)
+- Papers
+    - Template Meta Programming in Haskell [Link](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf)
 - Blogs 
     - bitemyapp [Link](http://bitemyapp.com/)
 - Tutorial
