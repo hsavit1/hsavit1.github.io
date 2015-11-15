@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**AngularJS and BackboneJS Posts**
 - Links
     - AngularJS CheatSheet [Link](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
     - AngularJS Best Practices [Link](https://github.com/jmcunningham/angularjs-styleguide)

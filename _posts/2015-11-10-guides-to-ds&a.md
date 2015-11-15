@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Data Structures, Algorithms, Functional Programming, Complexity, and Design Patterns**
 - Links
     - :raised_hands: All the design patterns [Link](https://sourcemaking.com/design_patterns)
     - Design Patterns Quick Reference [Link](http://viralpatel.net/blogs/download/design-pattern-scard.pdf)

@@ -5,8 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-
-#**C and C++ Posts**
 - Links
     - :fire: Awesome C++ [Link](https://github.com/fffaraz/awesome-cpp)
     - :fire: Awesome C [Link](https://notabug.org/koz.ross/awesome-c)

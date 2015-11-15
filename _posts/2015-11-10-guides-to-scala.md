@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Scala Posts**
 - Links
     - :fire: :raised_hands: Awesome Scala [Link](https://github.com/lauris/awesome-scala)
     - Learn Scala [Website](http://docs.scala-lang.org/tutorials/scala-for-java-programmers.html)

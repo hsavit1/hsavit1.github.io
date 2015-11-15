@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Everything Computer Science Posts**
 - Links
     - What's trending on Github [Link](https://www.coolgithubprojects.com/)
     - :fire: Awesome Tutorials [Link](https://github.com/therebelrobot/awesome-workshopper)

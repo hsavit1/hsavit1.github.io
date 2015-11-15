@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Node.js Posts**
 - Links
     - Official Node Docs [Link](https://nodejs.org/api/documentation.html)
     - :fire: :raised_hands: Awesome Node.js [Link](https://github.com/sindresorhus/awesome-nodejs), and another [Link](https://github.com/vndmtrx/awesome-nodejs)

@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Guide to React"
+title:  "Guide to React.js"
 date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**ReactJS, Redux, Flux Posts**
 - Links
     - :raised_hands: React.js Cheatsheet [Link](http://ricostacruz.com/cheatsheets/react.html)
     - :raised_hands: :fire: Awesome React [Link](https://github.com/enaqx/awesome-react)

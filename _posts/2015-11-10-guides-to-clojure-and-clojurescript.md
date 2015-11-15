@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Clojure and ClojureScript**
 - Links
     - Clojure.org [Link](http://clojure.org/)
     - :fire: Awesome Clojure [Link1](https://github.com/razum2um/awesome-clojure), [Link2](https://github.com/mbuczko/awesome-clojure)

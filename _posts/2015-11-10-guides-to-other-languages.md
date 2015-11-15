@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Other Languages**
 - Links
     - :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
     - :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)

@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**iOS Testing, DevOps, and Delivery Posts**
 - Github Projects
     - Reveal testing [Link](http://revealapp.com/)
     - Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)

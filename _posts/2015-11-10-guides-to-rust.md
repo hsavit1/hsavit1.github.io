@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Rust Posts**
 - Links
     - :fire: :raised_hands: Awesome Rust [Link](https://github.com/kud1ing/awesome-rust)
     - What is Rust? [Link](https://doc.rust-lang.org/book/README.html) (Book)

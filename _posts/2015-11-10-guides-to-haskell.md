@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Haskell and Purescript Posts**
 - Links
     - School of Haskell [Link](https://www.fpcomplete.com/school)
     - Haskell Wiki [Link](https://wiki.haskell.org/Haskell)

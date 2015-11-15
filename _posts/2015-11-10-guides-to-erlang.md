@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Erlang Posts**
 - Links
     - Try Erlang! [Link](http://www.tryerlang.org/)
     - :fire: :raised_hands: Awesome Erlang [Link](https://github.com/drobakowski/awesome-erlang)

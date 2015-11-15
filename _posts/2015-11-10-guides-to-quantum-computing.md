@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Quantum Computing Posts**
 - Links
     - QCL: A Programming Language for Quantum Computers [Link](http://tph.tuwien.ac.at/~oemer/qcl.html)
     - An Introduction to Quantum Algorithms [Link](https://people.cs.umass.edu/~strubell/doc/quantum_tutorial.pdf)

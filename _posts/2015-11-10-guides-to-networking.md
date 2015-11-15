@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Networking, HTTP, IP, Routing, Servers, and Backend Development Posts**
 - Links
     - :fire: :raised_hands: Awesome Networking [Link](https://github.com/clowwindy/Awesome-Networking)
     - :fire: Awesome .NET [Link](https://github.com/quozd/awesome-dotnet)

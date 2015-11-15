@@ -6,7 +6,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Microservices and Scalable Architecture**
 - Links
     - :fire: Awesome Microservices [Link](https://github.com/mfornos/awesome-microservices)
     - :fire: Awesome Microservice Architecture [Link](https://github.com/wanghaisheng/awesome-microservice)

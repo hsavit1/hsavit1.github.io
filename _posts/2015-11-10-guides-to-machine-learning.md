@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Machine Learning, Copmuter Vision, Natural Language Processing Posts**
 - Links
     - :fire: Awesome Machine Learning [Link](https://github.com/josephmisiti/awesome-machine-learning)
     - :fire: Awesome Neural Networks [Link](https://github.com/ChristosChristofidis/awesome-deep-learning)

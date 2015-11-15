@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Ruby, Ruby on Rails, Jekyll, and Middleman Posts**
 - Links
     - :fire: :raised_hands: Awesome Ruby [Link](https://github.com/markets/awesome-ruby)
     - :fire: Awesome Ruby Trivia [Link](https://github.com/gregstallings/ruby-trivia)

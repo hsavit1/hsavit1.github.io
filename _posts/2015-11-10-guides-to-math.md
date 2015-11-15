@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Mathematics Posts**
 - Links
     - :fire: :raised_hands: Awesome-Mathematics [Link](https://github.com/rossant/awesome-math)
    - Math as Code in Javascript [Link](https://github.com/Jam3/math-as-code)

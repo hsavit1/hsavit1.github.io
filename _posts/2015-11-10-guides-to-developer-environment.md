@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Developer Environment, Operating System, and System Admin Posts**
 - Links
     - :fire: Awesome OSX Command Line [Link](https://github.com/herrbischoff/awesome-osx-command-line?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
     - :fire: :raised_hands: Awesome Developer Environments [Link](https://github.com/jondot/awesome-devenv)

@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Economics and Bitcoin Posts**
 - Links
     - :fire: Awesome Bitcoin [Link](https://github.com/igorbarinov/awesome-bitcoin/)
     - :fire: Awesome Programming Bitcoin [Link](https://github.com/jashmenn/bitcoin-reading-list)

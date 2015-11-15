@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Java Posts**
 - Links
     - :fire: :raised_hands: Awesome Java [Link](https://github.com/akullpp/awesome-java)
     - Java Quora Page [Link](https://www.quora.com/Java-programming-language)

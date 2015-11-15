@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Data Science, Data Mining, and Public Data Posts**
 - Links
     - :raised_hands: Jupyter [Link](http://nbviewer.ipython.org/)
     - :fire: :raised_hands: Awsome Public Datasets [Link](https://github.com/caesar0301/awesome-public-datasets)

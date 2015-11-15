@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Architecture, Compilers, Operatiing Systems, Linux, Unix, and Distributed Computing**
 - Links
     - Architectural patterns of resilient distributed systems [Link](https://github.com/Randommood/Strangeloop2015)
     - :raised_hands: The Linux Information Project [Link](http://www.linfo.org/)

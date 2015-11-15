@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Presentation and Self Advertisement Tools**
 - Links
     - :raised_hands: Gitbook [Link](https://github.com/GitbookIO/gitbook) 
     - Reveal.js [Link](https://github.com/hakimel/reveal.js/)

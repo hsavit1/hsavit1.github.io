@@ -5,7 +5,8 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Comic Relief - _Your Moment of Zen_**
+#**_Your Moment of Zen_**
+
 - :raised_hands: Jon Stewart on _Crossfire_ [Link](https://www.youtube.com/watch?v=aFQFB5YpDZE)
 - Steven Colbert is strapped to a chair for an hour [Link](https://www.youtube.com/watch?v=-HpBHWUPa8Q)
 - Steven Colbert makes Donald Trump an Offer [Link](http://www.cc.com/video-clips/ifrr4g/the-colbert-report-donald-trump-s-october-surprise)

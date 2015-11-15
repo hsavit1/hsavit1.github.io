@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Meteor Posts**
 - Links
     - :fire: :raised_hands: Awesome Meteor [Link](https://github.com/Urigo/awesome-meteor)
     - MeteorHacks Website [Link](https://meteorhacks.com/)

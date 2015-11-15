@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Startups, SEO, and Marketing Posts**
 - Links
     - :fire: Awesome iOS Marketing Resources [Link](https://github.com/sanketfirodiya/ios-marketing-resources)
     - :fire: Awesome Places to Post your Startup [Link](https://github.com/mmccaff/PlacesToPostYourStartup)

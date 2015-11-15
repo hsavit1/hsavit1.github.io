@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Software Testing Posts**
 - Links
     - Everything you need to know about A/B Testing [Link](http://www.evanmiller.org/bayesian-ab-testing.html)
 - Posts

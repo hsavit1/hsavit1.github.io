@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Docker, Project Management and DevOps Posts**
 - Links
     - :fire: Awesome Docker [Link](https://github.com/veggiemonk/awesome-docker)
     - :fire: Awesome Docker Cheat Sheet [Link](https://github.com/wsargent/docker-cheat-sheet)

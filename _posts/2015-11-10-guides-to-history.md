@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**History of Computing**
 - Links
     - Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 - Posts

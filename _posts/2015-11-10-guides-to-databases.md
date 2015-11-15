@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**DataBase Posts**
 - Links
     - :fire: :raised_hands: Awesome Databases [Link](https://github.com/numetriclabz/awesome-db)
     - :fire: Awesome MySQL [Link](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)

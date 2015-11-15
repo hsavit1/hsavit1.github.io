@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Software Development and Engineering Posts**
 - Links
     - :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
     - :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)

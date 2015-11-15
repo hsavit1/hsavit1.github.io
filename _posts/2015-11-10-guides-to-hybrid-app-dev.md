@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Hybrid App Development Posts**
 - Posts
     - Why would you ever build a native app? [Post Coming Soon]()
     - Scenarios to build hybrid apps [Post Coming Soon]()

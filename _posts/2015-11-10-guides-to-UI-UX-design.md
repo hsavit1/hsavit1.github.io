@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Design and Front End Web Development Posts**
 - Links
     - :fire: :raised_hands: Awesome Design [Link](https://github.com/troyericg/awesome-design)
     - :fire: :raised_hands: Awesome Material Design [Link](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)

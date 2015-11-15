@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Elm Posts**
 - Links
     - :fire: :raised_hands: Awesome Elm [Link](https://github.com/isRuslan/awesome-elm)
     - Elm Compiler [Link](https://github.com/elm-lang/elm-compiler)

@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-# **Swift**
 - Cool Posts
     - :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)

@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Python and pypy Posts**
 - Links
     - Easy Python [Link](http://easy-python.readthedocs.org/en/latest/#contribute)
     - The Hitchiker's Guide to Python [Link](https://github.com/kennethreitz/python-guide)

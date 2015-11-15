@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-#**Golang Posts**
 - Posts
     - Go versus Node.js [Link](http://www.hostingadvice.com/blog/nodejs-vs-golang/)
 - Links

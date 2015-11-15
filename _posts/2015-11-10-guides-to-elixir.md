@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Elixir Posts**
 - Links
     - An Elixir Blog made by Elixir's Creator [Link](http://blog.plataformatec.com.br/tag/elixir/)
     - Elixir Style Guide [Link](https://github.com/niftyn8/elixir_style_guide)

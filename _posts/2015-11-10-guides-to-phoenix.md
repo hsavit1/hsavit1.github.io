@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Guide to Phoenix"
+title:  "Guide to Phoenix Framework"
 date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Phoenix Framework Posts**
 - Links
     - Hacker News Phoenix Creator AMA [Link](https://news.ycombinator.com/item?id=8671618)
     - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)

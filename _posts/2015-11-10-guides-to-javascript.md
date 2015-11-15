@@ -5,8 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Javascript, ECMAScript, Coffeescript, and Typescript Posts**
-
 - Awesome Lists
     - :fire: :raised_hands: Awesome Javascript [Link](https://github.com/sorrycc/awesome-javascript)
     - :fire: Awesome JS Coding Style [Link](https://github.com/feross/awesome-standard)

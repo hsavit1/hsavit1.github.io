@@ -5,7 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#**Android Posts**
 - Links
     - :fire: :raised_hands: Awesome Android [Link](https://github.com/snowdream/awesome-android)
     - :fire: Awesome Android Libraries [Link](https://github.com/wasabeef/awesome-android-libraries)
