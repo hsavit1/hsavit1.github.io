@@ -36,6 +36,7 @@ comments: true
     - What's new in Python 3? [Link](https://docs.python.org/3/whatsnew/3.0.html)
     - In what ways does Python beat Java? [Link](https://www.quora.com/What-are-the-most-practical-beneficials-for-Python-comparing-to-Java) 
     - Python vs Ruby [Link](https://ochronus.com/a-rubyists-confessions-on-python/)
+    - 6 Important Deisgn Patterns in Python, Explained [Link](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
 - References
     + Python Cheat Sheet [Link](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [Link](https://docs.python.org/3.3/using/cmdline.html)
