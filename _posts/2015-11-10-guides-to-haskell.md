@@ -42,11 +42,12 @@ comments: true
     - Simple Haskell CheatSheet [Link](http://www.cheat-sheets.org/saved-copy/Haskell.Haskell_Cheat_Sheet.pdf)
     - Haskell's Syntax [Link](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
     - Haskell Cookbook [Link](https://wiki.haskell.org/Cookbook)
-    - An Overview of Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Overview)
+    - :raised_hands: An Overview of Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Overview)
     - Haskell Style Guide [Link](https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md)
     - Haskell's Future [Link](https://wiki.haskell.org/Future_of_Haskell)
     - How to Desugar Haskell Code [Link](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
     - :raised_hands: Typeclassopedia [Link](https://wiki.haskell.org/Typeclassopedia)
+    - Standard Haskell Classes [Link](https://en.wikibooks.org/wiki/Haskell/Classes_and_types#/media/File:Classes.svg)
 - Books
     - Purely Functional Data Structures [Link](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [Link](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
