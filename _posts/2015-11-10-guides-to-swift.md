@@ -7,7 +7,6 @@ comments: true
 
 - Cool Posts
     - :raised_hands: Funtional View Controllers [Link](http://chris.eidhof.nl/posts/functional-view-controllers.html)
-    - SequenceType and GeneratorType [Post](http://itshenry.com/2015/09/05/sequence-generator.html)
     - MVVM in Swift [Link](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
     - The Difference between RxSwift and ReactiveCocoa [Link](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons)
 - Cool Links
@@ -88,6 +87,8 @@ comments: true
     - * Oriented Programming [Presentation](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - FRP in Swift 2.0 [Presentation](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
     - Metal and Swift [Presenetation](https://realm.io/news/swift-summit-simon-gladman-metal/)
+    - LLVM and Swift [Link](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+    - The astonishing powers of 3D Touch [Link](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
 - WWDC Presentations
     + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
@@ -108,28 +109,28 @@ comments: true
 - Free Books
     - Learn Swift [Link](http://books.aidanf.net/learn-swift)
     - Swift for Programmers [Link](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
-- Core Data and Other Options
+- Core Data and Other Networking Options
     - Why Realm is great and why we're not going to use it [Link](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
     + A Swift Into To Core Data [Link](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
     + Moving from ObjC to Swift with Core Data [Link](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
     + CloudKit Introduction [Link](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
     + Create a Data Access Layer with SQLite.swift and Swift 2 [Link](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
 - Swift Data Structures, Algorithms, and Design Patterns
-    + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
-    + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
-    + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
-    + Template Method Pattern in Swift [Link](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
-    + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
-    + Creating a Cocoa Bindings Observable Pattern in Swift [Link](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
-    + Linked Lists, Enums, Value Types [Link](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
-    + A persistent tree with Enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
-    + Red Black Tree in Swift [Link](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
-    + Singly Linked List [Link](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
-    + Observer Pattern in Swift [Link](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
-    + Make a DSL in Swift [Link](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
-    + Simplfied Login with Swift Enums [Link](https://realm.io/news/david-east-simplifying-login-swift-enums/)
-    + Segues > Delegation [Link](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
-    + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html) 
+    + Algorithms
+        + A Trie [Link](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
+        + A persistent tree using indirect enums [Link](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
+        + Linked Lists are really slow [Link](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
+        + Linked Lists, Enums, Value Types [Link](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
+        + Red Black Tree in Swift [Link](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
+        + Singly Linked List [Link](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
+   + Design Patterns
+        + Template Method Pattern in Swift [Link](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
+        + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
+        + Creating a Cocoa Bindings Observable Pattern in Swift [Link](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
+        + Observer Pattern in Swift [Link](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
+        + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html) 
+        + The Null Object Pattern [Link](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
+        + Segues > Delegation [Link](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
 - More Posts
     + Application Structure
         + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
@@ -209,6 +210,7 @@ comments: true
         + Mixins and Traits in Swift 2.0 [Link](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
         + Minimal Swift 2.1 Protocol Coformance [Link](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
         + Favor Mixins over inheritance [Link](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
+        + Use Protocol Composition [Link](http://natashatherobot.com/swift-protocol-composition/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
     + Swift Initializers
         + Swift Initializers [Link](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [Link](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -227,6 +229,7 @@ comments: true
         + Advanced & Practical Enum Usage in Swift [Link](http://appventure.me/2015/10/17/advanced-practical-enum-examples/#toptop) 
         + Swift Pattern Matching in Detail [Link](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
         + Enumerating Tuple Values in Swift [Link](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+        + Simplfied Login with Swift Enums [Link](https://realm.io/news/david-east-simplifying-login-swift-enums/)
     + Optionals and Types 
         + Swift Optionals Made Simple [Link](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [Link](http://oleb.net/blog/2015/07/swift-type-system/)
@@ -236,6 +239,7 @@ comments: true
         + How I handle Optionals in Swift [Link](http://blog.human-friendly.com/how-i-handle-optionals-in-swift)
         + How to unwrap an optional in 9 different ways [Link](https://twitter.com/Kametrixom/status/636187970509406209)
         + Optional Protocol Methodsin Pure Swift [Link](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+        + Make a DSL in Swift [Link](http://colindrake.me/2015/10/28/implementing-a-small-dsl-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_60)
     + Associated Types and Objects
         + Associated Types in Swift Explained [Link](http://www.russbishop.net/swift-associated-types)
         + Illuminating Forum Post [Link](https://forums.developer.apple.com/message/18038)

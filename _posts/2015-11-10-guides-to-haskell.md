@@ -31,6 +31,7 @@ comments: true
     - Human Haskell [Link](http://ohaskell.dshevchenko.biz/en/index.html)
 - Reference
     - :raised_hands: Hoggle Haskell API Search Engine [Link](https://www.haskell.org/hoogle/)
+    - Hskell Syntax [Link](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
     - :raised_hands: How to read Haskell [Link](https://wiki.haskell.org/How_to_read_Haskell)
     - Reference Card Haskell Wiki [Link](https://wiki.haskell.org/Reference_card)
     - List of all the Haskell Keywords [Link](https://wiki.haskell.org/Keywords)

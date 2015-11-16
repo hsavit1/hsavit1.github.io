@@ -41,6 +41,7 @@ comments: true
     - TDD with FBSnapShotTestCase [Link](http://devmonologue.com/ios/category/test-driven-development/)
 - Tutorials
     - Setting up KIF for iOS Acceptance Testing [Link](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
+    - Replacing KIF with XCUI Tests [Link](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
 - Slides
     - :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 - Github
