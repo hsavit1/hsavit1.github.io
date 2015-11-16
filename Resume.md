@@ -45,6 +45,7 @@ permalink: /resume/
 
 + Objective-C
 + Swift
++ Python
 
 
 ### _Still Experimenting With_
@@ -57,16 +58,16 @@ permalink: /resume/
 + Elixir
 + Phoenix Framework
 + Ruby
-+ Python
 + MongoDB
 + RethinkDB
-+ Docker
++ Full stack web development
 
 
 ### _Learning_
 
 + Haskell
 + Erlang
++ Docker
 
 
 ### Projects
