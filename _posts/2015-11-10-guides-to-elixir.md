@@ -69,6 +69,8 @@ comments: true
     - Understanding Elixir Macros [Link](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
     - Railway Oriented Programming in Elixir [Link](http://zohaib.me/railway-programming-pattern-in-elixir/)
     - Elixir Stream Patterns [Link](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
+    - Designing with OTP in mind [Link](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
+    - List Operations in Elixir [Link](http://learningelixir.joekain.com/list-ops/)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)

@@ -20,6 +20,9 @@ comments: true
     - Rails to Phoenix: No more asset pipelines [Link](http://blog.tokafish.com/rails-to-phoenix-brunch/)
     - Rails to Phoenix: getting started with Ecto [Link](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
     - Rails to Phoenix: Querying with Ecto [Link](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
+    - Cowboy application design [Link](http://learningelixir.joekain.com/cowboy-application-design/)
+    - Designing with OTP in mind [Link](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
+    - Elixir Stream Patterns [Link](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
 - Slides
     - Rise of the Phoenix Framework [Slides](http://slides.com/chrismccord/rise-of-the-phoenix#/)
     - Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
@@ -40,5 +43,6 @@ comments: true
     - Phoenix takes Flight [Link](http://www.chrismccord.com/blog/2015/05/09/elixirconfeu-keynote-phoenix-takes-flight/)
 - Github
     - Phoenix Chat Example [Link](https://github.com/chrismccord/phoenix_chat_example)
+    - Phoenix and Elm combined [Link](https://github.com/CultivateHQ/seat_saver)
 - Books
     - Programming Phoenix [Link](https://pragprog.com/book/phoenix/programming-phoenix)

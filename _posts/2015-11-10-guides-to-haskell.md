@@ -109,6 +109,7 @@ comments: true
         - Kind vs Type? [Link](http://qr.ae/R4evm3)
         - Performing derivations in Haskell [Link](http://qr.ae/R4Z2OS) 
         - Functional Lenses Derivation [Link](http://www.twanvl.nl/blog/haskell/cps-functional-references)
+        - DDD: Domain Driven Design in Haskell [Link](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
     - Learning Haskell
         - :raised_hands: How to get started with Haskell [Link](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [Link](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
