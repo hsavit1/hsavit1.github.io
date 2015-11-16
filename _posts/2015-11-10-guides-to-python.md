@@ -39,6 +39,7 @@ comments: true
     - Understanding Python Metaclasses [Link](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
     - Advanced Python Decorators and Metaclasses [Link](http://lgiordani.com/blog/2014/10/14/decorators-and-metaclasses/)
     - A Primer on Python Metaclasses [Link](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
+    - What is python written in? [Link](https://www.quora.com/What-is-Python-written-in)
 - References
     + Python Cheat Sheet [Link](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [Link](https://docs.python.org/3.3/using/cmdline.html)
@@ -61,6 +62,11 @@ comments: true
     - @classmethod and @staticmethod explained [Link](http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner)
     - @classmethod vs @staticmethod [Link](http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python?lq=1)
     - '__str__' vs '__repr__' in python [Link](http://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python?rq=1)
+    - Explain Python's Slice Notation [Link](http://stackoverflow.com/questions/509211/explain-pythons-slice-notation)
+    - What does the 'Yield' keyword do in Python? [Link](http://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python)
+    - Terenary conditionals in python [Link](http://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator)
+    - Chain of function decorators in Python [Link](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python)
+    - Understanding super() in Python [Link](http://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
 - Slides
     - 10 Awesome Features of Python 3.# [Link](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
@@ -104,9 +110,12 @@ comments: true
     + Effective Django [Link](http://www.effectivedjango.com/)
 + Posts
     + Flash or Django? [Link](https://www.quora.com/Should-I-learn-Flask-or-Django)
+    + Scaling Django to 8 Billion page views [Link](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
+    + Understanding Django [Link](https://www.quora.com/How-do-I-make-progress-with-Python-Djangos)
 + Tutorial
     + The Flaskr Tutorial [Link](http://flask.pocoo.org/docs/0.10/tutorial/)
     + Official Django Tutorial [Link](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
+    + Writing Django Tests [Link](http://cj.gaconnet.com/informal/rewriting-python-and-django-example-tests-for-explicitness)
 - References
     - Flask Documentation [Link](http://flask.pocoo.org/docs/0.10/quickstart/)
 - Github

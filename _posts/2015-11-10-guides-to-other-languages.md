@@ -38,6 +38,7 @@ comments: true
         - IJulia [Link](https://github.com/JuliaLang/IJulia.jl)
     - F#
         - F# Github Repo [Link](https://github.com/fsharp/fsharp)
+        - F# for fun and profit [Link](http://fsharpforfunandprofit.com/)
     - Purescript
         - Purescript Github Repo [Link](https://github.com/purescript/purescript)
     - Crystal

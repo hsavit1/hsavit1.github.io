@@ -45,7 +45,9 @@ comments: true
     - New Purely Functional Data Structures [Link](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki/1550#1550?newreg=3044016abbd549fcbd2f4c14e8239f55)
     - What is Currying? [Link](https://www.quora.com/What-is-currying)
     - Domain modeling in a functional world [Link](http://www.slideshare.net/debasishg/qconny-12)
-    - Functional Programming Patterns [Link](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+    - Functional Programming Patterns [Link](http://fsharpforfunandprofit.com/fppatterns/)
+    - Railway Oriented Programming [Link](http://fsharpforfunandprofit.com/rop/)
+    - Domain Driven Design [Link](http://fsharpforfunandprofit.com/ddd/)
 - Concurrency
     - Concurrent Programming for Scalable Web Based Architectures [Link](http://berb.github.io/diploma-thesis/community/index.html)
 - Design Patterns
