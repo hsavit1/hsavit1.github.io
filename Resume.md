@@ -15,7 +15,7 @@ permalink: /resume/
 >
 > Status: U.S.A. + Canada Citizen
 > 
-> Preferred Work Locations in Order: NYC, SF, LA, MIA
+> Preferred Work Locations in Order: NYC, SF, LA, MIA, TOR, VAC
 
 
 
