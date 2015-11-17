@@ -25,6 +25,10 @@ comments: true
     - Data structures concepts [Link](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
     - How to learn data structuress and algorithms [Link](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [Link](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
+- Books
+    - Algorithms Book Site [Link](http://algs4.cs.princeton.edu/home/)
+    - Analysis of Algorithms Booksite [Link](http://aofa.cs.princeton.edu/home/)
+    - Analytic Combinatorics Booksite [Link](http://ac.cs.princeton.edu/home/)
 - Algorithms
     - How do Random Forests work in Layman's Terms? [Link](https://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms)
     - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)

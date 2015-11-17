@@ -83,7 +83,9 @@ comments: true
     - Full Stack Python Guide to Deployments [Link](http://www.deploypython.com/)
 - Scientific Applications
     - Python for Scientists [Link](http://nbviewer.ipython.org/gist/rpmuller/5920182)
-- Github
+- Github and Projects
+    - Cool Github Projects [Link](https://www.coolgithubprojects.com/)
+    - PyPI Python package index [Link](https://pypi.python.org/pypi)
     - IPython Interactive Computing [Link](http://ipython.org/)
     - Jupyter [Link](https://try.jupyter.org/)
     - Python Github Projects [Link](https://github.com/checkcheckzz/python-github-projects)
@@ -95,10 +97,11 @@ comments: true
 - Video
     - Vim as a Python IDE [Link](https://www.youtube.com/watch?v=YhqsjUUHj6g)
 - Interview Questions
-    - Top 25 Python Interview Questions [Link]()
     - 50 Python QA [Link](http://www.careerride.com/python-interview-questions.aspx)
     - Toptal Questions [Link](http://www.toptal.com/python/interview-questions)
     - Project Euler [Link](http://www.s-anand.net/euler.html) [Link2](http://www.toddsifleet.com/projects/euler) [Link3](https://zach.se/project-euler-solutions/) [Link4](http://www.nayuki.io/page/project-euler-solutions)
+    - Python Questions on Reddit [Link](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
+    - Basic but important python interview questions [Link](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
 
 
 #**Django, Flask, and other Python Web Frameworks**
@@ -112,10 +115,16 @@ comments: true
     + Flash or Django? [Link](https://www.quora.com/Should-I-learn-Flask-or-Django)
     + Scaling Django to 8 Billion page views [Link](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
     + Understanding Django [Link](https://www.quora.com/How-do-I-make-progress-with-Python-Djangos)
+    + Evaluating React.js and Flask [Link](http://aviadas.com/blog/2015/08/05/evaluating-react-dot-js-and-flask/)
+    + Use React and JSX in Python Applications [Link](http://facebook.github.io/react/blog/2013/08/19/use-react-and-jsx-in-python-applications.html)
 + Tutorial
     + The Flaskr Tutorial [Link](http://flask.pocoo.org/docs/0.10/tutorial/)
     + Official Django Tutorial [Link](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
     + Writing Django Tests [Link](http://cj.gaconnet.com/informal/rewriting-python-and-django-example-tests-for-explicitness)
+    + Build an AngularJS App From Scratch, Powered by Python EVE [Link](http://code.tutsplus.com/tutorials/build-an-angularjs-app-from-scratch-powered-by-python-eve--cms-23063)
+    + Build a web app with Django and AngularJS [Link](https://thinkster.io/django-angularjs-tutorial)
+    + Flask and AngularJS [Link](https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs/)
+    + Flask and React [Link](https://realpython.com/blog/python/the-ultimate-flask-front-end/)
 - References
     - Flask Documentation [Link](http://flask.pocoo.org/docs/0.10/quickstart/)
 - Github
@@ -123,3 +132,7 @@ comments: true
     + Django Angular [Link](https://github.com/jrief/django-angular/)
     + Tornado Repository [Link](https://github.com/tornadoweb/tornado)
     + Flask Repository [Link](https://github.com/mitsuhiko/flask)
+    + Python Eve REST Api Framework [Link](http://python-eve.org/)
+    + Flask React Boilerplate [Link](https://github.com/alexkuz/flask-react-boilerplate)
+    + Django Pipeline [Link](https://github.com/cyberdelia/django-pipeline)
+    + CookieCutter Django [Link](https://github.com/pydanny/cookiecutter-django)

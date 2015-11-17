@@ -37,6 +37,8 @@ comments: true
     - 5 Useful Git Tips in Pictures [Link](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
     - How to use Vim [Link](http://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor)
 - Quick References
+    - Emacs Lisp Guide [Link](https://github.com/chrisdone/elisp-guide)
+    - Learn Emacs Lisp in 15 Minutes [Link](http://emacs-doctor.com/learn-emacs-lisp-in-15-minutes.html)
     - Bash cheatsheet [Link](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
     - Advanced Bash Scripting Guide [Link](http://tldp.org/LDP/abs/html/)
     - Bash FAQ [Link](http://mywiki.wooledge.org/BashFAQ)

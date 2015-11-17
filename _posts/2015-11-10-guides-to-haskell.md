@@ -144,6 +144,9 @@ comments: true
         - DS and A using Haskell [Link](http://okmij.org/ftp/Haskell/AlgorithmsH.html)
         - Monoids and FingerTrees [Link](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)        
         - How to use Design Patterns in Haskell [Link](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+        - Understanding Arrows in Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
+        - Flodable and Traversable [Link](https://wiki.haskell.org/Foldable_and_Traversable)
+        - Algorithm Complexity in Haskell [Link](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
     - Language Syntax Related
         - What is the Difference between Kinds and Types in Haskell? [Link](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [Link](https://www.quora.com/What-is-in-Haskell)
@@ -151,6 +154,7 @@ comments: true
         - How does Garbage Collection work in Haskell? [Link](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
         - Key Differences between Haskell and Standard ML? [Link](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
 - Slides
+    - Haskell's GHC, Illustrated [Link](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
     - Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
     - Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
     - Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
@@ -171,5 +175,4 @@ comments: true
 - Gists
     - A Reader Monad [Link](https://gist.github.com/egonSchiele/5752172)
 - Interview
-    - FizzBuzz in Haskell [Link](https://www.hackerrank.com/challenges/fizzbuzz)
     - 17 Haskell Interview Questions [Link](http://career.guru99.com/top-17-haskel-interview-questions/)
