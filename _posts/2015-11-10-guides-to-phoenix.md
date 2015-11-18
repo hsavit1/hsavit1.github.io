@@ -22,10 +22,10 @@ comments: true
     - Rails to Phoenix: Querying with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
     - Cowboy application design [:link:](http://learningelixir.joekain.com/cowboy-application-design/)
 - Slides
-    - Rise of the Phoenix Framework [Slides](http://slides.com/chrismccord/rise-of-the-phoenix#/)
-    - Pheonix Framework Very Short Demo [Slides](https://speakerdeck.com/maveonair/phoenix-framework)
-    - Why Phoenix [Slides](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
-    - Pheonix vs Rails [Slides](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
+    - Rise of the Phoenix Framework [:floppy_disk:](http://slides.com/chrismccord/rise-of-the-phoenix#/)
+    - Pheonix Framework Very Short Demo [:floppy_disk:](https://speakerdeck.com/maveonair/phoenix-framework)
+    - Why Phoenix [:floppy_disk:](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
+    - Pheonix vs Rails [:floppy_disk:](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - Tutorials
     - Really Fantastic Tutorial Series [:link:](http://phoenix.thefirehoseproject.com/1.html)
     - Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)

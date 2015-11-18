@@ -39,8 +39,8 @@ comments: true
     - What aspect of the Erlang language makes applications in Erlang scalable? Why can't they be ported to other languages? [:link:](https://www.quora.com/What-aspect-of-the-Erlang-language-makes-applications-in-Erlang-scalable-Why-cant-they-be-ported-to-other-languages) 
     - What example program would best exemplify Erlang? [:link:](http://joearms.github.io/2013/11/21/My-favorite-erlang-program.html)
 - Slides
-    - Erlang in production [Slides](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
-    - About Erlang [Slides](https://speakerdeck.com/robgthai/learning-erlang)
-    - Erlang 101 [Slides](http://slides.com/eddywong/erlang-101#/)
+    - Erlang in production [:floppy_disk:](https://speakerdeck.com/kachayev/erlang-in-production-lessons-learned)
+    - About Erlang [:floppy_disk:](https://speakerdeck.com/robgthai/learning-erlang)
+    - Erlang 101 [:floppy_disk:](http://slides.com/eddywong/erlang-101#/)
 - Tutorial
     - How I start with Erlang [:link:](https://howistart.org/posts/erlang/1)

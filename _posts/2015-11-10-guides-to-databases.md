@@ -28,12 +28,12 @@ comments: true
     - All About MongoDB [:link:](http://www.javacodegeeks.com/2015/09/mongodb-a-scalable-nosql-db.html)
     - All About CouchDB [:link:](http://www.webcodegeeks.com/web-development/couchdb-database-for-the-web/) 
 - Slides
-    - Rebuilding Twitter with Cassandra [Slides](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
-    - Realm Overview [Slides](https://speakerdeck.com/jpsim/realm-overview)
-    - A Primer on RethinkDB [Slides](https://speakerdeck.com/marceloalves/rethinkdb-primer)
-    - Distributed Databases with RethinkDB [Slides](https://speakerdeck.com/segphault/rethinkdb-training-course)
-    - Redis [Slides](https://speakerdeck.com/swanson/redis-swiss-army-knife)
-    - Redis: Your Data on Steroids [Slides](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
+    - Rebuilding Twitter with Cassandra [:floppy_disk:](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
+    - Realm Overview [:floppy_disk:](https://speakerdeck.com/jpsim/realm-overview)
+    - A Primer on RethinkDB [:floppy_disk:](https://speakerdeck.com/marceloalves/rethinkdb-primer)
+    - Distributed Databases with RethinkDB [:floppy_disk:](https://speakerdeck.com/segphault/rethinkdb-training-course)
+    - Redis [:floppy_disk:](https://speakerdeck.com/swanson/redis-swiss-army-knife)
+    - Redis: Your Data on Steroids [:floppy_disk:](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 - Github
     - Facebook GraphQL.js [Github](https://github.com/graphql/graphql-js)
     - Mongoose MongoDB Object Modeling [Github](https://github.com/Automattic/mongoose)

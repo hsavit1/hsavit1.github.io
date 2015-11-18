@@ -40,7 +40,7 @@ comments: true
     - Metalsmith Walkthough Tutorial [:link:](https://github.com/RobinThrift/metalsmith-tutorial)
 - Slides
     - :raised_hands: Node Fundamentals [:link:](http://slides.com/surtich/node-fundamentals#/)
-    - Getting Familiar with Grunt and Gulp [Slides](https://speakerdeck.com/johnpapa/gulp-and-grunt)
+    - Getting Familiar with Grunt and Gulp [:floppy_disk:](https://speakerdeck.com/johnpapa/gulp-and-grunt)
 - Github
     - Metalsmith Static Site Generator [Github](https://github.com/segmentio/metalsmith)
     - Bower [Github](https://github.com/bower/bower)

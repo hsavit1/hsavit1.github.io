@@ -43,7 +43,7 @@ comments: true
 - Books
     - Backbone.js Applications by Addy Osmani [:link:](http://addyosmani.github.io/backbone-fundamentals/)
 - Slides
-    - All about Angular [Slides](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
-    - Angular 2.0 [Slides](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
+    - All about Angular [:floppy_disk:](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
+    - Angular 2.0 [:floppy_disk:](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
 - Talks
     - Angular 1 vs Angular 2 [:movie_camera:](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [:link:](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)

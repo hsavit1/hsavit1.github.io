@@ -13,7 +13,7 @@ comments: true
     - :fire: Awesome Common Lisp [:link:](https://github.com/CodyReichert/awesome-cl)
     - :fire: Awesome OCaml [:link:](https://github.com/rizo/awesome-ocaml)
     - The Standard ML Language Family [:link:](https://github.com/SMLFamily)
-    - Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
+    - Getting Started with Purescript [:floppy_disk:](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 - Books 
     - Lisp
         - Common Lisp: A Gentle Introduction to Symbolic Computation [:link:](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
@@ -78,7 +78,7 @@ comments: true
     - How is F# Doing in Industry? [:link:](https://www.quora.com/How-is-F-going-at-the-moment-Is-there-any-application-built-with-F)
     - Why I'm Betting on Julia [:link:](http://www.evanmiller.org/why-im-betting-on-julia.html)
 - Slides
-    - There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
-    - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
+    - There is Prolog in your Scala! [:floppy_disk:](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
+    - Introduction to Prolog [:floppy_disk:](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
 - Tutorial
     - How I start with Nim [:link:](https://howistart.org/posts/nim/1)

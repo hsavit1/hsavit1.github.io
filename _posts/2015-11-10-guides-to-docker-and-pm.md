@@ -32,6 +32,6 @@ comments: true
     - Offical Docker Self Paced Training Videos [:link:](http://training.docker.com/self-paced-training)
     - Devcasts Docker Screencasts [:link:](https://www.devcasts.io/search/?q=docker) 
 - Slides
-    - Docker 101 [Slides](https://speakerdeck.com/asm89/docker)
+    - Docker 101 [:floppy_disk:](https://speakerdeck.com/asm89/docker)
 - Github
     - Make GANT Charts Easily with this tool [:link:](http://knsv.github.io/mermaid/)

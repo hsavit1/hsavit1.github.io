@@ -31,12 +31,12 @@ comments: true
     - How do you build a simple quantum computer? [:link:](https://www.quora.com/How-can-I-build-a-simple-quantum-computer)
     - How can you model a quantum computer on a standard computer? [:link:](https://www.quora.com/Can-a-quantum-computer-be-modeled-on-a-standard-computer)
 - Slides
-    - Introduction to Quantum Computing [Slides](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
-    - Quantum Computing vs Security [Slides](https://speakerdeck.com/veorq/quantum-computers-vs-computers-security)
-    - Science Behind Quantum Computing [Slides](https://speakerdeck.com/psibi/science-behind-quantum-computing)
-    - Very Brief QM Introduction [Slides](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
-    - Evolution of Computation [Slides](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
-    - P vs NP vs Quantum [Slides](http://slides.com/peterfitzgibbons/p-vs-np#/)
+    - Introduction to Quantum Computing [:floppy_disk:](https://speakerdeck.com/ericmarcos/introduction-to-quantum-computing)
+    - Quantum Computing vs Security [:floppy_disk:](https://speakerdeck.com/veorq/quantum-computers-vs-computers-security)
+    - Science Behind Quantum Computing [:floppy_disk:](https://speakerdeck.com/psibi/science-behind-quantum-computing)
+    - Very Brief QM Introduction [:floppy_disk:](https://speakerdeck.com/shyuep/nano266-01-introduction-to-quantum-mechanics)
+    - Evolution of Computation [:floppy_disk:](https://speakerdeck.com/danielfbento/computational-physics-from-the-mechanical-to-the-quantum-computation)
+    - P vs NP vs Quantum [:floppy_disk:](http://slides.com/peterfitzgibbons/p-vs-np#/)
 - Papers
     - Quantum Theory from 5 Simple Axioms [:link:](http://arxiv.org/abs/quant-ph/0101012)
 - Education

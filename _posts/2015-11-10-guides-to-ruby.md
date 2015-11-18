@@ -51,7 +51,7 @@ comments: true
     - When monkey patching a method, can you call the overridden method from the new implementation? [:link:](http://stackoverflow.com/questions/4470108/when-monkey-patching-a-method-can-you-call-the-overridden-method-from-the-new-i/4471202#4471202)
     - Refractor Fat ActiveRecord Models [:link:](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 - Slides
-    - What's New in Ruby 2.0 [Slides](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
+    - What's New in Ruby 2.0 [:floppy_disk:](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 - Github
     - Ruby Repository [:link:](https://github.com/ruby/ruby)
     - rbenv [Github](https://github.com/sstephenson/rbenv)

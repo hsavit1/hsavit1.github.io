@@ -46,9 +46,9 @@ comments: true
 - Video
     - Deep Learning: Intelligence from Big Data [:link:](https://www.youtube.com/watch?v=czLI3oLDe8M)
 - Slides
-    - Statistics for Hackers [Slides](https://speakerdeck.com/jakevdp/statistics-for-hackers)
-    - Introduction to Data Science [Slides](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
-    - How to become a data scientist [Slides](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+    - Statistics for Hackers [:floppy_disk:](https://speakerdeck.com/jakevdp/statistics-for-hackers)
+    - Introduction to Data Science [:floppy_disk:](http://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+    - How to become a data scientist [:floppy_disk:](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - Books
     - Mining the Social Web with IPython Notebooks [:link:](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
     

@@ -68,7 +68,7 @@ comments: true
         - Clojure vs Haskell [:link:](https://www.quora.com/Which-power-programming-language-should-I-put-the-effort-into-learning-this-year-Clojure-or-Haskell)
     - Can Clojure replace common LISP? [:link:](https://www.quora.com/Can-Clojure-eventually-replace-Common-Lisp)
 - Slides
-    - Distributed Programming with Clojure [Slides](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
+    - Distributed Programming with Clojure [:floppy_disk:](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
 - Video
     - Clojure.tv Youtube Channel [:link:](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
     - Clojure Screencasts [:link:](http://www.clojurescreencasts.com/)

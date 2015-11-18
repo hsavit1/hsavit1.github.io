@@ -51,8 +51,8 @@ comments: true
     - Pro Git 2nd [:link:](https://github.com/progit/progit2)
     - Learn the Command Line the Hard Way [:link:](http://cli.learncodethehardway.org/book/)
 - Slides
-    - What is Bash? [Slides](https://speakerdeck.com/62gerente/bash-introduction)
-    - HTT-Pie For Humans [Slides](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
+    - What is Bash? [:floppy_disk:](https://speakerdeck.com/62gerente/bash-introduction)
+    - HTT-Pie For Humans [:floppy_disk:](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
 - Github
     - :raised_hands: The Art of the Command Line [:link:](https://github.com/jlevy/the-art-of-command-line)
     - Vundle Vim Plugin Manager [:link:](https://github.com/VundleVim/Vundle.vim)

@@ -69,8 +69,8 @@ comments: true
     - Understanding super() in Python [:link:](http://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
 - Slides
     - 10 Awesome Features of Python 3.# [:link:](https://asmeurer.github.io/python3-presentation/slides.html#1)
-    - Functional Programming in Python [Slides](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
-    - Metaprogramming with Python [Slides](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
+    - Functional Programming in Python [:floppy_disk:](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
+    - Metaprogramming with Python [:floppy_disk:](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
 - Books

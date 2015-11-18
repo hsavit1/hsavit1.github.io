@@ -155,10 +155,10 @@ comments: true
         - Key Differences between Haskell and Standard ML? [:link:](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
 - Slides
     - Haskell's GHC, Illustrated [:link:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
-    - Make Web Apps with Haskell [Slides](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
-    - Introduction to Concurrency Models in Haskell [Slides](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
-    - Thoughtbot: Why Haskell over Ruby [Slides](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
-    - Haskell for Normal People [Slides](http://slides.com/benleggett/haskellpres#/)
+    - Make Web Apps with Haskell [:floppy_disk:](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
+    - Introduction to Concurrency Models in Haskell [:floppy_disk:](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
+    - Thoughtbot: Why Haskell over Ruby [:floppy_disk:](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
+    - Haskell for Normal People [:floppy_disk:](http://slides.com/benleggett/haskellpres#/)
     - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
     - Monad Transformers [:link:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
 - Video

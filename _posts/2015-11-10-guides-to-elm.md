@@ -18,8 +18,8 @@ comments: true
     - From Haskell to Elm [:link:](https://github.com/eeue56/haskell-to-elm)
     - Building Reactive Web Apps [:link:](https://pragmaticstudio.com/elm)
 - Slides
-    - What is Elm? ([Slides](https://speakerdeck.com/jinjor/lets-learn-elm))
-    - Building Web Apps with Elm ([Slides](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
+    - What is Elm? ([:floppy_disk:](https://speakerdeck.com/jinjor/lets-learn-elm))
+    - Building Web Apps with Elm ([:floppy_disk:](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
     - Elm walkthrough web app video course [:link:](https://github.com/evancz/start-app)
 - Posts
     - What is the future of the Elm programming language? [:link:](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)

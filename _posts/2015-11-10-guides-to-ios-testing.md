@@ -19,8 +19,8 @@ comments: true
     - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
     - Network Testing in Swift [Presentation](https://realm.io/news/soffes-swift-network-testing-dvr/)
     - Testing View Controllers with Quick [Presentation](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
-    - TDD By Controlling Dependencies in Swift [Presentation](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [Slides](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
-    - Continuous Delivery for Native Apps [Presentation](), [Slides](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
+    - TDD By Controlling Dependencies in Swift [Presentation](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
+    - Continuous Delivery for Native Apps [Presentation](), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
 - Posts
     - Using the Leaks Instrument [:link:](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [:link:](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
@@ -45,7 +45,7 @@ comments: true
     - Setting up KIF for iOS Acceptance Testing [:link:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
     - Replacing KIF with XCUI Tests [:link:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
 - Slides
-    - :raised_hands: Fastlane for iOS Development [Slides](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
+    - :raised_hands: Fastlane for iOS Development [:floppy_disk:](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 - Github
     - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
     - iOS Snapshot Test Cases [:link:](https://github.com/facebook/ios-snapshot-test-case)

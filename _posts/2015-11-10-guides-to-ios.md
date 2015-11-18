@@ -40,10 +40,10 @@ comments: true
     - iOS App Reverse Engineering Book [:link:](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
     - Ruby Motion Cocoa Wrappers [:link:](https://github.com/rubymotion/BubbleWrap)
 - Slides
-    - REALM vs Core Data [Slides](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
-    - Xcode Bots [Slides](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
-    - Cocoapods vs Carthage [Slides](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
-    - Easy Core Data with Ruby Motion [Slides](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
+    - REALM vs Core Data [:floppy_disk:](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
+    - Xcode Bots [:floppy_disk:](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
+    - Cocoapods vs Carthage [:floppy_disk:](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
+    - Easy Core Data with Ruby Motion [:floppy_disk:](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
 - Posts Coming Soon
     - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
     - What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()

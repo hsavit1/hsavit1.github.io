@@ -79,7 +79,7 @@ comments: true
     - Building a Static Blog with Meteor [:link:](https://meteorhacks.com/building-static-websites-with-meteor)
     - Deploy your app to Scalingo [:link:](http://www.smashingthingstogether.com/deploying-your-app-to-scalingo-meteor-js/)
 - Slides
-    - Why Meteor [Slides](https://speakerdeck.com/grigio/why-meteor)
+    - Why Meteor [:floppy_disk:](https://speakerdeck.com/grigio/why-meteor)
     - A quick introduction to Meteor [:link:](http://slides.com/dasniko/meteor#/)
     - :raised_hands: Exploring the Real Time Web with Meteor [:link:](http://slides.com/cramrov/meteor#/)
     - Intro to Meteor [:link:](https://speakerdeck.com/shrop/intro-to-meteor)

@@ -49,8 +49,8 @@ comments: true
     - Coding for Interviews [:link:](http://codingforinterviews.com/practice)
 - Slides
     - What is Functional Programming [:link:](http://slides.com/gsklee/functional-programming-in-5-minutes#/10)
-    - Go Mad for Monads [Slides](http://slides.com/warrenseymour/go-mad-for-monads#/)
-    - What is Linear Programming? [Slides](http://slides.com/denaeanderson/mathematics#/)
+    - Go Mad for Monads [:floppy_disk:](http://slides.com/warrenseymour/go-mad-for-monads#/)
+    - What is Linear Programming? [:floppy_disk:](http://slides.com/denaeanderson/mathematics#/)
 - Videos
     - :fire: Awesome Computer Talks [:link:](https://github.com/JanVanRyswyck/awesome-talks)
     - How to stay relevant as a programmer [:link:](https://www.youtube.com/watch?v=ZZUY37RQS-k)

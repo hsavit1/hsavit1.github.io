@@ -44,7 +44,7 @@ comments: true
     - K Means Clustering [:link:](https://en.wikipedia.org/wiki/K-means_clustering)
 - Functional Programming 
     - :fire: Awesome Functional Programming [:link:](https://github.com/lucasviola/awesome-functional-programming)
-    - Functional Programming at Facebook [Slides](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
+    - Functional Programming at Facebook [:floppy_disk:](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
     - Why are lists used so much in functional programming? [:link:](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
     - Funtional Programming Concepts Neatly Explained [:link:](https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.md) 
     - Should we make everything functional? [:link:](https://www.quora.com/Is-it-possible-to-implement-every-piece-of-software-using-functional-programming)

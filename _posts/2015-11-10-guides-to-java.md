@@ -51,11 +51,11 @@ comments: true
     - The Architecture of the JVM explained [:link:](http://www.artima.com/insidejvm/ed2/jvm2.html)
     - How does the Java Garbage Collection Algorithm work? [:link:](https://www.quora.com/How-does-the-Java-garbage-collection-algorithm-work)
 - Slides
-    - New Features of Java 8 [Slides](https://speakerdeck.com/adamd/hello-java-8)
-    - Java Refresher [Slides](https://speakerdeck.com/robgthai/refreshing-java)
-    - Android Crash Course [Slides](https://speakerdeck.com/robgthai/android-crash-course-checklist)
-    - Java 8:  Lambdas, Monads and Java Collections [Slides](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
-    - Java Generics [Slides](https://speakerdeck.com/gayashanna/java-generics)
+    - New Features of Java 8 [:floppy_disk:](https://speakerdeck.com/adamd/hello-java-8)
+    - Java Refresher [:floppy_disk:](https://speakerdeck.com/robgthai/refreshing-java)
+    - Android Crash Course [:floppy_disk:](https://speakerdeck.com/robgthai/android-crash-course-checklist)
+    - Java 8:  Lambdas, Monads and Java Collections [:floppy_disk:](https://speakerdeck.com/pivovarit/java-8-lambdas-monads-and-java-collections)
+    - Java Generics [:floppy_disk:](https://speakerdeck.com/gayashanna/java-generics)
 - Github
     + Netflix's fault tolerant Hysterix Project [Github](https://github.com/Netflix/Hystrix)
     + Apache Cassandra [Github](http://cassandra.apache.org/)

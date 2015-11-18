@@ -33,11 +33,11 @@ comments: true
     - How I start with Go [:link:](https://howistart.org/posts/go/1)
     - What is a GOPATH? [:link:](https://golang.org/cmd/go/#hdr-GOPATH_environment_variable)
 - Slides
-    - Organizing Go Code [Slides](https://talks.golang.org/2014/organizeio.slide#1)
-    - :raised_hands: Channels and Concurrency and Go and a few other languages [Slides](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
+    - Organizing Go Code [:floppy_disk:](https://talks.golang.org/2014/organizeio.slide#1)
+    - :raised_hands: Channels and Concurrency and Go and a few other languages [:floppy_disk:](https://speakerdeck.com/kachayev/channels-and-concurrency-go-clojure-erlang-haskell)
     - Channels Are Not Enough... or Why Pipelining Is Not That Easy [:link:](https://gist.github.com/kachayev/21e7fe149bc5ae0bd878)
-    - Go-Lang [Slides](https://speakerdeck.com/ftmamud/golang)
-    - Why Go Works so Well With RethinkDB [Slides](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
+    - Go-Lang [:floppy_disk:](https://speakerdeck.com/ftmamud/golang)
+    - Why Go Works so Well With RethinkDB [:floppy_disk:](https://speakerdeck.com/dancannon/get-go-ing-with-rethinkdb)
 - Videos
     - :raised_hands: Rob Pike on concurrency [video](https://vimeo.com/49718712)
     - Writing, building, installing, and testing Go code [:link:](https://www.youtube.com/watch?v=XCsL89YtqCs)
