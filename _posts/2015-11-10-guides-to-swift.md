@@ -6,10 +6,10 @@ comments: true
 ---
 
 - Cool Posts
-    - :raised_hands: Funtional View Controllers [:link:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
+    - Funtional View Controllers [:link:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - MVVM in Swift [:link:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
     - The Difference between RxSwift and ReactiveCocoa [:link:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons)
-- Cool Links
+- Cool Swift Links
     - Swift Education [:link:](http://swifteducation.github.io/)
     - SwiftStub [:link:](http://swiftstub.com/)
     - Play with Swift [:link:](http://brettbukowski.github.io/SwiftExamples/)
@@ -24,7 +24,9 @@ comments: true
     - SwiftDoc [:link:](http://swiftdoc.org/)
     - iOS Cookies [:link:](http://www.ioscookies.com/)
     - FRP iOS Learning Resources [:link:](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
-    - :fire: Awesome Swift [Link1](https://github.com/matteocrippa/awesome-swift), [Link2](https://github.com/Wolg/awesome-swift)
+    - :fire: Awesome Swift [:link:](https://github.com/matteocrippa/awesome-swift)
+    - :fire: Another Awesome Swift [:link:](https://github.com/Wolg/awesome-swift)
+    - :fire: Awesome Pure Swift [:link:](https://github.com/PureSwift/PureSwiftList)
 - Blogs
     - The Swift Diary [:link:](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [:link:](http://blog.human-friendly.com/tag/swift)
@@ -130,7 +132,7 @@ comments: true
         + Singly Linked List [:link:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
    + Design Patterns
         + Template Method Pattern in Swift [:link:](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
-        + Design Patterns in Swift [Github](https://github.com/ochococo/Design-Patterns-In-Swift)
+        + Design Patterns Library in Swift [:link:](https://github.com/ochococo/Design-Patterns-In-Swift)
         + Creating a Cocoa Bindings Observable Pattern in Swift [:link:](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
         + Observer Pattern in Swift [:link:](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
         + The Sin of Singletons [:link:](https://sandofsky.com/blog/singletons.html) 
@@ -138,12 +140,15 @@ comments: true
         + Segues > Delegation [:link:](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
         + Functions as Factories [:link:](http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1)
         + Conform to Objective C Protocols in Swift [:link:](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
+        + Optional Protocol Methods [:link:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
 - More Posts
     + Application Structure
         + Class or Struct? [:link:](http://faq.sealedabstract.com/structs_or_classes/) 
     + Opinions
         + Wishlist for Swift 3.0 [:link:](https://realm.io/news/swift-3-wishlist/)
         + What are the Worst parts of Swift? [:link:](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
+    + Style
+        + Swift Stye Rules [:link:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
     + Scripting
         + Learn Swift by running Scripts [:link:](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
         + Scripting in Swift is Pretty Awesome! [:link:](http://krakendev.io/blog/scripting-in-swift)
@@ -179,6 +184,7 @@ comments: true
         + Calling a REST Api in Swift [:link:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
         + How to Make REST API Calls and Parse JSON with Swift [:link:](http://devdactic.com/rest-api-parse-json-swift/)
         + HTTP in Swift [:link:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
+        + Reachability Library [:link:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
     + FRP With ReactiveCocoa in Swift 
         + Introduction [:link:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:link:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
@@ -266,8 +272,10 @@ comments: true
     + Type Reflection
         + Simple Reflection in Swift [:link:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
         + Understanding Reflection in Swift and how to use it [:link:](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
-    + Other
+    + Operators Overloading
         + Operator Overloading and JSON Parsing in Swift [:link:](https://realm.io/news/swift-thinking/)
+    + Objective C to Swift
+        + Method Swizzling in Swift [:link:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
     + Language Comparisons
         + Comparing Swift and Javascript [:link:](http://www.mircozeiss.com/swift-for-javascript-developers/)
         + C++ Advice to Swift Devs [:link:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)

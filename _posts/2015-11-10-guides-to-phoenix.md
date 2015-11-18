@@ -18,7 +18,7 @@ comments: true
         - Rails to Phoenix: No more asset pipelines [:link:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
         - Rails to Phoenix: getting started with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
         - Rails to Phoenix: Querying with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
-        - Phoenix Websocket Channel Guts [:link:](http://zohaib.me/guts-of-phoenix-channels/)
+        - :raised_hands: Phoenix Websocket Channel Guts [:link:](http://zohaib.me/guts-of-phoenix-channels/)
     - Application Design
         - Cowboy application design [:link:](http://learningelixir.joekain.com/cowboy-application-design/)
     - News
@@ -49,5 +49,6 @@ comments: true
     - Phoenix + Flux + React [:link:](https://github.com/hsavit1/phoenix-flux-react)
     - Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini [:link:](https://github.com/mroth/phoenix-showdown)
     - Ecto Databse [:link:](https://github.com/elixir-lang/ecto)
+    - Cowboy Repository [:link:](https://github.com/ninenines/cowboy)
 - Books
     - Programming Phoenix [:book:](https://pragprog.com/book/phoenix/programming-phoenix)

@@ -19,18 +19,14 @@ comments: true
     - :fire: A list of companies currently using Elixir [:link:](https://github.com/doomspork/elixir-companies) 
     - Elixire Reg Ex [:link:](http://www.elixre.uk/)
 - Learning
-    - Exploring Pattern Matching in Elixir [:link:](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
-    - More Pattern Matching [:link:](http://eftimov.net/pattern-matching-elixir/)
-    - Understaning Elixir Macros in Pictures [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
-    - Elixir Macros Explained in 5 Posts From the Guru [Link1](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-1.html), [Link2](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-2.html), [Link3](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-3.html), [Link4](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-4.html), [Link5](http://www.theerlangelist.com/2014/06/understanding-elixir-macros-part-5.html)
     - The best resources for Learning Elixir [:link:](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
     - Elixir Experience [:link:](http://elixirexperience.com/)
     - Elixir Quiz [:link:](http://elixirquiz.github.io/)
     - Elixir Express [:link:](https://github.com/chrismccord/elixir_express)
     - Fizzbuzz [:link:](http://www.leighhalliday.com/fizzbuzz-in-elixir)
 - Rerferences
-    - Official Docs [:link:](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
-    - The Unofficial Elixir Documentation [:link:](http://elixir-lang.readthedocs.org/en/latest/index.html)   
+    - :raised_hands: Official Docs [:link:](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
+    - :raised_hands: The Unofficial Elixir Documentation [:link:](http://elixir-lang.readthedocs.org/en/latest/index.html)   
     - :raised_hands: Elixir Language Cheat Sheet [:link:](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
     - Elixir Style Guide [:link:](https://github.com/niftyn8/elixir_style_guide)
     - Use Erlang Term Storage (ETS) to create State [:link:](http://www.erlang.org/doc/man/ets.html)
@@ -54,6 +50,7 @@ comments: true
     - Learning Elixir [:link:](http://learningelixir.joekain.com/)
     - Plataformatec [:link:](http://blog.plataformatec.com.br/tag/elixir/)
     - ElixirDose Blog [:link:](http://www.elixirdose.com/)
+    - The Pug [:link:](http://thepugautomatic.com/)
 - Posts
     - Opinions
         - Why Elixir over Go? [:link:](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
@@ -65,20 +62,31 @@ comments: true
         - Elixir is _not_ Ruby [:link:](http://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
         - Can Elixir be used for finance? [:link:]
     - Language Related
-        - Lispy Elixir [:link:](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
-        - OTP: A Functional Approach [:link:](https://viget.com/extend/otp-ocaml-haskell-elixir)
-        - The Erlangist: Understanding Elixir Macros Part 1 [:link:](http://www.theerlangelist.com/article/macros_1), Part 2 [:link:](http://www.theerlangelist.com/article/macros_2), Part 3 [:link:](http://www.theerlangelist.com/article/macros_3), Part 4 [:link:](http://www.theerlangelist.com/article/macros_4), Part 5 [:link:](http://www.theerlangelist.com/article/macros_5), Part 6 [:link:](http://www.theerlangelist.com/article/macros_6)
-        - Understanding Elixir Macros [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
-        - Expressing Intent Via Pattern Matching [:link:](http://eftimov.net/pattern-matching-intent/)
-        - Elixir Stream Patterns [:link:](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
-        - List Operations in Elixir [:link:](http://learningelixir.joekain.com/list-ops/)
+        - OTP
+            - OTP: A Functional Approach [:link:](https://viget.com/extend/otp-ocaml-haskell-elixir)
+        - Macros
+            - Understaning Elixir Macros in Pictures [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
+            - The Erlangist: Understanding Elixir Macros Part 1 [:link:](http://www.theerlangelist.com/article/macros_1), Part 2 [:link:](http://www.theerlangelist.com/article/macros_2), Part 3 [:link:](http://www.theerlangelist.com/article/macros_3), Part 4 [:link:](http://www.theerlangelist.com/article/macros_4), Part 5 [:link:](http://www.theerlangelist.com/article/macros_5), Part 6 [:link:](http://www.theerlangelist.com/article/macros_6)
+            - Understanding Elixir Macros [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
+        - Streams 
+            - Elixir Stream Patterns [:link:](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
+        - Lists
+            - List Operations in Elixir [:link:](http://learningelixir.joekain.com/list-ops/)
+        - Pattern Matching
+            - Exploring Pattern Matching in Elixir [:link:](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
+            - More Pattern Matching [:link:](http://eftimov.net/pattern-matching-elixir/)
+            - Expressing Intent Via Pattern Matching [:link:](http://eftimov.net/pattern-matching-intent/)
     - Testing
+        - Using ESpec [:link:](http://thepugautomatic.com/2015/10/how-to-expect-to-in-elixir/)
         - ExMaxhina for Elixir: Factories with a Functional Twist [:link:](https://robots.thoughtbot.com/announcing-ex-machina)
+        - Testing Compile Time Exceptions [:link:](http://thepugautomatic.com/2015/09/testing-compile-time-exceptions-in-elixir/)
+        - Testing Callbacks [:link:](http://thepugautomatic.com/2015/09/testing-callbacks-in-elixir/)
     - Developement Related
         - Better pipelines with Mondadex [:link:](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
         - Designing OTP Applications in Elixir [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
         - Railway Oriented Programming in Elixir [:link:](http://zohaib.me/railway-programming-pattern-in-elixir/)
         - Designing with OTP in mind [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
+        - Lispy Elixir [:link:](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
