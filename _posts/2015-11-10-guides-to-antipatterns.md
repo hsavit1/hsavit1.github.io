@@ -6,5 +6,5 @@ comments: true
 ---
 
 - Posts
-    - What is Buffer Overflow? [Link](https://en.wikipedia.org/wiki/Buffer_overflow)
-    - What is a Dangling Pointer? [Link](https://en.wikipedia.org/wiki/Dangling_pointer)
+    - What is Buffer Overflow? [:link:](https://en.wikipedia.org/wiki/Buffer_overflow)
+    - What is a Dangling Pointer? [:link:](https://en.wikipedia.org/wiki/Dangling_pointer)

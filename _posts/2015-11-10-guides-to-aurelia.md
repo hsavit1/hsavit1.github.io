@@ -7,6 +7,6 @@ comments: true
 
 - Links
 - Posts
-    - Aurelia or React? [Link](http://ilikekillnerds.com/2015/03/aurelia-vs-react-js-based-on-actual-use/)
+    - Aurelia or React? [:link:](http://ilikekillnerds.com/2015/03/aurelia-vs-react-js-based-on-actual-use/)
 - Github
     - Aurelia 

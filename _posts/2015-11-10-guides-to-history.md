@@ -6,9 +6,9 @@ comments: true
 ---
 
 - Links
-    - Timeline of computing history [Link](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
+    - Timeline of computing history [:link:](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 - Posts
-    - What's the cultural relationship between programming language theory and theoretical computer science? [Link](https://www.quora.com/Whats-the-cultural-relationship-between-programming-language-theory-and-theoretical-computer-science) 
+    - What's the cultural relationship between programming language theory and theoretical computer science? [:link:](https://www.quora.com/Whats-the-cultural-relationship-between-programming-language-theory-and-theoretical-computer-science) 
 - Slides
     - The Mythical Man Month Quick Summary [Slides](http://www.slideshare.net/MrCracker/the-mythical-man-month-49226879)
 - Video

@@ -6,19 +6,19 @@ comments: true
 ---
 
 - Links
-    - :raised_hands: Gitbook [Link](https://github.com/GitbookIO/gitbook) 
-    - Reveal.js [Link](https://github.com/hakimel/reveal.js/)
-    - Example Presentation List With Reveal.js & slides.com [Link](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
-    - Bespoke.js [Link](https://github.com/markdalgleish/bespoke.js)
-    - Impress.js [Link](https://github.com/impress/impress.js)
-    - Deck.js [Link](http://imakewebthings.com/deck.js/#intro)
-    - Remark [Link](https://github.com/gnab/remark)
-    - JSON Resume Builder [Link](http://www.prat0318.me/json_resume/)
+    - :raised_hands: Gitbook [:link:](https://github.com/GitbookIO/gitbook) 
+    - Reveal.js [:link:](https://github.com/hakimel/reveal.js/)
+    - Example Presentation List With Reveal.js & slides.com [:link:](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+    - Bespoke.js [:link:](https://github.com/markdalgleish/bespoke.js)
+    - Impress.js [:link:](https://github.com/impress/impress.js)
+    - Deck.js [:link:](http://imakewebthings.com/deck.js/#intro)
+    - Remark [:link:](https://github.com/gnab/remark)
+    - JSON Resume Builder [:link:](http://www.prat0318.me/json_resume/)
 - Github
     - Emoji Markdown CheatSheet [Github](https://github.com/arvida/emoji-cheat-sheet.com/)
-    - Markdown Resume Builder [Link](http://mwhite.github.io/resume/)
+    - Markdown Resume Builder [:link:](http://mwhite.github.io/resume/)
 - Posts
-    - How to be that one person that everyone wants to know [Link](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39)
+    - How to be that one person that everyone wants to know [:link:](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39)
 - Hackathons
-    - MLH [Link](https://mlh.io/seasons/f2014/events)
-    - Calendar [Link](https://github.com/japacible/Hackathon-Calendar)
+    - MLH [:link:](https://mlh.io/seasons/f2014/events)
+    - Calendar [:link:](https://github.com/japacible/Hackathon-Calendar)

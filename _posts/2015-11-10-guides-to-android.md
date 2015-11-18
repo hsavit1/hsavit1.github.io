@@ -18,5 +18,5 @@ comments: true
     - :fire: :raised_hands: Codepath Android Guide [:link:](https://github.com/codepath/android_guides)
     - Official Android Pages [:link:](http://developer.android.com/training/index.html)
 - Slides
-    - Android for iOS Devs [Slides](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
-    - Java vs Scala for Android Dev [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
+    - Android for iOS Devs [:floppy_disk:](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
+    - Java vs Scala for Android Dev [:floppy_disk:](https://speakerdeck.com/raulraja/painless-android-development-with-scala)

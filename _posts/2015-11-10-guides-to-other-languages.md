@@ -7,78 +7,78 @@ comments: true
 
 
 - Links
-    - :fire: Awesome Nim [Link](https://github.com/VPashkov/awesome-nim)
-    - :fire: Awesome Julia [Link](https://github.com/svaksha/Julia.jl)
-    - :fire: Awesome Crystal [Link](https://github.com/veelenga/awesome-crystal)
-    - :fire: Awesome Common Lisp [Link](https://github.com/CodyReichert/awesome-cl)
-    - :fire: Awesome OCaml [Link](https://github.com/rizo/awesome-ocaml)
-    - The Standard ML Language Family [Link](https://github.com/SMLFamily)
+    - :fire: Awesome Nim [:link:](https://github.com/VPashkov/awesome-nim)
+    - :fire: Awesome Julia [:link:](https://github.com/svaksha/Julia.jl)
+    - :fire: Awesome Crystal [:link:](https://github.com/veelenga/awesome-crystal)
+    - :fire: Awesome Common Lisp [:link:](https://github.com/CodyReichert/awesome-cl)
+    - :fire: Awesome OCaml [:link:](https://github.com/rizo/awesome-ocaml)
+    - The Standard ML Language Family [:link:](https://github.com/SMLFamily)
     - Getting Started with Purescript [Slides](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
 - Books 
     - Lisp
-        - Common Lisp: A Gentle Introduction to Symbolic Computation [Link](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
-        - Let over Lambda - 50 Years of Lisp [Link](http://letoverlambda.com/)
-        - Common Lisp: The Language [Link](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
-        - The Common Lisp Cookbook [Link](http://cl-cookbook.sourceforge.net/)
+        - Common Lisp: A Gentle Introduction to Symbolic Computation [:link:](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
+        - Let over Lambda - 50 Years of Lisp [:link:](http://letoverlambda.com/)
+        - Common Lisp: The Language [:link:](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
+        - The Common Lisp Cookbook [:link:](http://cl-cookbook.sourceforge.net/)
 - Reference 
     - Lisp
-        - Common Lisp Tips [Link](http://lisptips.com/)
-        - Common Lisp Quick Reference [Link](http://clqr.boundp.org/index.html)
-        - What is the "cons" operator in Lisp ? [Link](https://en.wikipedia.org/wiki/Cons)
+        - Common Lisp Tips [:link:](http://lisptips.com/)
+        - Common Lisp Quick Reference [:link:](http://clqr.boundp.org/index.html)
+        - What is the "cons" operator in Lisp ? [:link:](https://en.wikipedia.org/wiki/Cons)
     - Prolog
-        - Learn Prolog via Examples [Link](http://kti.ms.mff.cuni.cz/~bartak/prolog.old/learning.html)
+        - Learn Prolog via Examples [:link:](http://kti.ms.mff.cuni.cz/~bartak/prolog.old/learning.html)
 - Practice 
-    - 99 Prolog Problems [Link](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
-    - 99 Lisp Problems [Link](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
+    - 99 Prolog Problems [:link:](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
+    - 99 Lisp Problems [:link:](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 - Github Repositories and Other Helpful Links
     - OCaml
-        - OCaml website [Link](https://ocaml.org/)
+        - OCaml website [:link:](https://ocaml.org/)
     - Julia
-        - Julia Github Repo [Link](https://github.com/JuliaLang/julia)
-        - IJulia [Link](https://github.com/JuliaLang/IJulia.jl)
+        - Julia Github Repo [:link:](https://github.com/JuliaLang/julia)
+        - IJulia [:link:](https://github.com/JuliaLang/IJulia.jl)
     - F#
-        - F# Github Repo [Link](https://github.com/fsharp/fsharp)
-        - F# for fun and profit [Link](http://fsharpforfunandprofit.com/)
+        - F# Github Repo [:link:](https://github.com/fsharp/fsharp)
+        - F# for fun and profit [:link:](http://fsharpforfunandprofit.com/)
     - Purescript
-        - Purescript Github Repo [Link](https://github.com/purescript/purescript)
+        - Purescript Github Repo [:link:](https://github.com/purescript/purescript)
     - Crystal
-        - Crystal Github Repo [Link](https://github.com/manastech/crystal)
+        - Crystal Github Repo [:link:](https://github.com/manastech/crystal)
     - Nim
-        - Nim Github Repo [Link](https://github.com/nim-lang/Nim)
+        - Nim Github Repo [:link:](https://github.com/nim-lang/Nim)
     - Livescript
-        - LiveScript Github Repo [Link](https://github.com/gkz/LiveScript/)
+        - LiveScript Github Repo [:link:](https://github.com/gkz/LiveScript/)
     - Mercury
-        - Mercury Language (Logic Programming) [Link](https://github.com/Mercury-Language/mercury)
+        - Mercury Language (Logic Programming) [:link:](https://github.com/Mercury-Language/mercury)
     - Streem
-        - Streem Lanuage Github Repo [Link](https://github.com/matz/streem)
+        - Streem Lanuage Github Repo [:link:](https://github.com/matz/streem)
     - OCaml
-        - OCaml Github Page [Link](https://github.com/ocaml/ocaml)
+        - OCaml Github Page [:link:](https://github.com/ocaml/ocaml)
     - Harlan
-        - Harlan GPU Computing [Link](https://github.com/eholk/harlan)
+        - Harlan GPU Computing [:link:](https://github.com/eholk/harlan)
     - Gambit
-        - Gambit (Scheme Evolved) [Link](https://github.com/feeley/gambit)
+        - Gambit (Scheme Evolved) [:link:](https://github.com/feeley/gambit)
     - Racket
-        - Racket Programming Language [Link](https://github.com/racket/racket)
-        - The Racket Guide [Link](http://docs.racket-lang.org/guide/)
-        - Pollen Project [Link](http://pollenpub.com/)
+        - Racket Programming Language [:link:](https://github.com/racket/racket)
+        - The Racket Guide [:link:](http://docs.racket-lang.org/guide/)
+        - Pollen Project [:link:](http://pollenpub.com/)
     - Pixie 
-        - Pixit Programming Language [Link](https://github.com/pixie-lang/pixie)
+        - Pixit Programming Language [:link:](https://github.com/pixie-lang/pixie)
     - D
-        - D Programming Language [Link](https://github.com/D-Programming-Language/dmd)
+        - D Programming Language [:link:](https://github.com/D-Programming-Language/dmd)
     - Kotlin
-        - Kotlin Programming Language [Link](https://github.com/JetBrains/kotlin)
+        - Kotlin Programming Language [:link:](https://github.com/JetBrains/kotlin)
 - Posts
-    - Why would anybody learn Racket? [Link](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages)
-    - Why learn LISP? [Link](https://www.quora.com/topic/Lisp-programming-language)
-    - Write yourself a Scheme in 48 hours [Link](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-    - Try Logic Programming! A Gentle into to Prolog [Link](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
-    - What is the future of Julia? [Link](https://www.quora.com/Will-Julia-eventually-replace-Python)
-    - Julia's advantages over Python and R explained [Link](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
-    - Compaing MATLAB/Octave, Python NumPy, R, and Julia [Link](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
-    - How is F# Doing in Industry? [Link](https://www.quora.com/How-is-F-going-at-the-moment-Is-there-any-application-built-with-F)
-    - Why I'm Betting on Julia [Link](http://www.evanmiller.org/why-im-betting-on-julia.html)
+    - Why would anybody learn Racket? [:link:](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages)
+    - Why learn LISP? [:link:](https://www.quora.com/topic/Lisp-programming-language)
+    - Write yourself a Scheme in 48 hours [:link:](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+    - Try Logic Programming! A Gentle into to Prolog [:link:](https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/)
+    - What is the future of Julia? [:link:](https://www.quora.com/Will-Julia-eventually-replace-Python)
+    - Julia's advantages over Python and R explained [:link:](https://www.quora.com/What-are-the-advantages-of-Julia-over-Python-and-R-besides-the-speed)
+    - Compaing MATLAB/Octave, Python NumPy, R, and Julia [:link:](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
+    - How is F# Doing in Industry? [:link:](https://www.quora.com/How-is-F-going-at-the-moment-Is-there-any-application-built-with-F)
+    - Why I'm Betting on Julia [:link:](http://www.evanmiller.org/why-im-betting-on-julia.html)
 - Slides
     - There is Prolog in your Scala! [Slides](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
     - Introduction to Prolog [Slides](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
 - Tutorial
-    - How I start with Nim [Link](https://howistart.org/posts/nim/1)
+    - How I start with Nim [:link:](https://howistart.org/posts/nim/1)

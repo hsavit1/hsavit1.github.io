@@ -33,6 +33,7 @@ comments: true
     - Use Your Loaf [:link:](http://useyourloaf.com/blog/archives/)
     - Chris Eidhof [:link:](http://chris.eidhof.nl)
     - Martin Todorov [:link:](http://www.underplot.com)
+    - Uramio [:link:](http://www.uraimo.com/archive.html)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [:link:](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [:link:](http://ios-goodies.com/)
