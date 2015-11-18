@@ -39,6 +39,7 @@ comments: true
     - MEAN is Great, but then you grow up [Link](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
     - Angular vs Backbone [Link](https://www.quora.com/How-do-Angular-js-and-Backbone-js-compare)
     - Hardcore Angular Optimization [Link](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
+    - Understanding AngularJS MVW Design Pattern [Link](http://stackoverflow.com/questions/20286917/angularjs-understanding-design-pattern)
 - Books
     - Backbone.js Applications by Addy Osmani [Link](http://addyosmani.github.io/backbone-fundamentals/)
 - Slides

@@ -59,6 +59,8 @@ comments: true
 - Design Patterns
     - Great Design Patterns Website [Link](http://www.oodesign.com/)
     - Design Patterns Quora Page [Link](https://www.quora.com/Design-Patterns)
+    - What's the difference between MVC and MVP? [Link](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference?rq=1)
+    - What's the difference between the template method pattern and the strategy pattern? [Link](http://stackoverflow.com/questions/669271/what-is-the-difference-between-the-template-method-and-the-strategy-patterns)
 - Videos
     - Princeton Algorithms Course on Coursera [Link](https://www.coursera.org/course/algs4partI)
 - Complexity
