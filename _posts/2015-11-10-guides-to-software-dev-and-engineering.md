@@ -6,16 +6,16 @@ comments: true
 ---
 
 - Links
-    - :fire: Awesome Continuous Integration [Link](https://github.com/ciandcd/awesome-ciandcd)
-    - :fire: Awesome Electron [Link](https://github.com/sindresorhus/awesome-electron)
-    - :fire: Awesome Programming Style Guides [Link](https://github.com/NARKOZ/guides)
-    - :fire: Awesome READMEs [Link](https://github.com/matiassingers/awesome-readme)
-    - :fire: Awesome Continuous Delivery Books [Link](https://github.com/stack72/ops-books)
-    - :fire: Awesome Documentation [Link](https://github.com/PharkMillups/beautiful-docs)
+    - :fire: Awesome Continuous Integration [:link:](https://github.com/ciandcd/awesome-ciandcd)
+    - :fire: Awesome Electron [:link:](https://github.com/sindresorhus/awesome-electron)
+    - :fire: Awesome Programming Style Guides [:link:](https://github.com/NARKOZ/guides)
+    - :fire: Awesome READMEs [:link:](https://github.com/matiassingers/awesome-readme)
+    - :fire: Awesome Continuous Delivery Books [:link:](https://github.com/stack72/ops-books)
+    - :fire: Awesome Documentation [:link:](https://github.com/PharkMillups/beautiful-docs)
 - Tutorial
-    - Agile Methodology Tutorial [Link](http://www.tutorialspoint.com/agile/index.htm)
+    - Agile Methodology Tutorial [:link:](http://www.tutorialspoint.com/agile/index.htm)
 - Slides
-    - The Mythical Team Month [Slides](https://speakerdeck.com/searls/the-mythical-team-month)
+    - The Mythical Team Month [:floppy_disk:](https://speakerdeck.com/searls/the-mythical-team-month)
 - References
-    - Continuous integration patterns and antipatterns [Link](https://dzone.com/refcardz/continuous-integration) 
-    - Refractiong Patterns [Link](https://dzone.com/refcardz/refactoring-patterns)
+    - Continuous integration patterns and antipatterns [:link:](https://dzone.com/refcardz/continuous-integration) 
+    - Refractiong Patterns [:link:](https://dzone.com/refcardz/refactoring-patterns)

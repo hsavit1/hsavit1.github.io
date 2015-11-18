@@ -50,6 +50,7 @@ comments: true
     - Generators and Coroutines in Ruby [:link:](http://blog.ontoillogical.com/blog/2014/07/21/delimited-continuations-in-ruby-part-2/)
     - When monkey patching a method, can you call the overridden method from the new implementation? [:link:](http://stackoverflow.com/questions/4470108/when-monkey-patching-a-method-can-you-call-the-overridden-method-from-the-new-i/4471202#4471202)
     - Refractor Fat ActiveRecord Models [:link:](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+    - How do I know if my Rails app is thread safe? [:link:](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/)
 - Slides
     - What's New in Ruby 2.0 [:floppy_disk:](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 - Github

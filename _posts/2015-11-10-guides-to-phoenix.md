@@ -7,20 +7,22 @@ comments: true
 
 - Links
     - Hacker News Phoenix Creator AMA [:link:](https://news.ycombinator.com/item?id=8671618)
-    - Phoenix vs Ruby on Rails (Sinatra-Like Frameworks) and [Benchmarks](https://github.com/hsavit1/phoenix-showdown)
     - Phoenix Website [:link:](http://www.phoenixframework.org/docs/overview)
+- References
     - Official Guide [:link:](http://www.phoenixframework.org/docs/up-and-running)
-    - Phoenix + Flux + React [:link:](https://github.com/hsavit1/phoenix-flux-react)
-    - ElixirDose Blog [:link:](http://www.elixirdose.com/)
-    - Ecto Databse [:link:](https://github.com/elixir-lang/ecto)
-    - Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini... [:link:](https://github.com/mroth/phoenix-showdown)
-    - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
 - Posts
-    - Phoenix or Meteor? [:link:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
-    - Rails to Phoenix: No more asset pipelines [:link:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
-    - Rails to Phoenix: getting started with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
-    - Rails to Phoenix: Querying with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
-    - Cowboy application design [:link:](http://learningelixir.joekain.com/cowboy-application-design/)
+    - Opinions
+        - Phoenix or Meteor? [:link:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
+        - What makes Phoenix so exciting? [:link:](http://jerel.co/blog/2015/11/why-im-excited-about-elixir-and-phoenix)
+    - Learning 
+        - Rails to Phoenix: No more asset pipelines [:link:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
+        - Rails to Phoenix: getting started with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
+        - Rails to Phoenix: Querying with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
+        - Phoenix Websocket Channel Guts [:link:](http://zohaib.me/guts-of-phoenix-channels/)
+    - Application Design
+        - Cowboy application design [:link:](http://learningelixir.joekain.com/cowboy-application-design/)
+    - News
+        - The road to 2 MILLION websocket connections [:link:](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 - Slides
     - Rise of the Phoenix Framework [:floppy_disk:](http://slides.com/chrismccord/rise-of-the-phoenix#/)
     - Pheonix Framework Very Short Demo [:floppy_disk:](https://speakerdeck.com/maveonair/phoenix-framework)
@@ -33,14 +35,19 @@ comments: true
     - Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
     - Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
     - Writing a Blog Engine in Phoenix Series [:link:](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.2n6x0a5bx)
+    - Using Phoenix with Elm [:link:](http://www.cultivatehq.com/posts/phoenix-elm-1/)
+    - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
 - Video
-    - ElixirConf 2015: What's next for Phoenix? [:link:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
-    - ElixirConf 2015: Using Phoenix with Elm [:link:](https://www.youtube.com/watch?v=MgFDZx1LmOE)
-    - Phoenix: A framework for the modern web [:link:](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
-    - Phoenix Screencasts [:link:](http://phoenixscreencasts.com/episodes)
-    - Phoenix takes Flight [:link:](http://www.chrismccord.com/blog/2015/05/09/elixirconfeu-keynote-phoenix-takes-flight/)
+    - ElixirConf 2015: What's next for Phoenix? [:movie_camera:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
+    - ElixirConf 2015: Using Phoenix with Elm [:movie_camera:](https://www.youtube.com/watch?v=MgFDZx1LmOE)
+    - Phoenix: A framework for the modern web [:movie_camera:](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
+    - Phoenix Screencasts [:movie_camera:](http://phoenixscreencasts.com/episodes)
+    - Phoenix takes Flight [:movie_camera:](http://www.chrismccord.com/blog/2015/05/09/elixirconfeu-keynote-phoenix-takes-flight/)
 - Github
     - Phoenix Chat Example [:link:](https://github.com/chrismccord/phoenix_chat_example)
     - Phoenix and Elm combined [:link:](https://github.com/CultivateHQ/seat_saver)
+    - Phoenix + Flux + React [:link:](https://github.com/hsavit1/phoenix-flux-react)
+    - Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini [:link:](https://github.com/mroth/phoenix-showdown)
+    - Ecto Databse [:link:](https://github.com/elixir-lang/ecto)
 - Books
-    - Programming Phoenix [:link:](https://pragprog.com/book/phoenix/programming-phoenix)
+    - Programming Phoenix [:book:](https://pragprog.com/book/phoenix/programming-phoenix)
