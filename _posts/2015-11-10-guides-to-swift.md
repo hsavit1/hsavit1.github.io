@@ -32,6 +32,7 @@ comments: true
     - NSBlog with Mike Ask [Link](https://www.mikeash.com/pyblog/)
     - Use Your Loaf [Link](http://useyourloaf.com/blog/archives/)
     - Chris Eidhof [Link](http://chris.eidhof.nl)
+    - Martin Todorov [Link](http://www.underplot.com)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [Link](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [Link](http://ios-goodies.com/)
@@ -59,12 +60,12 @@ comments: true
     - Swift Design Patterns [Slides](http://www.slideshare.net/micheletitolo/cocoa-design-patterns-in-swift?qid=7d2c3760-f640-49be-b204-25d086da4e78&v=qf1&b=&from_search=7)
     - Advanced Type Safety in Swift [Slides](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [Presentation](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
     - Lessons from Production Swift [Slides](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
-    - Emerging Best Practices in Swift [Slides](https://speakerdeck.com/ashfurrow/emerging-best-practices-in-swift)
     - Swift Performance [Slides](http://blog.human-friendly.com/swift-performance-iosdevuk)
     - The monad among us [Slides](https://speakerdeck.com/swiftsummit/al-skipp-the-monad-among-us)
     - { JSON, Swift, and Type Safety } [Slides](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
+    - MagicalRecord <3 Swift [Link](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
 - Presentations
-    - Emerging best practices in Swift [Link](https://www.youtube.com/watch?index=40&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59&v=YsUTuwpbURA)
+    - Emerging best practices in Swift [Presentation](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
     - Refractor the Mega Controller [Presentation](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
     - Using Core Data with Swift [Presentation](https://realm.io/news/jesse-squires-core-data-swift/)
     - 250 Days of using VIPER Architecture with Swift [Presentation](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
@@ -87,8 +88,11 @@ comments: true
     - * Oriented Programming [Presentation](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - FRP in Swift 2.0 [Presentation](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
     - Metal and Swift [Presenetation](https://realm.io/news/swift-summit-simon-gladman-metal/)
-    - LLVM and Swift [Link](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
-    - The astonishing powers of 3D Touch [Link](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
+    - LLVM and Swift [Presenetation](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+    - The astonishing powers of 3D Touch [Presenetation](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
+    - AdaptiveUI Animations [Presentation](https://www.youtube.com/watch?v=Z8QA9IYB67o&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=48) and [Slides](http://gotocon.com/dl/goto-cph-2015/slides/SamDavies_AdaptiveUI.pdf)
+    - iOS Animations with AutoLayout [Presentation](https://www.youtube.com/watch?v=N5Ert6LTruY&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=45) and  [Slides](http://gotocon.com/dl/goto-cph-2015/slides/MarinTodorov_IOSAnimationsWithAutoLayout.pdf) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
+    - Core Data in 2015 and Magical Record in Swift [Link](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
 - WWDC Presentations
     + Search through WWDC Presentations [Link](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [Link](https://developer.apple.com/sample-code/wwdc/2015/)
@@ -131,6 +135,8 @@ comments: true
         + The Sin of Singletons [Link](https://sandofsky.com/blog/singletons.html) 
         + The Null Object Pattern [Link](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
         + Segues > Delegation [Link](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
+        + Functions as Factories [Link](http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1)
+        + Conform to Objective C Protocols in Swift [Link](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
 - More Posts
     + Application Structure
         + Class or Struct? [Link](http://faq.sealedabstract.com/structs_or_classes/) 
@@ -144,6 +150,8 @@ comments: true
         + Methods of concurrency — GCD, agents, tasks and invocations [Link](http://overooped.com/post/41803252527/methods-of-concurrency)
     + Functional 
         + Monads & C# Tasks in Swift [Link](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
+        + Introduction to Function Currying in Swift [Link](https://robots.thoughtbot.com/introduction-to-function-currying-in-swift)
+        + Practical Use of Curried Functions in Swift [Link](http://www.drewag.me/posts/practical-use-for-curried-functions-in-swift)
         + Composing functions in Swift [Link](http://railsware.com/blog/2014/06/17/composing-functions-in-swift/)
         + Swift is _not_ functional [Link](https://www.reddit.com/r/swift/comments/281jqe/rob_napier_swift_is_not_functional/)
         + Functional Paradigms in Swift [Link](http://blog.tackmobile.com/article/functional-paradigms-in-swift/)
@@ -153,6 +161,7 @@ comments: true
         + Function Params are Tuples in Swift [Link](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/)
         + weak vs unowned [Link](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
         + Lenses in Swift [Link](http://chris.eidhof.nl/posts/lenses-in-swift.html)
+        + Prelude Library [Link](https://github.com/robrix/Prelude)
     + Interview Situations
         + Ray Wenderlich [Link](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
         + Toptal [Link](http://www.toptal.com/swift/interview-questions)
@@ -162,6 +171,9 @@ comments: true
         + Macroscopic iOS interview questions [Link](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
     + Web Services and Networking
         + Calling APIs and Parsing JSON with Swift [Link](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
+        + Parsing Embedded JSON and Arrays in Swift [Link](https://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift)
+        + Real World JSON Parsing [Link](https://robots.thoughtbot.com/real-world-json-parsing-with-swift)
+        + Efficient JSON Parsing with Functional Concepts [Link](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
         + Calling a REST Api in Swift [Link](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
         + How to Make REST API Calls and Parse JSON with Swift [Link](http://devdactic.com/rest-api-parse-json-swift/)
         + HTTP in Swift [Link](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)

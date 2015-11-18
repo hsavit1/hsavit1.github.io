@@ -19,6 +19,8 @@ comments: true
     - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
     - Network Testing in Swift [Presentation](https://realm.io/news/soffes-swift-network-testing-dvr/)
     - Testing View Controllers with Quick [Presentation](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
+    - TDD By Controlling Dependencies in Swift [Presentation](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [Slides](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
+    - Continuous Delivery for Native Apps [Presentation](), [Slides](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
 - Posts
     - Using the Leaks Instrument [Link](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [Link](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)

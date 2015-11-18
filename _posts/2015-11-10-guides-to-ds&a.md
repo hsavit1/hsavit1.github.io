@@ -15,6 +15,8 @@ comments: true
     - Data Structures for competitive programmers [Link](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
     - Open Data Structures Textbook [Link](http://opendatastructures.org/)
     - Bloom Filters by Example [Link](http://billmill.org/bloomfilter-tutorial/)
+- Reference
+    - Algorithms Cheat Sheet [Link](http://algs4.cs.princeton.edu/cheatsheet/)
 - Tutorial
     - Parallel Programming Algorithms Tutorial [Link](http://www.tutorialspoint.com/parallel_algorithm/index.htm)
     - Software Architecture and Design Tutorial [Link](http://www.tutorialspoint.com/software_architecture_design/index.htm)
