@@ -88,7 +88,7 @@ comments: true
     - * Oriented Programming [:movie_camera:](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - FRP in Swift 2.0 [:movie_camera:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
     - Metal and Swift [:movie_camera:](https://realm.io/news/swift-summit-simon-gladman-metal/)
-    - LLVM and Swift [:movie_camera](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+    - LLVM and Swift [:movie_camera:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
     - The astonishing powers of 3D Touch [:movie_camera:](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
     - AdaptiveUI Animations [:movie_camera:](https://www.youtube.com/watch?v=Z8QA9IYB67o&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=48) and [:videocassette:](http://gotocon.com/dl/goto-cph-2015/slides/SamDavies_AdaptiveUI.pdf)
     - iOS Animations with AutoLayout [:movie_camera:](https://www.youtube.com/watch?v=N5Ert6LTruY&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=45) and  [:videocassette:](http://gotocon.com/dl/goto-cph-2015/slides/MarinTodorov_IOSAnimationsWithAutoLayout.pdf) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
