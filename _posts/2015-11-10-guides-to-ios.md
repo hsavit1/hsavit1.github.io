@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to iOS, OSX, Cocoa, and Design"
+title:  "Guide to iOS, OSX, watchOS, tvOS, Cocoa, and Design"
 date:   2015-11-10 17:20:15
 comments: true
 ---
@@ -63,6 +63,7 @@ comments: true
 - Posts
     + tvOS
         + Storing user information on tvOS [:link:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
+        + Authentiate tvOS apps with iOS [:link:](https://github.com/rsattar/Voucher)
     + watchOS
 - Presentations
     - tvOS
