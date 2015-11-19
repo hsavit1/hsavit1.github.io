@@ -42,6 +42,7 @@ comments: true
     - How testing has improved in Swift 2 [:link:](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
     - TDD with FBSnapShotTestCase [:link:](http://devmonologue.com/ios/category/test-driven-development/)
 - Tutorials
+    - How to configure Travis CI for iOS Testing [:link:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
     - Setting up KIF for iOS Acceptance Testing [:link:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
     - Replacing KIF with XCUI Tests [:link:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
 - Slides
