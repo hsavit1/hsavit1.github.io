@@ -48,6 +48,7 @@ comments: true
     - How to Desugar Haskell Code [:link:](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
     - :raised_hands: Typeclassopedia [:link:](https://wiki.haskell.org/Typeclassopedia)
     - Standard Haskell Classes [:link:](https://en.wikibooks.org/wiki/Haskell/Classes_and_types#/media/File:Classes.svg)
+    - Testing with QuickCheck [:link:](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
 - Books
     - Purely Functional Data Structures [:link:](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [:link:](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)

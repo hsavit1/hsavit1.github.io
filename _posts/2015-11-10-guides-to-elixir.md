@@ -24,6 +24,7 @@ comments: true
     - Elixir Quiz [:link:](http://elixirquiz.github.io/)
     - Elixir Express [:link:](https://github.com/chrismccord/elixir_express)
     - Fizzbuzz [:link:](http://www.leighhalliday.com/fizzbuzz-in-elixir)
+    - A gentle introduction [:link:](https://pragprog.com/magazines/2013-06/programming-elixir)
 - Rerferences
     - :raised_hands: Official Docs [:link:](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
     - :raised_hands: The Unofficial Elixir Documentation [:link:](http://elixir-lang.readthedocs.org/en/latest/index.html)   

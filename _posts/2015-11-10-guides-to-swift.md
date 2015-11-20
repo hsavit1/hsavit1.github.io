@@ -123,6 +123,7 @@ comments: true
         - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
         - Introduction to Realm [:link:](http://www.raywenderlich.com/81615/introduction-to-realm)
         - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
+        - Realm Best Practices [:electric_plug:](http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices)
         - Realm Repo [:electric_plug:](https://github.com/realm/realm-cocoa)
     - Core Data
         + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)

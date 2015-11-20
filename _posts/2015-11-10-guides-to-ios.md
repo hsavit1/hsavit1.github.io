@@ -21,8 +21,11 @@ comments: true
         - How iOS 9's Quick Actions Shortcut Works [:link:](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
         - Peek and Pop in iOS 9 [:link:](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
         - Weigh your fruit with 3D Touch [:link:](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
+        - UITouchType.Stylus [:link:](http://www.russbishop.net/uitouchtypestylus?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
     - Xcode
         - Tips for using IB [:link:](http://merowing.info/2015/11/tips-for-interface-builder/)
+    - iBeacon
+        - Launch a successful iBeacon App [:link:](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
 - Blogs
     - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
 - Links
@@ -68,6 +71,7 @@ comments: true
     + tvOS
         + Storing user information on tvOS [:link:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
         + Authentiate tvOS apps with iOS [:link:](https://github.com/rsattar/Voucher)
+        + Developing for the Apple TV with Focus Guides [:link:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
     + watchOS
 - Presentations
     - tvOS

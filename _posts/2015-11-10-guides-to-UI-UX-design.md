@@ -35,6 +35,7 @@ comments: true
         - :fire: Awesome Fonts [:link:](https://github.com/brabadu/awesome-fonts)
         - :fire: Awesome Markdown [:link:](https://github.com/writekit/awesome-markdown)
         - iOS 9 Sketch 3 Templates [:link:](http://facebook.github.io/design/ios9.html)
+        - Silver Sketch3 Plugin [:link:](https://medium.com/@abynim/introducing-silver-lightweight-mobile-prototyping-in-sketch-3-cee46d267f1f#.o9bxisuvt)
 - Posts
     - What are Web Components? [:link:](https://css-tricks.com/modular-future-web-components/)
     - Improve your UI/UX design with Functional Animations [:link:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
@@ -44,6 +45,7 @@ comments: true
     - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [:floppy_disk:](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
     - Material Design on the Web [:floppy_disk:](https://speakerdeck.com/addyosmani/material-design-for-the-web)
+    - How Waze OnBoards new users [:floppy_disk:](http://www.useronboard.com/how-waze-onboards-new-users/?utm_campaign=iOS%25252BDev%25252BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
 - Github
     - Polymer Web Components [:link:](https://github.com/Polymer/polymer)
     - Bourbon Sass Mixin Library for writing CSS [:link:](http://bourbon.io/)

@@ -42,6 +42,9 @@ comments: true
     - What is Tail Call Recusion / Optimization? [:link:](http://stackoverflow.com/questions/310974/what-is-tail-call-optimization)
     - Cluster Analysis [:link:](https://en.wikipedia.org/wiki/Cluster_analysis)
     - K Means Clustering [:link:](https://en.wikipedia.org/wiki/K-means_clustering)
+- Linear Programming
+    - An introduction to Linear Programming [:link:](http://fisher.osu.edu/~croxton.4/tutorial/)
+    - An Undergraduate Course in Linear Programming [:link:](http://orfe.princeton.edu/~rvdb/307/lectures.html)
 - Functional Programming 
     - :fire: Awesome Functional Programming [:link:](https://github.com/lucasviola/awesome-functional-programming)
     - Functional Programming at Facebook [:floppy_disk:](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
