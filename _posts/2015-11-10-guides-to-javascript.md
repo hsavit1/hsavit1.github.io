@@ -37,7 +37,7 @@ comments: true
     - Javascripy Weekly Newsletter [:link:](http://javascriptweekly.com/)
     - SDK Design Guidelines [:link:](https://github.com/huei90/javascript-sdk-design)
 - Data Structures and Algorithms
-    - :raised_hands: Algorithms in Javascript [Link1](https://github.com/felipernb/algorithms.js), [Link2](https://github.com/nzakas/computer-science-in-javascript), [Link3](https://github.com/dhruvbird/algorithm-js), [Link4](https://github.com/duereg/js-algorithms), [Link5](https://github.com/mgechev/javascript-algorithms)
+    - :raised_hands: Algorithms in Javascript [:link:](https://github.com/felipernb/algorithms.js), [:link:](https://github.com/nzakas/computer-science-in-javascript), [:link:](https://github.com/dhruvbird/algorithm-js), [:link:](https://github.com/duereg/js-algorithms), [:link:](https://github.com/mgechev/javascript-algorithms)
     - :raised_hands: Javascript Design Patterns website [:link:](http://www.dofactory.com/javascript/design-patterns)
     - :raised_hands: Javascript Design Patterns code [:link:](https://github.com/tcorral/Design-Patterns-in-Javascript)
     - Revolutionary Data Structures [:link:](https://github.com/substack/data-structures-of-the-revolution)
@@ -102,6 +102,7 @@ comments: true
         - What's a Persistent Data Structure? [:link:](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
 - ECMAScript
     - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
+    - ES6 overview in 250 bullet points [:link:](https://ponyfoo.com/articles/es6)
     - ECMAScript Compatibility Tables [:link:](https://github.com/kangax/compat-table)
     - ECMAScript 6 Features [:link:](https://github.com/lukehoban/es6features)
     - The future of ES Showcase [:link:](https://github.com/sindresorhus/esnext-showcase)

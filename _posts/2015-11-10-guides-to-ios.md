@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to iOS, OSX, watchOS, tvOS, Cocoa, and Design"
+title:  "Guide to iOS, OSX, watchOS, tvOS, Cocoa, and Xcode"
 date:   2015-11-10 17:20:15
 comments: true
 ---
@@ -10,6 +10,7 @@ comments: true
         - A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
     - UIKit 
         - Understanding UIScrollView [:link:](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
+        - iOS 7 Custom Transitions Guide [:link:](https://www.captechconsulting.com/blogs/ios-7-tutorial-series-custom-navigation-transitions--more)
         - Transitions in Swift [:link:](http://mathewsanders.com/interactive-transitions-in-swift/)
         - Animations in Swift [:link:](http://mathewsanders.com/animations-in-swift-part-two/)
         - Adaptive Layouts for the iPhone 6 [:link:](http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/)
@@ -20,9 +21,12 @@ comments: true
         - How iOS 9's Quick Actions Shortcut Works [:link:](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
         - Peek and Pop in iOS 9 [:link:](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
         - Weigh your fruit with 3D Touch [:link:](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
+    - Xcode
+        - Tips for using IB [:link:](http://merowing.info/2015/11/tips-for-interface-builder/)
+- Blogs
+    - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
 - Links
     - Mixpanel iOS and iPhone trends [:link:](https://mixpanel.com/trends/#report/iphone_models)
-    - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
     - :fire: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
     - The iOS Times Curated Review of the latest leading Github Projects [:link:](http://theiostimes.com/)
     - :raised_hands: Cocoa Controls [:link:](https://www.cocoacontrols.com/)

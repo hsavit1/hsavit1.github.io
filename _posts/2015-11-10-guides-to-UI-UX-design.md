@@ -6,27 +6,35 @@ comments: true
 ---
 
 - Links
-    - :fire: :raised_hands: Awesome Design [:link:](https://github.com/troyericg/awesome-design)
-    - :fire: :raised_hands: Awesome Material Design [:link:](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
-    - The iOS Design Guidelines [:link:](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
-    - :fire: Awesome Android UI [:link:](https://github.com/wasabeef/awesome-android-ui)
-    - :fire: Awesome HTML5 [:link:](https://github.com/diegocard/awesome-html5)
-    - :fire: Awesome Frontdesk for Front End Devs [:link:](https://github.com/miripiruni/frontdesk)
-    - :fire: Awesome Front End Dev [:link:](https://github.com/dypsilon/frontend-dev-bookmarks)
-    - :fire: Awesome Photography [:link:](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
-    - :fire: Awesome Images [:link:](https://github.com/heyalexej/awesome-images)
-    - :fire: Awesome Stock Photos [:link:](https://github.com/neutraltone/awesome-stock-resources)
-    - :fire: Awesome Sketch3 [:link:](https://github.com/diessica/awesome-sketch)
-    - :fire: Awesome Front End Development Interview Questions [:link:](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-    - :fire: Awesome Web Components [:link:](https://github.com/mateusortiz/webcomponents-the-right-way)
-    - :fire: Awesome Fonts [:link:](https://github.com/brabadu/awesome-fonts)
-    - :fire: Awesome Bootstrap Themes [:link:](https://github.com/therebelrobot/awesome-bootstrap)
-    - :fire: Awesome Sass [:link:](https://github.com/HugoGiraudel/awesome-sass)
-    - Free Bootstrap Themes [:link:](http://startbootstrap.com/template-categories/all/)
-    - :fire: Awesome Markdown [:link:](https://github.com/writekit/awesome-markdown)
-    - Bootstrap 4 [:link:](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
-    - Official Bootstrap Themes [:link:](http://themes.getbootstrap.com/)
-    - iOS 9 Sketch 3 Templates [:link:](http://facebook.github.io/design/ios9.html)
+    - Android
+        - :fire: :raised_hands: Awesome Material Design [:link:](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
+        - :fire: Awesome Android UI [:link:](https://github.com/wasabeef/awesome-android-ui)
+    - iOS
+        - The iOS Design Guidelines [:link:](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
+    - watchOS
+        - Watch design in 6 steps [:link:](http://www.blonde.net/blog/2015/11/17/ux-apple-watch-6-step-starter-guide)
+    - tvOS 
+    - Web
+        - :fire: Awesome Frontdesk for Front End Devs [:link:](https://github.com/miripiruni/frontdesk)
+        - :fire: Awesome Front End Dev [:link:](https://github.com/dypsilon/frontend-dev-bookmarks)
+        - :fire: Awesome HTML5 [:link:](https://github.com/diegocard/awesome-html5)
+        - :fire: Awesome Front End Development Interview Questions [:link:](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+        - :fire: Awesome Web Components [:link:](https://github.com/mateusortiz/webcomponents-the-right-way)
+        - :fire: Awesome Bootstrap Themes [:link:](https://github.com/therebelrobot/awesome-bootstrap)
+        - :fire: Awesome Sass [:link:](https://github.com/HugoGiraudel/awesome-sass)
+        - Free Bootstrap Themes [:link:](http://startbootstrap.com/template-categories/all/)
+        - Bootstrap 4 [:link:](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
+        - Official Bootstrap Themes [:link:](http://themes.getbootstrap.com/)
+    - Photography and design
+        - :fire: :raised_hands: Awesome Design [:link:](https://github.com/troyericg/awesome-design)
+        - :fire: Awesome Photography [:link:](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+        - :fire: Awesome Images [:link:](https://github.com/heyalexej/awesome-images)
+        - :fire: Awesome Stock Photos [:link:](https://github.com/neutraltone/awesome-stock-resources)
+    - Development
+        - :fire: Awesome Sketch3 [:link:](https://github.com/diessica/awesome-sketch)
+        - :fire: Awesome Fonts [:link:](https://github.com/brabadu/awesome-fonts)
+        - :fire: Awesome Markdown [:link:](https://github.com/writekit/awesome-markdown)
+        - iOS 9 Sketch 3 Templates [:link:](http://facebook.github.io/design/ios9.html)
 - Posts
     - What are Web Components? [:link:](https://css-tricks.com/modular-future-web-components/)
     - Improve your UI/UX design with Functional Animations [:link:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)

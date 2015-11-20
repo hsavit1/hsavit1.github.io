@@ -27,6 +27,8 @@ comments: true
     - :fire: Awesome Swift [:scroll:](https://github.com/matteocrippa/awesome-swift)
     - :fire: Another Awesome Swift [:scroll:](https://github.com/Wolg/awesome-swift)
     - :fire: Awesome Pure Swift [:scroll:](https://github.com/PureSwift/PureSwiftList)
+    - :fire: Awesome iOS [:scroll:](https://github.com/vsouza/awesome-ios)
+    - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
 - Blogs
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [:notebook:](http://blog.human-friendly.com/tag/swift)
@@ -34,7 +36,7 @@ comments: true
     - NSBlog with Mike Ask [:notebook:](https://www.mikeash.com/pyblog/)
     - Use Your Loaf [:notebook:](http://useyourloaf.com/blog/archives/)
     - Chris Eidhof [:notebook:](http://chris.eidhof.nl)
-    - Martin Todorov [:notebook:](http://www.underplot.com)
+    - Ole Begemann [:notebook:](http://oleb.net/)
     - Uramio [:notebook:](http://www.uraimo.com/archive.html)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [:link:](https://swiftnews.curated.co/issues?page=6)
@@ -43,6 +45,9 @@ comments: true
     - Swift Sandbox Newsletter [:link:](http://swiftsandbox.io/)
     - SwiftLang Website [:link:](http://swiftlang.eu/)
     - :fire: Awesome Swift News [:link:](https://github.com/ksm/SwiftInFlux)
+- Free Books
+    - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
+    - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 - Slides
     - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) 
     - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
@@ -113,15 +118,18 @@ comments: true
     - Functional Swift [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
     - Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
     - Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
-- Free Books
-    - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
-    - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
-- Core Data and Other Networking Options
-    - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
-    + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
-    + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
-    + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
-    + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
+- Core Data, Realm, and Other Networking Options
+    - Realm
+        - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
+        - Introduction to Realm [:link:](http://www.raywenderlich.com/81615/introduction-to-realm)
+        - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
+        - Realm Repo [:electric_plug:](https://github.com/realm/realm-cocoa)
+    - Core Data
+        + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
+        + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
+    + Other
+        + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
+        + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
 - Better Performance through Data Structures, Algorithms, and Design Patterns
     + Algorithms
         + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
@@ -279,6 +287,7 @@ comments: true
     + Language Comparisons
         + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
         + C++ Advice to Swift Devs [:page_facing_up:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
+        + Swift Protocols vs Java 8 Interfaces [:page_facing_up](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
 - Posts Coming Soon
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
