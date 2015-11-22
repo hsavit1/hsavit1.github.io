@@ -86,13 +86,14 @@ comments: true
         - ExMaxhina for Elixir: Factories with a Functional Twist [:link:](https://robots.thoughtbot.com/announcing-ex-machina)
         - Testing Compile Time Exceptions [:link:](http://thepugautomatic.com/2015/09/testing-compile-time-exceptions-in-elixir/)
         - Testing Callbacks [:link:](http://thepugautomatic.com/2015/09/testing-callbacks-in-elixir/)
-        - Writing a 2048 game [:link:](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0#.jfx5dwdnx)
+        - Writing Mocks [:link:](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
     - Developement Related
         - Better pipelines with Mondadex [:link:](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
         - Designing OTP Applications in Elixir [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
         - Railway Oriented Programming in Elixir [:link:](http://zohaib.me/railway-programming-pattern-in-elixir/)
         - Designing with OTP in mind [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
         - Lispy Elixir [:link:](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
+        - Writing a 2048 game [:link:](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0#.jfx5dwdnx)
 - Tutorial
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
