@@ -71,17 +71,22 @@ comments: true
             - Understanding Elixir Macros [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
         - Streams 
             - Elixir Stream Patterns [:link:](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
+        - Processes
+            - What I discovered about Elixir Processes [:link:](http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/?utm_campaign=elixir_radar_26&utm_medium=email&utm_source=RD+Station)
+            - Linking Processes Together [:link:](http://eddwardo.github.io/elixir/links/2015/11/04/links-in-elixir/)
         - Lists
             - List Operations in Elixir [:link:](http://learningelixir.joekain.com/list-ops/)
         - Pattern Matching
             - Exploring Pattern Matching in Elixir [:link:](https://dockyard.com/blog/2014/12/26/pattern-matching-in-elixir-for-rubyists)
             - More Pattern Matching [:link:](http://eftimov.net/pattern-matching-elixir/)
             - Expressing Intent Via Pattern Matching [:link:](http://eftimov.net/pattern-matching-intent/)
+            - Disassembling Pattern Matching [:link:](http://codecoupled.org/2015/10/16/disassembling-pattern-matching/?utm_campaign=elixir_radar_26&utm_medium=email&utm_source=RD+Station)
     - Testing
         - Using ESpec [:link:](http://thepugautomatic.com/2015/10/how-to-expect-to-in-elixir/)
         - ExMaxhina for Elixir: Factories with a Functional Twist [:link:](https://robots.thoughtbot.com/announcing-ex-machina)
         - Testing Compile Time Exceptions [:link:](http://thepugautomatic.com/2015/09/testing-compile-time-exceptions-in-elixir/)
         - Testing Callbacks [:link:](http://thepugautomatic.com/2015/09/testing-callbacks-in-elixir/)
+        - Writing a 2048 game [:link:](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0#.jfx5dwdnx)
     - Developement Related
         - Better pipelines with Mondadex [:link:](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
         - Designing OTP Applications in Elixir [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)

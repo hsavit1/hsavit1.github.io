@@ -42,6 +42,10 @@ comments: true
     - What is Tail Call Recusion / Optimization? [:link:](http://stackoverflow.com/questions/310974/what-is-tail-call-optimization)
     - Cluster Analysis [:link:](https://en.wikipedia.org/wiki/Cluster_analysis)
     - K Means Clustering [:link:](https://en.wikipedia.org/wiki/K-means_clustering)
+    - Dijkstra's vs Prims [:link:](http://stackoverflow.com/questions/14144279/difference-between-prims-and-dijkstras-algorithm)
+    - Dijkstra's vs Kruskal's [:link:](http://stackoverflow.com/questions/20409090/why-the-tree-resulting-from-kruskal-is-different-from-dijkstra)
+    - About MST's [:link:](https://www.ics.uci.edu/~eppstein/161/960206.html)
+    - Heap vs a BST [:link:](http://stackoverflow.com/questions/6147242/heap-vs-binary-search-tree-bst)
 - Linear Programming
     - An introduction to Linear Programming [:link:](http://fisher.osu.edu/~croxton.4/tutorial/)
     - An Undergraduate Course in Linear Programming [:link:](http://orfe.princeton.edu/~rvdb/307/lectures.html)
@@ -64,7 +68,11 @@ comments: true
     - Design Patterns Quora Page [:link:](https://www.quora.com/Design-Patterns)
     - What's the difference between MVC and MVP? [:link:](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference?rq=1)
     - What's the difference between the template method pattern and the strategy pattern? [:link:](http://stackoverflow.com/questions/669271/what-is-the-difference-between-the-template-method-and-the-strategy-patterns)
-- Videos
-    - Princeton Algorithms Course on Coursera [:link:](https://www.coursera.org/course/algs4partI)
+- Slides
+    - All the slides from a course on algorithms [:floppy_disk:](http://courses.cs.washington.edu/courses/cse373/02au/lectures/)
+- Videos 
+    - Princeton Algorithms Course on Coursera [:vcr:](https://www.coursera.org/course/algs4partI)
+- Courses
+    - Design and Analysis of Algorithms Course [:link:](https://www.ics.uci.edu/~eppstein/161/)
 - Complexity
     - P vs NP Problem [:link:](https://en.wikipedia.org/wiki/P_versus_NP_problem)
