@@ -12,18 +12,18 @@ comments: true
     - Official Guide [:link:](http://www.phoenixframework.org/docs/up-and-running)
 - Posts
     - Opinions
-        - Phoenix or Meteor? [:link:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
-        - What makes Phoenix so exciting? [:link:](http://jerel.co/blog/2015/11/why-im-excited-about-elixir-and-phoenix)
-        - Phoenix is not Rails [:link:](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) 
+        - Phoenix or Meteor? [:page_facing_up:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
+        - What makes Phoenix so exciting? [:page_facing_up:](http://jerel.co/blog/2015/11/why-im-excited-about-elixir-and-phoenix)
+        - Phoenix is not Rails [:page_facing_up:](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
     - Learning 
-        - Rails to Phoenix: No more asset pipelines [:link:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
-        - Rails to Phoenix: getting started with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
-        - Rails to Phoenix: Querying with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
-        - :raised_hands: Phoenix Websocket Channel Guts [:link:](http://zohaib.me/guts-of-phoenix-channels/)
+        - Rails to Phoenix: No more asset pipelines [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
+        - Rails to Phoenix: getting started with Ecto [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
+        - Rails to Phoenix: Querying with Ecto [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
+        - :raised_hands: Phoenix Websocket Channel Guts [:page_facing_up:](http://zohaib.me/guts-of-phoenix-channels/)
     - Application Design
-        - Cowboy application design [:link:](http://learningelixir.joekain.com/cowboy-application-design/)
+        - Cowboy application design [:page_facing_up:](http://learningelixir.joekain.com/cowboy-application-design/)
     - News
-        - The road to 2 MILLION websocket connections [:link:](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
+        - The road to 2 MILLION websocket connections [:page_facing_up:](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 - Slides
     - Rise of the Phoenix Framework [:floppy_disk:](http://slides.com/chrismccord/rise-of-the-phoenix#/)
     - Pheonix Framework Very Short Demo [:floppy_disk:](https://speakerdeck.com/maveonair/phoenix-framework)
@@ -31,10 +31,10 @@ comments: true
     - Pheonix vs Rails [:floppy_disk:](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - Tutorials
     - Really Fantastic Tutorial Series [:link:](http://phoenix.thefirehoseproject.com/1.html)
-    - Phoenix + Heroku [Tutorial](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
-    - Basic CRUD App [Tutorial](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
-    - Blog in 15 Minutes [Tutorial](http://codetunes.com/2015/phoenix-blog/)
-    - Blazing JSON Api [Tutorial](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
+    - Phoenix + Heroku [:link:](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
+    - Basic CRUD App [:link:](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
+    - Blog in 15 Minutes [:link:](http://codetunes.com/2015/phoenix-blog/)
+    - Blazing JSON Api [:link:](https://robots.thoughtbot.com/testing-a-phoenix-elixir-json-api)
     - Writing a Blog Engine in Phoenix Series [:link:](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.2n6x0a5bx)
     - Using Phoenix with Elm [:link:](http://www.cultivatehq.com/posts/phoenix-elm-1/)
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
