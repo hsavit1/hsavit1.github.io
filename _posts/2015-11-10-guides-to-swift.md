@@ -6,7 +6,7 @@ comments: true
 ---
 
 - Cool Posts
-    - Funtional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
+    - Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
     - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
 - Cool Swift Links
