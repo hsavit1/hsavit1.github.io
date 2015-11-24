@@ -39,12 +39,14 @@ comments: true
     - Using Phoenix with Elm [:link:](http://www.cultivatehq.com/posts/phoenix-elm-1/)
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
     - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
-- Video
-    - ElixirConf 2015: What's next for Phoenix? [:movie_camera:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
-    - ElixirConf 2015: Using Phoenix with Elm [:movie_camera:](https://www.youtube.com/watch?v=MgFDZx1LmOE)
-    - Phoenix: A framework for the modern web [:movie_camera:](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
+- Presentations
+    - ElixirConf 2015: What's next for Phoenix? [:microphone:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
+    - ElixirConf 2015: Using Phoenix with Elm [:microphone:](https://www.youtube.com/watch?v=MgFDZx1LmOE)
+    - Phoenix: A framework for the modern web [:microphone:](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
+- Video 
     - Phoenix Screencasts [:movie_camera:](http://phoenixscreencasts.com/episodes)
     - Phoenix takes Flight [:movie_camera:](http://www.chrismccord.com/blog/2015/05/09/elixirconfeu-keynote-phoenix-takes-flight/)
+    - Phoenix Channels on Apple Devices [:movie_camera:](https://vimeo.com/136679715)
 - Github
     - Phoenix Chat Example [:link:](https://github.com/chrismccord/phoenix_chat_example)
     - Phoenix and Elm combined [:link:](https://github.com/CultivateHQ/seat_saver)
