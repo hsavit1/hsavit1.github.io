@@ -14,6 +14,7 @@ comments: true
     - Opinions
         - Phoenix or Meteor? [:link:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
         - What makes Phoenix so exciting? [:link:](http://jerel.co/blog/2015/11/why-im-excited-about-elixir-and-phoenix)
+        - Phoenix is not Rails [:link:](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails) 
     - Learning 
         - Rails to Phoenix: No more asset pipelines [:link:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
         - Rails to Phoenix: getting started with Ecto [:link:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
@@ -37,6 +38,7 @@ comments: true
     - Writing a Blog Engine in Phoenix Series [:link:](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.2n6x0a5bx)
     - Using Phoenix with Elm [:link:](http://www.cultivatehq.com/posts/phoenix-elm-1/)
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
+    - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
 - Video
     - ElixirConf 2015: What's next for Phoenix? [:movie_camera:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
     - ElixirConf 2015: Using Phoenix with Elm [:movie_camera:](https://www.youtube.com/watch?v=MgFDZx1LmOE)

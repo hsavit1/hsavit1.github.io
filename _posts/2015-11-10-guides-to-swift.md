@@ -8,7 +8,7 @@ comments: true
 - Cool Posts
     - Funtional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
     - MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
-    - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons)
+    - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
 - Cool Swift Links
     - Swift Education [:link:](http://swifteducation.github.io/)
     - SwiftStub [:link:](http://swiftstub.com/)
@@ -199,6 +199,7 @@ comments: true
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
         + :raised_hands: Functors, Applicatives, and Monads in Swift [:page_facing_up:](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+        + ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
     + Swift Error Handling
         + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
         + Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
@@ -215,6 +216,7 @@ comments: true
         + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
         + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
     + Collections
+        + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
         + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)
         + Experimenting with Seqs and Generators [:page_facing_up:](http://www.uraimo.com/2015/11/12/experimenting-with-swift-2-sequencetype-generatortype/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
         + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
@@ -306,3 +308,4 @@ comments: true
     - Cracking the Coding Interview Questions [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
     - Design Patterns in Swift [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
     - SwiftlyJSON [:link:](https://github.com/SwiftyJSON/SwiftyJSON)
+    - Machine Learnging in Swift [:link:](https://github.com/collinhundley/Swift-AI)

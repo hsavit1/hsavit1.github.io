@@ -19,6 +19,7 @@ comments: true
 - News
     - Quantum Internet [:link:](http://www.ibtimes.co.uk/quantum-computing-60-mile-quantum-teleportation-record-paves-way-quantum-internet-1520879)
     - Microsoft Quantum Labs [:link:](http://www.techinsider.io/microsoft-hybrid-quantum-computer-2015-10)
+    - Australian Scientists make major breakthrough [:link:](http://www.theguardian.com/technology/2015/nov/18/quantum-computing-closer-after-silicon-coding-breakthrough)
 - Posts
     - How does adiabatic quantum computation work in layman's terms? [:link:](https://www.quora.com/How-does-adiabatic-quantum-computation-work-in-laymans-terms)
     - Are quantum computers Turing Machines? [:link:](https://www.quora.com/Are-quantum-computers-Turing-machines)

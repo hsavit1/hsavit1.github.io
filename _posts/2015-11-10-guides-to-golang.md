@@ -10,6 +10,7 @@ comments: true
     - Go versus Node.js [:link:](http://www.hostingadvice.com/blog/nodejs-vs-golang/)
 - Links
     - :fire: :raised_hands: Awesome Go [:link:](https://github.com/avelino/awesome-go)
+    - The Proverbs of Golang [:link:](http://go-proverbs.github.io/)
     - Free GO Books [:link:](https://github.com/dariubs/GoBooks)
     - Effective Go Website [:link:](https://golang.org/doc/effective_go.html)
     - Currently Using Go List [:link:](https://github.com/golang/go/wiki/GoUsers)

@@ -13,14 +13,15 @@ comments: true
     - Better Unit Testing with Swift [:link:](http://masilotti.com/better-swift-unit-testing/)
     - Unofficial XCTest Documentation Website [:link:](http://masilotti.com/xctest-documentation/)
 - Presentations
-    - Reverse Engineering iOS Apps [Presentation](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
-    - TDD on iOS [Presentation](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
-    - Railway Oriented Programming [Presentation](http://fsharpforfunandprofit.com/rop/)
-    - Testing in Swift with Quick [Presentation](https://realm.io/news/testing-in-swift/)
-    - Network Testing in Swift [Presentation](https://realm.io/news/soffes-swift-network-testing-dvr/)
-    - Testing View Controllers with Quick [Presentation](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
-    - TDD By Controlling Dependencies in Swift [Presentation](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
-    - Continuous Delivery for Native Apps [Presentation](), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
+    - Reverse Engineering iOS Apps [:floppy_disk:](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
+    - TDD on iOS [:floppy_disk:](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
+    - Railway Oriented Programming [:floppy_disk:](http://fsharpforfunandprofit.com/rop/)
+    - Testing in Swift with Quick [:floppy_disk:](https://realm.io/news/testing-in-swift/)
+    - Network Testing in Swift [:floppy_disk:](https://realm.io/news/soffes-swift-network-testing-dvr/)
+    - Testing View Controllers with Quick [:floppy_disk:](https://realm.io/news/rachel-bobbins-testing-view-controllers-quick/)
+    - TDD By Controlling Dependencies in Swift [:floppy_disk:](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
+    - Continuous Delivery for Native Apps [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
+    - Reverse Engineering Xcode [:floppy_disk:](https://realm.io/news/jp-simard-reverse-engineering-code-completion/) 
 - Posts
     - Using the Leaks Instrument [:link:](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [:link:](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
@@ -48,10 +49,10 @@ comments: true
 - Slides
     - :raised_hands: Fastlane for iOS Development [:floppy_disk:](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
 - Github
-    - Genreate Xcode image catalogs with Blade [Github](https://github.com/jondot/blade)
+    - Genreate Xcode image catalogs with Blade [:link:](https://github.com/jondot/blade)
     - iOS Snapshot Test Cases [:link:](https://github.com/facebook/ios-snapshot-test-case)
-    - Quick Testing Framework [Github](https://github.com/Quick/Quick)
-    - Nimble Matcher Framework [Github](https://github.com/Quick/Nimble)
+    - Quick Testing Framework [:link:](https://github.com/Quick/Quick)
+    - Nimble Matcher Framework [:link:](https://github.com/Quick/Nimble)
     - Swift Lint [:link:](https://github.com/realm/SwiftLint)
 - Video 
     - Swift Unit Testing Course [:link:](http://code.tutsplus.com/courses/unit-testing-with-swift-and-xctest)

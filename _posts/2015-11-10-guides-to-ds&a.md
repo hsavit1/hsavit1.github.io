@@ -61,6 +61,7 @@ comments: true
     - Functional Programming Patterns [:link:](http://fsharpforfunandprofit.com/fppatterns/)
     - Railway Oriented Programming [:link:](http://fsharpforfunandprofit.com/rop/)
     - Domain Driven Design [:link:](http://fsharpforfunandprofit.com/ddd/)
+    - The Genuine Sieve of Eratosthenes [:link:](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
 - Concurrency
     - Concurrent Programming for Scalable Web Based Architectures [:link:](http://berb.github.io/diploma-thesis/community/index.html)
 - Design Patterns

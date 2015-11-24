@@ -73,6 +73,7 @@ comments: true
         + Authentiate tvOS apps with iOS [:link:](https://github.com/rsattar/Voucher)
         + Developing for the Apple TV with Focus Guides [:link:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
     + watchOS
+        + Networking on the Apple Watch [:link:](https://felixha.wordpress.com/2015/07/07/apple-watch-networking-in-glance/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
 - Presentations
     - tvOS
         - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)

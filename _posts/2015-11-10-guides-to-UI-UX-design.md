@@ -7,10 +7,11 @@ comments: true
 
 - Links
     - Android
-        - :fire: :raised_hands: Awesome Material Design [:link:](https://github.com/lightSky/Awesome-MaterialDesign), [Link2](https://github.com/sachin1092/awesome-material)
+        - :fire: :raised_hands: Awesome Material Design [:link:](https://github.com/lightSky/Awesome-MaterialDesign), [:link:](https://github.com/sachin1092/awesome-material)
         - :fire: Awesome Android UI [:link:](https://github.com/wasabeef/awesome-android-ui)
     - iOS
         - The iOS Design Guidelines [:link:](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
+        - :raised_hands: App Animations Website [:link:](http://www.appanimations.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
     - watchOS
         - Watch design in 6 steps [:link:](http://www.blonde.net/blog/2015/11/17/ux-apple-watch-6-step-starter-guide)
     - tvOS 
@@ -37,12 +38,13 @@ comments: true
         - iOS 9 Sketch 3 Templates [:link:](http://facebook.github.io/design/ios9.html)
         - Silver Sketch3 Plugin [:link:](https://medium.com/@abynim/introducing-silver-lightweight-mobile-prototyping-in-sketch-3-cee46d267f1f#.o9bxisuvt)
 - Posts
-    - What are Web Components? [:link:](https://css-tricks.com/modular-future-web-components/)
-    - Improve your UI/UX design with Functional Animations [:link:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
-    - How to Prototype Effectively [:link:](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)
-    - Making Learning Easy by Design [:link:](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798) 
+    - What are Web Components? [:page_facing_up:](https://css-tricks.com/modular-future-web-components/)
+    - Improve your UI/UX design with Functional Animations [:page_facing_up:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
+    - How to Prototype Effectively [:page_facing_up:](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)
+    - Making Learning Easy by Design [:page_facing_up:](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798) 
+    - Your UI is NOT a Disney Movie [:page_facing_up:](https://medium.com/startups-venture-capital/your-ui-isn-t-a-disney-movie-703f7fbd24d2#.ymwftlxi2)
 - Slides
-    - Design 101 [Slides](https://speakerdeck.com/mennenia/a-journey-in-design)
+    - Design 101 [:floppy_disk:](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [:floppy_disk:](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
     - Material Design on the Web [:floppy_disk:](https://speakerdeck.com/addyosmani/material-design-for-the-web)
     - How Waze OnBoards new users [:floppy_disk:](http://www.useronboard.com/how-waze-onboards-new-users/?utm_campaign=iOS%25252BDev%25252BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
