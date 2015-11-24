@@ -5,10 +5,6 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Cool Posts
-    - Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
-    - MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
-    - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
 - Cool Swift Links
     - Swift Education [:link:](http://swifteducation.github.io/)
     - SwiftStub [:link:](http://swiftstub.com/)
@@ -72,6 +68,7 @@ comments: true
     - The monad among us [:floppy_disk:](https://speakerdeck.com/swiftsummit/al-skipp-the-monad-among-us)
     - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
     - MagicalRecord <3 Swift [:link:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
+    - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
 - Presentations
     - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
     - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
@@ -118,41 +115,42 @@ comments: true
     - Functional Swift [:vhs:](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g)
     - Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
     - Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
-- Core Data, Realm, and Other Networking Options
-    - Realm
-        - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
-        - Introduction to Realm [:link:](http://www.raywenderlich.com/81615/introduction-to-realm)
-        - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
-        - Realm Best Practices [:electric_plug:](http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices)
-        - Realm Repo [:electric_plug:](https://github.com/realm/realm-cocoa)
-    - Core Data
-        + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
-        + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
-    + Other
-        + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
-        + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
-- Better Performance through Data Structures, Algorithms, and Design Patterns
-    + Algorithms
-        + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
-        + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
-        + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
-        + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
-        + Red Black Tree in Swift [:bar_chart:](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
-        + Singly Linked List [:bar_chart:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
-   + Design Patterns
-        + Template Method Pattern in Swift [:bar_chart:](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
-        + Design Patterns Library in Swift [:bar_chart:](https://github.com/ochococo/Design-Patterns-In-Swift)
-        + Creating a Cocoa Bindings Observable Pattern in Swift [:bar_chart:](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
-        + Observer Pattern in Swift [:bar_chart:](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
-        + The Sin of Singletons [:bar_chart:](https://sandofsky.com/blog/singletons.html) 
-        + The Null Object Pattern [:bar_chart:](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
-        + Segues > Delegation [:bar_chart:](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
-        + Functions as Factories [:bar_chart:](http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1)
-        + Conform to Objective C Protocols in Swift [:bar_chart:](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
-        + Optional Protocol Methods [:bar_chart:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
-        + The Builder Pattern and Fluent Interface [:bar_chart:](https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md)
 - More Posts
+    - Core Data, Realm, and Other Networking Options
+        - Realm
+            - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
+            - Introduction to Realm [:link:](http://www.raywenderlich.com/81615/introduction-to-realm)
+            - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
+            - Realm Best Practices [:electric_plug:](http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices)
+            - Realm Repo [:electric_plug:](https://github.com/realm/realm-cocoa)
+        - Core Data
+            + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
+            + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
+        + Other
+            + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
+            + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
+    - Better Performance through Data Structures, Algorithms, and Design Patterns
+        + Algorithms
+            + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
+            + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
+            + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
+            + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
+            + Red Black Tree in Swift [:bar_chart:](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
+            + Singly Linked List [:bar_chart:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
+       + Design Patterns
+            + Template Method Pattern in Swift [:bar_chart:](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
+            + Design Patterns Library in Swift [:bar_chart:](https://github.com/ochococo/Design-Patterns-In-Swift)
+            + Creating a Cocoa Bindings Observable Pattern in Swift [:bar_chart:](http://colindrake.me/2015/10/01/an-observable-pattern-implementation-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_11)
+            + Observer Pattern in Swift [:bar_chart:](http://masteringswift.blogspot.com/2015/05/swift-and-observer-design-pattern.html)
+            + The Sin of Singletons [:bar_chart:](https://sandofsky.com/blog/singletons.html) 
+            + The Null Object Pattern [:bar_chart:](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756)
+            + Segues > Delegation [:bar_chart:](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html)
+            + Functions as Factories [:bar_chart:](http://cocoa.tumblr.com/post/123737170023/functions-as-factories?is_related_post=1)
+            + Conform to Objective C Protocols in Swift [:bar_chart:](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
+            + Optional Protocol Methods [:bar_chart:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
+            + The Builder Pattern and Fluent Interface [:bar_chart:](https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md)
     + Application Structure
+        + MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
         + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
     + Opinions
         + Wishlist for Swift 3.0 [:page_facing_up:](https://realm.io/news/swift-3-wishlist/)
@@ -165,6 +163,7 @@ comments: true
     + GCD and Concurrency
         + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
     + Functional 
+        + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
         + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
         + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
         + Introduction to Function Currying in Swift [:page_facing_up:](https://robots.thoughtbot.com/introduction-to-function-currying-in-swift)
@@ -195,11 +194,12 @@ comments: true
         + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)
         + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
         + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
-    + FRP With ReactiveCocoa in Swift 
+    + FRP in Swift 
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
         + :raised_hands: Functors, Applicatives, and Monads in Swift [:page_facing_up:](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
         + ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
+        - The Difference between RxSwift and ReactiveCocoa [:page_facing_up:](http://stackoverflow.com/questions/32542846/reactivecocoa-vs-rxswift-pros-and-cons), [:page_facing_up:](https://ashfurrow.com/blog/reactivecocoa-vs-rxswift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
     + Swift Error Handling
         + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
         + Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
