@@ -22,6 +22,7 @@ comments: true
     - TDD By Controlling Dependencies in Swift [:floppy_disk:](https://www.youtube.com/watch?v=qYpURmZcCKs&index=47&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes), [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/JorgeD.OrtizFuentes_TestDrivenDevelopmentbyControllingDependencies.pdf)
     - Continuous Delivery for Native Apps [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
     - Reverse Engineering Xcode [:floppy_disk:](https://realm.io/news/jp-simard-reverse-engineering-code-completion/) 
+    - Compiler Driven Development [:floppy_disk:](https://github.com/nlutsenko/compile-time-guaranteed/blob/master/compile-time-guaranteed.pdf)
 - Posts
     - Using the Leaks Instrument [:link:](http://www.russbishop.net/shoot-the-heap)
     - Swift Unit Testing Resources [:link:](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)

@@ -69,21 +69,22 @@ comments: true
     - :fire: Awesome tvOS [:link:](https://github.com/mbcrump/awesome-tvos/blob/master/README.md)
 - Posts
     + tvOS
-        + Storing user information on tvOS [:link:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
-        + Authentiate tvOS apps with iOS [:link:](https://github.com/rsattar/Voucher)
-        + Developing for the Apple TV with Focus Guides [:link:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
+        + Storing user information on tvOS [:page_facing_up:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
+        + Authentiate tvOS apps with iOS [:page_facing_up:](https://github.com/rsattar/Voucher)
+        + Developing for the Apple TV with Focus Guides [:page_facing_up:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
     + watchOS
-        + Networking on the Apple Watch [:link:](https://felixha.wordpress.com/2015/07/07/apple-watch-networking-in-glance/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
+        + Networking on the Apple Watch [:page_facing_up:](https://felixha.wordpress.com/2015/07/07/apple-watch-networking-in-glance/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + The Future of Wearables [:page_facing_up:](http://helenvholmes.com/the-future-of-wearables/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
 - Presentations
     - tvOS
-        - How Guilt builds Apple TV Apps [Presentation](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
-        - Apple TV: A world without WebOS [:link:](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.rdk3bnrqc)
-        - Interacting with the new AppleTV Remote [:link:](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
-        - 200 mb app sizes: Is tvOS the future of apps? [:link:](https://realm.io/news/is-tvos-the-future-of-apps/)
+        - How Guilt builds Apple TV Apps [:floppy_disk:](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
+        - Apple TV: A world without WebOS [:floppy_disk:](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.rdk3bnrqc)
+        - Interacting with the new AppleTV Remote [:floppy_disk:](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
+        - 200 mb app sizes: Is tvOS the future of apps? [:floppy_disk:](https://realm.io/news/is-tvos-the-future-of-apps/)
+        - Building Big Screen Apps [:floppy_disk:](https://speakerdeck.com/neonichu/bring-your-apps-to-the-big-screen)
 - Slides
     - watchOS
-        - How to Build a Compelling Watch App [:link:](http://www.kristinathai.com/wp-content/uploads/2014/09/Compelling-Watch-App.pdf)
+        - How to Build a Compelling Watch App [:floppy_disk:](http://www.kristinathai.com/wp-content/uploads/2014/09/Compelling-Watch-App.pdf)
 - Github
     - The Emergence Artsy tvOS Project [:link:](https://github.com/artsy/Emergence/)
     - Code Reviewing Emergence [:link:](http://artsy.github.io/blog/2015/11/05/Emergence-Code-Review/)
