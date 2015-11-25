@@ -15,6 +15,7 @@ comments: true
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
     - MetalByExample.com [:link:](http://metalbyexample.com)
     - RAC Marbles [:link:](http://neilpa.me/rac-marbles/)
+    - Libraries used in the top 100 Apps [:link:](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.p76bo4ms9)
 - Quick References 
     - :raised_hands: That Thing In Swift [:scroll:](https://thatthinginswift.com/)
     - SwiftDoc [:scroll:](http://swiftdoc.org/)
@@ -45,7 +46,7 @@ comments: true
     - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
     - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 - Slides
-    - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) 
+    - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights)
     - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Using Core Data with Swift [:floppy_disk:](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
     - Thinking Functionally Using Swift [:floppy_disk:](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
@@ -70,6 +71,7 @@ comments: true
     - MagicalRecord <3 Swift [:link:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
     - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
 - Presentations
+    - All the Presentations from Swift Summit London [:microphone:](https://realm.io/news/swift-summit/)
     - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
     - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
     - Using Core Data with Swift [:microphone:](https://realm.io/news/jesse-squires-core-data-swift/)
@@ -89,7 +91,7 @@ comments: true
     - Making Friends with Value Types [:microphone:](https://realm.io/news/andy-matuschak-controlling-complexity/)
     - A look into Realm's Core DB Engine [:microphone:](https://realm.io/news/jp-simard-realm-core-database-engine/)
     - Hidden Gems in Swift [:microphone:](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
-    - Library Oriented Programming [:microphone:](https://www.youtube.com/watch?v=lqNUTW0F4bw&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
+    - Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
     - * Oriented Programming [:microphone:](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - FRP in Swift 2.0 [:microphone:](https://realm.io/news/agnes-vasarhelyi-beer-app-frp-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
     - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
@@ -163,6 +165,7 @@ comments: true
     + GCD and Concurrency
         + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
     + Functional 
+        + Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
         + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
         + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
         + Monads & C# Tasks in Swift [:page_facing_up:](https://realm.io/news/swift-tasks-nevyn-bengtsson/)
@@ -231,7 +234,6 @@ comments: true
         + Gist covers whatever went on in the lecture [:page_facing_up:](https://gist.github.com/rbobbins/de5c75cf709f0109ee95)
         + What are the advantages? [:page_facing_up:](http://www.infoq.com/news/2015/06/protocol-oriented-swift)
         + Another look into the concept of P.O.P.  [:page_facing_up:](http://willowtreeapps.com/blog/protocol-oriented-programming/)
-        + Protocol Oriented MVVM [:page_facing_up:](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/)
         + If you're subclassing, you're doing it wrong. POP and VOP explained [:page_facing_up:](http://krakendev.io/blog/subclassing-can-suck-and-heres-why)
         + Every Swift Value Type Should be Equatable [:page_facing_up:](https://www.andrewcbancroft.com/2015/07/01/every-swift-value-type-should-be-equatable/)
         + Protocol Oriented Programming through UIKit [:page_facing_up:](http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_218)
@@ -305,6 +307,7 @@ comments: true
     - _Book Review_: Core Data By Tutorials (Ray Wenderlich) [Post Coming Soon]()
     - _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
 - Github
+    - Swiftz [:link:](https://github.com/typelift)
     - Neon [:link:](https://github.com/mamaral/Neon)
     - Cracking the Coding Interview Questions [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
     - Design Patterns in Swift [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
