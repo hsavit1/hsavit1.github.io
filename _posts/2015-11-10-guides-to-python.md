@@ -45,6 +45,7 @@ comments: true
     + Python Command Line Reference Guide [:link:](https://docs.python.org/3.3/using/cmdline.html)
     + Python Quick Reference Page [:link:](http://rgruet.free.fr/PQR27/PQR2.7.html#ClassDef)
     + Python 3 Cheat Sheet [:link:](http://overapi.com/python/)
+    + A Guide to Python's Magic Methods [:link:](https://github.com/RafeKettler/magicmethods)
     + Static/Abstract/Class methods in Python [:link:](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
     + Python Language Reference Reference [:link:](https://docs.python.org/3/reference/index.html#reference-index)
     + Python Standard Library Reference [:link:](https://docs.python.org/3/library/index.html)
@@ -52,12 +53,14 @@ comments: true
     + The Python Standard Library [:link:](https://docs.python.org/2/library/index.html)
     + What is pypy? [:link:](http://doc.pypy.org/en/latest/introduction.html)
     + 6 Template Method Patterns, Python Style [:link:](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
+    + Official Python Style Guide [:link:](http://legacy.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
 - Tutorial
     + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [:link:](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [:link:](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [:link:](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
 - Stack Overflow Questions / Answers
+    - Why does python use static methods? [:link:](http://stackoverflow.com/questions/2657627/why-does-python-use-magic-methods)
     - What is a metaclass in Python? [:link:](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
     - @classmethod and @staticmethod explained [:link:](http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner)
     - @classmethod vs @staticmethod [:link:](http://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python?lq=1)
