@@ -29,6 +29,7 @@ comments: true
     - Learn Ruby by Example [:link:](https://www.learneroo.com/modules/61/nodes/337)
     - Learn Ruby by Doing Exmaple Problems [:link:](https://www.learneroo.com/modules/61/nodes/338)
     - Guide to Ruby 2.0 [:link:](http://blog.marc-andre.ca/2013/02/23/ruby-2-by-example/)
+    - Concurrency and Parallelism in Ruby [:link:](http://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
 - Reference
     - DZone Ruby [:link:](https://dzone.com/refcardz/essential-ruby) 
     - Ruby CheatSheet [:link:](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
@@ -51,6 +52,7 @@ comments: true
     - When monkey patching a method, can you call the overridden method from the new implementation? [:link:](http://stackoverflow.com/questions/4470108/when-monkey-patching-a-method-can-you-call-the-overridden-method-from-the-new-i/4471202#4471202)
     - Refractor Fat ActiveRecord Models [:link:](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
     - How do I know if my Rails app is thread safe? [:link:](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/)
+    - Metaprogramming in Ruby [:link:](http://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
 - Slides
     - What's New in Ruby 2.0 [:floppy_disk:](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 - Github

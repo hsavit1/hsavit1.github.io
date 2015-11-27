@@ -51,22 +51,23 @@ permalink: /resume/
 ### _Still Experimenting With_
 
 + Java
-+ Javascript
-+ Node.js
-+ React.js 
 + Meteor Framework
 + Elixir
 + Phoenix Framework
 + Ruby
 + MongoDB
 + RethinkDB
++ Socket.io
 + Full stack web development
++ Haskell
 
 
 ### _Learning_
 
-+ Haskell
 + Erlang
++ Javascript
++ Node.js
++ React.js 
 + Docker
 
 

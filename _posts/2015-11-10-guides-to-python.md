@@ -27,8 +27,10 @@ comments: true
     - Full Stack Python [:link:](http://www.fullstackpython.com/table-of-contents.html)
     - PC: Python Central [:link:](http://pythoncentral.io/)
     - Python 2to3 tool [:link:](https://docs.python.org/2/library/2to3.html)
+    - How many Python Devs are there in the world? [:link:](http://www.gilesthomas.com/2013/06/how-many-python-programmers-are-there-in-the-world/)
 - Posts
     - Concurrency and Multithreading in Python [:link:](https://www.quora.com/How-do-I-do-multithreading-in-Python)
+    - Concurrency and Parallelism Tutorial in Python [:link:](http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
     - Abstract Classes vs Interfaces in Python [:link:](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
     - List of important hidden features in Python [:link:](http://stackoverflow.com/questions/101268/hidden-features-of-python)
     - Python Properties vs Atrributes [:link:](http://stackoverflow.com/questions/7374748/whats-the-difference-between-a-python-property-and-attribute)
@@ -40,12 +42,17 @@ comments: true
     - Advanced Python Decorators and Metaclasses [:link:](http://lgiordani.com/blog/2014/10/14/decorators-and-metaclasses/)
     - A Primer on Python Metaclasses [:link:](http://jakevdp.github.io/blog/2012/12/01/a-primer-on-python-metaclasses/)
     - What is python written in? [:link:](https://www.quora.com/What-is-Python-written-in)
+    - Why Python over Ruby? [:link:](https://news.ycombinator.com/item?id=682101)
+    - Why are there so many Pythons? [:link:](http://www.toptal.com/python/why-are-there-so-many-pythons)
+- Testing
+    - How to Mock in Python [:link:](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
+    - BDD in python [:link:](http://code.tutsplus.com/tutorials/behavior-driven-development-in-python--net-26547)
 - References
     + Python Cheat Sheet [:link:](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [:link:](https://docs.python.org/3.3/using/cmdline.html)
     + Python Quick Reference Page [:link:](http://rgruet.free.fr/PQR27/PQR2.7.html#ClassDef)
     + Python 3 Cheat Sheet [:link:](http://overapi.com/python/)
-    + A Guide to Python's Magic Methods [:link:](https://github.com/RafeKettler/magicmethods)
+    + :raised_hands: A Guide to Python's Magic Methods [:link:](https://github.com/RafeKettler/magicmethods)
     + Static/Abstract/Class methods in Python [:link:](https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods)
     + Python Language Reference Reference [:link:](https://docs.python.org/3/reference/index.html#reference-index)
     + Python Standard Library Reference [:link:](https://docs.python.org/3/library/index.html)
@@ -54,11 +61,25 @@ comments: true
     + What is pypy? [:link:](http://doc.pypy.org/en/latest/introduction.html)
     + 6 Template Method Patterns, Python Style [:link:](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
     + Official Python Style Guide [:link:](http://legacy.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
+    + The Zen of Python [:link:](https://www.python.org/dev/peps/pep-0020/)
+    + Special Python Method Names [:link:](http://www.diveintopython3.net/special-method-names.html)
+    + List Comprehensions in Python [:link:](https://en.wikipedia.org/wiki/List_comprehension#Python)
+    + Generators in Python [:link:](https://en.wikipedia.org/wiki/Python_syntax_and_semantics#Generators)
+    + Decorators in Python [:link:](https://wiki.python.org/moin/PythonDecorators#What_is_a_Decorator)
+    + itertools [:link:](https://docs.python.org/2/library/itertools.html)
+    + functools [:link:](https://docs.python.org/2/library/functools.html)
+    + Code Like a Pythonista [:link:](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+    + The History of Python [:link:](http://python-history.blogspot.com/)
+    + Function annotations in Python [:link:](https://www.python.org/dev/peps/pep-3107/)
+    + Introduction to Python Decorators [:link:](https://www.codementor.io/python/tutorial/introduction-to-decorators)
++ Guides
+    + A Guide to Python's Function Decorators [:link:](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
 - Tutorial
     + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [:link:](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [:link:](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [:link:](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
+    + Abstract Base Classes [:link:](https://www.python.org/dev/peps/pep-3119/)
 - Stack Overflow Questions / Answers
     - Why does python use static methods? [:link:](http://stackoverflow.com/questions/2657627/why-does-python-use-magic-methods)
     - What is a metaclass in Python? [:link:](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
@@ -70,6 +91,10 @@ comments: true
     - Terenary conditionals in python [:link:](http://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator)
     - Chain of function decorators in Python [:link:](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python)
     - Understanding super() in Python [:link:](http://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
+    - Python Progression Path [:link:](http://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru)
+    - Why isn't Python good at functional programming? [:link:](http://stackoverflow.com/questions/1017621/why-isnt-python-very-good-for-functional-programming)
+    - What are Python function annotations? [:link:](http://stackoverflow.com/questions/14379753/what-does-mean-in-python-function-definitions)
+    - How can PyPy be faster than CPython? [:link:](http://stackoverflow.com/questions/12645394/how-can-pypy-be-faster-than-cpython)
 - Slides
     - 10 Awesome Features of Python 3.# [:link:](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [:floppy_disk:](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
@@ -105,6 +130,9 @@ comments: true
     - Project Euler [:link:](http://www.s-anand.net/euler.html) [Link2](http://www.toddsifleet.com/projects/euler) [Link3](https://zach.se/project-euler-solutions/) [Link4](http://www.nayuki.io/page/project-euler-solutions)
     - Python Questions on Reddit [:link:](https://www.reddit.com/r/Python/comments/1knw7z/python_interview_questions)
     - Basic but important python interview questions [:link:](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
+    - 10 most common Python mistakes [:link:](http://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)
+    - The Python Hiring Guide [:link:](http://www.toptal.com/python#hiring-guide)
+    - What some questions about the Python programming language that only expert Python programmers can answer? [:link:](https://www.quora.com/What-some-questions-about-the-Python-programming-language-that-only-expert-Python-programmers-can-answer)
 
 
 #**Django, Flask, and other Python Web Frameworks**
@@ -128,6 +156,7 @@ comments: true
     + Build a web app with Django and AngularJS [:link:](https://thinkster.io/django-angularjs-tutorial)
     + Flask and AngularJS [:link:](https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs/)
     + Flask and React [:link:](https://realpython.com/blog/python/the-ultimate-flask-front-end/)
+    + Django, Flask, and Redis Tutorial [:link:](http://www.toptal.com/django/django-flask-and-redis-sharing-user-sessions-between-frameworks)
 - References
     - Flask Documentation [:link:](http://flask.pocoo.org/docs/0.10/quickstart/)
 - Github

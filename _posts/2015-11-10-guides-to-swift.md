@@ -225,6 +225,8 @@ comments: true
         + Deques, Queues, and Lists in Swift with indirect [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/)
         + Can we please make a standard style for closures? [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/08/04/ramblings-on-stylish-closures-currying-and-operators/)
         + Sets vs Dictionaries in Swift [:page_facing_up:](http://ericasadun.com/2015/10/19/sets-vs-dictionaries-smackdown-in-swiftlang/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
+        + The Fibonacci SequenceType [:link:](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/#fn:ymmv)
+        + Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
     + Protocol Oriented Programming in Swift
         + Standard Template Protocols [:link:](https://github.com/cconeil/Standard-Template-Protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + Protocol Oriented MVVM [:page_facing_up:](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/), [:floppy_disk:](http://www.slideshare.net/natashatherobot/protocoloriented-mvvm-extended-edition)
@@ -247,6 +249,7 @@ comments: true
         + Minimal Swift 2.1 Protocol Coformance [:page_facing_up:](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
         + Favor Mixins over inheritance [:page_facing_up:](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
         + Use Protocol Composition [:page_facing_up:](http://natashatherobot.com/swift-protocol-composition/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
+        + The 55 Standard Lib Protocols Broken Down [:link:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/)
     + Swift Initializers
         + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
