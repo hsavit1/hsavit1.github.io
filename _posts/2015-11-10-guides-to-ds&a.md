@@ -71,6 +71,7 @@ comments: true
     - What's the difference between the template method pattern and the strategy pattern? [:link:](http://stackoverflow.com/questions/669271/what-is-the-difference-between-the-template-method-and-the-strategy-patterns)
 - Slides
     - All the slides from a course on algorithms [:floppy_disk:](http://courses.cs.washington.edu/courses/cse373/02au/lectures/)
+    - The Algorithm Design Manual Lecture Slides [:floppy_disk:](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
 - Videos 
     - Princeton Algorithms Course on Coursera [:vcr:](https://www.coursera.org/course/algs4partI)
 - Courses
