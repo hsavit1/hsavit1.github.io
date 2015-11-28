@@ -28,6 +28,7 @@ comments: true
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
     - iOS Good Practices [:link:](https://github.com/futurice/ios-good-practices)
 - Blogs
+    - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [:notebook:](http://blog.human-friendly.com/tag/swift)
     - :raised_hands: Objc.io [:notebook:](https://www.objc.io/)
@@ -134,13 +135,15 @@ comments: true
             + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
             + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
     - Better Performance through Data Structures, Algorithms, and Design Patterns
-        + Algorithms
+        + Data Structures and Algorithms
             + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
             + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
             + Linked Lists are really slow [:bar_chart:](http://airspeedvelocity.net/2015/08/03/arrays-linked-listss-and-performance/)
             + Linked Lists, Enums, Value Types [:bar_chart:](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/)
             + Red Black Tree in Swift [:bar_chart:](https://gist.github.com/hsavit1/990d398b4b9ec376ef12.js)
             + Singly Linked List [:bar_chart:](https://gist.github.com/hsavit1/b3522101722d6bd0b14b)
+            + Deques, Queues, and Lists in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/07/29/deques-queues-and-lists-in-swift-with-indirect/) [:link:](https://github.com/oisdk/Deques-Queues-and-Lists-in-Swift-with-indirect)
+            + Contiguous Arrays in Swift [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/09/yet-another-root-of-all-evil/)
        + Design Patterns
             + Template Method Pattern in Swift [:bar_chart:](http://stackoverflow.com/questions/31757514/swift-how-to-support-template-method-design-pattern-since-swift-doesnt-have)
             + Design Patterns Library in Swift [:bar_chart:](https://github.com/ochococo/Design-Patterns-In-Swift)
@@ -244,7 +247,7 @@ comments: true
         + Protocols in Swift [:page_facing_up:](http://ashfurrow.com/blog/protocols-and-swift/)
         + Ray Wenderlich intro to P.O.P. [:page_facing_up:](http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
         + Protocol Extensions and the death of the Pipe forward operator [:page_facing_up:](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/)
-        + How Protocol Oriented Programming could stilm improve [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
+        + How Protocol Oriented Programming could still improve [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
         + THe Swift Protocol Proposal [:page_facing_up:](http://kickingbear.com/blog/archives/521)
         + Swift Default Protocol Implementations [:page_facing_up:](http://nshipster.com/swift-default-protocol-implementations/)
         + Mixins and Traits in Swift 2.0 [:page_facing_up:](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
