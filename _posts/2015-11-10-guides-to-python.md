@@ -44,6 +44,9 @@ comments: true
     - What is python written in? [:link:](https://www.quora.com/What-is-Python-written-in)
     - Why Python over Ruby? [:link:](https://news.ycombinator.com/item?id=682101)
     - Why are there so many Pythons? [:link:](http://www.toptal.com/python/why-are-there-so-many-pythons)
+    - Metaprogramming in style with Decorators [:link:](http://lgiordani.com/blog/2015/04/23/python-decorators-metaprogramming-with-style/)
+- Opinions
+    - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
 - Testing
     - How to Mock in Python [:link:](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
     - BDD in python [:link:](http://code.tutsplus.com/tutorials/behavior-driven-development-in-python--net-26547)
@@ -74,6 +77,7 @@ comments: true
     + Introduction to Python Decorators [:link:](https://www.codementor.io/python/tutorial/introduction-to-decorators)
 + Guides
     + A Guide to Python's Function Decorators [:link:](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
+    + An extensive guide to Python Decorators [:link:](https://github.com/GrahamDumpleton/wrapt)
 - Tutorial
     + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [:link:](https://docs.python.org/2/howto/functional.html)
@@ -98,7 +102,7 @@ comments: true
 - Slides
     - 10 Awesome Features of Python 3.# [:link:](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [:floppy_disk:](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
-    - Metaprogramming with Python [:floppy_disk:](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and [class](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
+    - Metaprogramming with Python [:floppy_disk:](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and a class [:link:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
 - Books
@@ -109,6 +113,7 @@ comments: true
     - Problem Solving with Algorithms and Data Structures using Python [:link:](http://interactivepython.org/runestone/static/pythonds/index.html)
     - All Python Books [:link:](http://importpython.com/books/)
     - Full Stack Python Guide to Deployments [:link:](http://www.deploypython.com/)
+    - Python Cookbook [:link:](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - Scientific Applications
     - Python for Scientists [:link:](http://nbviewer.ipython.org/gist/rpmuller/5920182)
 - Github and Projects

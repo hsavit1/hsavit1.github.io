@@ -212,7 +212,7 @@ comments: true
         + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
         + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
     + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
-        + Enums in Swift [Link1](http://austinzheng.com/2014/12/16/swift-enums/)
+        + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
         + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
         + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
         + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
@@ -269,6 +269,7 @@ comments: true
         + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
         + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
         + Simplfied Login with Swift Enums [:page_facing_up:](https://realm.io/news/david-east-simplifying-login-swift-enums/)
+        + Testing of Enums made easy [:link:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
     + Optionals and Types 
         + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
@@ -300,7 +301,7 @@ comments: true
     + Language Comparisons
         + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
         + C++ Advice to Swift Devs [:page_facing_up:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
-        + Swift Protocols vs Java 8 Interfaces [:page_facing_up](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
+        + Swift Protocols vs Java 8 Interfaces [:page_facing_up:](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
 - Posts Coming Soon
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
@@ -316,3 +317,4 @@ comments: true
     - Design Patterns in Swift [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
     - SwiftlyJSON [:link:](https://github.com/SwiftyJSON/SwiftyJSON)
     - Machine Learnging in Swift [:link:](https://github.com/collinhundley/Swift-AI)
+    - Quick / Nimble [:link:](https://github.com/Quick)
