@@ -243,7 +243,7 @@ comments: true
         + Protocol Oriented Programming through UIKit [:page_facing_up:](http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_218)
         + Protocols in Swift [:page_facing_up:](http://ashfurrow.com/blog/protocols-and-swift/)
         + Ray Wenderlich intro to P.O.P. [:page_facing_up:](http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2)
-        + Protocol Extensions are the death of the Pipe forward operator [:page_facing_up:](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/)
+        + Protocol Extensions and the death of the Pipe forward operator [:page_facing_up:](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/)
         + How Protocol Oriented Programming could stilm improve [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/07/17/swift-protocols-a-strategy/)
         + THe Swift Protocol Proposal [:page_facing_up:](http://kickingbear.com/blog/archives/521)
         + Swift Default Protocol Implementations [:page_facing_up:](http://nshipster.com/swift-default-protocol-implementations/)
