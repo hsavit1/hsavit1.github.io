@@ -6,6 +6,7 @@ comments: true
 ---
 
 - Github Projects
+    - UIAutoMonkey [:link:](https://github.com/jonathanpenn/ui-auto-monkey)
     - Reveal testing [:link:](http://revealapp.com/)
     - Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
     - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))

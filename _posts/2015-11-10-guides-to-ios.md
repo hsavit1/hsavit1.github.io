@@ -6,8 +6,6 @@ comments: true
 ---
 
 - Posts
-    - Structures
-        - A look at a long list of data structures in ObjC [Post](http://itshenry.com/2015/11/05/nshash-nsmap.html)
     - UIKit 
         - Understanding UIScrollView [:link:](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
         - iOS 7 Custom Transitions Guide [:link:](https://www.captechconsulting.com/blogs/ios-7-tutorial-series-custom-navigation-transitions--more)
@@ -26,9 +24,12 @@ comments: true
         - Tips for using IB [:link:](http://merowing.info/2015/11/tips-for-interface-builder/)
     - iBeacon
         - Launch a successful iBeacon App [:link:](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
+    - Purchases
+        - Validating in-app purchases [:link:](http://futurice.com/blog/validating-in-app-purchases-in-your-ios-app)
 - Blogs
     - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
 - Links
+    - iOS Best Practices [:link:](https://github.com/futurice/ios-good-practices)
     - Mixpanel iOS and iPhone trends [:link:](https://mixpanel.com/trends/#report/iphone_models)
     - :fire: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
     - The iOS Times Curated Review of the latest leading Github Projects [:link:](http://theiostimes.com/)

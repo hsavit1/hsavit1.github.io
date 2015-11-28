@@ -26,6 +26,7 @@ comments: true
     - :fire: Awesome Pure Swift [:scroll:](https://github.com/PureSwift/PureSwiftList)
     - :fire: Awesome iOS [:scroll:](https://github.com/vsouza/awesome-ios)
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
+    - iOS Good Practices [:link:](https://github.com/futurice/ios-good-practices)
 - Blogs
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [:notebook:](http://blog.human-friendly.com/tag/swift)
@@ -72,6 +73,7 @@ comments: true
     - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
 - Presentations
     - All the Presentations from Swift Summit London [:microphone:](https://realm.io/news/swift-summit/)
+    - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
     - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
     - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
     - Using Core Data with Swift [:microphone:](https://realm.io/news/jesse-squires-core-data-swift/)
@@ -296,6 +298,7 @@ comments: true
         + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
     + Other
         + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
+        + Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
     + Objective C to Swift
         + Method Swizzling in Swift [:page_facing_up:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
     + Language Comparisons
@@ -311,6 +314,8 @@ comments: true
     - _Book Review_: Core Data By Tutorials (Ray Wenderlich) [Post Coming Soon]()
     - _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
 - Github
+    - SwiftlyJSON [:link:](https://github.com/SwiftyJSON/SwiftyJSON)
+    - Argo [:link:](https://github.com/thoughtbot/Argo)
     - Swiftz [:link:](https://github.com/typelift)
     - Neon [:link:](https://github.com/mamaral/Neon)
     - Cracking the Coding Interview Questions [:link:](https://github.com/bizz84/CrackingTheCodingInterview)
