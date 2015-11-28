@@ -148,6 +148,7 @@ comments: true
         - Understanding Arrows in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
         - Flodable and Traversable [:link:](https://wiki.haskell.org/Foldable_and_Traversable)
         - Algorithm Complexity in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
+        - A Trie in Haskell [:link:](https://bigonotetaking.wordpress.com/2015/11/06/a-trie-in-haskell/)
     - Language Syntax Related
         - What is the Difference between Kinds and Types in Haskell? [:link:](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [:link:](https://www.quora.com/What-is-in-Haskell)

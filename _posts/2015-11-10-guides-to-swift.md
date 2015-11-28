@@ -254,7 +254,9 @@ comments: true
         + Minimal Swift 2.1 Protocol Coformance [:page_facing_up:](http://softwaredesign.jeffverkoeyen.com/minimal-swift-protocol-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_13)
         + Favor Mixins over inheritance [:page_facing_up:](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/)
         + Use Protocol Composition [:page_facing_up:](http://natashatherobot.com/swift-protocol-composition/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
-        + The 55 Standard Lib Protocols Broken Down [:link:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/)
+        + The 55 Standard Lib Protocols Broken Down [:page_facing_up:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/)
+        + Can Swift have Dependent Types? [:page_facing_up:](https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift)
+        + More Misunderstanding of Dependent Types [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/)
     + Swift Initializers
         + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -301,6 +303,8 @@ comments: true
         + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
     + Other
         + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
+        + How to use @noescape [:page_facing_up:](http://stackoverflow.com/questions/28427436/noescape-attribute-in-swift-1-2)
+        + How to use @autoclosure [:page_facing_up:](http://stackoverflow.com/questions/24102617/how-to-use-swift-autoclosure?rq=1)
         + Magic Methods in Swift [:page_facing_up:](https://developer.apple.com/swift/blog/?id=15)
     + Objective C to Swift
         + Method Swizzling in Swift [:page_facing_up:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
