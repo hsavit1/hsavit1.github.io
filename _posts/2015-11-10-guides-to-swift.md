@@ -119,13 +119,14 @@ comments: true
             - JSQCoreDataKit [:electric_plug:](https://github.com/jessesquires/JSQCoreDataKit)
             - Comparing Core Data Stacks [:electric_plug:](http://floriankugler.com/2013/04/29/concurrent-core-data-stack-performance-shootout/)
             - Using Core Data with Swift [:microphone:](https://realm.io/news/jesse-squires-core-data-swift/)
-            - Using Core Data with Swift [:floppy_disk:](https://speakerdeck.com/jessesquires/using-core-data-in-swift)
+            - Better Core Data Models with Swift [:page_facing_up:](http://www.jessesquires.com/better-coredata-models-in-swift/)
         + Other
             + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
             + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
             + Using YapDatabase [:electric_plug:](https://github.com/yapstudios/YapDatabase)
             - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
-            - MagicalRecord <3 Swift [:link:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
+            - MagicalRecord <3 Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
+            - Networking with Monads [:vcr:](https://www.youtube.com/watch?v=LqwrUmuodyY)
     - Better Performance through Data Structures, Algorithms, and Design Patterns
         + Data Structures and Algorithms
             + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
@@ -154,17 +155,19 @@ comments: true
         + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
         - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
         - 250 Days of using VIPER Architecture with Swift [:microphone:](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
-    + Opinions
+        - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/)
+    + Opinions on Swift
         + Wishlist for Swift 3.0 [:page_facing_up:](https://realm.io/news/swift-3-wishlist/)
         + What are the Worst parts of Swift? [:page_facing_up:](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
-    + Style
+        + The Death of Cocoa [:page_facing_up:](http://nshipster.com/the-death-of-cocoa/)
+    + Swift Style
         + Swift Stye Rules [:page_facing_up:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
-    + Scripting
+    + Swift Scripting
         + Learn Swift by running Scripts [:page_facing_up:](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
         + Scripting in Swift is Pretty Awesome! [:page_facing_up:](http://krakendev.io/blog/scripting-in-swift)
     + GCD and Concurrency
         + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
-    + Functional 
+    + Functional Programming in Swift
         + Checking out Swiftz [:page_facing_up:](http://www.stackbuilders.com/news/swiftz-the-power-of-liftz)
         + Functional View Controllers [:page_facing_up:](http://chris.eidhof.nl/posts/functional-view-controllers.html)
         + Covariance and Contravariance in Swift 2.1 [:page_facing_up:](http://www.uraimo.com/2015/09/29/Swift2.1-Function-Types-Conversion-Covariance-Contravariance/)
@@ -191,6 +194,7 @@ comments: true
         - FP in Swift [:floppy_disk:](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
         - Thinking Functionally Using Swift [:floppy_disk:](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
         - Practical Declarative [:floppy_disk:](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [:floppy_disk:](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
+        - Functional Notification Pattern [:page_facing_up:](http://www.jessesquires.com/functional-notifications/)
     + Functional Reactive Programming in Swift 
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
@@ -287,7 +291,9 @@ comments: true
         + Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/#toptop)
         + Enumerating Tuple Values in Swift [:page_facing_up:](http://design.featherless.software/enumerating-tuple-values-swift/?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_12)
         + Simplfied Login with Swift Enums [:page_facing_up:](https://realm.io/news/david-east-simplifying-login-swift-enums/)
-        + Testing of Enums made easy [:link:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
+        + Testing of Enums made easy [:page_facing_up:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
+        + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
+        + Pattern Matching with an if case [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
     + Optionals and Types 
         + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
