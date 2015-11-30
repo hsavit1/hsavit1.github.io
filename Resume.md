@@ -40,7 +40,7 @@ permalink: /resume/
 
 
 
-### Great Skills
+### _Great Skills_
 
 
 + Objective-C
@@ -51,10 +51,12 @@ permalink: /resume/
 ### _Still Experimenting With_
 
 + Java
++ Javascript
 + Meteor Framework
 + Elixir
 + Phoenix Framework
 + Ruby
++ Rails
 + MongoDB
 + RethinkDB
 + Socket.io
@@ -65,7 +67,6 @@ permalink: /resume/
 ### _Learning_
 
 + Erlang
-+ Javascript
 + Node.js
 + React.js 
 + Docker
@@ -113,4 +114,4 @@ permalink: /resume/
 
 ###Note
 
-You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Guides](http://itshenry.com/Index.html) page for a general idea of what I'm capable of
+You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Guides](http://itshenry.com/) page for a general idea of what I'm capable of

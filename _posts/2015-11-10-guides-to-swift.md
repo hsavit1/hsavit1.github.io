@@ -26,7 +26,8 @@ comments: true
     - :fire: Awesome Pure Swift [:scroll:](https://github.com/PureSwift/PureSwiftList)
     - :fire: Awesome iOS [:scroll:](https://github.com/vsouza/awesome-ios)
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
-    - iOS Good Practices [:link:](https://github.com/futurice/ios-good-practices)
+    - iOS Good Practices [:scroll:](https://github.com/futurice/ios-good-practices)
+    - Little Bites of Cocoa [:scroll:](https://littlebitesofcocoa.com/)
 - Blogs
     - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
@@ -37,6 +38,7 @@ comments: true
     - Chris Eidhof [:notebook:](http://chris.eidhof.nl)
     - Ole Begemann [:notebook:](http://oleb.net/)
     - Uramio [:notebook:](http://www.uraimo.com/archive.html)
+    - Swift Weekly [:notebook:](https://github.com/vandadnp/swift-weekly)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [:link:](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [:link:](http://ios-goodies.com/)
@@ -124,16 +126,23 @@ comments: true
     - Core Data, Realm, and Other Networking Options
         - Realm
             - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
-            - Introduction to Realm [:link:](http://www.raywenderlich.com/81615/introduction-to-realm)
+            - Official Realm Introduction [:electric_plug:](https://realm.io/news/introducing-realm/)
+            - Realm Tutorial [:electric_plug:](http://www.raywenderlich.com/81615/introduction-to-realm)
             - Why Realm is great and why we're not going to use it [:electric_plug:](http://bsktapp.com/blog/why-is-realm-great-and-why-are-we-not-using-it/)
             - Realm Best Practices [:electric_plug:](http://stackoverflow.com/questions/31590717/proper-realm-usage-patterns-best-practices)
             - Realm Repo [:electric_plug:](https://github.com/realm/realm-cocoa)
+            - What Realm does that Core Data doesn't [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
+            - Reddit Thread [:electric_plug:](https://www.reddit.com/r/iOSProgramming/comments/2vmbv2/realm_or_coredata/)
         - Core Data
             + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
             + Moving from ObjC to Swift with Core Data [:electric_plug:](http://martiancraft.com/blog/2015/07/objective-c-swift-core-data/)
+            + What, if any, ACID gurantees does Core Data Make? [:electric_plug:](http://stackoverflow.com/questions/6634731/what-if-any-acid-guarantees-can-core-data-provide-on-ios)
+            + Core Data Libraries and NSKeyedArchiver [:electric_plug:](http://nshipster.com/core-data-libraries-and-utilities/)
+            - Ditching Core Data for Something else [:electric_plug:](https://medium.com/the-way-north/ditching-core-data-865c1bb5564c#.24t5a9t8t)
         + Other
             + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
             + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
+            + Using YapDatabase [:electric_plug:](https://github.com/yapstudios/YapDatabase)
     - Better Performance through Data Structures, Algorithms, and Design Patterns
         + Data Structures and Algorithms
             + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)

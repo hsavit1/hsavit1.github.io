@@ -107,14 +107,14 @@ comments: true
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
 - Books
-    - Intermediate Python [:link:](http://book.pythontips.com/en/latest/index.html)
-    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:link:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
-    - Python Machine Learning Book [:link:](https://github.com/rasbt/python-machine-learning-book) 
-    - Python for Signal Processing [:link:](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
-    - Problem Solving with Algorithms and Data Structures using Python [:link:](http://interactivepython.org/runestone/static/pythonds/index.html)
-    - All Python Books [:link:](http://importpython.com/books/)
-    - Full Stack Python Guide to Deployments [:link:](http://www.deploypython.com/)
-    - Python Cookbook [:link:](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
+    - Intermediate Python [:book:](http://book.pythontips.com/en/latest/index.html)
+    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
+    - Python Machine Learning Book [:book:](https://github.com/rasbt/python-machine-learning-book) 
+    - Python for Signal Processing [:book:](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+    - Problem Solving with Algorithms and Data Structures using Python [:book:](http://interactivepython.org/runestone/static/pythonds/index.html)
+    - All Python Books [:book:](http://importpython.com/books/)
+    - Full Stack Python Guide to Deployments [:book:](http://www.deploypython.com/)
+    - Python Cookbook [:book:](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - Scientific Applications
     - Python for Scientists [:link:](http://nbviewer.ipython.org/gist/rpmuller/5920182)
 - Github and Projects
@@ -130,7 +130,10 @@ comments: true
     - Python Monad Library [:link:](https://github.com/dbrattli/OSlash) 
 - Video
     - Vim as a Python IDE [:link:](https://www.youtube.com/watch?v=YhqsjUUHj6g)
+- Jobs
+    - Pycoders Jobs [:link:](http://www.pythonjobshq.com/)
 - Interview Questions
+    - :fire: Awesome Python interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#python)
     - 50 Python QA [:link:](http://www.careerride.com/python-interview-questions.aspx)
     - Toptal Questions [:link:](http://www.toptal.com/python/interview-questions)
     - Project Euler [:link:](http://www.s-anand.net/euler.html) [Link2](http://www.toddsifleet.com/projects/euler) [Link3](https://zach.se/project-euler-solutions/) [Link4](http://www.nayuki.io/page/project-euler-solutions)
