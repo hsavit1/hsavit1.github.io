@@ -54,15 +54,12 @@ comments: true
     - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
     - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
-    - Practical Declarative [:floppy_disk:](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [:floppy_disk:](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
     - Building for Open Source [:floppy_disk:](https://speakerdeck.com/kylef/building-for-open-source)
     - :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
     - How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
-    - Learning Swift from Haskell [:floppy_disk:](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [:microphone:](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
     - Advanced Type Safety in Swift [:floppy_disk:](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [:microphone:](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
     - Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
     - Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
-    - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
 - Presentations
     - All the Presentations from Swift Summit London [:microphone:](https://realm.io/news/swift-summit/)
     - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
@@ -193,6 +190,7 @@ comments: true
         - Make Swift More Functional [:floppy_disk:](http://www.slideshare.net/jarsen7/7-habits-for-a-more-functional-swift?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=3)
         - FP in Swift [:floppy_disk:](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=1)
         - Thinking Functionally Using Swift [:floppy_disk:](https://speakerdeck.com/saloievgen/think-functionally-in-swift)
+        - Practical Declarative [:floppy_disk:](https://speakerdeck.com/kylef/practical-declarative-programming-360-idev-2015) and Functional [:floppy_disk:](https://speakerdeck.com/kylef/practical-functional-programming-dotswift-2015) Swift
     + Functional Reactive Programming in Swift 
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
@@ -269,6 +267,7 @@ comments: true
         + The 55 Standard Lib Protocols Broken Down [:page_facing_up:](http://swiftunboxed.com/protocols/swift-standard-library-protocols-lessons/)
         + Can Swift have Dependent Types? [:page_facing_up:](https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift)
         + More Misunderstanding of Dependent Types [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/)
+        - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
     + Swift Initializers
         + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -324,6 +323,7 @@ comments: true
         + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
         + C++ Advice to Swift Devs [:page_facing_up:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
         + Swift Protocols vs Java 8 Interfaces [:page_facing_up:](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
+        - Learning Swift from Haskell [:floppy_disk:](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [:microphone:](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
 - Posts Coming Soon
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
