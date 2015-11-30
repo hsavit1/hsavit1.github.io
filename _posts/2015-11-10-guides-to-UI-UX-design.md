@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Guide to UI/UX Design and Front End Web Development"
+date:   2015-11-10 17:20:15
 comments: true
 ---
 
