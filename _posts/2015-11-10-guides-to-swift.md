@@ -5,17 +5,9 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Cool Swift Links
-    - Swift Education [:link:](http://swifteducation.github.io/)
+- Random Cool Swift Links
     - SwiftStub [:link:](http://swiftstub.com/)
-    - Play with Swift [:link:](http://brettbukowski.github.io/SwiftExamples/)
-    - Fucking Closure Syntax [:link:](http://fuckingclosuresyntax.com/)
-    - Ray Wenderlich Tutorial Pages [:link:](http://www.raywenderlich.com/category/swift)
-    - A Better way to learn Swift [:link:](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
-    - MetalByExample.com [:link:](http://metalbyexample.com)
-    - RAC Marbles [:link:](http://neilpa.me/rac-marbles/)
-    - Libraries used in the top 100 Apps [:link:](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.p76bo4ms9)
 - Quick References 
     - :raised_hands: That Thing In Swift [:scroll:](https://thatthinginswift.com/)
     - SwiftDoc [:scroll:](http://swiftdoc.org/)
@@ -28,6 +20,9 @@ comments: true
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
     - iOS Good Practices [:scroll:](https://github.com/futurice/ios-good-practices)
     - Little Bites of Cocoa [:scroll:](https://littlebitesofcocoa.com/)
+    - Libraries used in the top 100 Apps [:scroll:](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.p76bo4ms9)
+    - Fucking Closure Syntax [:link:](http://fuckingclosuresyntax.com/)
+    - RAC Marbles [:link:](http://neilpa.me/rac-marbles/)
 - Blogs
     - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
@@ -41,6 +36,7 @@ comments: true
     - Swift Weekly [:notebook:](https://github.com/vandadnp/swift-weekly)
     - Erica Sadun [:notebook:](http://ericasadun.com)
     - ThinkAndBuild [:notebook:](http://www.thinkandbuild.it/)
+    - MetalByExample.com [:link:](http://metalbyexample.com)
 - Newsletters 
     - This Week in Swift News: Curated Swift News [:link:](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [:link:](http://ios-goodies.com/)
@@ -48,6 +44,12 @@ comments: true
     - Swift Sandbox Newsletter [:link:](http://swiftsandbox.io/)
     - SwiftLang Website [:link:](http://swiftlang.eu/)
     - :fire: Awesome Swift News [:link:](https://github.com/ksm/SwiftInFlux)
+- Great Learning Resources 
+    - Hacking With Swift [:link:](https://www.hackingwithswift.com/)
+    - A Better way to learn Swift [:link:](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
+    - Ray Wenderlich Tutorial Pages [:link:](http://www.raywenderlich.com/category/swift)
+    - Swift Education [:link:](http://swifteducation.github.io/)
+    - Play with Swift [:link:](http://brettbukowski.github.io/SwiftExamples/)
 - Free Books
     - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
     - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
