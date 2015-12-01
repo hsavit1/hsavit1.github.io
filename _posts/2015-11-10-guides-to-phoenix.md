@@ -38,6 +38,7 @@ comments: true
     - Writing a Blog Engine in Phoenix Series [:link:](https://medium.com/@diamondgfx/introduction-fe138ac6079d#.2n6x0a5bx)
     - Using Phoenix with Elm [:link:](http://www.cultivatehq.com/posts/phoenix-elm-1/)
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
+    - RethinkDb setup [:page_facing_up:](http://ryanswapp.com/2015/11/28/getting-started-with-rethinkdb-and-phoenix-framework/)
     - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
 - Presentations
     - ElixirConf 2015: What's next for Phoenix? [:microphone:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
@@ -54,5 +55,6 @@ comments: true
     - Benchmarking Phoenix vs Rails vs Sinatra vs Express vs Martini [:link:](https://github.com/mroth/phoenix-showdown)
     - Ecto Databse [:link:](https://github.com/elixir-lang/ecto)
     - Cowboy Repository [:link:](https://github.com/ninenines/cowboy)
+    - A Distributed Hash Table [:link:](https://github.com/cit/MLDHT)
 - Books
     - Programming Phoenix [:book:](https://pragprog.com/book/phoenix/programming-phoenix)

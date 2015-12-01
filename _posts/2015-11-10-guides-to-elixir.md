@@ -14,7 +14,7 @@ comments: true
     - Official Repo [:link:](https://github.com/elixir-lang/elixir)
     - Write some Elixir Schemes [:link:](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
     - All about Elixir [:link:](https://github.com/chrismccord/elixir_express)
-    - Elixir School [:link:](https://github.com/doomspork/elixir-school)
+    - :raised_hands: Elixir School [:link:](https://github.com/doomspork/elixir-school)
     - Little Elixir Schemer [:link:](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
     - :fire: A list of companies currently using Elixir [:link:](https://github.com/doomspork/elixir-companies) 
     - Elixire Reg Ex [:link:](http://www.elixre.uk/)
