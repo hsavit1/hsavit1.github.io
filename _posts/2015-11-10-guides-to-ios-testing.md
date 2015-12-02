@@ -27,8 +27,10 @@ comments: true
     - Continuous Delivery for Native Apps [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
     - Reverse Engineering Xcode [:floppy_disk:](https://realm.io/news/jp-simard-reverse-engineering-code-completion/) 
     - Compiler Driven Development [:floppy_disk:](https://github.com/nlutsenko/compile-time-guaranteed/blob/master/compile-time-guaranteed.pdf)
+- Instruments and Profiling
+    - Profiling Core Animation [:bar_chart:](https://littlebitesofcocoa.com/113-profiling-core-animation)
+    - Using the Leaks Instrument [:bar_chart:](http://www.russbishop.net/shoot-the-heap)
 - Posts
-    - Using the Leaks Instrument [:link:](http://www.russbishop.net/shoot-the-heap)
     - :fire: Swift Unit Testing Resources [:link:](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
     - Unit Testing in Swift 2 [:link:](http://masteringswift.blogspot.com/2015/07/swift-2-and-unit-testing.html)
     - Painless automated builds with Fastlane and BuildKite [:link:](Painless Automated iOS Builds with fastlane and Buildkite)

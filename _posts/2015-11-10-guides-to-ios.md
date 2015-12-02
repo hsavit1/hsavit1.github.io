@@ -22,6 +22,7 @@ comments: true
         - UITouchType.Stylus [:link:](http://www.russbishop.net/uitouchtypestylus?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
         - Introduction to UIStackView [:page_facing_up:](http://www.thinkandbuild.it/introduction-to-uistackview/)
         - UIStackView by example [:page_facing_up:](https://www.hackingwithswift.com/read/31/2/uistackview-by-example)
+        - Using LayoutGuides and Anchors [:page_facing_up:](https://littlebitesofcocoa.com/112-layout-guides-anchors)
     - Xcode
         - Tips for using IB [:link:](http://merowing.info/2015/11/tips-for-interface-builder/)
         - Managing Xcode [:link:](http://pewpewthespells.com/blog/managing_xcode.html#xcscheme)

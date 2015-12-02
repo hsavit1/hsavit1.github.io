@@ -23,6 +23,7 @@ comments: true
     - Libraries used in the top 100 Apps [:scroll:](https://medium.com/ios-os-x-development/libraries-used-in-the-top-100-ios-apps-5b845ad927b7#.p76bo4ms9)
     - Fucking Closure Syntax [:scroll:](http://fuckingclosuresyntax.com/)
     - RAC Marbles [:scroll:](http://neilpa.me/rac-marbles/)
+    - Swift Knowledge Base [:scroll:](https://www.hackingwithswift.com/example-code/)
 - Blogs
     - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
@@ -97,8 +98,12 @@ comments: true
     - Free Swift Lang Course [:vhs:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
     - Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
     - Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
-- More Posts
-    - Core Data, Realm, and Other Networking Options
+- Posts
+    - Networking / Core Data / Realm
+        - Classic HTTP Work
+            - Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
+            - Background Downloads [:electric_plug:](https://littlebitesofcocoa.com/77-background-downloads)
+            - An AlamoFire Router [:electric_plug](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
         - Realm
             - Super simple Realm Intro [:electric_plug:](https://littlebitesofcocoa.com/49-realm-basics)
             - Why Realm over Core Data? [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
@@ -129,7 +134,7 @@ comments: true
             - { JSON, Swift, and Type Safety } [:floppy_disk:](https://speakerdeck.com/swiftsummit/anthony-levings-json-swift-and-type-safety-its-a-wrap)
             - MagicalRecord <3 Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
             - Networking with Monads [:vcr:](https://www.youtube.com/watch?v=LqwrUmuodyY)
-    - Better Performance through Data Structures, Algorithms, and Design Patterns
+    - Better Performance 
         + Data Structures and Algorithms
             + A Trie [:bar_chart:](https://bigonotetaking.wordpress.com/2015/08/11/a-trie-in-swift/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
             + A persistent tree using indirect enums [:bar_chart:](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/)
@@ -172,6 +177,7 @@ comments: true
         + Learn Swift by running Scripts [:page_facing_up:](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
         + Scripting in Swift is Pretty Awesome! [:page_facing_up:](http://krakendev.io/blog/scripting-in-swift)
     + GCD and NSOperation
+        + Basics [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
         + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
         + Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/?utm_campaign=ThomasHanning%2BNewsletter&utm_medium=web&utm_source=ThomasHanning_Newsletter2)
     + Generics 
@@ -207,6 +213,7 @@ comments: true
         - The monad among us [:floppy_disk:](https://speakerdeck.com/swiftsummit/al-skipp-the-monad-among-us)
         + :raised_hands: Functors, Applicatives, and Monads in Swift [:page_facing_up:](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
     + Functional Reactive Programming in Swift 
+        + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
         + Reacting to Events [:page_facing_up:](http://nomothetis.svbtle.com/reactivecocoa-ii-reacting-to-signals) 
         + ReactiveCocoa 4.0 Info [:link:](https://blog.alltheflow.com/reactivecocoa-4-0-with-swift-2-0/)
@@ -222,6 +229,9 @@ comments: true
         + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
         + iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
         + Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
+        + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
+        + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
+        + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
     + Web Services and Networking
         + Calling APIs and Parsing JSON with Swift [:page_facing_up:](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
         + Parsing Embedded JSON and Arrays in Swift [:page_facing_up:](https://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift)
@@ -232,6 +242,7 @@ comments: true
         + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
         + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
     + Swift Error Handling
+        + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
         + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
         + Swift 2.0: Why Guard is Better than If [:page_facing_up:](http://natashatherobot.com/swift-guard-better-than-if/)
         + Swift 2 Error Handling [:page_facing_up:](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
@@ -239,6 +250,7 @@ comments: true
         + Guard and Defer [:page_facing_up:](http://nshipster.com/guard-and-defer/)
         + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
         + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
+        + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
     + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
         + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
         + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
@@ -304,6 +316,7 @@ comments: true
         + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
         + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
         + Raw representable enumeration [:page_facing_up](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
+        + 
     + Optionals and Types 
         + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
@@ -330,8 +343,6 @@ comments: true
         + Simple Reflection in Swift [:page_facing_up:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
         + Understanding Reflection in Swift and how to use it [:page_facing_up:](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
         + Typecasting and the Swift Runtime [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue08/README.md)
-    + Errors
-        + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
     + Operator Overloading
         + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
     + Animations and Front End Stuff
@@ -343,6 +354,7 @@ comments: true
     - Swift 2.0
         - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
     + Other
+        + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
         + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
         + How to use @noescape [:page_facing_up:](http://stackoverflow.com/questions/28427436/noescape-attribute-in-swift-1-2)
         + How to use @autoclosure [:page_facing_up:](http://stackoverflow.com/questions/24102617/how-to-use-swift-autoclosure?rq=1)

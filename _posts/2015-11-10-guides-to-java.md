@@ -29,6 +29,9 @@ comments: true
     - The most important concepts in Java [:clipboard:](https://www.quora.com/What-are-the-most-important-concepts-in-Java-that-should-be-learned-and-reviewed-before-a-technical-interview)
     - Core Java Data Structures Interview Questions [:clipboard:](http://www.corejavainterviewquestions.com/java-collections-data-structures-interview-questions/)
     - Java Multiple Choice Questions [:clipboard:](http://www.careerride.com/java-multiple-choice-questions.aspx)
+    - Data Structures and Algos in Java Interviews [:clipboard:](https://github.com/donbeave/interview)
+    - Programming for Java Interviews [:clipboard:](https://github.com/svozniuk/java-interviews)
+    - Android Interviews [:clipboard:](https://github.com/derekargueta/Android-Interview-Questions)
 - Education
     - :raised_hands: Modern Java: A Guide to Java 8 [:mortar_board:](https://github.com/winterbe/java8-tutorial)
     - All the Concepts that a Java Programmer must know [:mortar_board:](https://www.quora.com/What-are-the-concepts-every-Java-programmer-must-know)
