@@ -5,14 +5,17 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
+
+- Links 
+    - OSSStatus.com [:link:](http://www.osstatus.com/)
+    - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
+    - Better Unit Testing with Swift [:link:](http://masilotti.com/better-swift-unit-testing/)
+    - UI Testing Cheat Sheet [:link:](http://masilotti.com/ui-testing-cheat-sheet/)
+    - Unofficial XCTest Documentation Website [:link:](http://masilotti.com/xctest-documentation/)
 - Github Projects
     - UIAutoMonkey [:link:](https://github.com/jonathanpenn/ui-auto-monkey)
     - Reveal testing [:link:](http://revealapp.com/)
     - Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
-    - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
-    - UI Testing Cheat Sheet [:link:](http://masilotti.com/ui-testing-cheat-sheet/)
-    - Better Unit Testing with Swift [:link:](http://masilotti.com/better-swift-unit-testing/)
-    - Unofficial XCTest Documentation Website [:link:](http://masilotti.com/xctest-documentation/)
 - Presentations
     - Reverse Engineering iOS Apps [:floppy_disk:](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
     - TDD on iOS [:floppy_disk:](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)

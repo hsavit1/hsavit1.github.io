@@ -255,7 +255,7 @@ comments: true
         + The Fibonacci SequenceType [:link:](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/#fn:ymmv)
         + Truly Lazy Sequences [:link:](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/)
         - Using Generators for UITableView Pagination Purposes [:page_facing_up:](http://blog.krzyzanowskim.com/2015/06/26/paging/)
-    + Protocol Oriented Programming in Swift
+    + Protocol Oriented Programming in Swift 2
         + Standard Template Protocols [:link:](https://github.com/cconeil/Standard-Template-Protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + Protocol Oriented MVVM [:page_facing_up:](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/), [:floppy_disk:](http://www.slideshare.net/natashatherobot/protocoloriented-mvvm-extended-edition)
         + Functional thinking via Protocol Extensions [:page_facing_up:](http://kelan.io/2015/approachable-functional-thinking-using-protocol-extensions/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_61)
@@ -340,6 +340,8 @@ comments: true
         - iOS Animations with AutoLayout [:microphone:](https://www.youtube.com/watch?v=N5Ert6LTruY&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=45) and  [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/MarinTodorov_IOSAnimationsWithAutoLayout.pdf) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
         - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
         - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
+    - Swift 2.0
+        - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
     + Other
         + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
         + How to use @noescape [:page_facing_up:](http://stackoverflow.com/questions/28427436/noescape-attribute-in-swift-1-2)
