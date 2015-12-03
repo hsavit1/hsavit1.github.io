@@ -6,18 +6,18 @@ comments: true
 ---
 
 - Open Source Swift 
-    - Apple Github Repository [:pencil2:](https://github.com/apple)
-    - Swift Repository [:pencil2:](https://github.com/apple/swift)
-    - Swift Core Libs Foundation Repository [:pencil2:](https://github.com/apple/swift-corelibs-foundation)
-    - Swift Core Libs Dispatch Repository [:pencil2:](https://github.com/apple/swift-corelibs-libdispatch)
-    - Swift CommonMark parsing and rendering library in C [:pencil2:](https://github.com/apple/swift-cmark)
-    - The Official Swift Language Docs [:pencil2:](https://github.com/apple/swift/tree/master/docs)
+    - Apple Github Repository [:crown:](https://github.com/apple)
+    - Swift Repository [:pencil:](https://github.com/apple/swift)
+    - Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
+    - Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
+    - Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
 + Swift Style
-    - Swift Language Evolution [:notebook:](https://github.com/apple/swift-evolution)
-    + Swift Stye Rules [:notebook:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
-    + SwiftLint [:link:](https://github.com/realm/SwiftLint)
-    - Swift Language Philosophies [:notebook:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
-    - Swift Lang F.A.Q. [:notebook:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
+    - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
+    - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
+    + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
+    + SwiftLint [:book:](https://github.com/realm/SwiftLint)
+    - Swift Language Philosophies [:book:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
+    - Swift Lang F.A.Q. [:book:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
 - In-Browser Swift Editors
     - SwiftStub [:link:](http://swiftstub.com/)
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
