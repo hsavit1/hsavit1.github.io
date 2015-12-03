@@ -6,11 +6,13 @@ comments: true
 ---
 
 - **Open Source Swift** 
-    - Apple Github Repository [:crown:](https://github.com/apple)
-    - Swift Repository [:pencil:](https://github.com/apple/swift)
+    - Apple Master Github Repository [:crown:](https://github.com/apple)
+    - Swift Master Repository [:pencil:](https://github.com/apple/swift)
     - Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
     - Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
     - Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
+    - Swift Clang Repositroy [:pencil:](https://github.com/apple/swift-clang)
+    - Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
 + **Swift Style**
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
     - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
@@ -22,7 +24,8 @@ comments: true
     - SwiftStub [:link:](http://swiftstub.com/)
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
 - **Quick References**
-    - :raised_hands: That Thing In Swift [:scroll:](https://thatthinginswift.com/)
+    - Swift.org [:scroll:](https://swift.org/about/)
+    - That Thing In Swift [:scroll:](https://thatthinginswift.com/)
     - SwiftDoc [:scroll:](http://swiftdoc.org/)
     - iOS Cookies [:scroll:](http://www.ioscookies.com/)
     - :fire: Awesome Swift [:scroll:](https://github.com/matteocrippa/awesome-swift)
