@@ -111,7 +111,7 @@ comments: true
             + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
             - JSON in Swift [:electric_plug:](http://blog.matthewcheok.com/json-and-swift/)
             - Functional JSON Parsing [:electric_plug:](http://owensd.io/2014/08/06/functional-json.html)
-            - Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
+            - NSURLSession Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
             - Background Downloads [:electric_plug:](https://littlebitesofcocoa.com/77-background-downloads)
             - An AlamoFire Router [:electric_plug](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
         - Realm
