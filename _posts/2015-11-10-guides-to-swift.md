@@ -6,11 +6,12 @@ comments: true
 ---
 
 - Open Source Swift 
-    - Apple Github Repository [:link:](https://github.com/apple)
-    - Swift Repository [:link:](https://github.com/apple/swift)
-    - Swift Core Libs Foundation Repository [:link:](https://github.com/apple/swift-corelibs-foundation)
-    - Swift Core Libs Dispatch Repository [:link:](https://github.com/apple/swift-corelibs-libdispatch)
-    - Swift CommonMark parsing and rendering library in C [:link:](https://github.com/apple/swift-cmark)
+    - Apple Github Repository [:pencil2:](https://github.com/apple)
+    - Swift Repository [:pencil2:](https://github.com/apple/swift)
+    - Swift Core Libs Foundation Repository [:pencil2:](https://github.com/apple/swift-corelibs-foundation)
+    - Swift Core Libs Dispatch Repository [:pencil2:](https://github.com/apple/swift-corelibs-libdispatch)
+    - Swift CommonMark parsing and rendering library in C [:pencil2:](https://github.com/apple/swift-cmark)
+    - The Official Swift Language Docs [:pencil2:](https://github.com/apple/swift/tree/master/docs)
 + Swift Style
     - Swift Language Evolution [:notebook:](https://github.com/apple/swift-evolution)
     + Swift Stye Rules [:notebook:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
@@ -250,6 +251,7 @@ comments: true
         - Functional Reactive Programming in an Imperative World [:microphone:](https://realm.io/news/nacho-soto-functional-reactive-programming/)
         - :raised_hands: RAC 3 with Ash Furrow [:floppy_disk:](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [:floppy_disk:](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
         - FRP with RAC in Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
+        - Learning RxSwift [:link:](https://github.com/pepaslabs/LearningRxSwift)
     + Swift Error Handling
         + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
         + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
