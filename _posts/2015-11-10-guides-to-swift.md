@@ -108,7 +108,7 @@ comments: true
     + Continuous Integration made Easy in Xcode 7 [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=410)
     + What's new in Xcode [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=104)
     + Swift in Practice [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=411)
-- *Other Video*
+- **Other Video**
     - Swift Language Youtube Channel [:vhs:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
     - Free Swift Lang Course [:vhs:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
     - Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
