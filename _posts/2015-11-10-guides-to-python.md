@@ -62,7 +62,7 @@ comments: true
     + Python Standard Library Reference [:link:](https://docs.python.org/3/library/index.html)
     + Built in Python Functions [:link:](https://docs.python.org/2/library/functions.html)
     + The Python Standard Library [:link:](https://docs.python.org/2/library/index.html)
-    + What is pypy? [:link:](http://doc.pypy.org/en/latest/introduction.html)
+    + What is PyPy? [:link:](http://doc.pypy.org/en/latest/introduction.html)
     + 6 Template Method Patterns, Python Style [:link:](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
     + Official Python Style Guide [:link:](http://legacy.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
     + The Zen of Python [:link:](https://www.python.org/dev/peps/pep-0020/)
