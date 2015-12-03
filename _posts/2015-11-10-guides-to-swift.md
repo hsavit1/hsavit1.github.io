@@ -5,6 +5,18 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
+- Open Source Swift 
+    - Apple Github Repository [:link:](https://github.com/apple)
+    - Swift Repository [:link:](https://github.com/apple/swift)
+    - Swift Core Libs Foundation Repository [:link:](https://github.com/apple/swift-corelibs-foundation)
+    - Swift Core Libs Dispatch Repository [:link:](https://github.com/apple/swift-corelibs-libdispatch)
+    - Swift CommonMark parsing and rendering library in C [:link:](https://github.com/apple/swift-cmark)
++ Swift Style
+    - Swift Language Evolution [:notebook:](https://github.com/apple/swift-evolution)
+    + Swift Stye Rules [:notebook:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
+    + SwiftLint [:link:](https://github.com/realm/SwiftLint)
+    - Swift Language Philosophies [:notebook:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
+    - Swift Lang F.A.Q. [:notebook:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
 - In-Browser Swift Editors
     - SwiftStub [:link:](http://swiftstub.com/)
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
@@ -52,6 +64,7 @@ comments: true
     - Play with Swift [:mortar_board:](http://brettbukowski.github.io/SwiftExamples/)
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
     - Funcitonal Reactive Programming iOS Learning Resources [:scroll:](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
+    - Learn Core Data [:scroll:](http://www.learncoredata.com/)
 - Free Books
     - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
     - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
@@ -177,18 +190,16 @@ comments: true
     + Application Structure / Architecture
         + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
         + RE: Class or Struct [:page_facing_up:](http://owensd.io/2015/07/05/re-struct-or-class.html)
+        - Mutating Funcs in Swift Structs [:page_facing_up:](http://natashatherobot.com/mutating-functions-swift-structs/)
         + MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
         - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
         - 250 Days of using VIPER Architecture with Swift [:microphone:](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
         - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/)
-        - Mutating Funcs in Swift Structs [:page_facing_up:](http://natashatherobot.com/mutating-functions-swift-structs/)
+        - Preventing Massive View Controllers [:microphone:](https://www.youtube.com/watch?v=dgOdsh1Bq10&feature=youtu.be&list=PLy2fR8K1ngurocVMEL0qHn0ik2MDYewLJ)
     + Opinions about Swift
         + Wishlist for Swift 3.0 [:page_facing_up:](https://realm.io/news/swift-3-wishlist/)
         + What are the Worst parts of Swift? [:page_facing_up:](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
         + The Death of Cocoa [:page_facing_up:](http://nshipster.com/the-death-of-cocoa/)
-    + Swift Style
-        + Swift Stye Rules [:page_facing_up:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
-        + SwiftLint [:link:](https://github.com/realm/SwiftLint)
     + Swift Scripting
         + Learn Swift by running Scripts [:page_facing_up:](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b)
         + Scripting in Swift is Pretty Awesome! [:page_facing_up:](http://krakendev.io/blog/scripting-in-swift)
