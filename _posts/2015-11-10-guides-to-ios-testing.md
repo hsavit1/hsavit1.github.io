@@ -49,6 +49,7 @@ comments: true
     - You need 180 ScreenShots if you want to change the UI in a significant way [:link:](http://www.russbishop.net/storm-sim-requires-180-screenshots)
     - How testing has improved in Swift 2 [:link:](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
     - TDD with FBSnapShotTestCase [:link:](http://devmonologue.com/ios/category/test-driven-development/)
+    - Debugging Core Animation [:link:](http://jwilling.com/blog/debugging-core-animation-on-osx/)
 - Tutorials
     - How to configure Travis CI for iOS Testing [:link:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
     - Setting up KIF for iOS Acceptance Testing [:link:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)

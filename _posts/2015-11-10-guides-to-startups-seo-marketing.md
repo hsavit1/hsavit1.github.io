@@ -25,3 +25,4 @@ comments: true
     - How to raise money crowdfunding [:link:](https://medium.com/@jerols/6-things-we-learned-from-running-a-private-crowdfunding-campaign-33ac835de4dd)
     - Poaching is for animals, not people [:link:](https://signalvnoise.com/posts/3962-poaching-is-for-animals-not-employees)
     - How I made the top app on the store [:page_facing_up:](https://medium.com/@denzhadanov/how-to-launch-a-mac-app-and-become-1-top-paid-app-globally-4434bbfb51ee#.ff2sr5qv4)
+    - How much should it cost to make WhatsApp? [:page_facing_up:](https://yalantis.com/blog/cost-of-mobile-messaging-app-development-types-kpis-landscape-recommended-approach-and-cost-of-development/)

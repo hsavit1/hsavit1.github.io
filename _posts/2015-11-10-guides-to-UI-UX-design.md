@@ -43,6 +43,7 @@ comments: true
     - How to Prototype Effectively [:page_facing_up:](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)
     - Making Learning Easy by Design [:page_facing_up:](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798) 
     - Your UI is NOT a Disney Movie [:page_facing_up:](https://medium.com/startups-venture-capital/your-ui-isn-t-a-disney-movie-703f7fbd24d2#.ymwftlxi2)
+    - Behavioral App Design [:page_facing_up:](https://medium.com/swlh/a-behavioral-approach-to-product-design-166d22628970#.a6pf6wvw4)
 - Slides
     - Design 101 [:floppy_disk:](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [:floppy_disk:](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
