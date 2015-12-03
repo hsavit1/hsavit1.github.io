@@ -5,23 +5,23 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- *Open Source Swift* 
+- **Open Source Swift** 
     - Apple Github Repository [:crown:](https://github.com/apple)
     - Swift Repository [:pencil:](https://github.com/apple/swift)
     - Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
     - Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
     - Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
-+ *Swift Style*
++ **Swift Style**
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
     - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
     + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
     + SwiftLint [:book:](https://github.com/realm/SwiftLint)
     - Swift Language Philosophies [:book:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
     - Swift Lang F.A.Q. [:book:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
-- **In-Browser Swift Editors*
+- **In-Browser Swift Editors**
     - SwiftStub [:link:](http://swiftstub.com/)
     - Try Swift in the Browser [:link:](http://www.runswiftlang.com/learn)
-- *Quick References*
+- **Quick References**
     - :raised_hands: That Thing In Swift [:scroll:](https://thatthinginswift.com/)
     - SwiftDoc [:scroll:](http://swiftdoc.org/)
     - iOS Cookies [:scroll:](http://www.ioscookies.com/)
@@ -35,7 +35,7 @@ comments: true
     - Fu*king Closure Syntax [:scroll:](http://fuckingclosuresyntax.com/)
     - RAC Marbles [:scroll:](http://neilpa.me/rac-marbles/)
     - Swift Knowledge Base [:scroll:](https://www.hackingwithswift.com/example-code/)
-- *Blogs*
+- **Blogs**
     - iOS at Artsy [:notebook:](https://github.com/orta/Swift-at-Artsy)
     - The Swift Diary [:notebook:](http://inessential.com/swiftdiary)
     - Human Friendly Swift Blog [:notebook:](http://blog.human-friendly.com/tag/swift)
@@ -50,14 +50,14 @@ comments: true
     - ThinkAndBuild [:notebook:](http://www.thinkandbuild.it/)
     - MetalByExample.com [:link:](http://metalbyexample.com)
     - David Owens [:notebook:](http://owensd.io/posts/)
-- *Newsletters* 
+- **Newsletters**
     - This Week in Swift News: Curated Swift News [:newspaper:](https://swiftnews.curated.co/issues?page=6)
     - iOS Goodies [:newspaper:](http://ios-goodies.com/)
     - iOS Dev Weekly [:newspaper:](https://iosdevweekly.com/)
     - Swift Sandbox Newsletter [:newspaper:](http://swiftsandbox.io/)
     - SwiftLang Website [:newspaper:](http://swiftlang.eu/)
     - :fire: Awesome Swift News [:newspaper:](https://github.com/ksm/SwiftInFlux)
-- *Great Learning Resources*
+- **Great Learning Resources**
     - Hacking With Swift [:mortar_board:](https://www.hackingwithswift.com/)
     - A Better way to learn Swift [:mortar_board:](https://github.com/GoThinkster/swift/blob/master/a-better-way-to-learn-swift.mdown)
     - Ray Wenderlich Tutorial Pages [:mortar_board:](http://www.raywenderlich.com/category/swift)
@@ -66,10 +66,10 @@ comments: true
     - Realm Roundup: 25 Realm Resources and Tutorials [:scroll:](https://realm.io/news/top-realm-resources/)
     - Funcitonal Reactive Programming iOS Learning Resources [:scroll:](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
     - Learn Core Data [:scroll:](http://www.learncoredata.com/)
-- *Free Books*
+- **Free Books**
     - Learn Swift [:books:](http://books.aidanf.net/learn-swift)
     - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
-- *Slides*
+- **Slides**
     - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
     - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
     - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
@@ -80,7 +80,7 @@ comments: true
     - Advanced Type Safety in Swift [:floppy_disk:](https://github.com/jspahrsummers/correct-behavior-through-type-safety/blob/master/Correct%20Behavior%20Through%20Type%20Safety.pdf), and corresponding [:microphone:](https://realm.io/news/altconf-justin-spahr-summers-type-safety/)
     - Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
     - Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
-- *Presentations*
+- **Presentations**
     - All the Presentations from Swift Summit London [:microphone:](https://realm.io/news/swift-summit/)
     - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
     - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
@@ -97,7 +97,7 @@ comments: true
     - * Oriented Programming [:microphone:](https://www.youtube.com/watch?v=j0uFAynIGt8&index=2&list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi)
     - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
     - The astonishing powers of 3D Touch [:microphone:](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
-- *WWDC Presentations*
+- **WWDC Presentations**
     + Search through WWDC Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
     + Code Samples From WWDC [:microphone:](https://developer.apple.com/sample-code/wwdc/2015/)
     + WWDC Full Text WriteUps [:microphone:](http://asciiwwdc.com/)
@@ -113,7 +113,7 @@ comments: true
     - Free Swift Lang Course [:vhs:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
     - Explaining the mutating keyword [:vhs:](https://www.youtube.com/watch?v=uOrKvPDfLoE)
     - Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
-- *Posts*
+- **Posts**
     - *Networking / Core Data / Realm*
         + *Web Services and Networking*
             + Calling APIs and Parsing JSON with Swift [:page_facing_up:](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
@@ -400,7 +400,7 @@ comments: true
         + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
         + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
         + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
-- *Posts Coming Soon*
+- **Posts Coming Soon**
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
     - Exploring Functional Programming in Swift [Post Coming Soon]()
@@ -408,7 +408,7 @@ comments: true
     - _Book Review_: Advanced Swift (ObjC.io) [Post Coming Soon]()
     - _Book Review_: Core Data By Tutorials (Ray Wenderlich) [Post Coming Soon]()
     - _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
-- *Github*
+- **Github**
     - SwiftlyJSON [:link:](https://github.com/SwiftyJSON/SwiftyJSON)
     - Argo [:link:](https://github.com/thoughtbot/Argo)
     - Swiftz [:link:](https://github.com/typelift)
