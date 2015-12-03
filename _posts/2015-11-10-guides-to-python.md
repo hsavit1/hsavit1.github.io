@@ -45,6 +45,7 @@ comments: true
     - Why Python over Ruby? [:link:](https://news.ycombinator.com/item?id=682101)
     - Why are there so many Pythons? [:link:](http://www.toptal.com/python/why-are-there-so-many-pythons)
     - Metaprogramming in style with Decorators [:link:](http://lgiordani.com/blog/2015/04/23/python-decorators-metaprogramming-with-style/)
+    - Genetic Algorithms in Python [:link:](http://colindrake.me/2011/05/01/ga-in-python/)
 - Opinions
     - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
 - Testing

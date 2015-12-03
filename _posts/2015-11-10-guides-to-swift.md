@@ -100,7 +100,17 @@ comments: true
     - Swift tutorial Video Series [:vhs:](https://www.youtube.com/playlist?list=PLfOZCUzRoPfKeOS_pwpiqbdviGcCOcTYb)
 - Posts
     - Networking / Core Data / Realm
-        - Classic HTTP Work
+        + Web Services and Networking
+            + Calling APIs and Parsing JSON with Swift [:page_facing_up:](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
+            + Parsing Embedded JSON and Arrays in Swift [:page_facing_up:](https://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift)
+            + Real World JSON Parsing [:page_facing_up:](https://robots.thoughtbot.com/real-world-json-parsing-with-swift)
+            + Efficient JSON Parsing with Functional Concepts [:page_facing_up:](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
+            + Calling a REST Api in Swift [:page_facing_up:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
+            + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)
+            + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
+            + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
+            - JSON in Swift [:electric_plug:](http://blog.matthewcheok.com/json-and-swift/)
+            - Functional JSON Parsing [:electric_plug:](http://owensd.io/2014/08/06/functional-json.html)
             - Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
             - Background Downloads [:electric_plug:](https://littlebitesofcocoa.com/77-background-downloads)
             - An AlamoFire Router [:electric_plug](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
@@ -115,7 +125,7 @@ comments: true
             - What Realm does that Core Data doesn't [:electric_plug:](https://www.quora.com/Why-would-you-use-Realm-over-Core-Data)
             - Reddit Thread [:electric_plug:](https://www.reddit.com/r/iOSProgramming/comments/2vmbv2/realm_or_coredata/)
             - A look into Realm's Core DB Engine [:microphone:](https://realm.io/news/jp-simard-realm-core-database-engine/)
-            - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
+            - Working with Realm [:electric_plug:](http://blog.matthewcheok.com/working-with-realm/)
         - Core Data
             - Core Competencies [:electric_plug:](https://developer.apple.com/library/ios/documentation/DataManagement/Devpedia-CoreData/coreDataStack.html#//apple_ref/doc/uid/TP40010398-CH25-SW1)
             + A Swift Into To Core Data [:electric_plug:](https://github.com/andyshep/CoreDataPlayground?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_2)
@@ -127,6 +137,7 @@ comments: true
             - Comparing Core Data Stacks [:electric_plug:](http://floriankugler.com/2013/04/29/concurrent-core-data-stack-performance-shootout/)
             - Using Core Data with Swift [:microphone:](https://realm.io/news/jesse-squires-core-data-swift/)
             - Better Core Data Models with Swift [:page_facing_up:](http://www.jessesquires.com/better-coredata-models-in-swift/)
+            - Core Data in 2015 and Magical Record in Swift [:microphone:](https://www.youtube.com/watch?v=1jSuXbeIKuk&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=46)
         + Other
             + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
             + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
@@ -160,12 +171,15 @@ comments: true
             + Conform to Objective C Protocols in Swift [:bar_chart:](http://cocoa.tumblr.com/post/128293810968/conforming-to-objective-c-protocols-with-custom?is_related_post=1)
             + Optional Protocol Methods [:bar_chart:](http://useyourloaf.com/blog/swift-optional-protocol-methods.html?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
             + The Builder Pattern and Fluent Interface [:bar_chart:](https://github.com/vandadnp/swift-weekly/blob/master/issue05/README.md)
+            + A Better NSNotificationCenter Observer Pattern [:bar_chart:](http://blog.matthewcheok.com/a-better-nsnotificationcenter/)
+            + Key Value Coding in Swift [:bar_chart:](http://owensd.io/2015/07/14/key-value-coding-in-swift.html)
     + Application Structure / Architecture
         + MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
         + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
         - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
         - 250 Days of using VIPER Architecture with Swift [:microphone:](https://realm.io/news/altconf-brice-pollock-250-days-shipping-with-swift-and-viper/)
         - Dependency Injection in Swift [:page_facing_up:](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/)
+        - Mutating Funcs in Swift Structs [:page_facing_up:](http://natashatherobot.com/mutating-functions-swift-structs/)
     + Opinions about Swift
         + Wishlist for Swift 3.0 [:page_facing_up:](https://realm.io/news/swift-3-wishlist/)
         + What are the Worst parts of Swift? [:page_facing_up:](https://www.quora.com/Which-features-overcomplicate-Swift-What-should-be-removed)
@@ -180,6 +194,7 @@ comments: true
         + Basics [:page_facing_up:](https://littlebitesofcocoa.com/85-grand-central-dispatch-basics)
         + Methods of concurrency — GCD, agents, tasks and invocations [:page_facing_up:](http://overooped.com/post/41803252527/methods-of-concurrency)
         + Code at the end of the queue [:link:](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/?utm_campaign=ThomasHanning%2BNewsletter&utm_medium=web&utm_source=ThomasHanning_Newsletter2)
+        + Delaying Code Execution through Closures [:page_facing_up:](http://blog.matthewcheok.com/delaying-code-execution-in-swift/)
     + Generics 
         + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
     + Functional Programming in Swift
@@ -222,25 +237,6 @@ comments: true
         - Functional Reactive Programming in an Imperative World [:microphone:](https://realm.io/news/nacho-soto-functional-reactive-programming/)
         - :raised_hands: RAC 3 with Ash Furrow [:floppy_disk:](http://www.slideshare.net/colineberhardt/reactivecocoa-and-swift-better-together?qid=8a7611e7-4c08-4e2f-9f81-99b67c6f4390&v=default&b=&from_search=10), and some other nice [:floppy_disk:](https://speakerdeck.com/romainpouclet/taking-a-peak-at-reactivecocoa-3-dot-0)
         - FRP with RAC in Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/functional-reactive-programming-in-swift)
-    + Interview Situations
-        + Ray Wenderlich [:clipboard:](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
-        + Toptal [:clipboard:](http://www.toptal.com/swift/interview-questions)
-        + LeetCode [:clipboard:](https://github.com/diwu/LeetCode-Solutions-in-Swift)
-        + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
-        + iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
-        + Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
-        + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
-        + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
-        + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
-    + Web Services and Networking
-        + Calling APIs and Parsing JSON with Swift [:page_facing_up:](https://www.topcoder.com/blog/calling-apis-parsing-json-with-swift/)
-        + Parsing Embedded JSON and Arrays in Swift [:page_facing_up:](https://robots.thoughtbot.com/parsing-embedded-json-and-arrays-in-swift)
-        + Real World JSON Parsing [:page_facing_up:](https://robots.thoughtbot.com/real-world-json-parsing-with-swift)
-        + Efficient JSON Parsing with Functional Concepts [:page_facing_up:](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
-        + Calling a REST Api in Swift [:page_facing_up:](http://stackoverflow.com/questions/24321165/make-rest-api-call-in-swift)
-        + How to Make REST API Calls and Parse JSON with Swift [:page_facing_up:](http://devdactic.com/rest-api-parse-json-swift/)
-        + HTTP in Swift [:page_facing_up:](https://medium.com/swift-programming/http-in-swift-693b3a7bf086)
-        + Reachability Library [:page_facing_up:](https://github.com/ashleymills/Reachability.swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_16)
     + Swift Error Handling
         + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
         + Swift Failiable Initializers [:page_facing_up:](http://www.jessesquires.com/swift-failable-initializers-revisited/)
@@ -251,13 +247,6 @@ comments: true
         + Unmanaged Type [:page_facing_up:](http://nshipster.com/unmanaged/)
         + try/catch with asynchronous closures [:page_facing_up:](http://appventure.me/2015/06/19/swift-try-catch-asynchronous-closures/)
         + Using the *assert()* keyword [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/)
-    + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
-        + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
-        + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
-        + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
-        + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
-        + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
-        + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
     + Collections / Sequences / Generators
         + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
         + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)
@@ -293,6 +282,7 @@ comments: true
         + Can Swift have Dependent Types? [:page_facing_up:](https://github.com/oisdk/ConstArray/blob/master/Playground.playground/Contents.swift)
         + More Misunderstanding of Dependent Types [:page_facing_up:](https://bigonotetaking.wordpress.com/2015/09/06/yet-more-misunderstanding-of-dependent-types/)
         - 55 Standard Library Swift Protocols [:floppy_disk:](https://speakerdeck.com/gregheo/what-i-learned-from-55-star-swift-standard-library-protocols)
+        - Current Recommmended Protocol Usage [:page_facing_up:](http://owensd.io/2015/08/06/protocols.html)
     + Swift Initializers
         + Swift Initializers [:page_facing_up:](http://ashfurrow.com/blog/swift-initializers/)
         + Exploring KVO Alternatives in Swift [:page_facing_up:](http://blog.scottlogic.com/2015/02/11/swift-kvo-alternatives.html)
@@ -316,7 +306,7 @@ comments: true
         + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
         + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
         + Raw representable enumeration [:page_facing_up](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
-        + 
+        + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
     + Optionals and Types 
         + Swift Optionals Made Simple [:page_facing_up:](http://appventure.me/2014/06/13/swift-optionals-made-simple/)
         + Swift's Type System [:page_facing_up:](http://oleb.net/blog/2015/07/swift-type-system/)
@@ -331,6 +321,7 @@ comments: true
         + Associated Types in Swift Explained [:page_facing_up:](http://www.russbishop.net/swift-associated-types)
         + Illuminating Forum Post [:page_facing_up:](https://forums.developer.apple.com/message/18038)
         + How to make Generic Protocols in Swift [:page_facing_up:](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
+        + Associated Enum Data As Types [:page_facing_up:](http://owensd.io/2015/09/15/associated-enum-cases-as-types.html)
     + Interpolability with C and Objective-C
         + Swift and C [:microphone:](https://realm.io/news/pragma-chris-eidhof-swift-c/)
         + Swift & the ObjC Runtime [:page_facing_up:](http://nshipster.com/swift-objc-runtime/)
@@ -353,8 +344,12 @@ comments: true
         - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
     - Swift 2.0
         - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
-    + Other
+    + Text
         + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
+        + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
+        + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
+        + Part 2 of the AST [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)
+    + Other
         + @autoclosure, @inline, @noescape, and @noreturn Keywords [:page_facing_up:](https://github.com/vandadnp/swift-weekly/blob/master/issue11/README.md)
         + How to use @noescape [:page_facing_up:](http://stackoverflow.com/questions/28427436/noescape-attribute-in-swift-1-2)
         + How to use @autoclosure [:page_facing_up:](http://stackoverflow.com/questions/24102617/how-to-use-swift-autoclosure?rq=1)
@@ -367,6 +362,23 @@ comments: true
         + Swift Protocols vs Java 8 Interfaces [:page_facing_up:](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
         - Learning Swift from Haskell [:floppy_disk:](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [:microphone:](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
         - Swift vs Golang [:floppy_disk:](http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1)
+    + Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics
+        + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
+        + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
+        + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
+        + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
+        + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
+        + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
+    + Interview Situations
+        + Ray Wenderlich [:clipboard:](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
+        + Toptal [:clipboard:](http://www.toptal.com/swift/interview-questions)
+        + LeetCode [:clipboard:](https://github.com/diwu/LeetCode-Solutions-in-Swift)
+        + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
+        + iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
+        + Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
+        + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
+        + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
+        + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
 - Posts Coming Soon
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
