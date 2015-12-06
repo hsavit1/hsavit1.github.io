@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - Easy Python [:link:](http://easy-python.readthedocs.org/en/latest/#contribute)
     - The Hitchiker's Guide to Python [:link:](https://github.com/kennethreitz/python-guide)
     - Why Python? :raised_hands: [:link:](https://docs.python.org/2/faq/general.html#why-was-python-created-in-the-first-place)
@@ -28,7 +28,7 @@ comments: true
     - PC: Python Central [:link:](http://pythoncentral.io/)
     - Python 2to3 tool [:link:](https://docs.python.org/2/library/2to3.html)
     - How many Python Devs are there in the world? [:link:](http://www.gilesthomas.com/2013/06/how-many-python-programmers-are-there-in-the-world/)
-- Posts
+- **Posts**
     - Concurrency and Multithreading in Python [:link:](https://www.quora.com/How-do-I-do-multithreading-in-Python)
     - Concurrency and Parallelism Tutorial in Python [:link:](http://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
     - Abstract Classes vs Interfaces in Python [:link:](http://stackoverflow.com/questions/372042/difference-between-abstract-class-and-interface-in-python)
@@ -46,12 +46,12 @@ comments: true
     - Why are there so many Pythons? [:link:](http://www.toptal.com/python/why-are-there-so-many-pythons)
     - Metaprogramming in style with Decorators [:link:](http://lgiordani.com/blog/2015/04/23/python-decorators-metaprogramming-with-style/)
     - Genetic Algorithms in Python [:link:](http://colindrake.me/2011/05/01/ga-in-python/)
-- Opinions
+- **Opinions**
     - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
-- Testing
+- **Testing**
     - How to Mock in Python [:link:](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
     - BDD in python [:link:](http://code.tutsplus.com/tutorials/behavior-driven-development-in-python--net-26547)
-- References
+- **References**
     + Python Cheat Sheet [:link:](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
     + Python Command Line Reference Guide [:link:](https://docs.python.org/3.3/using/cmdline.html)
     + Python Quick Reference Page [:link:](http://rgruet.free.fr/PQR27/PQR2.7.html#ClassDef)
@@ -76,16 +76,16 @@ comments: true
     + The History of Python [:link:](http://python-history.blogspot.com/)
     + Function annotations in Python [:link:](https://www.python.org/dev/peps/pep-3107/)
     + Introduction to Python Decorators [:link:](https://www.codementor.io/python/tutorial/introduction-to-decorators)
-+ Guides
++ **Guides**
     + A Guide to Python's Function Decorators [:link:](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
     + An extensive guide to Python Decorators [:link:](https://github.com/GrahamDumpleton/wrapt)
-- Tutorial
+- **Tutorial**
     + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php) 
     + A Functional Programming How To in Python [:link:](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [:link:](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [:link:](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
     + Abstract Base Classes [:link:](https://www.python.org/dev/peps/pep-3119/)
-- Stack Overflow Questions / Answers
+- **Stack Overflow Questions / Answers**
     - Why does python use static methods? [:link:](http://stackoverflow.com/questions/2657627/why-does-python-use-magic-methods)
     - What is a metaclass in Python? [:link:](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python/6581949#6581949)
     - @classmethod and @staticmethod explained [:link:](http://stackoverflow.com/questions/12179271/python-classmethod-and-staticmethod-for-beginner)
@@ -101,13 +101,13 @@ comments: true
     - What are Python function annotations? [:link:](http://stackoverflow.com/questions/14379753/what-does-mean-in-python-function-definitions)
     - How can PyPy be faster than CPython? [:link:](http://stackoverflow.com/questions/12645394/how-can-pypy-be-faster-than-cpython)
     - How does Garbage Collection work in Python? [:link:](https://www.quora.com/How-does-garbage-collection-in-Python-work)
-- Slides
+- **Slides**
     - 10 Awesome Features of Python 3.# [:link:](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [:floppy_disk:](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
     - Metaprogramming with Python [:floppy_disk:](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and a class [:link:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
-- Books
+- **Books**
     - Intermediate Python [:book:](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
     - Python Machine Learning Book [:book:](https://github.com/rasbt/python-machine-learning-book) 
@@ -116,9 +116,9 @@ comments: true
     - All Python Books [:book:](http://importpython.com/books/)
     - Full Stack Python Guide to Deployments [:book:](http://www.deploypython.com/)
     - Python Cookbook [:book:](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
-- Scientific Applications
+- **Scientific Applications**
     - Python for Scientists [:link:](http://nbviewer.ipython.org/gist/rpmuller/5920182)
-- Github and Projects
+- **Github and Projects**
     - Cool Github Projects [:link:](https://www.coolgithubprojects.com/)
     - PyPI Python package index [:link:](https://pypi.python.org/pypi)
     - IPython Interactive Computing [:link:](http://ipython.org/)
@@ -129,11 +129,11 @@ comments: true
     - Python Reference [:link:](https://github.com/rasbt/python_reference)
     - scikit-learn: machine learning in Python [:link:](https://github.com/scikit-learn/scikit-learn)
     - Python Monad Library [:link:](https://github.com/dbrattli/OSlash) 
-- Video
+- **Video**
     - Vim as a Python IDE [:link:](https://www.youtube.com/watch?v=YhqsjUUHj6g)
-- Jobs
+- **Jobs**
     - Pycoders Jobs [:link:](http://www.pythonjobshq.com/)
-- Interview Questions
+- **Interview Questions**
     - :fire: Awesome Python interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#python)
     - 50 Python QA [:link:](http://www.careerride.com/python-interview-questions.aspx)
     - Toptal Questions [:link:](http://www.toptal.com/python/interview-questions)

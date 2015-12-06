@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - An Elixir Blog made by Elixir's Creator [:link:](http://blog.plataformatec.com.br/tag/elixir/)
     - Elixir Style Guide [:link:](https://github.com/niftyn8/elixir_style_guide)
     - :fire: :raised_hands: Awesome Elixir [:link:](https://github.com/h4cc/awesome-elixir)
@@ -18,21 +18,21 @@ comments: true
     - Little Elixir Schemer [:link:](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
     - :fire: A list of companies currently using Elixir [:link:](https://github.com/doomspork/elixir-companies) 
     - Elixire Reg Ex [:link:](http://www.elixre.uk/)
-- Learning
+- **Learning**
     - The best resources for Learning Elixir [:link:](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
     - Elixir Experience [:link:](http://elixirexperience.com/)
     - Elixir Quiz [:link:](http://elixirquiz.github.io/)
     - Elixir Express [:link:](https://github.com/chrismccord/elixir_express)
     - Fizzbuzz [:link:](http://www.leighhalliday.com/fizzbuzz-in-elixir)
     - A gentle introduction [:link:](https://pragprog.com/magazines/2013-06/programming-elixir)
-- Rerferences
+- **Rerferences**
     - :raised_hands: Official Docs [:link:](http://elixir-lang.org/docs/stable/elixir/Keyword.html)
     - :raised_hands: The Unofficial Elixir Documentation [:link:](http://elixir-lang.readthedocs.org/en/latest/index.html)   
     - :raised_hands: Elixir Language Cheat Sheet [:link:](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
     - Elixir Style Guide [:link:](https://github.com/niftyn8/elixir_style_guide)
     - Use Erlang Term Storage (ETS) to create State [:link:](http://www.erlang.org/doc/man/ets.html)
     - Design Goals of Elixir [:link:](http://elixir-lang.org/blog/2013/08/08/elixir-design-goals/)
-- Slides
+- **Slides**
     - Write Less and Do More with Elixir Macros [:floppy_disk:](http://www.chrismccord.com/blog/2014/03/13/write-less-do-more-and-have-fun-with-elixir-macros/)
     - Hello Elixir!! [:floppy_disk:](https://speakerdeck.com/benjamintan/hello-elixir)
     - Elixir is an Erlang VM Language [:floppy_disk:](https://speakerdeck.com/rssll/elixir-an-erlang-vm-language)
@@ -43,17 +43,17 @@ comments: true
     - Elixir, Zero to Web [:floppy_disk:](https://speakerdeck.com/thegrubbsian/elixir-zero-to-web)
     - Do More with Elixir Macros [:floppy_disk:](http://slides.com/chrismccord/elixir-macros#/)
     - Comparing Interfaces in Swift and Elixir [:link:](Comparing protocols and extensions in Swift and Elixir)
-- Community News
+- **Community News**
     - ElixirStream.com [:link:](http://elixirstream.com/)
     - ElixirStatus.com [:link:](http://elixirstatus.com/)
-- Blogs
+- **Blogs**
     - Zohaib [:link:](http://zohaib.me/)
     - Learning Elixir [:link:](http://learningelixir.joekain.com/)
     - Plataformatec [:link:](http://blog.plataformatec.com.br/tag/elixir/)
     - ElixirDose Blog [:link:](http://www.elixirdose.com/)
     - The Pug [:link:](http://thepugautomatic.com/)
-- Posts
-    - Opinions
+- **Posts**
+    - *Opinions*
         - Why Elixir over Go? [:link:](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that?share=1)
         - Why I'm betting on Elixir [:link:](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58)
         - Should I learn Erlang before Elixir? [:link:](https://www.quora.com/Is-it-necessary-to-learn-Erlang-before-digging-into-Elixir)
@@ -62,7 +62,7 @@ comments: true
         - Elixir vs Go vs Rust vs Scala for backend languages [:link:](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm) 
         - Elixir is _not_ Ruby [:link:](http://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
         - Can Elixir be used for finance? [:link:]
-    - Language Related
+    - *Language Related*
         - OTP
             - OTP: A Functional Approach [:link:](https://viget.com/extend/otp-ocaml-haskell-elixir)
         - Macros
@@ -81,32 +81,32 @@ comments: true
             - More Pattern Matching [:link:](http://eftimov.net/pattern-matching-elixir/)
             - Expressing Intent Via Pattern Matching [:link:](http://eftimov.net/pattern-matching-intent/)
             - Disassembling Pattern Matching [:link:](http://codecoupled.org/2015/10/16/disassembling-pattern-matching/?utm_campaign=elixir_radar_26&utm_medium=email&utm_source=RD+Station)
-    - Testing
+    - *Testing*
         - Using ESpec [:link:](http://thepugautomatic.com/2015/10/how-to-expect-to-in-elixir/)
         - ExMaxhina for Elixir: Factories with a Functional Twist [:link:](https://robots.thoughtbot.com/announcing-ex-machina)
         - Testing Compile Time Exceptions [:link:](http://thepugautomatic.com/2015/09/testing-compile-time-exceptions-in-elixir/)
         - Testing Callbacks [:link:](http://thepugautomatic.com/2015/09/testing-callbacks-in-elixir/)
         - Writing Mocks [:link:](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
-    - Developement Related
+    - *Developement Related*
         - Better pipelines with Mondadex [:link:](http://blog.danielberkompas.com/2015/09/03/better-pipelines-with-monadex.html)
         - Designing OTP Applications in Elixir [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
         - Railway Oriented Programming in Elixir [:link:](http://zohaib.me/railway-programming-pattern-in-elixir/)
         - Designing with OTP in mind [:link:](http://learningelixir.joekain.com/designing-with-otp-applications-in-elixir/)
         - Lispy Elixir [:link:](http://blog.8thlight.com/patrick-gombert/2013/11/26/lispy-elixir.html)
         - Writing a 2048 game [:link:](https://medium.com/@azzarcher/the-simplicity-and-power-of-elixir-the-ws2048-case-b510eaa568c0#.jfx5dwdnx)
-- Tutorial
+- **Tutorial**
     - Etudes for Elixir [Tutorial](https://github.com/oreillymedia/etudes-for-elixir)
     - Learn Elixir [By Example](http://jeregrine.github.io/elixir-by-example/), [tutorial](http://howistart.org/posts/elixir/1), [in 30 days](https://github.com/hsavit1/30-days-of-elixir), [99 Problems](https://github.com/cloud8421/99-elixir-problems)
     - How I start with Elixir [:link:](https://howistart.org/posts/elixir/1)
     - Elixir School [:link:](https://github.com/doomspork/elixir-school)
     - Little Elixir Schemer [:link:](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
     - Writing Distributed Elixir [:link:](http://elixir-lang.org/getting-started/mix-otp/distributed-tasks-and-configuration.html)
-- Github
+- **Github**
     - Ecto database wrapper [:link:](https://github.com/elixir-lang/ecto)
     - ExDoc Produces HTML documentation for Elixir Projects [:link:](https://github.com/elixir-lang/ex_doc)
     - Plug composable web app modules [:link:](https://github.com/elixir-lang/plug)
     - Monads in ELixir [:link:](https://github.com/rob-brown/MonadEx)
-- Video
+- **Video**
     - ElixirPipe.com [:link:](http://elixirpipe.com/)
     - ElixirConf 2014 Playlist [:link:](https://www.youtube.com/watch?v=rt8h_xeESLg&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT)
     - ElixirConf 2015 Playlist [:link:](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZb7L66A9JvYWu_ItURk8qJ)

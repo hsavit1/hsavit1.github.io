@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome Ruby [:link:](https://github.com/markets/awesome-ruby)
     - :fire: Awesome Ruby Trivia [:link:](https://github.com/gregstallings/ruby-trivia)
     - :fire: Awesome Ruby Bookmarks [:link:](https://github.com/dreikanter/ruby-bookmarks)
@@ -17,11 +17,11 @@ comments: true
     - Learn Ruby in 20 Minutes [:link:](https://www.ruby-lang.org/en/documentation/quickstart/)
     - Coming to Ruby from Other Languages [:link:](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
     - The Ruby Toolbox Gems Guide [:link:](https://www.ruby-toolbox.com)
-- Static Site Generators
+- **Static Site Generators**
     - :raised_hands: {static is} The New Dynamic [:link:](http://www.thenewdynamic.org/tool/jekyll/)
     - Middleman static site generator [:link:](https://middlemanapp.com/)
     - Jekyll Themes [:link:](http://drjekyllthemes.github.io/)
-- Tutorial
+- **Tutorial**
     - Learn Ruby Metaprogramming Guide [:link:](http://ruby-metaprogramming.rubylearning.com/)
     - Ruby Metaprogramming Koans [:link:](https://rubymonk.com/learning/books/2-metaprogramming-ruby/chapters/32-introduction-to-metaprogramming/lessons/75-being-meta)
     - Coming to Ruby from Other Languages [:link:](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
@@ -30,7 +30,7 @@ comments: true
     - Learn Ruby by Doing Exmaple Problems [:link:](https://www.learneroo.com/modules/61/nodes/338)
     - Guide to Ruby 2.0 [:link:](http://blog.marc-andre.ca/2013/02/23/ruby-2-by-example/)
     - Concurrency and Parallelism in Ruby [:link:](http://www.toptal.com/ruby/ruby-concurrency-and-parallelism-a-practical-primer)
-- Reference
+- **Reference**
     - DZone Ruby [:link:](https://dzone.com/refcardz/essential-ruby) 
     - Ruby CheatSheet [:link:](http://www.cheat-sheets.org/saved-copy/RubyCheat.pdf)
     - Official Ruby Documentation [:link:](http://ruby-doc.org/)
@@ -41,10 +41,10 @@ comments: true
     - Refractor in Ruby Cheatsheet [:link:](http://ghendry.net/refactor.html)
     - Rails CheatSheet [:link:](http://www.pragtob.info/rails-beginner-cheatsheet/)
     - Ruby on Rails Architectural Design [:link:](http://adrianmejia.com/blog/2011/08/11/ruby-on-rails-architectural-design/)
-- Video
+- **Video**
     - Ruby Tapas [:link:](http://www.rubytapas.com/episodes)
     - Rails Conf 2015 [:link:](https://www.youtube.com/watch?v=aApmOZwdPqA&list=PLE7tQUdRKcybf82pLlMnPZjAMMMV5DJsK)
-- Posts
+- **Posts**
     - Styling your middleman static site with Sass tools like Bourbon [:page_facing_up:](https://robots.thoughtbot.com/middleman-bourbon-walkthrough)
     - Full Comparison between Python and Ruby [:page_facing_up:](http://mitsuhiko.pocoo.org/pythonruby.html) [:page_facing_up:](https://www.quora.com/How-do-Python-and-Ruby-compare/answer/Fabio-Akita?share=1)
     - Ruby vs Java [:page_facing_up:](http://a-developer-life.blogspot.com/2013/03/ruby-vs-java.html)
@@ -54,9 +54,9 @@ comments: true
     - How do I know if my Rails app is thread safe? [:page_facing_up:](https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/)
     - Metaprogramming in Ruby [:page_facing_up:](http://www.toptal.com/ruby/ruby-metaprogramming-cooler-than-it-sounds)
     - Enums in ruby [:page_facing_up:](https://hackhands.com/ruby-on-enums-queries-and-rails-4-1/)
-- Slides
+- **Slides**
     - What's New in Ruby 2.0 [:floppy_disk:](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
-- Github
+- **Github**
     - Ruby Repository [:link:](https://github.com/ruby/ruby)
     - rbenv [Github](https://github.com/sstephenson/rbenv)
     - Middleman Repository [Github](https://github.com/middleman/middleman)
@@ -64,7 +64,7 @@ comments: true
     - Rails Repository [Github](https://github.com/rails/rails)
     - Opal: Ruby to Javascript Transpiler [:link:](https://github.com/opal/opal)
     - Volt Web Framework [:link:](https://github.com/voltrb/volt/)
-- Interview
+- **Interview**
     - :fire: Awesome Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#rubyrails)
     - Ruby Trivia [:link:](https://github.com/gregstallings/ruby-trivia)
     - Ruby Job Interview Gem [:link:](http://ruby-jokes.github.io/job_interview/)

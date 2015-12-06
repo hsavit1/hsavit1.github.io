@@ -6,17 +6,18 @@ comments: true
 ---
 
 
-- Links 
+- **Links** 
     - OSSStatus.com [:link:](http://www.osstatus.com/)
     - Xcode 7 UI Testing (for now look at [this](http://www.mokacoding.com/blog/xcode-7-ui-testing/))
     - Better Unit Testing with Swift [:link:](http://masilotti.com/better-swift-unit-testing/)
     - UI Testing Cheat Sheet [:link:](http://masilotti.com/ui-testing-cheat-sheet/)
     - Unofficial XCTest Documentation Website [:link:](http://masilotti.com/xctest-documentation/)
-- Github Projects
+- **Github Projects**
+    - SwiftLint [:link:](https://github.com/realm/SwiftLint)
     - UIAutoMonkey [:link:](https://github.com/jonathanpenn/ui-auto-monkey)
     - Reveal testing [:link:](http://revealapp.com/)
     - Facebook iOS Snapshot Test Case [Github](https://github.com/facebook/ios-snapshot-test-case)
-- Presentations
+- **Presentations**
     - Reverse Engineering iOS Apps [:floppy_disk:](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/)
     - TDD on iOS [:floppy_disk:](https://realm.io/news/altconf-glen-tregoning-paul-zabelin-successful-test-driven-development-on-ios/)
     - Railway Oriented Programming [:floppy_disk:](http://fsharpforfunandprofit.com/rop/)
@@ -27,10 +28,10 @@ comments: true
     - Continuous Delivery for Native Apps [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/NielsFrydenholm_ContinuousDeliveryForNativeApps.pdf)
     - Reverse Engineering Xcode [:floppy_disk:](https://realm.io/news/jp-simard-reverse-engineering-code-completion/) 
     - Compiler Driven Development [:floppy_disk:](https://github.com/nlutsenko/compile-time-guaranteed/blob/master/compile-time-guaranteed.pdf)
-- Instruments and Profiling
+- **Instruments and Profiling**
     - Profiling Core Animation [:bar_chart:](https://littlebitesofcocoa.com/113-profiling-core-animation)
     - Using the Leaks Instrument [:bar_chart:](http://www.russbishop.net/shoot-the-heap)
-- Posts
+- **Posts**
     - :fire: Swift Unit Testing Resources [:link:](http://www.andrewcbancroft.com/2014/12/19/swift-unit-testing-resources/)
     - Unit Testing in Swift 2 [:link:](http://masteringswift.blogspot.com/2015/07/swift-2-and-unit-testing.html)
     - Painless automated builds with Fastlane and BuildKite [:link:](Painless Automated iOS Builds with fastlane and Buildkite)
@@ -50,17 +51,17 @@ comments: true
     - How testing has improved in Swift 2 [:link:](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
     - TDD with FBSnapShotTestCase [:link:](http://devmonologue.com/ios/category/test-driven-development/)
     - Debugging Core Animation [:link:](http://jwilling.com/blog/debugging-core-animation-on-osx/)
-- Tutorials
+- **Tutorials**
     - How to configure Travis CI for iOS Testing [:link:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
     - Setting up KIF for iOS Acceptance Testing [:link:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
     - Replacing KIF with XCUI Tests [:link:](http://www.catehuston.com/blog/2015/11/11/replacing-kif-tests-with-xcui-tests/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62)
-- Slides
+- **Slides**
     - :raised_hands: Fastlane for iOS Development [:floppy_disk:](https://speakerdeck.com/hedjirog/how-we-use-fastlane-at-wantedly)
-- Github
+- **Github**
     - Genreate Xcode image catalogs with Blade [:link:](https://github.com/jondot/blade)
     - iOS Snapshot Test Cases [:link:](https://github.com/facebook/ios-snapshot-test-case)
     - Quick Testing Framework [:link:](https://github.com/Quick/Quick)
     - Nimble Matcher Framework [:link:](https://github.com/Quick/Nimble)
     - Swift Lint [:link:](https://github.com/realm/SwiftLint)
-- Video 
+- **Video** 
     - Swift Unit Testing Course [:link:](http://code.tutsplus.com/courses/unit-testing-with-swift-and-xctest)

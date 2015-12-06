@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: Awesome iOS Marketing Resources [:link:](https://github.com/sanketfirodiya/ios-marketing-resources)
     - :fire: Awesome Places to Post your Startup [:link:](https://github.com/mmccaff/PlacesToPostYourStartup)
     - :fire: Awesome JobBoards [:link:](https://github.com/wfhio/awesome-job-boards)
@@ -18,7 +18,7 @@ comments: true
     - Startup Must Watch Videos [:link:](https://github.com/gerricchaplin/startup-must-watch)
     - Prerender.io Javascript SEO [:link:](https://github.com/prerender/prerender)
     - SEO.js [:link:](http://getseojs.com/)
-- Posts
+- **Posts**
     - Guide to Your Equity [:link:](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
     - Keys when trying to attract the best talent [:link:](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
     - How to Price an App [:link:](http://www.marco.org/2015/10/13/pragmatic-pricing)

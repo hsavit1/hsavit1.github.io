@@ -5,6 +5,28 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
+- **Blogs**
+    - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
+- **Links**
+    - The Definitive Pre Launch Guide [:link:](https://github.com/adamwulf/app-launch-guide?utm_source=ios%20dev%20tools&utm_medium=website&utm_campaign=ios%20dev%20tools&at=11lvzs&ct=ios%20dev%20tools)
+    - iOS Best Practices [:link:](https://github.com/futurice/ios-good-practices)
+    - Mixpanel iOS and iPhone trends [:link:](https://mixpanel.com/trends/#report/iphone_models)
+    - :fire: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
+    - The iOS Times Curated Review of the latest leading Github Projects [:link:](http://theiostimes.com/)
+    - :raised_hands: Cocoa Controls [:link:](https://www.cocoacontrols.com/)
+    - iOS 9 Sampler [:link:](https://github.com/shu223/iOS-9-Sampler)
+    - :fire: :raised_hands: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
+    - :fire: Awesome iOS Plugins [:link:](https://github.com/sanketfirodiya/awesome-ios-plugins)
+    - :fire: Awesome iOS Learning Resources [:link:](https://github.com/sanketfirodiya/iOS-learning-resources)
+    - :fire: Awesome iOS Animations [:link:](https://github.com/sxyx2008/awesome-ios-animation)
+    - :fire: Awesome Open Source iOS Apps [:link:](https://github.com/dkhamsing/open-source-ios-apps)
+    - :fire: Awesome iOS Security [:link:](https://github.com/ashishb/osx-and-ios-security-awesome)
+    - :fire: Awesome iOS Dev Interview Questions [:link:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
+    - :fire: Awesome CocoaConferences [:link:](https://github.com/Lascorbe/CocoaConferences)
+    - :fire: Awesome OSX [:link:](https://github.com/iCHAIT/awesome-osx)
+    - :fire: Awesome Apple [:link:](https://github.com/joeljfischer/awesome-apple)
+    - iOS App Reverse Engineering Book [:link:](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
+    - Ruby Motion Cocoa Wrappers [:link:](https://github.com/rubymotion/BubbleWrap)
 - **Posts**
     - *UIKit* 
         - Understanding UIScrollView [:link:](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
@@ -33,27 +55,6 @@ comments: true
     - *Mapping*
         - Tracking live orders with Mapbox [:link:](https://www.mapbox.com/blog/tracking-orders-live-instacart/)
         - Why did Foursquare use Mapbox? [:link:](https://www.quora.com/Why-did-foursquare-choose-to-migrate-to-MapBox-from-Google-Maps)
-- **Blogs**
-    - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
-- **Links**
-    - iOS Best Practices [:link:](https://github.com/futurice/ios-good-practices)
-    - Mixpanel iOS and iPhone trends [:link:](https://mixpanel.com/trends/#report/iphone_models)
-    - :fire: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
-    - The iOS Times Curated Review of the latest leading Github Projects [:link:](http://theiostimes.com/)
-    - :raised_hands: Cocoa Controls [:link:](https://www.cocoacontrols.com/)
-    - iOS 9 Sampler [:link:](https://github.com/shu223/iOS-9-Sampler)
-    - :fire: :raised_hands: Awesome iOS [:link:](https://github.com/vsouza/awesome-ios)
-    - :fire: Awesome iOS Plugins [:link:](https://github.com/sanketfirodiya/awesome-ios-plugins)
-    - :fire: Awesome iOS Learning Resources [:link:](https://github.com/sanketfirodiya/iOS-learning-resources)
-    - :fire: Awesome iOS Animations [:link:](https://github.com/sxyx2008/awesome-ios-animation)
-    - :fire: Awesome Open Source iOS Apps [:link:](https://github.com/dkhamsing/open-source-ios-apps)
-    - :fire: Awesome iOS Security [:link:](https://github.com/ashishb/osx-and-ios-security-awesome)
-    - :fire: Awesome iOS Dev Interview Questions [:link:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
-    - :fire: Awesome CocoaConferences [:link:](https://github.com/Lascorbe/CocoaConferences)
-    - :fire: Awesome OSX [:link:](https://github.com/iCHAIT/awesome-osx)
-    - :fire: Awesome Apple [:link:](https://github.com/joeljfischer/awesome-apple)
-    - iOS App Reverse Engineering Book [:link:](https://github.com/iosre/iOSAppReverseEngineering/blob/master/iOSAppReverseEngineering.pdf)
-    - Ruby Motion Cocoa Wrappers [:link:](https://github.com/rubymotion/BubbleWrap)
 - **Slides**
     - REALM vs Core Data [:floppy_disk:](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
     - Xcode Bots [:floppy_disk:](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
@@ -70,31 +71,31 @@ comments: true
 
 
 #**watchOS and tvOS Posts**
-- Links
+- **Links**
     - WatchOS 2 Sampler [:link:](https://github.com/shu223/watchOS-2-Sampler)
     - :fire: :raised_hands: Awesome WatchOS [:link:](https://github.com/yenchenlin1994/awesome-watchos)
     - :fire: Awesome WatchKit [:link:](https://github.com/sanketfirodiya/sample-watchkit-apps)
     - Gone in tvOS [:link:](https://gist.github.com/erica/d9b36c57500a6832ef7b)
     - :fire: Awesome tvOS [:link:](https://github.com/mbcrump/awesome-tvos/blob/master/README.md)
-- Posts
-    + tvOS
+- **Posts**
+    + *tvOS*
         + Storing user information on tvOS [:page_facing_up:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
         + Authentiate tvOS apps with iOS [:page_facing_up:](https://github.com/rsattar/Voucher)
         + Developing for the Apple TV with Focus Guides [:page_facing_up:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
-    + watchOS
+    + *watchOS*
         + Networking on the Apple Watch [:page_facing_up:](https://felixha.wordpress.com/2015/07/07/apple-watch-networking-in-glance/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + The Future of Wearables [:page_facing_up:](http://helenvholmes.com/the-future-of-wearables/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
-- Presentations
-    - tvOS
+- **Presentations**
+    - *tvOS*
         - How Guilt builds Apple TV Apps [:floppy_disk:](http://tech.gilt.com/tvos/2015/10/13/apple-tv-tvos-swift-development-focus-engine/)
         - Apple TV: A world without WebOS [:floppy_disk:](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd#.rdk3bnrqc)
         - Interacting with the new AppleTV Remote [:floppy_disk:](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
         - 200 mb app sizes: Is tvOS the future of apps? [:floppy_disk:](https://realm.io/news/is-tvos-the-future-of-apps/)
         - Building Big Screen Apps [:floppy_disk:](https://speakerdeck.com/neonichu/bring-your-apps-to-the-big-screen)
-- Slides
-    - watchOS
+- **Slides**
+    - *watchOS*
         - How to Build a Compelling Watch App [:floppy_disk:](http://www.kristinathai.com/wp-content/uploads/2014/09/Compelling-Watch-App.pdf)
-- Github
+- **Github**
     - The Emergence Artsy tvOS Project [:link:](https://github.com/artsy/Emergence/)
     - Code Reviewing Emergence [:link:](http://artsy.github.io/blog/2015/11/05/Emergence-Code-Review/)
 

@@ -5,31 +5,31 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - Hacker News Phoenix Creator AMA [:link:](https://news.ycombinator.com/item?id=8671618)
     - Phoenix Website [:link:](http://www.phoenixframework.org/docs/overview)
-- References
+- **References**
     - Official Guide [:link:](http://www.phoenixframework.org/docs/up-and-running)
-- Posts
-    - Opinions
+- **Posts**
+    - *Opinions*
         - Phoenix or Meteor? [:page_facing_up:](https://www.quora.com/Should-I-choose-Meteor-js-or-Phoenix-web-framework-based-on-Elixir-for-building-scalable-web-applications-with-realtime-connectivity)
         - What makes Phoenix so exciting? [:page_facing_up:](http://jerel.co/blog/2015/11/why-im-excited-about-elixir-and-phoenix)
         - Phoenix is not Rails [:page_facing_up:](https://dockyard.com/blog/2015/11/18/phoenix-is-not-rails)
-    - Learning 
+    - *Learning*
         - Rails to Phoenix: No more asset pipelines [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-brunch/)
         - Rails to Phoenix: getting started with Ecto [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-getting-started-with-ecto/)
         - Rails to Phoenix: Querying with Ecto [:page_facing_up:](http://blog.tokafish.com/rails-to-phoenix-querying-with-ecto/)
         - :raised_hands: Phoenix Websocket Channel Guts [:page_facing_up:](http://zohaib.me/guts-of-phoenix-channels/)
-    - Application Design
+    - *Application Design*
         - Cowboy application design [:page_facing_up:](http://learningelixir.joekain.com/cowboy-application-design/)
-    - News
+    - *News*
         - The road to 2 MILLION websocket connections [:page_facing_up:](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
-- Slides
+- **Slides**
     - Rise of the Phoenix Framework [:floppy_disk:](http://slides.com/chrismccord/rise-of-the-phoenix#/)
     - Pheonix Framework Very Short Demo [:floppy_disk:](https://speakerdeck.com/maveonair/phoenix-framework)
     - Why Phoenix [:floppy_disk:](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
     - Pheonix vs Rails [:floppy_disk:](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
-- Tutorials
+- **Tutorials**
     - Really Fantastic Tutorial Series [:link:](http://phoenix.thefirehoseproject.com/1.html)
     - Phoenix + Heroku [:link:](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
     - Basic CRUD App [:link:](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
@@ -40,15 +40,15 @@ comments: true
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
     - RethinkDb setup [:page_facing_up:](http://ryanswapp.com/2015/11/28/getting-started-with-rethinkdb-and-phoenix-framework/)
     - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
-- Presentations
+- **Presentations**
     - ElixirConf 2015: What's next for Phoenix? [:microphone:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
     - ElixirConf 2015: Using Phoenix with Elm [:microphone:](https://www.youtube.com/watch?v=MgFDZx1LmOE)
     - Phoenix: A framework for the modern web [:microphone:](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
-- Video 
+- **Video**
     - Phoenix Screencasts [:movie_camera:](http://phoenixscreencasts.com/episodes)
     - Phoenix takes Flight [:movie_camera:](http://www.chrismccord.com/blog/2015/05/09/elixirconfeu-keynote-phoenix-takes-flight/)
     - Phoenix Channels on Apple Devices [:movie_camera:](https://vimeo.com/136679715)
-- Github
+- **Github**
     - Phoenix Chat Example [:link:](https://github.com/chrismccord/phoenix_chat_example)
     - Phoenix and Elm combined [:link:](https://github.com/CultivateHQ/seat_saver)
     - Phoenix + Flux + React [:link:](https://github.com/hsavit1/phoenix-flux-react)
@@ -56,5 +56,5 @@ comments: true
     - Ecto Databse [:link:](https://github.com/elixir-lang/ecto)
     - Cowboy Repository [:link:](https://github.com/ninenines/cowboy)
     - A Distributed Hash Table [:link:](https://github.com/cit/MLDHT)
-- Books
+- **Books**
     - Programming Phoenix [:book:](https://pragprog.com/book/phoenix/programming-phoenix)

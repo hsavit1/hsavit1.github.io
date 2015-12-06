@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome Security [:link:](https://github.com/sbilly/awesome-security)
     - :fire: Awesome Honeypots [:link:](https://github.com/paralax/awesome-honeypots)
     - :fire: Awesome Hacking [:link:](https://github.com/carpedm20/awesome-hacking)
