@@ -28,6 +28,7 @@ comments: true
     - Data Mining Quora Page [:link:](https://www.quora.com/topic/Data-Mining)
     - Data Mining at Dell [:link:](http://www.statsoft.com/textbook/data-mining-techniques)
     - Data Mining information Page [:link:](http://www.laits.utexas.edu/~anorman/BUS.FOR/course.mat/Alex/)
+    - OpenStreetMap [:link:](http://www.openstreetmap.org/#map=5/51.500/-0.100)
 - Tutorial 
     - Data Mining Tutorial [:link:](http://www.tutorialspoint.com/data_mining/index.htm)
 - Posts

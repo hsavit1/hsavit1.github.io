@@ -13,6 +13,7 @@ comments: true
     - Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
     - Swift Clang Repositroy [:pencil:](https://github.com/apple/swift-clang)
     - Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
+    - Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
 + **Swift Style**
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
     - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
@@ -111,6 +112,7 @@ comments: true
     + Continuous Integration made Easy in Xcode 7 [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=410)
     + What's new in Xcode [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=104)
     + Swift in Practice [:microphone:](https://developer.apple.com/videos/wwdc/2015/?id=411)
+    + Networking with NSURLSession [:floppy_disk:](file:///Users/henrysavit/Downloads/711_networking_with_nsurlsession.pdf)
 - **Other Video**
     - Swift Language Youtube Channel [:vhs:](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig)
     - Free Swift Lang Course [:vhs:](https://www.youtube.com/playlist?list=PLxwBNxx9j4PW8bsVaXia9c20I87YEGNRu)
@@ -194,6 +196,7 @@ comments: true
     + *Application Structure / Architecture*
         + Class or Struct? [:page_facing_up:](http://faq.sealedabstract.com/structs_or_classes/) 
         + RE: Class or Struct [:page_facing_up:](http://owensd.io/2015/07/05/re-struct-or-class.html)
+        + Uber Jetstream [:pencil:](https://github.com/uber/jetstream-ios)
         - Mutating Funcs in Swift Structs [:page_facing_up:](http://natashatherobot.com/mutating-functions-swift-structs/)
         + MVVM in Swift [:page_facing_up:](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
         - Refractor the Mega Controller [:microphone:](https://realm.io/news/andy-matuschak-refactor-mega-controller/)
@@ -361,7 +364,7 @@ comments: true
     + *Animations and Front End Stuff*
         + Mixing SpriteKit with UIKit in iOS 9 [:page_facing_up:](https://littlebitesofcocoa.com/8-mixing-spritekit-into-uikit)
         - AdaptiveUI Animations [:microphone:](https://www.youtube.com/watch?v=Z8QA9IYB67o&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=48) and [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/SamDavies_AdaptiveUI.pdf)
-        - iOS Animations with AutoLayout [:microphone:](https://www.youtube.com/watch?v=N5Ert6LTruY&list=PLEx5khR4g7PL0fDNJkI2dHhqeckQTAbes&index=45) and  [:floppy_disk:](http://gotocon.com/dl/goto-cph-2015/slides/MarinTodorov_IOSAnimationsWithAutoLayout.pdf) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
+        - iOS Animations with AutoLayout [:microphone:](https://realm.io/news/gotocph-marin-todorov-auto-layout-animations-ios/) and [Github](https://github.com/sammyd/AdaptiveUI-GOTOConf)
         - Metal and Swift [:microphone:](https://realm.io/news/swift-summit-simon-gladman-metal/)
         - Animating Constraints [:page_facing_up:](https://littlebitesofcocoa.com/9-animating-constraints)
     - *Swift 2.0*
