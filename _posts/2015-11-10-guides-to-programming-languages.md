@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Link
+- **Link**
     - :fire: Awesome Koans [List](https://github.com/ahmdrefat/awesome-koans/blob/master/koans-en.md)
     - How to Study Programming Languages [:link:](http://cs.lmu.edu/~ray/notes/howtostudyprogramminglanguages/)
     - :raised_hands: Learn X in Y minutes [:link:](http://learnxinyminutes.com/)
@@ -15,10 +15,10 @@ comments: true
     - Quora Page on Programming Languages [:link:](https://www.quora.com/Programming-Languages)
     - How to Design Programming Languges with Racket [:link:](http://docs.racket-lang.org/htdp-langs/index.html?q=if)
     - The Dining Philosophers Problem in Diff Langs [:link:](http://rosettacode.org/wiki/Dining_philosophers)
-- Posts
+- **Posts**
     - What is Unicode? [:link:](http://unicode.org/standard/WhatIsUnicode.html)
     - What is Relational Programming? [:link:](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
-    - Functional Programmong
+    - *Functional Programmong*
         - Why do we need Type Systems? [:link:](https://www.quora.com/Why-do-programming-languages-use-type-systems)
         - What are Functional Lenses? [:link:](http://stackoverflow.com/questions/8307370/functional-lenses)
         - What functional programming language should I learn? [:link:](https://www.quora.com/Functional-Programming/Should-I-learn-F-Haskell-Scala-or-Clojure)

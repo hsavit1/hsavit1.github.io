@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :raised_hands: React.js Cheatsheet [:link:](http://ricostacruz.com/cheatsheets/react.html)
     - :raised_hands: :fire: Awesome React [:link:](https://github.com/enaqx/awesome-react)
     - :fire: Awesome RxJS + React/Flux Libraries [:link:](https://github.com/christianramsey/rx-react-flux)
@@ -20,13 +20,13 @@ comments: true
     - ReactJS Boilerplate [:link:](https://github.com/mbrio/react-boilerplate)
     - ReactJS Component Exchange [:link:](http://helmetrex.com/Gallery.html)
     - Complementary Tools that can be used with React [:link:](https://github.com/facebook/react/wiki/Complementary-Tools)
-- Posts
+- **Posts**
     - The React.js Way: Flux Architecture with Immutable.js [:link:](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
     - React is better in _some cases_ than Angular [:link:](https://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/)
     - Angular vs React + Flux [:link:](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
     - You're missing the point of React [:link:](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a)
     - Ractive.js vs React.js [:link:](http://blog.ractivejs.org/posts/whats-the-difference-between-react-and-ractive/)
-- Tutorial
+- **Tutorial**
     - Isomorphic Javascript Tutorial [Github](https://github.com/spikebrehm/isomorphic-tutorial)
     - ReactJS Training Course [:link:](https://github.com/ryanflorence/react-training/)
     - ReactJS for Stupid People [:link:](http://blog.andrewray.me/reactjs-for-stupid-people/)
@@ -38,7 +38,7 @@ comments: true
     - Write a Basic App in Redux [:link:](http://davidandsuzi.com/writing-a-basic-app-in-redux/)
     - Static Site Generation with React and Webpack [:link:](http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/)
     - Isomorphic Tutorial: Tutorial app to demonstrate isomorphic JavaScript concepts [:link:](https://github.com/spikebrehm/isomorphic-tutorial)
-- Slides
+- **Slides**
     - Get Fluent in React + Flux (with notes) [:floppy_disk:](https://speakerdeck.com/fisherwebdev/react-flux-fluent-2015-notes)
     - What is ReactJS [:floppy_disk:](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
     - What is Redux? [:floppy_disk:](https://speakerdeck.com/sporto/redux-flux-reduced)
@@ -47,7 +47,7 @@ comments: true
     - Data Fetching for React Apps [:floppy_disk:](https://speakerdeck.com/relayjs/data-fetching-for-react-applications)
     - Flux Chat Tutorial Presentation [:floppy_disk:](https://speakerdeck.com/fisherwebdev/fluxchat)
     - Angular vs React [:floppy_disk:](http://slides.com/codeviking/angular-vs-react#/)
-- Github
+- **Github**
     - React Router [Github](https://github.com/rackt/react-router)
     - React Complimentary Tools [Github](https://github.com/facebook/react/wiki/Complementary-Tools)
     - Relay Framework [Github](https://github.com/facebook/relay)
@@ -70,7 +70,7 @@ comments: true
     - Radium React Components [Github](https://github.com/FormidableLabs/radium)
     - React Starter Kit [Github](https://github.com/kriasoft/react-starter-kit)
     - React Static Boilerplate [Github](https://github.com/koistya/react-static-boilerplate)
-- Video
+- **Video**
     - React.js Conference Videos [:link:](http://conf.reactjs.com/)
     - Egghead Video Series: [:link:](https://egghead.io/series/react-fundamentals)
     - $ Orielly: A practical introduction to React.js [:link:](https://player.oreilly.com/videos/9781491925652)

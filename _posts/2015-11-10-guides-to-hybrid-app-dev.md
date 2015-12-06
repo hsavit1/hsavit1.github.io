@@ -6,11 +6,11 @@ comments: true
 ---
 
 
-- Posts
+- **Posts**
     - Why would you ever build a native app? [Post Coming Soon]()
     - Scenarios to build hybrid apps [Post Coming Soon]()
     - Which Hybrid Framework should you use? [Post Coming Soon]()
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome React Native [Link](https://github.com/jondot/awesome-react-native)
     - React Native Playground: See what React Native code & live demos! [Link](https://rnplay.org/)
     - :fire: Awesome Ionic [Link](https://github.com/Alexintosh/Awesome-Ionic), [Link2](https://github.com/lanceli/awesome-ionic)
@@ -23,5 +23,5 @@ comments: true
     - Nativescript: Microsoft [Link](https://www.nativescript.org/)
     - The Crosswalk Project: Making a cross platform app overe Meteor [Link](https://youtu.be/lwxwwoJaYuo?t=3m49s)
     - Apache Cordova: APIs for HTML CSS JS Mobile apps [Link](http://cordova.apache.org/)
-- Tutorial
+- **Tutorial**
     - Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)

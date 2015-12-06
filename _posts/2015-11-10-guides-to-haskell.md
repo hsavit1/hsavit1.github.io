@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
     - Haskell Wiki [:link:](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [:link:](https://gist.github.com/leroux/6395804)
@@ -29,7 +29,7 @@ comments: true
     - Data Structures and I/O Libraries [:link:](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [:link:](http://www.stephendiehl.com/posts/poll.html)
     - Human Haskell [:link:](http://ohaskell.dshevchenko.biz/en/index.html)
-- Reference
+- **Reference**
     - :raised_hands: Hoggle Haskell API Search Engine [:link:](https://www.haskell.org/hoogle/)
     - Hskell Syntax [:link:](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
     - :raised_hands: How to read Haskell [:link:](https://wiki.haskell.org/How_to_read_Haskell)
@@ -49,7 +49,7 @@ comments: true
     - :raised_hands: Typeclassopedia [:link:](https://wiki.haskell.org/Typeclassopedia)
     - Standard Haskell Classes [:link:](https://en.wikibooks.org/wiki/Haskell/Classes_and_types#/media/File:Classes.svg)
     - Testing with QuickCheck [:link:](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
-- Books
+- **Books**
     - Purely Functional Data Structures [:link:](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [:link:](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
     - Haskell Wikibook [:link:](https://en.wikibooks.org/wiki/Haskell)
@@ -68,11 +68,11 @@ comments: true
     - Haskell Programming [:link:](http://okmij.org/ftp/Haskell/)
     - The Haskell Articles [:link:](https://github.com/quchen/articles)
     - Functional Graph Library User Guide [:link:](http://web.engr.oregonstate.edu/~erwig/fgl/haskell/old/fgl0103.pdf)
-- Papers
+- **Papers**
     - Template Meta Programming in Haskell [:link:](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf)
-- Blogs 
+- **Blogs**
     - bitemyapp [:link:](http://bitemyapp.com/)
-- Tutorial
+- **Tutorial**
     - Monad Tutorials Timeline [:link:](https://wiki.haskell.org/Monad_tutorials_timeline)
     - Basics of Haskell [:link:](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
     - All the Haskell Tutorials [:link:](https://wiki.haskell.org/Category:Tutorials)
@@ -85,19 +85,19 @@ comments: true
     - School of Haskell online tutorials [:link:](https://www.fpcomplete.com/school?show=tutorials)
     - How I start with Haskell [:link:](https://howistart.org/posts/haskell/1)
     - How to use GHCI [:link:](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)
-- Exercises
+- **Exercises**
     - Offical Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [:link:](http://dailyhaskellexercise.tumblr.com/)
     - Learn You A Haskell Exercises [:link:](https://github.com/noelmarkham/learn-you-a-haskell-exercises)
     - Project Euler [:link:](https://wiki.haskell.org/Euler_problems)
-- Posts
-    - Web Development 
+- **Posts**
+    - *Web Development* 
         - Haskell for Web Developers [:link:](http://www.stephendiehl.com/posts/haskell_web.html)
         - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
         - Yesod Web Framework Book [:link:](http://www.yesodweb.com/book/persistent)
         - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
         - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates) 
-    - Functional Programming and Category Theory
+    - *Functional Programming and Category Theory*
         - Explanation of Category Theory in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Category_theory)
         - Monads made difficult [:link:](http://www.stephendiehl.com/posts/monads.html)
         - You could have invented Monads! [:link:](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
@@ -113,7 +113,7 @@ comments: true
         - Performing derivations in Haskell [:link:](http://qr.ae/R4Z2OS) 
         - Functional Lenses Derivation [:link:](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - DDD: Domain Driven Design in Haskell [:link:](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
-    - Learning Haskell
+    - *Learning Haskell*
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [:link:](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
         - :raised_hands: Deriving Lenses Folds and Tranversals [:link:](http://lens.github.io/) 
@@ -121,7 +121,7 @@ comments: true
         - The Dining Philosophers Problem With Ron Swanson [:link:](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
         - Beautiful Concurrency [:link:](https://www.fpcomplete.com/school/advanced-haskell/beautiful-concurrency)
         - Does Haskell have Tail Recursive Optimization? [:link:](http://stackoverflow.com/questions/13042353/does-haskell-have-tail-recursive-optimization/13052612#13052612)
-    - Opinions
+    - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
         - What are the advantages of Haskell over other functional programming languages? [:link:](https://www.quora.com/What-are-the-advantages-of-Haskell-over-other-functional-programming-languages)
@@ -138,10 +138,10 @@ comments: true
         - Why would you give up on Haskell [:link:](http://qr.ae/R4e2J9)
         - How good is Haskell at scripting? [:link:](http://qr.ae/R4eYSa)
         - Differences between Haskell and Racket [:link:](https://www.quora.com/What-are-the-relative-strengths-and-weaknesses-of-Racket-and-Haskell)
-    - Uses of Haskell
+    - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry) 
-    - Algorithms, Data Structures, Design Patterns
+    - *Algorithms, Data Structures, Design Patterns*
         - DS and A using Haskell [:link:](http://okmij.org/ftp/Haskell/AlgorithmsH.html)
         - Monoids and FingerTrees [:link:](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)        
         - How to use Design Patterns in Haskell [:link:](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
@@ -149,13 +149,13 @@ comments: true
         - Flodable and Traversable [:link:](https://wiki.haskell.org/Foldable_and_Traversable)
         - Algorithm Complexity in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
         - A Trie in Haskell [:link:](https://bigonotetaking.wordpress.com/2015/11/06/a-trie-in-haskell/)
-    - Language Syntax Related
+    - *Language Syntax Related*
         - What is the Difference between Kinds and Types in Haskell? [:link:](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [:link:](https://www.quora.com/What-is-in-Haskell)
         - Is Haskell more expressive? [:link:](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
         - How does Garbage Collection work in Haskell? [:link:](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
         - Key Differences between Haskell and Standard ML? [:link:](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
-- Slides
+- **Slides**
     - Haskell's GHC, Illustrated [:link:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
     - Make Web Apps with Haskell [:floppy_disk:](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
     - Introduction to Concurrency Models in Haskell [:floppy_disk:](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
@@ -163,18 +163,18 @@ comments: true
     - Haskell for Normal People [:floppy_disk:](http://slides.com/benleggett/haskellpres#/)
     - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
     - Monad Transformers [:link:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
-- Video
+- **Video**
     - Learn Haskell From Scratch Playlist [:link:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [:link:](https://vimeo.com/channels/haskell)
     - :fire: Haskell Must Watch [:link:](https://github.com/drKraken/haskell-must-watch)
-- Github
+- **Github**
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [:link:](https://github.com/scotty-web/scotty)
     - Blaze HTML [:link:](https://github.com/jaspervdj/blaze-html/)
     - Facebook PFFF Static Analysis tool [:link:](https://github.com/facebook/pfff/wiki/Main)
     - FRP in Haskell with [Reactive Banana](https://wiki.haskell.org/Reactive-banana) and [Sodium](https://hackage.haskell.org/package/sodium-0.11.0.3/docs/FRP-Sodium.html)
     - Stackage Haskell Tool Stack [:link:](https://www.stackage.org/)
-- Gists
+- **Gists**
     - A Reader Monad [:link:](https://gist.github.com/egonSchiele/5752172)
-- Interview
+- **Interview**
     - 17 Haskell Interview Questions [:link:](http://career.guru99.com/top-17-haskel-interview-questions/)

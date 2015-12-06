@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Awesome Lists
+- **Awesome Lists**
     - :fire: :raised_hands: Awesome Javascript [:link:](https://github.com/sorrycc/awesome-javascript)
     - :fire: Awesome JS Coding Style [:link:](https://github.com/feross/awesome-standard)
     - :fire: Awesome Typescript [:link:](https://github.com/dzharii/awesome-typescript)
@@ -19,7 +19,7 @@ comments: true
     - :fire: Awesome ECMAScript 6 Learning [:link:](https://github.com/ericdouglas/ES6-Learning)
     - :fire: Awesome ECMA 6 Tools [:link:](https://github.com/addyosmani/es6-tools)
     - :fire: Awesome Javascript Books [:link:](https://github.com/heatroom/awesome-javascript-books)
-- Links
+- **Links**
     - The Crockford Javascript Encyclopedia [:link:](http://www.crockford.com/javascript/encyclopedia/)
     - Crockford: Introducing JSON [:link:](http://www.json.org/)
     - :raised_hands: Superhero.js [:link:](http://superherojs.com/)
@@ -36,17 +36,17 @@ comments: true
     - The Extensible Web Manifesto [:link:](http://extensiblewebmanifesto.org/)
     - Javascripy Weekly Newsletter [:link:](http://javascriptweekly.com/)
     - SDK Design Guidelines [:link:](https://github.com/huei90/javascript-sdk-design)
-- Data Structures and Algorithms
+- **Data Structures and Algorithms**
     - :raised_hands: Algorithms in Javascript [:link:](https://github.com/felipernb/algorithms.js), [:link:](https://github.com/nzakas/computer-science-in-javascript), [:link:](https://github.com/dhruvbird/algorithm-js), [:link:](https://github.com/duereg/js-algorithms), [:link:](https://github.com/mgechev/javascript-algorithms)
     - :raised_hands: Javascript Design Patterns website [:link:](http://www.dofactory.com/javascript/design-patterns)
     - :raised_hands: Javascript Design Patterns code [:link:](https://github.com/tcorral/Design-Patterns-in-Javascript)
     - Revolutionary Data Structures [:link:](https://github.com/substack/data-structures-of-the-revolution)
-- Design Patterns
+- **Design Patterns**
     - Introduction to Functional Javascript: Javascript through the years [:link:](http://www.sitepoint.com/introduction-functional-javascript/)
     - Javascript Design Patterns By Example [:link:](http://www.sitepoint.com/javascript-application-design-patterns/)
     - Journey from procedural programming to reactive programming [:link:](http://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/)
     - Event Handling Patterns and the future of web development [:link:](http://www.sitepoint.com/emerging-patterns-javascript-event-handling/)
-- Books
+- **Books**
     - :raised_hands: You Don't Know Javascript Book Series Github Page [:link:](https://github.com/getify/You-Dont-Know-JS)
     - :raised_hands: Learning Javascript Design Patterns Free Book [:link:](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - Eloquent Javascript Book [:link:](http://eloquentjavascript.net/)
@@ -56,16 +56,16 @@ comments: true
     - THe RxJS Book [:link:](http://xgrommx.github.io/rx-book/)
     - Programming Javascript Applications [:link:](http://chimera.labs.oreilly.com/books/1234000000262)
     - The mostly adequate guide to Functional Programming in Javascript [:link:](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- Video
+- **Video**
     - :fire: Awesome Must Watch JS [:link:](https://github.com/bolshchikov/js-must-watch)
     - Must watch JS Videos [:link:](https://github.com/AllThingsSmitty/must-watch-javascript)
-- Quick References
+- **Quick References**
     - Javascript Data Object cheatsheet [:link:](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
     - :raised_hands: Airbnb Javascript Style Guide [:link:](https://github.com/airbnb/javascript)
     - Functional Programming in Javascript [:link:](https://dzone.com/storage/assets/379008-rc217-functionalprogramming.pdf)
     - OO Javascript [:link:](https://dzone.com/refcardz/object-oriented-javascript)
     - Functional Programming Jargon [:link:](https://github.com/hemanth/functional-programming-jargon)
-- Tutorial
+- **Tutorial**
     - :raised_hands: Mozilla's Official Javascript Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - Mozilla's Official DOM Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
     - A test-driven approach to assessing JS skills [:link:](https://github.com/rmurphey/js-assessment)
@@ -73,13 +73,13 @@ comments: true
     - Amazing Blog with lots of helpful projects from a JS master [:link:](http://bevacqua.io/opensource)
     - Functional javascript workshop [:link:](https://github.com/timoxley/functional-javascript-workshop)
     - :raised_hands: Javascript Garden [:link:](http://bonsaiden.github.io/JavaScript-Garden/)
-- Interview
+- **Interview**
     - Trivial Interview Questions in Javascript [:link:](http://www.thatjsdude.com/interview/js1.html), Part 2 [:link:](http://www.thatjsdude.com/interview/js2.html), Part 3 [:link:](http://www.thatjsdude.com/interview/dom.html), Part 4 [:link:](http://www.thatjsdude.com/interview/css.html#shadowDOM), Part 5 [:link:](http://www.thatjsdude.com/interview/html.html)
     - 25 Javascript interview questions [:link:](http://www.toptal.com/javascript/interview-questions)
     - 5 Important JS Interview Questions [:link:](http://www.sitepoint.com/5-javascript-interview-exercises/) and 5 more [:link:](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
     - 5 Most Important JS Questions [:link:](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
     - 85 JS Interview Questions [:link:](http://career.guru99.com/top-85-javascript-interview-questions/)
-- Posts
+- **Posts**
     - Isomorphic means Universal [:link:](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
     - You might not need Jquery [:link:](http://youmightnotneedjquery.com/)
     - Class hierarchies? Dont do that! [:link:](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
@@ -100,7 +100,7 @@ comments: true
         - Functional Javascript with Recursions & Tail Call Optimization [:link:](http://www.integralist.co.uk/posts/js-recursion.html)
         - Higher order functions in JS [:link:](http://www.sitepoint.com/higher-order-functions-javascript/)
         - What's a Persistent Data Structure? [:link:](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
-- ECMAScript
+- **ECMAScript**
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
         - What is ES7? [:link:](http://www.2ality.com/2015/11/tc39-process.html?utm_source=javascriptweekly&utm_medium=email)
@@ -114,7 +114,7 @@ comments: true
         - map and weakMap [:link:](http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/)
         - let vs const [:link:](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
         - ES6 Generators Deliver Go style Concurrency [Github](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
-- Github Projects
+- **Github Projects**
     - Make some animations with Mo.js [:link:](http://mojs.io/tutorials/easing/path-easing/)
     - Promises/A+ [:link:](https://promisesaplus.com/)
     - JS Sequence Diagrams [Github](https://github.com/bramp/js-sequence-diagrams)
@@ -138,7 +138,7 @@ comments: true
     - :raised_hands: Reactive libraries RxJS [Github](https://github.com/Reactive-Extensions/RxJS), Cycle [Github](https://github.com/cyclejs/cycle-core), Bacon.js [Github](https://github.com/baconjs/bacon.js)
     - A functional frontend architecture [:link:](https://github.com/paldepind/functional-frontend-architecture)
     - Rambda: Practical Functional Javascript [:link:](https://github.com/ramda/ramda)
-- Slides
+- **Slides**
     - Javascript Fundamentals [:floppy_disk:](http://slides.com/surtich/javascript-course#/)
     - :raised_hands: Journey from procedural to reactive JavaScript with stops [:floppy_disk:](http://slides.com/bahmutov/javascript-journey#/)
     - RxJS [:floppy_disk:](https://speakerdeck.com/andre/rxjs-the-reactive-extensions-for-javascript-introduction)
@@ -149,6 +149,6 @@ comments: true
     - Microsoft Typescript [:link:](https://github.com/Microsoft/TypeScript)
     - Next Gem DOM manipulation with Ractive.js [Github](https://github.com/ractivejs/ractive)
     - Learn Functinoal Programming in Javascript [:link:](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
-- Posts Coming Soon
+- **Posts Coming Soon**
     - _Book Review_: Javascript Design Patterns [Post Coming Soon]()
     - _Book Review_: Eloquent Javascript [Post Coming Soon]()
