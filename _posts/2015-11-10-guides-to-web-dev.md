@@ -14,3 +14,5 @@ comments: true
     - Web Broswer Architecture explained [:floppy_disk:](http://slides.com/chit_raa/browser-architecture#/)
 - **Interview**
     - :fire: Awesome HTML interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#html)
+    - :fire: Awesome Backend Developer Interview Questions [:link:](https://github.com/tvandame/back-end-developer-interview-questions)
+    - :fire: Awesome Frontend Dev Interview Questions [:link:](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
