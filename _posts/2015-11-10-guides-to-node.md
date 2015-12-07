@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Guide to Node.js"
+title:  "Guide to Node.js and npm"
 date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - Official Node Docs [:link:](https://nodejs.org/api/documentation.html)
     - :fire: :raised_hands: Awesome Node.js [:link:](https://github.com/sindresorhus/awesome-nodejs), and another [:link:](https://github.com/vndmtrx/awesome-nodejs)
     - :fire: :raised_hands: Awesome NODE Frameworks [:link:](https://github.com/pillarjs/node-frameworks)
@@ -15,17 +15,18 @@ comments: true
     - NPM, Bower, and Grunt [:link:](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
     - Node Module of the Week [:link:](http://nmotw.in/)
     - Node.js Weekly [:link:](http://nodeweekly.com/)
-- Learning
+- **Learning**
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[:link:](https://github.com/substack/stream-handbook)
     - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
     - Online Lessons for Node.js [:link:](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
-- CheatSheets
+- **CheatSheets**
+    - Node.js Refcard [:link:](https://dzone.com/refcardz/nodejs)
     - StrongLoop Node.js CheatSheet [:link:](https://dzone.com/storage/assets/3112-rc141-010d-nodejs_3%20(1).pdf)
     - Node-Webkit Cheatsheet [:link:](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
     - The complete Node cheatsheet [:link:](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
     - Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44)
     - Npm command cheatsheet [:link:](https://gentlenode.com/journal/node-1-npm-complete-cheatsheet/19)
-- Tutorial
+- **Tutorial**
     - :raised_hands: Art of Node: A short intro to Node.js [:link:](https://github.com/maxogden/art-of-node#the-art-of-node)
     - NodeSchool Workshops [:link:](http://nodeschool.io/#workshopper-list)
     - Solid Node Resource [:link:](http://amirrajan.net/nodejs-by-example/)
@@ -38,10 +39,12 @@ comments: true
     - Gulp + Browserify: The everything post [:link:](https://viget.com/extend/gulp-browserify-starter-faq)
     - Building a blog with Metalsmith [:link:](https://azurelogic.com/posts/building-a-blog-with-metalsmith/)
     - Metalsmith Walkthough Tutorial [:link:](https://github.com/RobinThrift/metalsmith-tutorial)
-- Slides
+- **Slides**
     - :raised_hands: Node Fundamentals [:link:](http://slides.com/surtich/node-fundamentals#/)
     - Getting Familiar with Grunt and Gulp [:floppy_disk:](https://speakerdeck.com/johnpapa/gulp-and-grunt)
-- Github
+- **Interview**
+    - :fire: Awesome NodeJS interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#nodejs)
+- **Github**
     - Metalsmith Static Site Generator [Github](https://github.com/segmentio/metalsmith)
     - Bower [Github](https://github.com/bower/bower)
     - WebTorrent: Steaming torrent client for node & the browser [Github](https://github.com/feross/webtorrent)
@@ -59,7 +62,7 @@ comments: true
     - NodeFibers: Fibers/coroutines support for v8 and Node [:link:](https://github.com/laverdet/node-Fibers)
     - Sticky Session is a simple performant way to use Socket.io with a Cluster [Github](https://github.com/indutny/sticky-session)
     - Highland.js: High level streams library [Github](https://github.com/caolan/highland)
-- Posts
+- **Posts**
     - Node with 1 Million Concurrent Connections [:link:](http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/)
     - Why would anyone ever use Bower? [:link:](https://www.quora.com/Why-use-Bower-when-there-is-npm)
     - Use Node + Redis [:link:](http://www.sitepoint.com/using-redis-node-js/)

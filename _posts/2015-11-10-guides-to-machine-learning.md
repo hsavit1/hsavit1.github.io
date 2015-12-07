@@ -6,25 +6,25 @@ comments: true
 ---
 
 
-- Links
+- **Links**
     - :fire: Awesome Machine Learning [:link:](https://github.com/josephmisiti/awesome-machine-learning)
     - :fire: Awesome Neural Networks [:link:](https://github.com/ChristosChristofidis/awesome-deep-learning)
     - Neural Network Lib for iOS [:link:](http://nikolaypavlov.github.io/MLPNeuralNet/)
     - :fire: Awesome Artificial Intelligence [:link:](https://github.com/owainlewis/awesome-artificial-intelligence)
     - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
-- Projects
+- **Projects**
     - Machine Learning in Go [:link:](https://github.com/hsavit1/golearn)
     - Homomorphic Machine Learning in Haskell [:link:](https://github.com/mikeizbicki/HLearn)
     - What is CRISPR? [:link:](http://www.nature.com/news/crispr-the-disruptor-1.17673)
-- Books
+- **Books**
     - :raised_hands: Dive into Machine Learning [:link:](http://hangtwenty.github.io/dive-into-machine-learning/)
     - What are the best books for machine learning? [:link:](https://www.quora.com/Which-are-the-best-books-for-machine-learning)
     - Machine Learning: A Probabilisitc Perspective [:link:](http://www.cs.ubc.ca/~murphyk/MLbook/)
     - The elements of statistical learning [:link:](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
     - Pattern Recognition and Machine Learning [:link:](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
-- Online Course
+- **Online Course**
     - Stanford Machine Learning Course [:link:](https://www.coursera.org/learn/machine-learning)
-- Posts
+- **Posts**
     - How do I learn Machine Learning? [:link:](https://www.quora.com/How-do-I-learn-machine-learning-1)
     - How to create an artificial neural network in a simple and concise way [:link:](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
     - Typical use cases for machine learning algos [:link:](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)

@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-- Links
+- **Links**
     - Clojure.org [:link:](http://clojure.org/)
     - :fire: Awesome Clojure [Link1](https://github.com/razum2um/awesome-clojure), [Link2](https://github.com/mbuczko/awesome-clojure)
     - :fire: Awesome ClojureScript [:link:](https://github.com/emrehan/clojurescript-awesome)
@@ -17,9 +17,9 @@ comments: true
     - ClojureBridge [:link:](http://www.clojurebridge.org/)
     - Datomic [:link:](http://www.datomic.com/)
     - The Clojure Toolbox [:link:](http://www.clojure-toolbox.com/)
-- Web Development
+- **Web Development**
     - Compojure Framework [:link:](https://github.com/weavejester/compojure/wiki)
-- References
+- **References**
     - Clojure Cheat Sheet [:link:](http://clojure.org/cheatsheet)
     - ClojureScript Cheat Sheet [:link:](http://cljs.info/cheatsheet/)
     - Clojure Documentation [:link:](http://clojure-doc.org/)
@@ -27,11 +27,11 @@ comments: true
     - Learn Clojure in 15 minutes [:link:](http://adambard.com/blog/clojure-in-15-minutes/)
     - ClojureScript JavaScript Translations [:link:](http://himera.herokuapp.com/index.html)
     - Functional Clojure Reference Guide [:link:](https://dzone.com/storage/assets/3818-rc122-010d-clojure.pdf)
-- Books 
+- **Books** 
     - :raised_hands: Clojure for the Brave and True [:link:](http://www.braveclojure.com/introduction/)
     - Clojure from the Ground Up [:link:](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
     - The Joy of Clojure [:link:](http://www.joyofclojure.com/)
-- Github
+- **Github**
     - Figwheel [Github](https://github.com/bhauman/lein-figwheel)
     - Om: ClojureScript Interface to React [Github](https://github.com/omcljs/om)
     - :raised_hands: Clojurescript: Clojure to JS compiler [Github](https://github.com/clojure/clojurescript) and CheatSheet [:link:](http://himera.herokuapp.com/index.html)
@@ -39,7 +39,7 @@ comments: true
     - Enlive: Selector based templating lib [Github](https://github.com/cgrand/enlive)
     - Leiningen automates your Clojure projects without setting your hair on fire [:link:](https://github.com/technomancy/leiningen)
     - Meteor ClojureScript [:link:](https://github.com/mystor/meteor-clojurescript)
-- Tutorial
+- **Tutorial**
     - Clojure Koans [:link:](https://github.com/functional-koans/clojure-koans)
     - ClojureScript Online Koans [:link:](http://clojurescriptkoans.com/)
     - Clojurescript Tutorial [:link:](https://www.niwi.nz/cljs-workshop/)
@@ -49,10 +49,10 @@ comments: true
     - A Very Gentle Introduction to Relational Programming [:link:](https://github.com/swannodette/logic-tutorial)
     - Enlive tutorial [:link:](https://github.com/swannodette/enlive-tutorial)
     - ClojureScript 101 [:link:](http://swannodette.github.io/2013/11/07/clojurescript-101/)
-- Presentations
+- **Presentations**
     - Simple Made Easy with Clojure [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) 
     - Hammock Driven Development [Presentation](https://www.youtube.com/watch?v=f84n5oFoZBc)
-- Posts
+- **Posts**
     - :raised_hands: Why would someone ever learn Clojure? [:link:](https://www.quora.com/Why-would-someone-learn-Clojure)
     - Common Clojure Pitfalls [:link:](http://stackoverflow.com/questions/2020570/common-programming-mistakes-for-clojure-developers-to-avoid/2021343#2021343)
     - Why learn ClojureScript? [:link:](https://www.quora.com/Why-ClojureScript)
@@ -60,16 +60,18 @@ comments: true
     - What's next for Clojurescript? [:link:](http://swannodette.github.io/2015/07/29/clojurescript-17/)
     - Scripting ClojureScript with JavaScript [:link:](http://swannodette.github.io/2015/03/10/scripting-clojurescript-with-javascript/)
     - The Clojure solution to the Dining Pilosophers [:link:](http://www.bestinclass.dk/blog/dining-philosophers-the-4th-solution)
-    - Opinions
+    - *Opinions*
         - Business: Clojure v Scala [:link:](http://www.bestinclass.dk/blog/scala-vs-clojure-lets-get-down-to-business)
         - Concurrnecy: Clojure v Scala [:link:](http://www.bestinclass.dk/blog/scala-vs-clojure-round-2-concurrency)
         - Clojure vs Scala [:link:](https://www.quora.com/What-are-some-advantages-of-Clojure-over-Scala)
         - Clojure vs Elixir [:link:](https://www.quora.com/Functional-Programming/Why-choose-Clojure-over-Elixir)
         - Clojure vs Haskell [:link:](https://www.quora.com/Which-power-programming-language-should-I-put-the-effort-into-learning-this-year-Clojure-or-Haskell)
     - Can Clojure replace common LISP? [:link:](https://www.quora.com/Can-Clojure-eventually-replace-Common-Lisp)
-- Slides
+- **Slides**
     - Distributed Programming with Clojure [:floppy_disk:](https://speakerdeck.com/kachayev/deterministic-parallel-and-distributed-programming-with-clojure)
-- Video
+- **Video**
     - Clojure.tv Youtube Channel [:link:](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg)
     - Clojure Screencasts [:link:](http://www.clojurescreencasts.com/)
     - Learn Clojure Videos [:link:](http://learn-clojure.com/clojure_videos.html)
+- **Interview**
+    - :fire: Awesome Clojure Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#clojure)

@@ -158,6 +158,10 @@ comments: true
     + Understanding Django [:link:](https://www.quora.com/How-do-I-make-progress-with-Python-Djangos)
     + Evaluating React.js and Flask [:link:](http://aviadas.com/blog/2015/08/05/evaluating-react-dot-js-and-flask/)
     + Use React and JSX in Python Applications [:link:](http://facebook.github.io/react/blog/2013/08/19/use-react-and-jsx-in-python-applications.html)
++ Interview
+    + :fire: Awesome Django Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#django)
++ Video
+    + Build a Website with Django + React [:vcr:](https://www.youtube.com/playlist?list=PLei96ZX_m9sUs4aFBvxQDKAE1tg2kN01e)
 + Tutorial
     + The Flaskr Tutorial [:link:](http://flask.pocoo.org/docs/0.10/tutorial/)
     + Official Django Tutorial [:link:](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)

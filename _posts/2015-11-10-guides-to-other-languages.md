@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-- Links
+- **Links**
     - :fire: Awesome Nim [:link:](https://github.com/VPashkov/awesome-nim)
     - :fire: Awesome Julia [:link:](https://github.com/svaksha/Julia.jl)
     - :fire: Awesome Crystal [:link:](https://github.com/veelenga/awesome-crystal)
@@ -14,23 +14,23 @@ comments: true
     - :fire: Awesome OCaml [:link:](https://github.com/rizo/awesome-ocaml)
     - The Standard ML Language Family [:link:](https://github.com/SMLFamily)
     - Getting Started with Purescript [:floppy_disk:](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
-- Books 
-    - Lisp
+- **Books**
+    - *Lisp*
         - Common Lisp: A Gentle Introduction to Symbolic Computation [:link:](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)
         - Let over Lambda - 50 Years of Lisp [:link:](http://letoverlambda.com/)
         - Common Lisp: The Language [:link:](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html)
         - The Common Lisp Cookbook [:link:](http://cl-cookbook.sourceforge.net/)
-- Reference 
+- **Reference**
     - Lisp
         - Common Lisp Tips [:link:](http://lisptips.com/)
         - Common Lisp Quick Reference [:link:](http://clqr.boundp.org/index.html)
         - What is the "cons" operator in Lisp ? [:link:](https://en.wikipedia.org/wiki/Cons)
     - Prolog
         - Learn Prolog via Examples [:link:](http://kti.ms.mff.cuni.cz/~bartak/prolog.old/learning.html)
-- Practice 
+- **Practice**
     - 99 Prolog Problems [:link:](https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/)
     - 99 Lisp Problems [:link:](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
-- Github Repositories and Other Helpful Links
+- **Github Repositories and Other Helpful Links**
     - OCaml
         - OCaml website [:link:](https://ocaml.org/)
     - Julia
@@ -67,7 +67,7 @@ comments: true
         - D Programming Language [:link:](https://github.com/D-Programming-Language/dmd)
     - Kotlin
         - Kotlin Programming Language [:link:](https://github.com/JetBrains/kotlin)
-- Posts
+- **Posts**
     - Why would anybody learn Racket? [:link:](https://www.quora.com/What-are-the-advantages-of-using-Racket-over-other-programming-languages)
     - Why learn LISP? [:link:](https://www.quora.com/topic/Lisp-programming-language)
     - Write yourself a Scheme in 48 hours [:link:](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
@@ -77,8 +77,8 @@ comments: true
     - Compaing MATLAB/Octave, Python NumPy, R, and Julia [:link:](http://sebastianraschka.com/Articles/2014_matrix_cheatsheet_table.html)
     - How is F# Doing in Industry? [:link:](https://www.quora.com/How-is-F-going-at-the-moment-Is-there-any-application-built-with-F)
     - Why I'm Betting on Julia [:link:](http://www.evanmiller.org/why-im-betting-on-julia.html)
-- Slides
+- **Slides**
     - There is Prolog in your Scala! [:floppy_disk:](https://speakerdeck.com/folone/theres-a-prolog-in-your-scala)
     - Introduction to Prolog [:floppy_disk:](http://www.slideshare.net/akilaanusari/introduction-to-prolog-final?qid=c2957e3d-05d5-4c5b-af91-778643c75be4&v=default&b=&from_search=4) 
-- Tutorial
+- **Tutorial**
     - How I start with Nim [:link:](https://howistart.org/posts/nim/1)

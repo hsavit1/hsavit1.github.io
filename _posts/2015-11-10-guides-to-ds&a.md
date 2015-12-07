@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :raised_hands: All the design patterns [:link:](https://sourcemaking.com/design_patterns)
     - Design Patterns Quick Reference [:link:](http://viralpatel.net/blogs/download/design-pattern-scard.pdf)
     - :fire: :raised_hands: Awesome Algorithms [:link:](https://github.com/tayllan/awesome-algorithms)
@@ -15,23 +15,23 @@ comments: true
     - Data Structures for competitive programmers [:link:](https://www.quora.com/Data-Structures/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know)
     - Open Data Structures Textbook [:link:](http://opendatastructures.org/)
     - Bloom Filters by Example [:link:](http://billmill.org/bloomfilter-tutorial/)
-- Reference
+- **Reference**
     - Algorithms Cheat Sheet [:link:](http://algs4.cs.princeton.edu/cheatsheet/)
-- Tutorial
+- **Tutorial**
     - Parallel Programming Algorithms Tutorial [:link:](http://www.tutorialspoint.com/parallel_algorithm/index.htm)
     - Software Architecture and Design Tutorial [:link:](http://www.tutorialspoint.com/software_architecture_design/index.htm)
-- Posts
+- **Posts**
     - How to find a solution [:link:](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
     - The Lesser Known Yet Useful Ones [:link:](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
     - Top Coder Explains Data Structures [:link:](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
     - Data structures concepts [:link:](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/)
     - How to learn data structuress and algorithms [:link:](https://github.com/wbinnssmith/awesome-promises)
     - :raised_hands: How can I become a World Class coder in under 3 years? [:link:](https://www.quora.com/How-can-I-become-a-world-class-coder-in-under-three-years/answer/Quildreen-Motta?srid=21CJ&share=1)
-- Books
+- **Books**
     - Algorithms Book Site [:link:](http://algs4.cs.princeton.edu/home/)
     - Analysis of Algorithms Booksite [:link:](http://aofa.cs.princeton.edu/home/)
     - Analytic Combinatorics Booksite [:link:](http://ac.cs.princeton.edu/home/)
-- Algorithms
+- **Algorithms**
     - How do Random Forests work in Layman's Terms? [:link:](https://www.quora.com/Random-Forests/How-do-random-forests-work-in-laymans-terms)
     - Essential Algorithms (book) [Post](http://itshenry.com/2015/10/10/essential-algorithms.html)
     - How to Study Cormen's Algos Book [:link:](https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=TAJ1&share=1)
@@ -46,10 +46,10 @@ comments: true
     - Dijkstra's vs Kruskal's [:link:](http://stackoverflow.com/questions/20409090/why-the-tree-resulting-from-kruskal-is-different-from-dijkstra)
     - About MST's [:link:](https://www.ics.uci.edu/~eppstein/161/960206.html)
     - Heap vs a BST [:link:](http://stackoverflow.com/questions/6147242/heap-vs-binary-search-tree-bst)
-- Linear Programming
+- **Linear Programming**
     - An introduction to Linear Programming [:link:](http://fisher.osu.edu/~croxton.4/tutorial/)
     - An Undergraduate Course in Linear Programming [:link:](http://orfe.princeton.edu/~rvdb/307/lectures.html)
-- Functional Programming 
+- **Functional Programming**
     - :fire: Awesome Functional Programming [:link:](https://github.com/lucasviola/awesome-functional-programming)
     - Functional Programming at Facebook [:floppy_disk:](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
     - Why are lists used so much in functional programming? [:link:](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
@@ -62,19 +62,19 @@ comments: true
     - Railway Oriented Programming [:link:](http://fsharpforfunandprofit.com/rop/)
     - Domain Driven Design [:link:](http://fsharpforfunandprofit.com/ddd/)
     - The Genuine Sieve of Eratosthenes [:link:](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf)
-- Concurrency
+- **Concurrency**
     - Concurrent Programming for Scalable Web Based Architectures [:link:](http://berb.github.io/diploma-thesis/community/index.html)
-- Design Patterns
+- **Design Patterns**
     - Great Design Patterns Website [:link:](http://www.oodesign.com/)
     - Design Patterns Quora Page [:link:](https://www.quora.com/Design-Patterns)
     - What's the difference between MVC and MVP? [:link:](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference?rq=1)
     - What's the difference between the template method pattern and the strategy pattern? [:link:](http://stackoverflow.com/questions/669271/what-is-the-difference-between-the-template-method-and-the-strategy-patterns)
-- Slides
+- **Slides**
     - All the slides from a course on algorithms [:floppy_disk:](http://courses.cs.washington.edu/courses/cse373/02au/lectures/)
     - The Algorithm Design Manual Lecture Slides [:floppy_disk:](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
-- Videos 
+- **Videos**
     - Princeton Algorithms Course on Coursera [:vcr:](https://www.coursera.org/course/algs4partI)
-- Courses
+- **Courses**
     - Design and Analysis of Algorithms Course [:link:](https://www.ics.uci.edu/~eppstein/161/)
-- Complexity
+- **Complexity**
     - P vs NP Problem [:link:](https://en.wikipedia.org/wiki/P_versus_NP_problem)

@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome Meteor [:link:](https://github.com/Urigo/awesome-meteor)
     - MeteorHacks Website [:link:](https://meteorhacks.com/)
     - Meteor job board [:link:](http://www.weworkmeteor.com/)
@@ -17,7 +17,7 @@ comments: true
     - Understanding Meteor Internals [:link:](https://meteorhacks.com/understanding-meteor-internals)
     - Using Meteor with Docker [:link:](https://meteorhacks.com/docker-container-war-and-meteor)
     - Meteor Pad Editor [:link:](http://meteorpad.com/pad/qr2oFzmiZ9nxpiYWt/Leaderboard)
-- Quick References
+- **Quick References**
     - :raised_hands: The Meteor Manual [:link:](http://manual.meteor.com/)
     - Unofficial Meteor FAQ [:link:](https://github.com/oortcloud/unofficial-meteor-faq)
     - :raised_hands: A Meteor Cheat Sheet [:link:](http://cincomiradas.com/meteor/meteor-0-9-4-cheatsheet/), and another one [:link:](https://gentlenode.com/journal/meteor-5-complete-cheatsheet/7)
@@ -26,19 +26,19 @@ comments: true
     - Reference Guide to using React in Meteor [:link:](http://react-in-meteor.readthedocs.org/en/latest/)
     - The Official Meteor Trello Roadmap [:link:](https://trello.com/b/hjBDflxp/meteor-roadmap)
     - Crater.io Discussion Board [:link:](https://crater.io/)
-- Books and Learning Materials
+- **Books and Learning Materials**
     - :fire: Awesome Meteor Learning [:link:](https://github.com/ericdouglas/Meteor-Learning)
     - :raised_hands: A big list of Meteor Learning Material [:link:](https://www.yauh.de/best-learning-resources-for-meteorjs/) and another big list [:link:](https://hackpad.com/Top-Resources-for-learning-MeteorJS-Nrpnr6CHiGs)
     - Your First Meteor App [:link:](http://meteortips.com/first-meteor-tutorial/)
     - Your First Meteor Deployment [:link:](http://meteortips.com/deployment-tutorial/)
-- Videos
+- **Videos**
     - Event Minded [:link:](https://www.eventedmind.com/)
     - Introduction to Meteor [:link:](https://www.youtube.com/watch?v=dOCMpoeuwTI&utm_campaign=Core+Install+%26+Deploy&utm_source=hs_automation&utm_medium=email&utm_content=21068638&_hsenc=p2ANqtz-_zJqDvX5n-s9cqGsb3oLaLx-RvmGUoeRt-TNQjvDKKXQcbNwkfIux90jBW-HQ7D70Rokn3IKDtCnDePSrPDdDMmsObiQ&_hsmi=21070052)
     - 22 Vid YouTube Playlist [:link:](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
     - 17 Vid YouTube Playlist [:link:](https://www.youtube.com/watch?v=LPIgeRkyOFs&list=PLWOwgptSFZ6SyW3D4KsuAbDrTWWz0Hqa2)
     - 2 Weeks of React + Meteor [:link:](http://info.meteor.com/blog/two-weeks-with-react-and-meteor)
     - Devcasts Meteor [:link:](https://www.devcasts.io/tag/meteor/)
-- Meteor Logistics
+- **Meteor Logistics**
     - Why should I use Meteor? [:link:](https://www.quora.com/Should-I-use-Meteor-Why)
     - What about Meteor sucks? [:link:](https://www.quora.com/What-are-some-downsides-of-MeteorJS)
     - What startups are using Meteor in prouction? [:link:](https://www.quora.com/Which-startups-use-Meteor-in-production)
@@ -49,7 +49,7 @@ comments: true
     - Is Meteor funded? Will it stick around? [:link:](https://www.quora.com/How-is-Meteor-funded-Will-it-be-around-a-couple-of-years-from-now)
     - Why does Meteor need it's own package system? [:link:](https://www.quora.com/Node-js/Why-does-Meteor-use-its-own-package-system-rather-than-NPM)
     - Questions/Answer via Quora [:link:](https://www.quora.com/Meteor-Javascript-platform)
-- Posts
+- **Posts**
     - Comparing Blaze, Angular1, Angular2, React [Link1](http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor), [Link2](http://www.shmck.com/comparing-front-end-frameworks-code-style/), [Link3](http://www.shmck.com/comparing-front-end-frameworks-community/), [Link4]()
     - How does Meteor use Node.js? [:link:](https://meteorhacks.com/how-meteor-uses-node)
     - Meteor Streams: A messaging layer (Redis?) [:link:](https://meteorhacks.com/introducing-meteor-streams)
@@ -69,7 +69,7 @@ comments: true
     - How does Meteor handle SEO? [:link:](http://www.manuel-schoebel.com/blog/meteor-and-seo)
     - What is the Isobuild Meteor Package System [:link:](http://info.meteor.com/blog/isobuild-why-meteor-created-a-new-package-system)
     - What is Meteor's Optimistic UI? [:link:](http://info.meteor.com/blog/optimistic-ui-with-meteor-latency-compensation)
-- Tutorials
+- **Tutorials**
     - BulletProof Meteor [:link:](https://bulletproofmeteor.com/basics/introduction)
     - Official Meteor Tutorial [:link:](https://www.meteor.com/tutorials/blaze/creating-an-app)
     - :raised_hands: Meteor Help [:link:](http://meteorhelp.com/)
@@ -78,31 +78,31 @@ comments: true
     - Build a Slack clone in Meteor [:link:](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started), and corresponding Github Repo [Github](https://github.com/RocketChat/Rocket.Chat)
     - Building a Static Blog with Meteor [:link:](https://meteorhacks.com/building-static-websites-with-meteor)
     - Deploy your app to Scalingo [:link:](http://www.smashingthingstogether.com/deploying-your-app-to-scalingo-meteor-js/)
-- Slides
+- **Slides**
     - Why Meteor [:floppy_disk:](https://speakerdeck.com/grigio/why-meteor)
     - A quick introduction to Meteor [:link:](http://slides.com/dasniko/meteor#/)
     - :raised_hands: Exploring the Real Time Web with Meteor [:link:](http://slides.com/cramrov/meteor#/)
     - Intro to Meteor [:link:](https://speakerdeck.com/shrop/intro-to-meteor)
-- Github
-    - UI
+- **Github**
+    - *UI*
         - Fast Render can improve the initial load time of your app, giving you 2-10 times faster initial page loads [Github](https://github.com/kadirahq/fast-render#demo)
         - Meteor Blaze Components [Github](https://github.com/peerlibrary/meteor-blaze-components)
         - Meteor-UI: React + FLux [Github](https://github.com/meteor-space/ui)
         - Famous and Blaze Reactive Views [Github](https://github.com/gadicc/meteor-famous-views)
         - React + Famous Bridge [:link:](https://github.com/pilwon/react-famous)
-    - Routing
+    - *Routing*
         - Iron Router [Github](https://github.com/iron-meteor/iron-router)
         - meteor-REST [Github](https://github.com/stubailo/meteor-rest)
         - Meteor Astronomy Model Layer [Github](https://github.com/jagi/meteor-astronomy)
         - Meteor uses SockJS for Websockets [Github](https://github.com/sockjs/sockjs-node)
-    - Mobile
+    - *Mobile*
         - Blaze [Github](http://meteor.github.io/blaze/)
         - Meteor iOS [Github](https://github.com/martijnwalraven/meteor-ios)
         - Angular 2 + Meteor [:link:](http://angular-meteor.com/), and Angular Meteor Server [:link:](https://github.com/netanelgilad/angular-meteor-server)
         - Ionic Meteor Apps [:link:](https://github.com/meteoric/meteor-ionic)
-    - Apps
+    - *Apps*
         - Telescope Open Social News App [Github](https://github.com/TelescopeJS/Telescope)
-    - Other
+    - *Other*
         - Redis-livedata brings full stack reactivity support in meteor [:link:](https://github.com/meteor/redis-livedata/)
         - Using RethinkDB with Meteor [Github](https://github.com/Slava/meteor-rethinkdb)
         - A Firewall for Meteor Apps [Github](https://github.com/meteorhacks/sikka)

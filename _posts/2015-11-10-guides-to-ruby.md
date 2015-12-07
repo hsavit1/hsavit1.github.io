@@ -65,7 +65,8 @@ comments: true
     - Opal: Ruby to Javascript Transpiler [:link:](https://github.com/opal/opal)
     - Volt Web Framework [:link:](https://github.com/voltrb/volt/)
 - **Interview**
-    - :fire: Awesome Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#rubyrails)
+    - :fire: Awesome Ruby Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#ruby)
+    - :fire: Awesome Rails Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#rails)
     - Ruby Trivia [:link:](https://github.com/gregstallings/ruby-trivia)
     - Ruby Job Interview Gem [:link:](http://ruby-jokes.github.io/job_interview/)
     - :fire: Rails interview questions [:link:](https://github.com/rishiip/ruby-on-rails-interview-questions)

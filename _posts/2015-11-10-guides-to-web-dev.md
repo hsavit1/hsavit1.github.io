@@ -12,4 +12,5 @@ comments: true
     - Charles HTTP Proxy [:link:](http://www.charlesproxy.com)
 - **Slides**
     - Web Broswer Architecture explained [:floppy_disk:](http://slides.com/chit_raa/browser-architecture#/)
-
+- **Interview**
+    - :fire: Awesome HTML interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#html)

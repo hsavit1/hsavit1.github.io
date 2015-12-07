@@ -74,6 +74,7 @@ comments: true
     - Functional javascript workshop [:link:](https://github.com/timoxley/functional-javascript-workshop)
     - :raised_hands: Javascript Garden [:link:](http://bonsaiden.github.io/JavaScript-Garden/)
 - **Interview**
+    - :fire: Awesome Javascript Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#javascript)
     - Trivial Interview Questions in Javascript [:link:](http://www.thatjsdude.com/interview/js1.html), Part 2 [:link:](http://www.thatjsdude.com/interview/js2.html), Part 3 [:link:](http://www.thatjsdude.com/interview/dom.html), Part 4 [:link:](http://www.thatjsdude.com/interview/css.html#shadowDOM), Part 5 [:link:](http://www.thatjsdude.com/interview/html.html)
     - 25 Javascript interview questions [:link:](http://www.toptal.com/javascript/interview-questions)
     - 5 Important JS Interview Questions [:link:](http://www.sitepoint.com/5-javascript-interview-exercises/) and 5 more [:link:](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)

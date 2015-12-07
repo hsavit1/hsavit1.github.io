@@ -5,13 +5,13 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - Architectural patterns of resilient distributed systems [:link:](https://github.com/Randommood/Strangeloop2015)
     - :raised_hands: The Linux Information Project [:link:](http://www.linfo.org/)
     - :fire: Awesome Linux [:link:](https://github.com/aleksandar-todorovic/awesome-linux)
     - :fire: Awesome Linux Resources [:link:](https://github.com/itech001/awesome-linux-resources)
     - fu*kingclangwarnings.com [:link:](http://fuckingclangwarnings.com/)
-- Posts
+- **Posts**
     - Quora Page on Compilers [:link:](https://www.quora.com/Compilers) 
     - Difference between Kernel Threads and User Threads? [:link:](https://www.quora.com/What-do-the-kernel-thread-and-user-thread-actually-do-Why-mapping-is-done-Is-the-user-thread-mapped-to-the-kernel-thread-only-if-they-require-O-S-service)
     - Building an interpreter vs building a compiler [:link:](https://www.quora.com/What-takes-more-time-Building-an-interpreter-or-a-compiler)
@@ -42,5 +42,5 @@ comments: true
     - Why haven't CPU clock speeds increased in the past 15 years? [:link:](https://www.quora.com/Why-havent-CPU-clock-speeds-increased-in-the-last-5-years)
     - What is POSIX? [:link:](https://en.wikipedia.org/wiki/POSIX)
     - History of UNIX [:link:](https://en.wikipedia.org/wiki/History_of_Unix)
-- Books
+- **Books**
     - Linux-Insides [:link:](https://0xax.gitbooks.io/linux-insides/content/)

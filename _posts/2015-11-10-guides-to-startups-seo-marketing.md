@@ -18,8 +18,10 @@ comments: true
     - Startup Must Watch Videos [:link:](https://github.com/gerricchaplin/startup-must-watch)
     - Prerender.io Javascript SEO [:link:](https://github.com/prerender/prerender)
     - SEO.js [:link:](http://getseojs.com/)
-- **Posts**
+- **Guides**
+    - :fire: The App Launch Guide [:link:](http://www.applaunchguide.com/resources/)
     - Guide to Your Equity [:link:](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
+- **Posts**
     - Keys when trying to attract the best talent [:link:](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
     - How to Price an App [:link:](http://www.marco.org/2015/10/13/pragmatic-pricing)
     - How to raise money crowdfunding [:link:](https://medium.com/@jerols/6-things-we-learned-from-running-a-private-crowdfunding-campaign-33ac835de4dd)

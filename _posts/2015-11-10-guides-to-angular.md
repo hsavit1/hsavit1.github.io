@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - AngularJS CheatSheet [:link:](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
     - AngularJS Best Practices [:link:](https://github.com/jmcunningham/angularjs-styleguide)
     - Made with Angular [:link:](https://www.madewithangular.com/#/)
@@ -29,21 +29,23 @@ comments: true
     - Angular 2 Offical Repo (Based off of Typescript) [Github](https://github.com/angular/angular)
     - Build Your Own AngularJS [:link:](https://github.com/teropa/build-your-own-angularjs)
     - Hardcore SEO with AngularJS [:link:](http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
-- Tutorial
+- **Tutorial**
     - Learn Angular2 via Challenges [:link:](https://github.com/ShMcK/ng2Challenges)
     - A better way to learn AngularJS [:link:](https://thinkster.io/a-better-way-to-learn-angularjs/)
     - 50 Examples of AngularJS [:link:](https://github.com/curran/screencasts/tree/gh-pages/introToAngular)
     - MEAN Stack 3 Part Tutorial [:link:](http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/)
-- Posts
+- **Posts**
     - Is Angular 2 worth it? [Temp Post](http://www.syntaxsuccess.com/viewarticle/is-angular-2.0-worth-it)
     - MEAN is Great, but then you grow up [:link:](https://rclayton.silvrback.com/means-great-but-then-you-grow-up)
     - Angular vs Backbone [:link:](https://www.quora.com/How-do-Angular-js-and-Backbone-js-compare)
     - Hardcore Angular Optimization [:link:](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
     - Understanding AngularJS MVW Design Pattern [:link:](http://stackoverflow.com/questions/20286917/angularjs-understanding-design-pattern)
-- Books
+- **Books**
     - Backbone.js Applications by Addy Osmani [:link:](http://addyosmani.github.io/backbone-fundamentals/)
-- Slides
+- **Slides**
     - All about Angular [:floppy_disk:](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
     - Angular 2.0 [:floppy_disk:](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
-- Talks
+- **Talks**
     - Angular 1 vs Angular 2 [:movie_camera:](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [:link:](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
+- **Interview**
+    - :fire: Awesome Angular Inteview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#angularjs)

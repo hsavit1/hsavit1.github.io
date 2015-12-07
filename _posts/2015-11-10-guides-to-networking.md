@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome Networking [:link:](https://github.com/clowwindy/Awesome-Networking)
     - :fire: Awesome .NET [:link:](https://github.com/quozd/awesome-dotnet)
     - :fire: Awesome REST [:link:](https://github.com/marmelab/awesome-rest)
@@ -31,11 +31,11 @@ comments: true
     - GNU Wget [:link:](http://www.gnu.org/software/wget/)
     - HTTP Stats Codes Diagram [:link:](http://i.stack.imgur.com/whhD1.png)
     - HTTP Status Code Descriptions [:link:](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
-- References
+- **References**
     - HTTP Tutorial [:link:](http://www.tutorialspoint.com/http/index.htm)
     - DZone HTTP [:link:](https://dzone.com/storage/assets/4158-rc172-010d-http_0.pdf) 
     - Data Communication and Computer Networking Tutorial [:link:](http://www.tutorialspoint.com/data_communication_computer_network/index.htm)
-- Slides
+- **Slides**
     - HTTP 2.0 [:floppy_disk:](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
     - Websockets for Absolute Beginners [:floppy_disk:](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
     - What are Websockets? [:floppy_disk:](https://speakerdeck.com/igorw/websockets)
@@ -54,7 +54,7 @@ comments: true
     - What is BSON? [:link:](http://bsonspec.org/)
     - Explain how the Internet works [:link:](https://www.quora.com/How-does-the-Internet-work)
     - Route internet traffic through a tor docker container [:link:](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
-- Github
+- **Github**
     - Mongoose Web Server [:link:](https://github.com/cesanta/mongoose)
     - HTTP Server [Github](https://github.com/indexzero/http-server)
     - cURL [Github](https://github.com/bagder/curl)
@@ -63,7 +63,7 @@ comments: true
     - Superagent: Ajax [Github](https://github.com/visionmedia/superagent)
     - Heroku Command Line Interface [:link:](https://github.com/heroku/heroku)
     - Docker Powered Mini Heroku in about 200 Lines of Bash [:link:](https://github.com/progrium/dokku)
-- Video
+- **Video**
     - What is DNS? [YouTube](https://www.youtube.com/watch?v=72snZctFFtA)
-- Interview
+- **Interview**
     - 100 Networking Interview Questions [:link:](http://career.guru99.com/top-100-networking-interview-questions-answers/)
