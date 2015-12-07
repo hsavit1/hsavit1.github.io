@@ -34,7 +34,7 @@ permalink: /resume/
 
 ###Objective
 
-> I am a young and passionately driven software engineer; specializing in OO and functional design, performance, and analysis, with extensive experience in the full life cycle of the software design process- including prototyping, applying appropriate and effective design patterns, data design, continuous integration, benchmarking, TDD/BDD, and QA. I aspire to make *amazing*, *intuitive*, and *useful* software that significantly improves the quality of people's lives. Software is _not_ limited to iOS, although that is my specialty. 
+> I am a young and passionately driven software engineer; specializing in OO and functional design, performance, and analysis, with extensive experience in the full life cycle of the software design process- including prototyping, applying appropriate and effective design patterns, data design, continuous integration, benchmarking, TDD/BDD, and QA. I strive to make *amazing*, *intuitive*, and *useful* software that significantly improves the quality of people's lives. Software is _not_ limited to iOS, although that is my specialty. 
 
 
 
@@ -50,25 +50,26 @@ permalink: /resume/
 
 ### _Still Experimenting With_
 
-+ Java
-+ Javascript
-+ Meteor Framework
+
 + Elixir
 + Phoenix Framework
++ Javascript
++ Node.js
++ React.js 
++ Meteor Framework
++ Socket.io
 + Ruby
 + Rails
 + MongoDB
 + RethinkDB
-+ Socket.io
-+ Full stack web development
 + Haskell
++ Java
 
 
 ### _Learning_
 
 + Erlang
-+ Node.js
-+ React.js 
++ Angular.js 
 + Docker
 
 
