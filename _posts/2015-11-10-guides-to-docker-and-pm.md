@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: Awesome Docker [:link:](https://github.com/veggiemonk/awesome-docker)
     - :fire: Awesome Docker Cheat Sheet [:link:](https://github.com/wsargent/docker-cheat-sheet)
     - :fire: Awesome Container Technologies [:link:](https://github.com/tcnksm/awesome-container)
@@ -16,10 +16,11 @@ comments: true
     - :fire: Awesome Free Open Source Software for Developers [:link:](https://github.com/httpsGithubParty/FOSS-for-Dev)
     - Chrome Dev Tools [:link:](https://developer.chrome.com/devtools)
     - Kubernetes by Google [:link:](http://kubernetes.io/)
-- References
+- **References**
     - SCRUM Ref Guide [:link:](https://dzone.com/refcardz/scrum)  
     - The Official Docker User Guide [:link:](https://docs.docker.com/userguide/)
-- Posts
+    - The Docker Architecture CheatSheet [:link:](https://dzone.com/refcardz/getting-started-with-docker-1)
+- **Posts**
     - Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
     - :raised_hands: App Container Specification [:link:](https://github.com/appc/spec/blob/master/SPEC.md)
     - rkt, appc, and Docker: A Take on the Linux Container Upstream [:link:](http://rhelblog.redhat.com/2015/05/05/rkt-appc-and-docker-a-take-on-the-linux-container-upstream/)
@@ -28,10 +29,10 @@ comments: true
     - Let's Review Docker (it sucks) [:link:](http://iops.io/blog/docker-hype/)
     - Make a Docker Based Website [:link:](http://project-webdev.blogspot.de/2015/05/create-site-based-on-docker-part1.html)
     - Rkt App Containers > Docker [:link:](https://github.com/coreos/rkt)
-- Videos
+- **Videos**
     - Offical Docker Self Paced Training Videos [:link:](http://training.docker.com/self-paced-training)
     - Devcasts Docker Screencasts [:link:](https://www.devcasts.io/search/?q=docker) 
-- Slides
+- **Slides**
     - Docker 101 [:floppy_disk:](https://speakerdeck.com/asm89/docker)
-- Github
+- **Github**
     - Make GANT Charts Easily with this tool [:link:](http://knsv.github.io/mermaid/)
