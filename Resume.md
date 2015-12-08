@@ -43,34 +43,32 @@ permalink: /resume/
 ### _Great Skills_
 
 
-+ Objective-C
-+ Swift
-+ Python
++ Objective-C / Swift: [:link:](http://itshenry.com/2015/11/10/guides-to-swift.html)
++ Python: [:link:](http://itshenry.com/2015/11/10/guides-to-python.html)
 
 
 ### _Still Experimenting With_
 
 
-+ Elixir
-+ Phoenix Framework
-+ Javascript
-+ Node.js
-+ React.js 
-+ Meteor Framework
-+ Socket.io
-+ Ruby
-+ Rails
-+ MongoDB
++ Elixir: [:link:](http://itshenry.com/2015/11/10/guides-to-elixir.html)
++ Phoenix Framework [:link:](http://itshenry.com/2015/11/10/guides-to-phoenix.html)
++ Javascript: [:link:](http://itshenry.com/2015/11/10/guides-to-javascript.html)
++ Node.js: [:link:](http://itshenry.com/2015/11/10/guides-to-node.html)
++ React.js: [:link:](http://itshenry.com/2015/11/10/guides-to-react.html)
++ Meteor Framework [:link:](http://itshenry.com/2015/11/10/guides-to-meteor.html)
++ Ruby / Rails [:link:](http://itshenry.com/2015/11/10/guides-to-ruby.html)
++ MongoDB 
 + RethinkDB
-+ Haskell
-+ Java
++ Haskell [:link:](http://itshenry.com/2015/11/10/guides-to-haskell.html)
++ Android [:link:](http://itshenry.com/2015/11/10/guides-to-android.html) 
++ Java 8 [:link:](http://itshenry.com/2015/11/10/guides-to-java.html)
 
 
 ### _Learning_
 
-+ Erlang
-+ Angular.js 
-+ Docker
++ Erlang [:link:](http://itshenry.com/2015/11/10/guides-to-erlang.html)
++ Angular.js [:link:](http://itshenry.com/2015/11/10/guides-to-angular.html)
++ Docker [:link:](http://itshenry.com/2015/11/10/guides-to-docker-and-pm.html)
 
 
 ### Projects
