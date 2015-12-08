@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guides to iOS Testing, DevOps, and Delivery"
+title:  "Guides to iOS Testing, DevOps, CI, CD, and Delivery"
 date:   2015-11-10 17:20:15
 comments: true
 ---
@@ -53,6 +53,8 @@ comments: true
     - How testing has improved in Swift 2 [:link:](http://code.tutsplus.com/tutorials/advances-in-testing-with-xcode-7-and-swift-2--cms-24469)
     - TDD with FBSnapShotTestCase [:link:](http://devmonologue.com/ios/category/test-driven-development/)
     - Debugging Core Animation [:link:](http://jwilling.com/blog/debugging-core-animation-on-osx/)
+- **References**
+    - Continuous Delivery with a Jenkins Workflow [:link:](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 - **Tutorials**
     - How to configure Travis CI for iOS Testing [:link:](http://www.mokacoding.com/blog/travis-ci-ios-testing/)
     - Setting up KIF for iOS Acceptance Testing [:link:](http://www.mokacoding.com/blog/setting-up-kif-for-ios-acceptance-testing/)
