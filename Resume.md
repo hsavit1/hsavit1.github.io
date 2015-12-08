@@ -43,7 +43,7 @@ permalink: /resume/
 ### _Great Skills_
 
 
-+ Objective-C / Swift: [:link:](http://itshenry.com/2015/11/10/guides-to-swift.html)
++ Objective-C / Swift: [:link:](http://itshenry.com/2015/11/10/guides-to-swift.html) and iOS developement [:link:](http://itshenry.com/2015/11/10/guides-to-ios.html) / delivery [:link:](http://itshenry.com/2015/11/10/guides-to-ios-testing.html)
 + Python: [:link:](http://itshenry.com/2015/11/10/guides-to-python.html)
 
 

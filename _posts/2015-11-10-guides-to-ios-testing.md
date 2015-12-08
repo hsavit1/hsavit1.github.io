@@ -29,6 +29,7 @@ comments: true
     - Reverse Engineering Xcode [:microphone:](https://realm.io/news/jp-simard-reverse-engineering-code-completion/) 
     - Compiler Driven Development [:microphone:](https://github.com/nlutsenko/compile-time-guaranteed/blob/master/compile-time-guaranteed.pdf)
     - Automating your daily iOS developer tasks with Fastlane [:microphone:](https://realm.io/news/felix-krause-fastlane-automating-ios-tasks/)
+    - Marketing on the App Store [:microphone:](https://github.com/tekezo/Karabiner)
 - **Instruments and Profiling**
     - Profiling Core Animation [:bar_chart:](https://littlebitesofcocoa.com/113-profiling-core-animation)
     - Using the Leaks Instrument [:bar_chart:](http://www.russbishop.net/shoot-the-heap)
