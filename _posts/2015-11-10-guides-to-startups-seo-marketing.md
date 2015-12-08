@@ -21,6 +21,8 @@ comments: true
 - **Guides**
     - :fire: The App Launch Guide [:link:](http://www.applaunchguide.com/resources/)
     - Guide to Your Equity [:link:](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
+- **Presentations**
+    - Marketing on the App Store [:microphone:](https://github.com/tekezo/Karabiner)
 - **Posts**
     - Keys when trying to attract the best talent [:link:](http://blog.carbonfive.com/2015/09/16/creating-the-dream-team-transform-your-engineering-organization-to-attract-new-talent/)
     - How to Price an App [:link:](http://www.marco.org/2015/10/13/pragmatic-pricing)
