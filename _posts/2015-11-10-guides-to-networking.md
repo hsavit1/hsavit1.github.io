@@ -35,6 +35,7 @@ comments: true
     - HTTP Tutorial [:link:](http://www.tutorialspoint.com/http/index.htm)
     - DZone HTTP [:link:](https://dzone.com/storage/assets/4158-rc172-010d-http_0.pdf) 
     - Data Communication and Computer Networking Tutorial [:link:](http://www.tutorialspoint.com/data_communication_computer_network/index.htm)
+    - Getting started with the industrial internet [:link:](https://dzone.com/refcardz/getting-started-with-industrial-internet)
 - **Slides**
     - HTTP 2.0 [:floppy_disk:](https://speakerdeck.com/bastianhofmann/2-dot-0-introduction)
     - Websockets for Absolute Beginners [:floppy_disk:](https://speakerdeck.com/robhawkes/websockets-embracing-the-real-time-web)
@@ -45,7 +46,7 @@ comments: true
     - What is HTTP? [:link:](http://slides.com/theremix/http#/1)
     - What is Elastic Search? [:link:](http://slides.com/yatendra/elastic-search#/)
     - A guide to DNS [:floppy_disk:](http://slides.com/justintalbott/dns#/)
-- Posts
+- **Posts**
     - REST made simple [:link:](http://programmers.stackexchange.com/questions/23891/what-is-rest-in-simple-english?rq=1)
     - cURL vs wget [:link:](http://www.thegeekstuff.com/2012/07/wget-curl/)
     - REST vs CRUD [:link:](http://programmers.stackexchange.com/questions/120716/difference-between-rest-and-crud)

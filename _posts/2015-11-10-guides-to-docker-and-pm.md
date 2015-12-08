@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Guide to Docker, Project Management and DevOps"
+title:  "Guide to Docker, Project Management, and DevOps"
 date:   2015-11-10 17:20:15
 comments: true
 ---
 
 - **Links**
     - :fire: Awesome Docker [:link:](https://github.com/veggiemonk/awesome-docker)
-    - :fire: Awesome Docker Cheat Sheet [:link:](https://github.com/wsargent/docker-cheat-sheet)
     - :fire: Awesome Container Technologies [:link:](https://github.com/tcnksm/awesome-container)
     - :fire: Awesome Apache Mesos [:link:](https://github.com/dharmeshkakadia/awesome-mesos)
     - :fire: Awesome Vagrant [:link:](https://github.com/iJackUA/awesome-vagrant)
@@ -19,7 +18,9 @@ comments: true
 - **References**
     - SCRUM Ref Guide [:link:](https://dzone.com/refcardz/scrum)  
     - The Official Docker User Guide [:link:](https://docs.docker.com/userguide/)
+    - :fire: Awesome Docker Cheat Sheet [:link:](https://github.com/wsargent/docker-cheat-sheet)
     - The Docker Architecture CheatSheet [:link:](https://dzone.com/refcardz/getting-started-with-docker-1)
+    - Continuous Delivery With a Jenkins Workflow [:link:](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 - **Posts**
     - Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
     - :raised_hands: App Container Specification [:link:](https://github.com/appc/spec/blob/master/SPEC.md)

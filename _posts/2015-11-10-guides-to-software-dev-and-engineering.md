@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Guide to Software Development and Engineering"
+title:  "Guide to Software Engineering and Deployment"
 date:   2015-11-10 17:20:15
 comments: true
 ---
@@ -12,6 +12,8 @@ comments: true
     - :fire: Awesome READMEs [:link:](https://github.com/matiassingers/awesome-readme)
     - :fire: Awesome Continuous Delivery Books [:link:](https://github.com/stack72/ops-books)
     - :fire: Awesome Documentation [:link:](https://github.com/PharkMillups/beautiful-docs)
+- **References**
+    - Continuous Delivery With a Jenkins Workflow [:link:](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 - **Tutorial**
     - Agile Methodology Tutorial [:link:](http://www.tutorialspoint.com/agile/index.htm)
 - **Slides**
