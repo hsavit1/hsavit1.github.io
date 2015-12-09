@@ -16,6 +16,8 @@ comments: true
     - Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
     - Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
     - Swift Packages [:pencil:](https://github.com/donald-pinckney/swift-packages)
+    - Swift Compiler Crashes [:pencil:](https://github.com/practicalswift/swift-compiler-crashes)
+    - Swift Open Source from 30,000 Feet [:page_facing_up:](http://www.jessesquires.com/swift-open-source/)
 + **Swift Style**
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
     - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
