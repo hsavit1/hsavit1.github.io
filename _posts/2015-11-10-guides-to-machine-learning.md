@@ -12,6 +12,7 @@ comments: true
     - Neural Network Lib for iOS [:link:](http://nikolaypavlov.github.io/MLPNeuralNet/)
     - :fire: Awesome Artificial Intelligence [:link:](https://github.com/owainlewis/awesome-artificial-intelligence)
     - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
+    - Microsoft Data Science and Machine Learning Essentials [:link:](https://github.com/MicrosoftLearning/Data-Science-and-ML-Essentials)
 - **Projects**
     - Machine Learning in Go [:link:](https://github.com/hsavit1/golearn)
     - Homomorphic Machine Learning in Haskell [:link:](https://github.com/mikeizbicki/HLearn)
