@@ -218,6 +218,8 @@ comments: true
         + Illuminating Forum Post [:page_facing_up:](https://forums.developer.apple.com/message/18038)
         + How to make Generic Protocols in Swift [:page_facing_up:](http://milen.me/writings/swift-generic-protocols/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_6)
         + Associated Enum Data As Types [:page_facing_up:](http://owensd.io/2015/09/15/associated-enum-cases-as-types.html)
+    + *Closures*
+        + Closures and Capturing Values in Swift [:page_facing_up:](http://www.codingexplorer.com/closures-capturing-values-swift/)
     + *Collections / Sequences / Generators*
         + A quick guide to SequenceType [:page_facing_up:](https://medium.com/swift-programming/swift-sequences-ce22d76f120c#.edaemcmqc)
         + Sequences and Generators in Swift [:page_facing_up:](http://austinzheng.com/2015/01/24/swift-seq/)

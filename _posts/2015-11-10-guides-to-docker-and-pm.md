@@ -20,7 +20,6 @@ comments: true
     - The Official Docker User Guide [:link:](https://docs.docker.com/userguide/)
     - :fire: Awesome Docker Cheat Sheet [:link:](https://github.com/wsargent/docker-cheat-sheet)
     - The Docker Architecture CheatSheet [:link:](https://dzone.com/refcardz/getting-started-with-docker-1)
-    - Continuous Delivery With a Jenkins Workflow [:link:](https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow)
 - **Posts**
     - Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
     - :raised_hands: App Container Specification [:link:](https://github.com/appc/spec/blob/master/SPEC.md)
