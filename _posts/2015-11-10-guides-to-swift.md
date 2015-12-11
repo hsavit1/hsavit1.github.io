@@ -245,7 +245,12 @@ comments: true
     + *Generics* 
         + Generic Arrays in Swift 2.0 [:page_facing_up:](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/)
         + The shortcomings of generic protocols [:page_facing_up:](http://krakendev.io/blog/generic-protocols-and-their-shortcomings)
+        + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
+        + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
     + *Enums and Pattern Matching*
+        + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
+        + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
+        + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
         + Advanced Swift Pattern Matching in Detail [:page_facing_up:](http://appventure.me/2015/08/20/swift-pattern-matching-in-detail/)
         + Advanced and Practical Enum Usage in Swift [:page_facing_up:](http://appventure.me/2015/10/17/advanced-practical-enum-examples/) 
         + Control Flow & Pattern Matching [:page_facing_up:](http://austinzheng.com/2015/09/23/pmatch-control-flow/)
@@ -287,6 +292,12 @@ comments: true
         + How are NSDictionaries implemented in-memory? [:page_facing_up:](http://ciechanowski.me/blog/2014/04/08/exposing-nsdictionary/#comment-1345004966)
         + Exposing NSMutableArray [:page_facing_up:](http://ciechanowski.me/blog/2014/03/05/exposing-nsmutablearray/)
         + Source-Code for the Objective-C Runtime [:link:](http://opensource.apple.com/source/objc4/objc4-551.1/)
+    + *Language Comparisons*
+        + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
+        + C++ Advice to Swift Devs [:page_facing_up:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
+        + Swift Protocols vs Java 8 Interfaces [:page_facing_up:](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
+        - Learning Swift from Haskell [:floppy_disk:](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [:microphone:](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
+        - Swift vs Golang [:floppy_disk:](http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1)
     + *LLVM Compiler* 
         + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
         - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
@@ -324,6 +335,7 @@ comments: true
         + weak vs unowned [:page_facing_up:](http://krakendev.io/blog/weak-and-unowned-references-in-swift)
         + Swift weak references [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html)
     + *Protocol Oriented Programming in Swift 2*
+        + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
         + POP is OOP Thesis [:page_facing_up:](http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html)
         + Standard Template Protocols [:link:](https://github.com/cconeil/Standard-Template-Protocols?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + Protocol Oriented MVVM [:page_facing_up:](http://natashatherobot.com/swift-2-0-protocol-oriented-mvvm/), [:floppy_disk:](http://www.slideshare.net/natashatherobot/protocoloriented-mvvm-extended-edition)
@@ -364,6 +376,8 @@ comments: true
         - Reddit Thread [:electric_plug:](https://www.reddit.com/r/iOSProgramming/comments/2vmbv2/realm_or_coredata/)
         - A look into Realm's Core DB Engine [:microphone:](https://realm.io/news/jp-simard-realm-core-database-engine/)
         - Working with Realm [:electric_plug:](http://blog.matthewcheok.com/working-with-realm/)
+    - *Security* 
+        - Encryptor / Decryptor Data Format [:pencil2:](https://github.com/RNCryptor/RNCryptor)
     - *Swift Language*
         - New Features in Swift 2 [:page_facing_up:](https://www.hackingwithswift.com/new-features-swift-2)
         - Switching your brain to Swift [:page_facing_up:](https://gregheo.com/blog/switching-your-brain-to-swift/#value-types)
@@ -402,6 +416,7 @@ comments: true
         - NSURLSession Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
         - Background Downloads [:electric_plug:](https://littlebitesofcocoa.com/77-background-downloads)
         - An AlamoFire Router [:electric_plug:](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
+        - Moya: Network Abstraction Layer written in Swift [:pencil2:](https://github.com/Moya/Moya)
     + *Web Services - Other*
         + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
         + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
@@ -410,29 +425,16 @@ comments: true
         - MagicalRecord <3 Swift [:microphone:](http://gotocon.com/dl/goto-cph-2015/slides/SaulMora_CoreDataIn2015andMagicalRecordMeetsSwift.pdf)
         - Networking with Monads [:vcr:](https://www.youtube.com/watch?v=LqwrUmuodyY)
         - Swift-MongoDB [:pencil:](https://github.com/Danappelxx/SwiftMongoDB)
-    + *Language Comparisons*
-        + Comparing Swift and Javascript [:page_facing_up:](http://www.mircozeiss.com/swift-for-javascript-developers/)
-        + C++ Advice to Swift Devs [:page_facing_up:](http://airspeedvelocity.net/2014/06/10/rundown-of-how-each-effective-c-item-relates-to-swift/)
-        + Swift Protocols vs Java 8 Interfaces [:page_facing_up:](http://stackoverflow.com/questions/30859334/compare-protocol-in-swift-vs-interface-in-java)
-        - Learning Swift from Haskell [:floppy_disk:](https://speakerdeck.com/abizern/what-haskell-teaches-me-about-writing-swift) and corresponding [:microphone:](https://realm.io/news/altconf-abizer-nasir-what-haskell-teaches-me-about-swift/)
-        - Swift vs Golang [:floppy_disk:](http://go-talks.appspot.com/github.com/wangkuiyi/swiftgo/swiftgo.slide#1)
-    + *Fantastic 6 Part Post on Swift Enums, Structs, Pattern Matching, and Generics*
-        + Enums in Swift [:link:](http://austinzheng.com/2014/12/16/swift-enums/)
-        + Swift's pattern-matching switch statement [:page_facing_up:](http://austinzheng.com/2014/12/16/swift-pattern-matching-switch/)
-        + Custom pattern matching in Swift [:page_facing_up:](http://austinzheng.com/2014/12/17/custom-pattern-matching/)
-        + Protocols in Swift [:page_facing_up:](http://austinzheng.com/2014/12/24/protocols-in-swift/)
-        + Generics in Swift, Part 1 [:page_facing_up:](http://austinzheng.com/2015/01/02/swift-generics-pt-1/)
-        + Generics in Swift, Part 2 [:page_facing_up:](http://austinzheng.com/)
-    + *Interview Situations*
-        + Ray Wenderlich [:clipboard:](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
-        + Toptal [:clipboard:](http://www.toptal.com/swift/interview-questions)
-        + LeetCode [:clipboard:](https://github.com/diwu/LeetCode-Solutions-in-Swift)
-        + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
-        + iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
-        + Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
-        + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
-        + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
-        + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
++ **Interview Situations**
+    + Ray Wenderlich [:clipboard:](http://www.raywenderlich.com/110982/swift-interview-questions-answers)
+    + Toptal [:clipboard:](http://www.toptal.com/swift/interview-questions)
+    + LeetCode [:clipboard:](https://github.com/diwu/LeetCode-Solutions-in-Swift)
+    + Coding Questions [:clipboard:](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions#code)
+    + iOS Dev interview questions [:clipboard:](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
+    + Macroscopic iOS interview questions [:clipboard:](http://macoscope.com/blog/so-you-have-a-technical-interview-at-macoscope/)
+    + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
+    + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
+    + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
 - **Posts Coming Soon**
     - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
     - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
