@@ -81,8 +81,6 @@ comments: true
     - Swift for Programmers [:books:](https://www.safaribooksonline.com/library/view/swifttm-for-programmers/9780134021584/)
 - **Slides**
     - All the slides from Swift Summit 2015 [:link:](https://speakerdeck.com/swiftsummit) and highlights from the talks [:link:](http://www.raywenderlich.com/120096/swift-summit-sf-2015-highlights) and notes [:page_facing_up:](https://www.facebook.com/notes/austen-mcdonald/field-notes-from-swift-summit-sf-2015/10153133369935811)
-    - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
-    - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
     - Creating and Building a DSL in Swift [:floppy_disk:](https://speakerdeck.com/kylef/dsls-in-swift)
     - :raised_hands: FizzBuzz on steroids with Swift [:floppy_disk:](https://speakerdeck.com/abizern/fizz-buzz-in-swift)
     - How Carthage works [:floppy_disk:](https://speakerdeck.com/jspahrsummers/ruthlessly-simple-dependency-management-with-carthage)
@@ -376,6 +374,8 @@ comments: true
         - Making Friends with Value Types [:microphone:](https://realm.io/news/andy-matuschak-controlling-complexity/)
         - Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
         - * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
+        - Catching up with Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/catching-up-with-swift)
+        - Idiomatic Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/solving-problems-the-swift-way)
     - *Text Manipulation*
         + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
         + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
