@@ -18,8 +18,6 @@ comments: true
     - Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
     - Swift Packages [:pencil:](https://github.com/donald-pinckney/swift-packages)
     - Swift Compiler Crashes [:pencil:](https://github.com/practicalswift/swift-compiler-crashes)
-    - Swift Open Source from 30,000 Feet [:page_facing_up:](http://www.jessesquires.com/swift-open-source/)
-    - Open Source Swift 3.0 Roadmap [:page_facing_up:](https://realm.io/news/swift-opensource/)
     - Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
 + **Swift Style**
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
@@ -93,20 +91,16 @@ comments: true
     - Lessons from Production Swift [:floppy_disk:](https://speakerdeck.com/ashfurrow/lessons-from-production-swift)
     - Swift Performance [:floppy_disk:](http://blog.human-friendly.com/swift-performance-iosdevuk)
 - **Presentations**
-    - All the Presentations from Swift Summit London [:microphone:](https://realm.io/news/swift-summit/)
+    - All the Presentations from Swift Summit London [:link:](https://realm.io/news/swift-summit/)
     - All Presentations from #Pragma Conference [:link:](https://www.youtube.com/playlist?list=PLAVm70iJlMusekZaxufRPS4OjNOs7L7zi&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_226)
-    - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
+    - MobileKonf 2015 [:vcr:](https://www.youtube.com/channel/UCMMbKC1Jh5KirZc3rnem4kg/videos)
     - Advanced UITableViews [:microphone:](https://realm.io/news/altconf-mason-glidden-advanced-uitableviews-for-fun-and-profit/)
-    - The best of Obj-C to Swift [:microphone:](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
-    - Swift Thinking [:microphone:](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
     - Bottom Up Programming in Swift [:microphone:](https://realm.io/news/altconf-airspeed-velocity-bottom-up-programming-in-swift/)
     - Make a Cocoapods Framework [:microphone:](https://realm.io/news/altconf-billy-tobon-brew-your-own-cocoa-framework/)
-    - A Eulogy for Objective C [:microphone:](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
     - Making Friends with Value Types [:microphone:](https://realm.io/news/andy-matuschak-controlling-complexity/)
     - Hidden Gems in Swift [:microphone:](https://netguru.co/blog/hidden-gems-swift?utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10)
     - Library Oriented Programming [:microphone:](https://realm.io/news/justin-spahr-summers-library-oriented-programming/)
     - * Oriented Programming [:microphone:](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/)
-    - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
     - The astonishing powers of 3D Touch [:microphone:](https://realm.io/news/alexis-gallagher-3d-touch-swift/)
 - **WWDC Presentations**
     + Search through WWDC Presentations [:microphone:](https://developer.apple.com/search/?q=wwdc&type=Videos&utm_campaign=Swift%2BSandbox&utm_medium=email&utm_source=Swift_Sandbox_10) 
@@ -274,6 +268,7 @@ comments: true
         - Functional Notification Pattern [:page_facing_up:](http://www.jessesquires.com/functional-notifications/)
         - The monad among us [:floppy_disk:](https://speakerdeck.com/swiftsummit/al-skipp-the-monad-among-us)
         + :raised_hands: Functors, Applicatives, and Monads in Swift [:page_facing_up:](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/)
+        + Futures and Latency as an effect in Swift [:page_facing_up:](https://sideeffects.xyz/2015/latency-as-effect-in-swift/)
     + *Functional Reactive Programming in Swift*
         + MVVM + FRP [:page_facing_up:](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)
         + Introduction [:page_facing_up:](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa)
@@ -339,10 +334,17 @@ comments: true
         + How are NSDictionaries implemented in-memory? [:page_facing_up:](http://ciechanowski.me/blog/2014/04/08/exposing-nsdictionary/#comment-1345004966)
         + Exposing NSMutableArray [:page_facing_up:](http://ciechanowski.me/blog/2014/03/05/exposing-nsmutablearray/)
         + Source-Code for the Objective-C Runtime [:link:](http://opensource.apple.com/source/objc4/objc4-551.1/)
-    + *Objective C to Swift*
+    + *LLVM Compiler* 
+        + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
+        - LLVM and Swift [:microphone:](https://www.youtube.com/watch?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_62&v=Ntj8ab-5cvE)
+    + *Objective C transitioning to Swift*
         + Method Swizzling in Swift [:page_facing_up:](http://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)
+        - A Eulogy for Objective C [:microphone:](https://realm.io/news/altconf-aaron-hillegass-eulogy-for-objective-c/)
+        - The best of Obj-C to Swift [:microphone:](https://realm.io/news/altconf-jaim-zuber-the-stylish-objective-c-developer-s-guide-to-swift/)
     + *Open Source Swift*
         + Booleans [:page_facing_up:](http://swiftunboxed.com/open-source/Bool/)
+        + Swift Open Source Overview [:page_facing_up:](http://www.jessesquires.com/swift-open-source/)
+        + Open Source Swift 3.0 Roadmap [:page_facing_up:](https://realm.io/news/swift-opensource/)
     + *Operator Overloading*
         + Operator Overloading and JSON Parsing in Swift [:page_facing_up:](https://realm.io/news/swift-thinking/)
     + *Opinions about Swift*
@@ -399,12 +401,13 @@ comments: true
         - Switching your brain to Swift [:page_facing_up:](https://gregheo.com/blog/switching-your-brain-to-swift/#value-types)
         - Short Circuit Evaluation [:page_facing_up:](https://en.wikipedia.org/wiki/Short-circuit_evaluations)
         - How Swift makes your life better [:page_facing_up:](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/)
-    - *Text*
+        - Emerging best practices in Swift [:microphone:](https://realm.io/news/gotocph-ash-furrow-best-practices-swift/)
+        - Swift Thinking [:microphone:](https://realm.io/news/altconf-natasha-murashev-swift-thinking/)
+    - *Text Manipulation*
         + RegularExpressions in Swift [:page_facing_up:](https://littlebitesofcocoa.com/121-swiftier-regular-expressions-with-regex)
         + Creating a Lexer in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-lexer-in-swift/)
         + Creating an Abstract Syntax Tree Parser in Swift [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift/)
         + Part 2 of the AST [:page_facing_up:](http://blog.matthewcheok.com/writing-a-parser-in-swift-part-2/)+ *LLVM*
-        + Using the LLVM API With Swift [:page_facing_up:](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/)
     + *Type Reflection and Casting*
         + Simple Reflection in Swift [:page_facing_up:](http://freecake.angelodipaolo.org/simple-reflection-in-swift/)
         + Understanding Reflection in Swift and how to use it [:page_facing_up:](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)
