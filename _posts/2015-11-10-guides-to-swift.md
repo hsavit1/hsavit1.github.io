@@ -263,7 +263,7 @@ comments: true
         + Testing of Enums made easy [:page_facing_up:](http://www.obqo.de/blog/2015/10/31/testing-enumerations-made-easy/)
         + How to compare Enums with Equatable [:page_facing_up:](http://www.jessesquires.com/swift-enumerations-and-equatable/)
         + Pattern Matching with an *if case* [:page_facing_up:](http://natashatherobot.com/swift-2-pattern-matching-with-if-case/)
-        + Raw representable enumeration [:page_facing_up](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
+        + Raw representable enumeration [:page_facing_up:](http://blog.krzyzanowskim.com/2015/03/12/swift-raw-not-representable-enum/)
         + Enums with Associated Data vs Structs [:page_facing_up:](http://owensd.io/2015/09/13/enums-with-associated-data-vs-structs.html)
     + *Error Handling*
         + Easy Error Handing [:page_facing_up:](https://littlebitesofcocoa.com/108-error-handling)
@@ -400,7 +400,7 @@ comments: true
         - Functional JSON Parsing [:electric_plug:](http://owensd.io/2014/08/06/functional-json.html)
         - NSURLSession Basics [:electric_plug:](https://littlebitesofcocoa.com/78-nsurlsession-basics)
         - Background Downloads [:electric_plug:](https://littlebitesofcocoa.com/77-background-downloads)
-        - An AlamoFire Router [:electric_plug](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
+        - An AlamoFire Router [:electric_plug:](https://littlebitesofcocoa.com/93-creating-a-router-for-alamofire)
     + *Web Services - Other*
         + CloudKit Introduction [:electric_plug:](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/s)
         + Create a Data Access Layer with SQLite.swift and Swift 2 [:electric_plug:](http://masteringswift.blogspot.com/2015/09/create-data-access-layer-with.html)
