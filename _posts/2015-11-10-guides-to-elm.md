@@ -21,6 +21,8 @@ comments: true
     - What is Elm? ([:floppy_disk:](https://speakerdeck.com/jinjor/lets-learn-elm))
     - Building Web Apps with Elm ([:floppy_disk:](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
     - Elm walkthrough web app video course [:link:](https://github.com/evancz/start-app)
+- **Video**
+    - Controlling Time and Space: understanding the many formulations of FRP [:microphone:](https://www.youtube.com/watch?v=Agu6jipKfYw)
 - **Posts**
     - What is the future of the Elm programming language? [:link:](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)
     - My take on Elm [:link:](http://theburningmonk.com/2014/07/elm-functional-reactive-dreams-missile-command/)

@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: Awesome Bitcoin [:link:](https://github.com/igorbarinov/awesome-bitcoin/)
     - :fire: Awesome Programming Bitcoin [:link:](https://github.com/jashmenn/bitcoin-reading-list)
     - :fire: Awesome Bitcoing Programming Reading List [:link:](https://github.com/jashmenn/bitcoin-reading-list)
@@ -18,7 +18,9 @@ comments: true
     - Haskell in Quantitative Finance industry [:link:](https://www.fpcomplete.com/business/haskell-financial-analysis/)
     - Haskell Integrated Analysis Platform [:link:](https://www.fpcomplete.com/business/iap-faq/#whatisIAP)
     - Quantitative Economic Modeling in Python and Julia [:link:](http://quant-econ.net/index.html)
-- Posts
+- **Github**
+    - Stock prediction with Machine Learning [:pencil:](http://pivotal-open-source-hub.github.io/StockInference-Spark/)
+- **Posts**
     - What it takes to be a billionaire [:link:](https://www.quora.com/What-are-good-ways-to-prepare-my-kids-to-become-billionaires)
-- Github
+- **Github**
     + QuantEcon.py [:link:](https://github.com/QuantEcon/QuantEcon.py)

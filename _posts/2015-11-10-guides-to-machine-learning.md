@@ -14,9 +14,10 @@ comments: true
     - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
     - Microsoft Data Science and Machine Learning Essentials [:link:](https://github.com/MicrosoftLearning/Data-Science-and-ML-Essentials)
 - **Projects**
-    - Machine Learning in Go [:link:](https://github.com/hsavit1/golearn)
-    - Homomorphic Machine Learning in Haskell [:link:](https://github.com/mikeizbicki/HLearn)
+    - Machine Learning in Go [:pencil:](https://github.com/hsavit1/golearn)
+    - Homomorphic Machine Learning in Haskell [:pencil:](https://github.com/mikeizbicki/HLearn)
     - What is CRISPR? [:link:](http://www.nature.com/news/crispr-the-disruptor-1.17673)
+    - Bayesian Program Learning [:pencil:](https://github.com/brendenlake/BPL)
 - **Books**
     - :raised_hands: Dive into Machine Learning [:link:](http://hangtwenty.github.io/dive-into-machine-learning/)
     - What are the best books for machine learning? [:link:](https://www.quora.com/Which-are-the-best-books-for-machine-learning)

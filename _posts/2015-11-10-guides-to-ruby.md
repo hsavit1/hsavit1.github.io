@@ -57,13 +57,14 @@ comments: true
 - **Slides**
     - What's New in Ruby 2.0 [:floppy_disk:](https://speakerdeck.com/geeforr/whats-new-in-ruby-2-dot-0)
 - **Github**
-    - Ruby Repository [:link:](https://github.com/ruby/ruby)
-    - rbenv [Github](https://github.com/sstephenson/rbenv)
-    - Middleman Repository [Github](https://github.com/middleman/middleman)
-    - Jekyll Repository [Github](https://github.com/jekyll/jekyll)
-    - Rails Repository [Github](https://github.com/rails/rails)
-    - Opal: Ruby to Javascript Transpiler [:link:](https://github.com/opal/opal)
-    - Volt Web Framework [:link:](https://github.com/voltrb/volt/)
+    - Ruby Repository [:pencil:](https://github.com/ruby/ruby)
+    - rbenv [:pencil:](https://github.com/sstephenson/rbenv)
+    - Middleman Repository [:pencil:](https://github.com/middleman/middleman)
+    - Jekyll Repository [:pencil:](https://github.com/jekyll/jekyll)
+    - Rails Repository [:pencil:](https://github.com/rails/rails)
+    - Opal: Ruby to Javascript Transpiler [:pencil:](https://github.com/opal/opal)
+    - Volt Web Framework [:pencil:](https://github.com/voltrb/volt/)
+    - Functional Ruby [:pencil:](https://github.com/jdantonio/functional-ruby)
 - **Interview**
     - :fire: Awesome Ruby Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#ruby)
     - :fire: Awesome Rails Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#rails)

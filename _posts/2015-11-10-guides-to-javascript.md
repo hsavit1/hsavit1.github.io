@@ -65,6 +65,7 @@ comments: true
     - Functional Programming in Javascript [:link:](https://dzone.com/storage/assets/379008-rc217-functionalprogramming.pdf)
     - OO Javascript [:link:](https://dzone.com/refcardz/object-oriented-javascript)
     - Functional Programming Jargon [:link:](https://github.com/hemanth/functional-programming-jargon)
+    - You don't need JQuery anymore. Here's how to get rid of it [:link:](https://github.com/oneuijs/You-Dont-Need-jQuery)
 - **Tutorial**
     - :raised_hands: Mozilla's Official Javascript Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - Mozilla's Official DOM Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)

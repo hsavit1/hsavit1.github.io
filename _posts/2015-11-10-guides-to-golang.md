@@ -20,7 +20,8 @@ comments: true
 - **Books**
     - Building Web Apps with Go [:link:](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - **Github**
-    - Go Data Structures [:link:](https://github.com/Workiva/go-datastructures)
+    - Go Data Structures [:pencil:](https://github.com/Workiva/go-datastructures)
+    - :fire: Go is not good [:pencil:](https://github.com/ksimka/go-is-not-good)
 - **Tutorials**
     - Setting up your $GOPATH [:link:](http://stackoverflow.com/questions/20628918/cannot-download-gopath-not-set)
     -  Laying out Go Code [:link:](https://github.com/golang/go/wiki/GithubCodeLayout)

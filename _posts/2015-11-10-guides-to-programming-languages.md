@@ -26,3 +26,4 @@ comments: true
         - Is functional GUI programming possible? [:link:](http://stackoverflow.com/questions/2672791/is-functional-gui-programming-possible?rq=1)
         - What is the most Widely Used Functional Programming Language? [:link:](https://www.quora.com/Functional-Programming/Which-is-the-most-widely-used-functional-programming-language-today-Oct-2014)
         - How do I think like a functional programmer? [:link:](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
+    - Covariance and Contravariance [:page_facing_up:](https://www.stephanboyer.com/post/39/covariance-and-contravariance)

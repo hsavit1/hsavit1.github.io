@@ -31,6 +31,8 @@ comments: true
     - OpenStreetMap [:link:](http://www.openstreetmap.org/#map=5/51.500/-0.100)
 - **Tutorial** 
     - Data Mining Tutorial [:link:](http://www.tutorialspoint.com/data_mining/index.htm)
+- **Guides**
+    - Quartz guide to bad data [:pencil:](https://github.com/Quartz/bad-data-guide)
 - **Posts**
     - Top 10 Data Mining Algorithms in plain English [:link:](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
     - How do data scientists use statistics? [:link:](https://www.quora.com/How-do-data-scientists-use-statistics)
@@ -40,8 +42,8 @@ comments: true
 - **Blogs**
     - Advanced R [:link:](http://adv-r.had.co.nz/)
 - **Github Projects**
-    - Grafana [:link:](https://github.com/grafana/grafana)
-    - Lightning Data Visualisation [:link:](http://lightning-viz.org/)
+    - Grafana [:pencil:](https://github.com/grafana/grafana)
+    - Lightning Data Visualisation [:pencil:](http://lightning-viz.org/)
 - **Learning**
     - Data School [:link:](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
 - **Video**

@@ -12,6 +12,7 @@ comments: true
     - *iOS*
         - The iOS Design Guidelines [:link:](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
         - :raised_hands: App Animations Website [:link:](http://www.appanimations.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
+        - iOS Design Tips [:link:](http://ramotion.github.io/iOS-design-tips/) 
     - *watchOS*
         - Watch design in 6 steps [:link:](http://www.blonde.net/blog/2015/11/17/ux-apple-watch-6-step-starter-guide)
     - *tvOS* 
@@ -38,12 +39,16 @@ comments: true
         - iOS 9 Sketch 3 Templates [:link:](http://facebook.github.io/design/ios9.html)
         - Silver Sketch3 Plugin [:link:](https://medium.com/@abynim/introducing-silver-lightweight-mobile-prototyping-in-sketch-3-cee46d267f1f#.o9bxisuvt)
 - **Posts**
+    - What is good design? [:page_facing_up:](https://medium.com/the-year-of-the-looking-glass/good-design-a89c15136ba6#.347gdli6x)
     - What are Web Components? [:page_facing_up:](https://css-tricks.com/modular-future-web-components/)
-    - Improve your UI/UX design with Functional Animations [:page_facing_up:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
     - How to Prototype Effectively [:page_facing_up:](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0)
     - Making Learning Easy by Design [:page_facing_up:](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798) 
     - Your UI is NOT a Disney Movie [:page_facing_up:](https://medium.com/startups-venture-capital/your-ui-isn-t-a-disney-movie-703f7fbd24d2#.ymwftlxi2)
     - Behavioral App Design [:page_facing_up:](https://medium.com/swlh/a-behavioral-approach-to-product-design-166d22628970#.a6pf6wvw4)
+    - Improve your UI/UX design with Functional Animations [:page_facing_up:](https://visualhierarchy.co/blog/improve-your-ux-functional-animations/)
+    - UX Design Tips for your App [:page_facing_up:](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb)
+    - A picture is worth a 1000 numbers [:page_facing_up:](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1)
+    - Why UX Designers don't need any more tools [:page_facing_up:](https://medium.com/@HelloAlexIvanov/why-ux-designers-don-t-need-more-ux-design-tools-2e2db797955e#.2rt0lnj89)
 - **Slides**
     - Design 101 [:floppy_disk:](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [:floppy_disk:](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)
@@ -53,8 +58,3 @@ comments: true
     - Polymer Web Components [:link:](https://github.com/Polymer/polymer)
     - Bourbon Sass Mixin Library for writing CSS [:link:](http://bourbon.io/)
 
-#**UX and User Experience**
-- **Links**
-    - UX Design Tips for your App [:link:](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb)
-- **Posts**
-    - A picture is worth a 1000 numbers [:link:](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1)

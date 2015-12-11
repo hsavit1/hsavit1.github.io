@@ -7,6 +7,7 @@ comments: true
 
 - **Blogs**
     - Cocoa at Tumblr [:link:](http://cocoa.tumblr.com/)
+    - The Fastlane blog [:link:](https://krausefx.com/)
 - **Links**
     - The Definitive Pre Launch Guide [:link:](https://github.com/adamwulf/app-launch-guide?utm_source=ios%20dev%20tools&utm_medium=website&utm_campaign=ios%20dev%20tools&at=11lvzs&ct=ios%20dev%20tools)
     - iOS Best Practices [:link:](https://github.com/futurice/ios-good-practices)
@@ -29,45 +30,42 @@ comments: true
     - Ruby Motion Cocoa Wrappers [:link:](https://github.com/rubymotion/BubbleWrap)
 - **Posts**
     - *UIKit* 
-        - Understanding UIScrollView [:link:](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
-        - iOS 7 Custom Transitions Guide [:link:](https://www.captechconsulting.com/blogs/ios-7-tutorial-series-custom-navigation-transitions--more)
-        - Transitions in Swift [:link:](http://mathewsanders.com/interactive-transitions-in-swift/)
-        - Animations in Swift [:link:](http://mathewsanders.com/animations-in-swift-part-two/)
-        - Adaptive Layouts for the iPhone 6 [:link:](http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/)
-        - UIDynamics, UIKit or OpenGL? 3 Types of iOS Animations For the Star Wars [:link:](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
+        - Understanding UIScrollView [:page_facing_up:](http://oleb.net/blog/2014/04/understanding-uiscrollview/)
+        - iOS 7 Custom Transitions Guide [:page_facing_up:](https://www.captechconsulting.com/blogs/ios-7-tutorial-series-custom-navigation-transitions--more)
+        - Transitions in Swift [:page_facing_up:](http://mathewsanders.com/interactive-transitions-in-swift/)
+        - Animations in Swift [:page_facing_up:](http://mathewsanders.com/animations-in-swift-part-two/)
+        - Adaptive Layouts for the iPhone 6 [:page_facing_up:](http://mathewsanders.com/designing-adaptive-layouts-for-iphone-6-plus/)
+        - UIDynamics, UIKit or OpenGL? 3 Types of iOS Animations For the Star Wars [:page_facing_up:](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
     - *iOS 9*
-        - How to work with 3D Quick Touch [:link:](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
-        - iOS 9 Split View Drag and Drop [:link:](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
-        - How iOS 9's Quick Actions Shortcut Works [:link:](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
-        - Peek and Pop in iOS 9 [:link:](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
-        - Weigh your fruit with 3D Touch [:link:](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
-        - UITouchType.Stylus [:link:](http://www.russbishop.net/uitouchtypestylus?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
+        - How to work with 3D Quick Touch [:page_facing_up:](http://useyourloaf.com/blog/adding-3d-touch-quick-actions.html)
+        - iOS 9 Split View Drag and Drop [:page_facing_up:](http://blog.mikeswanson.com/post/130420781424/split-view-drag-and-drop)
+        - How iOS 9's Quick Actions Shortcut Works [:page_facing_up:](http://www.stringcode.co.uk/add-ios-9s-quick-actions-shortcut-support-in-15-minutes-right-now/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_54)
+        - Peek and Pop in iOS 9 [:page_facing_up:](http://krakendev.io/peek-pop/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219)
+        - Weigh your fruit with 3D Touch [:page_facing_up:](http://flexmonkey.blogspot.com/2015/10/the-plum-o-meter-weighing-plums-using.html?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_59)
+        - UITouchType.Stylus [:page_facing_up:](http://www.russbishop.net/uitouchtypestylus?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
         - Introduction to UIStackView [:page_facing_up:](http://www.thinkandbuild.it/introduction-to-uistackview/)
         - UIStackView by example [:page_facing_up:](https://www.hackingwithswift.com/read/31/2/uistackview-by-example)
         - Using LayoutGuides and Anchors [:page_facing_up:](https://littlebitesofcocoa.com/112-layout-guides-anchors)
     - *Xcode*
-        - Tips for using IB [:link:](http://merowing.info/2015/11/tips-for-interface-builder/)
-        - Managing Xcode [:link:](http://pewpewthespells.com/blog/managing_xcode.html#xcscheme)
+        - Tips for using IB [:page_facing_up:](http://merowing.info/2015/11/tips-for-interface-builder/)
+        - Managing Xcode [:page_facing_up:](http://pewpewthespells.com/blog/managing_xcode.html#xcscheme)
+        - Getting Started with FastLane [:page_facing_up:](http://www.raywenderlich.com/116065/fastlane-tutorial-getting-started?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_47)
     - *iBeacon*
-        - Launch a successful iBeacon App [:link:](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
+        - Launch a successful iBeacon App [:page_facing_up:](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
     - *Purchases*
-        - Validating in-app purchases [:link:](http://futurice.com/blog/validating-in-app-purchases-in-your-ios-app)
+        - Validating in-app purchases [:page_facing_up:](http://futurice.com/blog/validating-in-app-purchases-in-your-ios-app)
     - *Mapping*
-        - Tracking live orders with Mapbox [:link:](https://www.mapbox.com/blog/tracking-orders-live-instacart/)
-        - Why did Foursquare use Mapbox? [:link:](https://www.quora.com/Why-did-foursquare-choose-to-migrate-to-MapBox-from-Google-Maps)
+        - Tracking live orders with Mapbox [:page_facing_up:](https://www.mapbox.com/blog/tracking-orders-live-instacart/)
+        - Why did Foursquare use Mapbox? [:page_facing_up:](https://www.quora.com/Why-did-foursquare-choose-to-migrate-to-MapBox-from-Google-Maps)
+    - *App Store*
+        - Tip to reduce app store rejections [:page_facing_up:](https://library.launchkit.io/a-simple-tip-to-reduce-app-store-rejections-4517ca505e44#.91xy6jo0c)
 - **Slides**
     - REALM vs Core Data [:floppy_disk:](https://speakerdeck.com/joshuadutton/using-realm-for-data-persistence-a-comparison-with-core-data)
     - Xcode Bots [:floppy_disk:](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
     - Cocoapods vs Carthage [:floppy_disk:](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
     - Easy Core Data with Ruby Motion [:floppy_disk:](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
-- Posts Coming Soon
-    - A look at 2 neat dependency injection libraries in iOS: Typhoon and Objection [Post Coming Soon]()
-    - What it takes to do S.O.L.I.D. design with iOS [Post Coming Soon]()
-    - Why would anyone ever use Core Data? [Post Coming Soon]()
-    - Javascript Core [Post Coming Soon]()
-- **Design**
-  - iOS Design Tips [:link:](http://ramotion.github.io/iOS-design-tips/)
-
+- **Tutorials**
+    -  Build an app from start to finish [:page_facing_up:](http://www.c4ios.com/cosmos/)
 
 
 #**watchOS and tvOS Posts**
@@ -82,6 +80,7 @@ comments: true
         + Storing user information on tvOS [:page_facing_up:](http://www.marisibrothers.com/2015/10/storing-your-data-on-tvos.html)
         + Authentiate tvOS apps with iOS [:page_facing_up:](https://github.com/rsattar/Voucher)
         + Developing for the Apple TV with Focus Guides [:page_facing_up:](http://blog.houzz.com/post/133536064443/developing-for-apple-tv-part-ii?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_225)
+        + Everything to know about the AppleTV app store [:page_facing_up:](http://blog.appfigures.com/everything-you-need-to-know-about-the-new-apple-tv-app-store/?utm_campaign=Indie%2BiOS%2BFocus%2BWeekly&utm_medium=email&utm_source=Indie_iOS_Focus_Weekly_47)
     + *watchOS*
         + Networking on the Apple Watch [:page_facing_up:](https://felixha.wordpress.com/2015/07/07/apple-watch-networking-in-glance/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         + The Future of Wearables [:page_facing_up:](http://helenvholmes.com/the-future-of-wearables/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
