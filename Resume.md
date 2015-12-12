@@ -68,7 +68,7 @@ permalink: /resume/
 + Erlang [:link:](http://itshenry.com/2015/11/10/guides-to-erlang.html)
 + Angular.js [:link:](http://itshenry.com/2015/11/10/guides-to-angular.html)
 + Docker [:link:](http://itshenry.com/2015/11/10/guides-to-docker-and-pm.html)
-+ Omnigraph and UML Design 
++ OmniGraffle and UML Design 
 
 ### Projects
 
