@@ -435,14 +435,6 @@ comments: true
     + :fire: Awesome Swift Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#swift)
     + :fire: Awesome iOS Interview Questions [:clipboard:](https://github.com/MaximAbramchuck/awesome-interviews#ios)
     + From a FB Group [:clipboard:](https://github.com/AtharvaVaidya/iOS-Interview-Prep)
-- **Posts Coming Soon**
-    - The best Swift libraries on Github [Post Coming Soon](http://itshenry.com/2015/09/05/the-best-swift-libs.html)
-    - Design Patterns in Swift [Post Coming Soon](http://itshenry.com/2015/09/05/design-patterns-in-swift.html)
-    - Exploring Functional Programming in Swift [Post Coming Soon]()
-    - _Book Review_: Functional Programming in Swift (ObjC.io) [Post Coming Soon]()
-    - _Book Review_: Advanced Swift (ObjC.io) [Post Coming Soon]()
-    - _Book Review_: Core Data By Tutorials (Ray Wenderlich) [Post Coming Soon]()
-    - _Book Review_: Pro Design Patterns in Swift (Apress) [Post Coming Soon]()
 - **Github**
     - SwiftlyJSON [:pencil2:](https://github.com/SwiftyJSON/SwiftyJSON)
     - Argo [:pencil2:](https://github.com/thoughtbot/Argo)
