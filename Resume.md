@@ -43,13 +43,13 @@ permalink: /resume/
 ### _Great Skills_
 
 
-+ Objective-C / Swift: [:link:](http://itshenry.com/2015/11/10/guides-to-swift.html) and iOS developement [:link:](http://itshenry.com/2015/11/10/guides-to-ios.html) / delivery [:link:](http://itshenry.com/2015/11/10/guides-to-ios-testing.html)
++ Objective-C / Swift: [:pencil:](https://github.com/hsavit1/Awesome-Swift-Education) and iOS developement [:link:](http://itshenry.com/2015/11/10/guides-to-ios.html) / delivery [:link:](http://itshenry.com/2015/11/10/guides-to-ios-testing.html)
 + Python: [:link:](http://itshenry.com/2015/11/10/guides-to-python.html)
 
 
 ### _Still Experimenting With_
 
-
++ Design Prototyping with Sketch 3 and PaintCode 
 + Elixir: [:link:](http://itshenry.com/2015/11/10/guides-to-elixir.html)
 + Phoenix Framework [:link:](http://itshenry.com/2015/11/10/guides-to-phoenix.html)
 + Javascript: [:link:](http://itshenry.com/2015/11/10/guides-to-javascript.html)
@@ -63,13 +63,12 @@ permalink: /resume/
 + Android [:link:](http://itshenry.com/2015/11/10/guides-to-android.html) 
 + Java 8 [:link:](http://itshenry.com/2015/11/10/guides-to-java.html)
 
-
 ### _Learning_
 
 + Erlang [:link:](http://itshenry.com/2015/11/10/guides-to-erlang.html)
 + Angular.js [:link:](http://itshenry.com/2015/11/10/guides-to-angular.html)
 + Docker [:link:](http://itshenry.com/2015/11/10/guides-to-docker-and-pm.html)
-
++ Omnigraph and UML Design 
 
 ### Projects
 

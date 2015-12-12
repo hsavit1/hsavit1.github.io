@@ -8,7 +8,7 @@ comments: true
 
 ## **Index**
 
-- [Open Source Swift](#http://itshenry.com/2015-11-10-guides-to-swift/#Open\ Source\ Swift/)
+- Open Source Swift
 - Swift Style
 - In-Browser Swift Editors
 - Quick References

@@ -13,6 +13,7 @@ comments: true
         - The iOS Design Guidelines [:link:](http://iosdesign.ivomynttinen.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_56)
         - :raised_hands: App Animations Website [:link:](http://www.appanimations.com/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_63)
         - iOS Design Tips [:link:](http://ramotion.github.io/iOS-design-tips/) 
+        - Captivate.co Animations [:link:](http://capptivate.co/)
     - *watchOS*
         - Watch design in 6 steps [:link:](http://www.blonde.net/blog/2015/11/17/ux-apple-watch-6-step-starter-guide)
     - *tvOS* 
