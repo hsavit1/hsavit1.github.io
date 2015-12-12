@@ -58,6 +58,7 @@ comments: true
 
 
 ## **Open Source Swift** 
+
     - Apple Master Github Repository [:crown:](https://github.com/apple)
     - Swift Master Repository [:pencil:](https://github.com/apple/swift)
     - Download Swift [:link:](https://swift.org/download/#latest-development-snapshots)
@@ -73,6 +74,7 @@ comments: true
     - Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
 
 ## **Swift Style**
+
     - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
     - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
     + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
