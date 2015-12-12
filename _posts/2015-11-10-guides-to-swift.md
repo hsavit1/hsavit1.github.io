@@ -59,28 +59,29 @@ comments: true
 
 ## **Open Source Swift** 
 
-    - Apple Master Github Repository [:crown:](https://github.com/apple)
-    - Swift Master Repository [:pencil:](https://github.com/apple/swift)
-    - Download Swift [:link:](https://swift.org/download/#latest-development-snapshots)
-    - Core Libs Unimplemented Parts [:pencil:](https://github.com/apple/swift-corelibs-foundation/search?utf8=%E2%9C%93&q=NSUnimplemented)
-    - Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
-    - Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
-    - Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
-    - Swift Clang Repositroy [:pencil:](https://github.com/apple/swift-clang)
-    - Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
-    - Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
-    - Swift Packages [:pencil:](https://github.com/donald-pinckney/swift-packages)
-    - Swift Compiler Crashes [:pencil:](https://github.com/practicalswift/swift-compiler-crashes)
-    - Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
+- Apple Master Github Repository [:crown:](https://github.com/apple)
+- Swift Master Repository [:pencil:](https://github.com/apple/swift)
+- Download Swift [:link:](https://swift.org/download/#latest-development-snapshots)
+- Core Libs Unimplemented Parts [:pencil:](https://github.com/apple/swift-corelibs-foundation/search?utf8=%E2%9C%93&q=NSUnimplemented)
+- Swift Core Libs Foundation Repository [:pencil:](https://github.com/apple/swift-corelibs-foundation)
+- Swift Core Libs Dispatch Repository [:pencil:](https://github.com/apple/swift-corelibs-libdispatch)
+- Swift CommonMark parsing and rendering library in C [:pencil:](https://github.com/apple/swift-cmark)
+- Swift Clang Repositroy [:pencil:](https://github.com/apple/swift-clang)
+- Swift LLDB Repository [:pencil:](https://github.com/apple/swift-lldb)
+- Docker Swift [:pencil:](https://github.com/swiftdocker/docker-swift)
+- Swift Packages [:pencil:](https://github.com/donald-pinckney/swift-packages)
+- Swift Compiler Crashes [:pencil:](https://github.com/practicalswift/swift-compiler-crashes)
+- Open Radar Swift [:page_facing_up:](http://www.openradar.me/19770770)
 
 ## **Swift Style**
 
-    - The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
-    - Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
-    + Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
-    + SwiftLint [:book:](https://github.com/realm/SwiftLint)
-    - Swift Language Philosophies [:book:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
-    - Swift Lang F.A.Q. [:book:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
+- The Official Swift Language Docs [:book:](https://github.com/apple/swift/tree/master/docs)
+- Swift Language Evolution [:book:](https://github.com/apple/swift-evolution)
++ Swift Stye Rules [:book:](http://ericasadun.com/2015/11/17/a-handful-of-swift-style-rules-swiftlang/)
++ SwiftLint [:book:](https://github.com/realm/SwiftLint)
+- Swift Language Philosophies [:book:](https://github.com/apple/swift/blob/master/www/Philosophies.rst)
+- Swift Lang F.A.Q. [:book:](https://github.com/apple/swift/blob/master/www/FAQ.rst)
+
 ## **In-Browser Swift Editors**
     - IBM Swift Sandbox [:link:](http://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp#/repl)
     - SwiftStub [:link:](http://swiftstub.com/)
