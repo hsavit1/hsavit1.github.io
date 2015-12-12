@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Guide to Haskell"
+title:  "Guide to Haskell and Purescript"
 date:   2015-11-10 17:20:15
 comments: true
 ---
 
+#Haskell
 - **Links**
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
     - Haskell Wiki [:link:](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [:link:](https://gist.github.com/leroux/6395804)
-    - :fire: Awesome Purescript [:link:](https://github.com/passy/awesome-purescript)
     - :raised_hands: What I wish I knew when learning Haskell [:link:](http://dev.stephendiehl.com/hask/)
     - Stephen Diehl's Blog [:link:](http://www.stephendiehl.com/posts.html)
     - Official Haskell Tutorials [:link:](https://wiki.haskell.org/Tutorials)
@@ -156,17 +156,17 @@ comments: true
         - How does Garbage Collection work in Haskell? [:link:](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
         - Key Differences between Haskell and Standard ML? [:link:](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
 - **Slides**
-    - Haskell's GHC, Illustrated [:link:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
+    - Haskell's GHC, Illustrated [:floppy_disk:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
     - Make Web Apps with Haskell [:floppy_disk:](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
     - Introduction to Concurrency Models in Haskell [:floppy_disk:](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
     - Thoughtbot: Why Haskell over Ruby [:floppy_disk:](http://www.slideshare.net/thoughtbot/why-use-haskell?qid=e546ac15-e66f-4cd0-b228-82c3d9306ad6&v=default&b=&from_search=16)
     - Haskell for Normal People [:floppy_disk:](http://slides.com/benleggett/haskellpres#/)
-    - The next Haskell will be Strict [Download Link](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
-    - Monad Transformers [:link:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
+    - The next Haskell will be Strict [:floppy_disk:](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
+    - Monad Transformers [:floppy_disk:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
 - **Video**
-    - Learn Haskell From Scratch Playlist [:link:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
-    - Haskell's Vimeo Channel [:link:](https://vimeo.com/channels/haskell)
-    - :fire: Haskell Must Watch [:link:](https://github.com/drKraken/haskell-must-watch)
+    - Learn Haskell From Scratch Playlist [:vcr:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
+    - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)
+    - :fire: Haskell Must Watch [:vcr:](https://github.com/drKraken/haskell-must-watch)
 - **Github**
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [:link:](https://github.com/scotty-web/scotty)
@@ -178,3 +178,14 @@ comments: true
     - A Reader Monad [:link:](https://gist.github.com/egonSchiele/5752172)
 - **Interview**
     - 17 Haskell Interview Questions [:link:](http://career.guru99.com/top-17-haskel-interview-questions/)
+
+#Purescript
+- **Links**
+    - :fire: Awesome Purescript [:link:](https://github.com/passy/awesome-purescript)
+    - Purescript Learning Resources [:link:](http://www.purescript.org/learn/)
+- **Books**
+    - Purscript by Example [:book:](https://leanpub.com/purescript/read)
+- **Posts**
+    - The Elm architecture, in Purescript [:link:](http://www.parsonsmatt.org/programming/2015/10/05/elm_vs_purescript_ii.html)
+- **Slides**
+    - Better know a language: Purescript [:floppy_disk:](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html#1)

@@ -30,6 +30,8 @@ comments: true
     - Getting started with Elm from Pragmatic Studio [:link:](https://pragmaticstudio.com/blog/2014/12/19/getting-started-with-elm)
     - Switching from imperative to functional programming with games in Elm [:link:](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
     - From Object Oriented Programming to Functional Programming - Inheritance and the Expression Problem [:link:](https://github.com/Dobiasd/articles/blob/master/from_oop_to_fp_-_inheritance_and_the_expression_problem.md)
+    - Elm Vs Purescript [:page_facing_up:](http://www.parsonsmatt.org/programming/2015/10/03/elm_vs_purescript.html)
 - **Github**
-    - Potential Elm Projects [:link:](https://github.com/elm-lang/projects)
-    - TodoMVC in Elm [:link:](https://github.com/evancz/elm-todomvc/)
+    - Potential Elm Projects [:pencil2:](https://github.com/elm-lang/projects)
+    - TodoMVC in Elm [:pencil2:](https://github.com/evancz/elm-todomvc/)
+    - Elm Architecture in Purescript [:pencil2:](https://github.com/parsonsmatt/purs-architecture-tutorial)
