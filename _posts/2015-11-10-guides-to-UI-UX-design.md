@@ -18,6 +18,8 @@ comments: true
         - Watch design in 6 steps [:link:](http://www.blonde.net/blog/2015/11/17/ux-apple-watch-6-step-starter-guide)
     - *tvOS* 
     - *Web*
+        - CodePen.org [:link:](http://codepen.io/)
+        - Web Design Patterns [:link:](http://codepen.io/patterns/) 
         - :fire: Awesome Frontdesk for Front End Devs [:link:](https://github.com/miripiruni/frontdesk)
         - :fire: Awesome Front End Dev [:link:](https://github.com/dypsilon/frontend-dev-bookmarks)
         - :fire: Awesome HTML5 [:link:](https://github.com/diegocard/awesome-html5)

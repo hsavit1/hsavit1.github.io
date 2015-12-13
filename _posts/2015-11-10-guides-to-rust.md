@@ -10,6 +10,8 @@ comments: true
     - What is Rust? [:link:](https://doc.rust-lang.org/book/README.html) (:book:)
     - Rust hit's 1.0 ! [:link:](http://blog.rust-lang.org/2015/05/15/Rust-1.0.html)
     - Rust is a Drop in Replacement for C [:link:](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
+- **News**
+    - This Week in Rust [:link:](https://this-week-in-rust.org/blog/archives/index.html)
 - **References**
     - Rust Cheat Sheet [:link:](http://clchiou.github.io/2015-01-09/rust-cheat-sheet/)
     - A Swift Guide to Rust [:link:](http://faq.sealedabstract.com/rust/#why-rust)

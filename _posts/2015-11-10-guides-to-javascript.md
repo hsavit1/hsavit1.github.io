@@ -102,6 +102,7 @@ comments: true
         - Functional Javascript with Recursions & Tail Call Optimization [:link:](http://www.integralist.co.uk/posts/js-recursion.html)
         - Higher order functions in JS [:link:](http://www.sitepoint.com/higher-order-functions-javascript/)
         - What's a Persistent Data Structure? [:link:](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
+        - Transducers in Javascript [:link:](http://phuu.net/2014/08/31/csp-and-transducers.html)
 - **ECMAScript**
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)

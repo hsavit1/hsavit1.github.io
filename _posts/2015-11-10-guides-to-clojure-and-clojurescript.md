@@ -19,6 +19,8 @@ comments: true
     - The Clojure Toolbox [:link:](http://www.clojure-toolbox.com/)
     - Clojure Android [:link:](http://clojure-android.info/)
     - Lein Droid Tutorial [:link:](https://github.com/clojure-android/lein-droid/wiki/Tutorial)
+- **News**
+    - Clojure Weekly [:link:](http://reborg.tumblr.com/)
 - **Web Development**
     - Compojure Framework [:link:](https://github.com/weavejester/compojure/wiki)
 - **References**
@@ -63,6 +65,7 @@ comments: true
     - What's next for Clojurescript? [:link:](http://swannodette.github.io/2015/07/29/clojurescript-17/)
     - Scripting ClojureScript with JavaScript [:link:](http://swannodette.github.io/2015/03/10/scripting-clojurescript-with-javascript/)
     - The Clojure solution to the Dining Pilosophers [:link:](http://www.bestinclass.dk/blog/dining-philosophers-the-4th-solution)
+    - Transducers are coming [:link:](http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming)
     - *Opinions*
         - Business: Clojure v Scala [:link:](http://www.bestinclass.dk/blog/scala-vs-clojure-lets-get-down-to-business)
         - Concurrnecy: Clojure v Scala [:link:](http://www.bestinclass.dk/blog/scala-vs-clojure-round-2-concurrency)

@@ -16,6 +16,8 @@ comments: true
     - Node Module of the Week [:link:](http://nmotw.in/)
     - Node.js Weekly [:link:](http://nodeweekly.com/)
     - Jade, Node Template Engine [:link:](http://jade-lang.com/reference/attributes/)
+- **News**
+    - Node Weekly [:link:](http://nodeweekly.com/)
 - **Learning**
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[:link:](https://github.com/substack/stream-handbook)
     - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
