@@ -67,6 +67,7 @@ comments: true
     - Opal: Ruby to Javascript Transpiler [:pencil:](https://github.com/opal/opal)
     - Volt Web Framework [:pencil:](https://github.com/voltrb/volt/)
     - Functional Ruby [:pencil:](https://github.com/jdantonio/functional-ruby)
+    - React Rails [:pencil2:](https://github.com/reactjs/react-rails)
 - **Interview**
     - :fire: Awesome Ruby Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#ruby)
     - :fire: Awesome Rails Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#rails)

@@ -72,6 +72,7 @@ comments: true
     - React Starter Kit [:pencil2:](https://github.com/kriasoft/react-starter-kit)
     - React Static Boilerplate [:pencil2:](https://github.com/koistya/react-static-boilerplate)
     - React Rails [:pencil2:](https://github.com/reactjs/react-rails)
+    - React Jade [:pencil2:](https://github.com/pugjs/react-jade)
 - **Video**
     - React.js Conference Videos [:link:](http://conf.reactjs.com/)
     - Egghead Video Series: [:link:](https://egghead.io/series/react-fundamentals)
