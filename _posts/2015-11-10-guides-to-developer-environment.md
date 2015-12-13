@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: Awesome OSX Command Line [:link:](https://github.com/herrbischoff/awesome-osx-command-line?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
     - :fire: :raised_hands: Awesome Developer Environments [:link:](https://github.com/jondot/awesome-devenv)
     - :fire: Awesome Sysadmin [:link:](https://github.com/kahun/awesome-sysadmin)
@@ -32,11 +32,11 @@ comments: true
     - Atom / Electron [:link:](https://github.com/atom/atom)
     - MongoHub Mac Client [:link:](https://github.com/jeromelebel/MongoHub-Mac)
     - Color Sublime: See Sublime Colors [:link:](http://colorsublime.com/)
-- Posts
+- **Posts**
     - Learn Enough Command Line to be Dangerous [:link:](http://www.learnenough.com/command-line/)
     - 5 Useful Git Tips in Pictures [:link:](http://adit.io/posts/2013-08-16-five-useful-git-tips.html)
     - How to use Vim [:link:](http://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor)
-- Quick References
+- **Quick References**
     - Emacs Lisp Guide [:link:](https://github.com/chrisdone/elisp-guide)
     - Learn Emacs Lisp in 15 Minutes [:link:](http://emacs-doctor.com/learn-emacs-lisp-in-15-minutes.html)
     - Bash cheatsheet [:link:](https://gentlenode.com/journal/bash-1-the-ultimate-cheatsheet/49)
@@ -45,22 +45,23 @@ comments: true
     - Linux Shell Scripting Guide [:link:](http://learnbyexample.net/linux-shell-scripting/)
     - Linux Shell Guide [:link:](http://learnbyexample.net/linux-shell/)
     - Homebrew Forumlas Index [:link:](http://brewformulas.org/)
-- Books
+- **Books**
     - :raised_hands: How to Make a Computer Operating System [:link:](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
     - Pro Git 1st [:link:](https://github.com/progit/progit)
     - Pro Git 2nd [:link:](https://github.com/progit/progit2)
     - Learn the Command Line the Hard Way [:link:](http://cli.learncodethehardway.org/book/)
-- Slides
+- **Slides**
     - What is Bash? [:floppy_disk:](https://speakerdeck.com/62gerente/bash-introduction)
     - HTT-Pie For Humans [:floppy_disk:](http://www.slideshare.net/scottleber/htt-pie-minitalk?ref=https://miteshshah.github.io/sysadmin/httpie-http-for-humans/)
-- Github
-    - :raised_hands: The Art of the Command Line [:link:](https://github.com/jlevy/the-art-of-command-line)
-    - Vundle Vim Plugin Manager [:link:](https://github.com/VundleVim/Vundle.vim)
-    - Browsersync for web development testing [Github](http://www.browsersync.io/)
-    - Mac OSX Dev Setup [:link:](https://github.com/donnemartin/dev-setup)
-- Video
+- **Github**
+    - :raised_hands: The Art of the Command Line [:pencil2:](https://github.com/jlevy/the-art-of-command-line)
+    - Vundle Vim Plugin Manager [:pencil2:](https://github.com/VundleVim/Vundle.vim)
+    - Browsersync for web development testing [:pencil2:](http://www.browsersync.io/)
+    - Mac OSX Dev Setup [:pencil2:](https://github.com/donnemartin/dev-setup)
+    - Gogs (Go Git Service) [:pencil2:](https://github.com/gogits/gogs)
+- **Video**
     - Shell Tutorials [:link:](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
     - Unix Shell Scripting Tutorial [:link:](https://www.youtube.com/playlist?list=PL18DF64CBBAEAAE77)
-- Sublime Packages I Use
+- **Sublime Packages I Use**
     - Babel Sublime: Syntax Definitions for ES6 JS & React [Github](https://github.com/babel/babel-sublime)
     - Sublime Github: Useful Github Commands [:link:](https://github.com/bgreenlee/sublime-github)

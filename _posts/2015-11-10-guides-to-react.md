@@ -26,6 +26,7 @@ comments: true
     - Angular vs React + Flux [:link:](https://www.quora.com/Which-should-I-choose-for-a-new-web-application-AngularJS-or-Flux-React-and-why)
     - You're missing the point of React [:link:](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a)
     - Ractive.js vs React.js [:link:](http://blog.ractivejs.org/posts/whats-the-difference-between-react-and-ractive/)
+    - Pros / Cons of React vs Polymer [:link:](http://programmers.stackexchange.com/questions/225400/pros-and-cons-of-facebooks-react-vs-web-components-polymer)
 - **Tutorial**
     - Isomorphic Javascript Tutorial [Github](https://github.com/spikebrehm/isomorphic-tutorial)
     - ReactJS Training Course [:link:](https://github.com/ryanflorence/react-training/)

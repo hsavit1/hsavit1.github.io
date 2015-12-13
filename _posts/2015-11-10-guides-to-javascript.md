@@ -115,7 +115,9 @@ comments: true
         - The future of ES Showcase [:link:](https://github.com/sindresorhus/esnext-showcase)
         - map and weakMap [:link:](http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/)
         - let vs const [:link:](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
-        - ES6 Generators Deliver Go style Concurrency [Github](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+        - ES6 Generators Deliver Go style Concurrency [:pencil2:](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+    - Other
+        - Immutable Records, Vectors, Maps and Sets for ECMAScript [:pencil:](https://github.com/sebmarkbage/ecmascript-immutable-data-structures)
 - **Github Projects**
     - Make some animations with Mo.js [:link:](http://mojs.io/tutorials/easing/path-easing/)
     - Promises/A+ [:link:](https://promisesaplus.com/)
@@ -148,9 +150,9 @@ comments: true
     - MVC in Javascript [:floppy_disk:](https://speakerdeck.com/addyosmani/digesting-javascript-mvc)
     - Functional Design Patterns in Javascript [:floppy_disk:](https://speakerdeck.com/pmh/functional-design-patterns-in-javascript)
     - Javascript Design Patterns [:floppy_disk:](https://speakerdeck.com/lawren/javascript-design-patterns)
-    - Microsoft Typescript [:link:](https://github.com/Microsoft/TypeScript)
-    - Next Gem DOM manipulation with Ractive.js [Github](https://github.com/ractivejs/ractive)
-    - Learn Functinoal Programming in Javascript [:link:](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
+    - Microsoft Typescript [:floppy_disk:](https://github.com/Microsoft/TypeScript)
+    - Next Gem DOM manipulation with Ractive.js [:floppy_disk:](https://github.com/ractivejs/ractive)
+    - Learn Functional Programming in Javascript [:floppy_disk:](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
 - **Posts Coming Soon**
     - _Book Review_: Javascript Design Patterns [Post Coming Soon]()
     - _Book Review_: Eloquent Javascript [Post Coming Soon]()

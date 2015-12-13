@@ -50,6 +50,13 @@ comments: true
     - UX Design Tips for your App [:page_facing_up:](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb)
     - A picture is worth a 1000 numbers [:page_facing_up:](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1)
     - Why UX Designers don't need any more tools [:page_facing_up:](https://medium.com/@HelloAlexIvanov/why-ux-designers-don-t-need-more-ux-design-tools-2e2db797955e#.2rt0lnj89)
+- **Tutorial**
+    - Sass Basics [:link:](http://sass-lang.com/guide)
+    - CSS Tutorial [:link:](http://www.csstutorial.net/)
+    - LESS CSS Tutorial [:link:](http://lesscss.org/)
+    - less2css.org [:link:](http://less2css.org/)
+- **Tools**
+    - Bootstrap Studio [:link:](http://bootstrapstudio.io/#features)
 - **Slides**
     - Design 101 [:floppy_disk:](https://speakerdeck.com/mennenia/a-journey-in-design)
     - Creating Reusable Polymer Elements [:floppy_disk:](https://speakerdeck.com/addyosmani/creating-reusable-polymer-elements)

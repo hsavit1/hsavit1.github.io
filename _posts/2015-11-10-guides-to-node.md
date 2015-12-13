@@ -15,6 +15,7 @@ comments: true
     - NPM, Bower, and Grunt [:link:](http://stackoverflow.com/questions/21198977/difference-between-grunt-npm-and-bower-package-json-vs-bower-json)
     - Node Module of the Week [:link:](http://nmotw.in/)
     - Node.js Weekly [:link:](http://nodeweekly.com/)
+    - Jade, Node Template Engine [:link:](http://jade-lang.com/reference/attributes/)
 - **Learning**
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[:link:](https://github.com/substack/stream-handbook)
     - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
@@ -24,8 +25,9 @@ comments: true
     - StrongLoop Node.js CheatSheet [:link:](https://dzone.com/storage/assets/3112-rc141-010d-nodejs_3%20(1).pdf)
     - Node-Webkit Cheatsheet [:link:](https://gentlenode.com/journal/node-webkit-1-complete-cheatsheet/26)
     - The complete Node cheatsheet [:link:](https://gentlenode.com/journal/node-2-complete-cheatsheet/23)
-    - Node RESTify Cheatsheet [Part1](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [Part2](https://gentlenode.com/journal/node-3-restify-cheatsheet/44)
+    - Node RESTify Cheatsheet [:link:](https://gentlenode.com/journal/node-5-building-a-rest-api-with-restify-and-monk/46), [:link:](https://gentlenode.com/journal/node-3-restify-cheatsheet/44)
     - Npm command cheatsheet [:link:](https://gentlenode.com/journal/node-1-npm-complete-cheatsheet/19)
+    - Jade Syntax Documentation [:link:](http://naltatis.github.io/jade-syntax-docs/)
 - **Tutorial**
     - :raised_hands: Art of Node: A short intro to Node.js [:link:](https://github.com/maxogden/art-of-node#the-art-of-node)
     - NodeSchool Workshops [:link:](http://nodeschool.io/#workshopper-list)

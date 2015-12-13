@@ -5,18 +5,18 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - Course Notes: Formal Languages and Automata Theory [:link:](http://www.ics.uci.edu/~goodrich/teach/cs162/notes/)
     - RegExOne.com Interative Tutorial [:link:](http://regexone.com/)
     - Regular Expressions Tutorial [:link:](http://www.regular-expressions.info/tutorial.html)
-- References 
+- **References** 
     - Regular Expression CheatSheet [:link:](http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf)
-- Books
+- **Books**
     - Pearson Book List [:link:](http://www.pearsonhighered.com/educator/course/Automata-Theory-of-Computation/91015444.page)
     - Learn Regex the Hard Way [:link:](http://regex.learncodethehardway.org/)
-- Tutorial
+- **Tutorial**
     - Automata Theory Tutorial [:link:](http://www.tutorialspoint.com/automata_theory/index.htm)
-- Posts
+- **Posts**
     - How are Regular Expressions Implemented? [:link:](https://www.quora.com/How-are-regular-expressions-implemented)
     - 8 RegExpressions you should know [:link:](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
     - What is a Context Free Grammar? (CFG) [:link:](https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html)
@@ -26,6 +26,6 @@ comments: true
     - Which statement is true: "all regular languages are finite" or "all finite languages are regular"? [:link:](https://www.quora.com/Which-statement-is-true-all-regular-languages-are-finite-or-all-finite-languages-are-regular)
     - What is the difference between a finite-state machine and a Turing machine? [:link:](https://www.quora.com/What-is-the-difference-between-a-finite-state-machine-and-a-Turing-machine)
     - What is the use of studying "Automata Theory and Formal Language" in Computer Science? [:link:](https://www.quora.com/What-is-the-use-of-studying-Automata-Theory-and-Formal-Language-in-Computer-Science)
-- Slides
+- **Slides**
     - Introduction to Automata Theory [:link:](http://www.eecs.wsu.edu/~ananth/CptS317/Lectures/IntroToAutomataTheory.pdf)
     - Introduction to Regular Expressions [:link:](http://slides.com/stefangretcan/regex#/)

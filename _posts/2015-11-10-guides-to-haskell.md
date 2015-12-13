@@ -85,6 +85,7 @@ comments: true
     - School of Haskell online tutorials [:link:](https://www.fpcomplete.com/school?show=tutorials)
     - How I start with Haskell [:link:](https://howistart.org/posts/haskell/1)
     - How to use GHCI [:link:](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)
+    - Yet Another Haskell Tutorial [:link:](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial)
 - **Exercises**
     - Offical Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [:link:](http://dailyhaskellexercise.tumblr.com/)
@@ -167,6 +168,7 @@ comments: true
     - Learn Haskell From Scratch Playlist [:vcr:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)
     - :fire: Haskell Must Watch [:vcr:](https://github.com/drKraken/haskell-must-watch)
+    - Continuation Passing Style in Haskell [:vcr:](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
 - **Github**
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [:link:](https://github.com/scotty-web/scotty)

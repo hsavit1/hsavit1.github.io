@@ -17,6 +17,8 @@ comments: true
     - Learn Ruby in 20 Minutes [:link:](https://www.ruby-lang.org/en/documentation/quickstart/)
     - Coming to Ruby from Other Languages [:link:](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
     - The Ruby Toolbox Gems Guide [:link:](https://www.ruby-toolbox.com)
+    - Slim Template Language [:link:](http://slim-lang.com/)
+    - HAML Template Language [:link:](http://haml.info/)
 - **Static Site Generators**
     - :raised_hands: {static is} The New Dynamic [:link:](http://www.thenewdynamic.org/tool/jekyll/)
     - Middleman static site generator [:link:](https://middlemanapp.com/)

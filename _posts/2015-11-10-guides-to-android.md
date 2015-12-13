@@ -12,8 +12,12 @@ comments: true
     - :fire: Awesome Android Testing [:link:](https://github.com/hotchemi/awesome-android-testing)
     - :fire: Awesome Android Tools [:link:](https://github.com/wasabeef/awesome-android-tools)
     - :fire: Awesome Android Performance [:link:](https://github.com/Juude/awesome-android-performance)
+    - Clojure-Android [:link:](http://clojure-android.info/)
 - **Guides**
     - :raised_hands: Android Best Practices [:link:](https://github.com/futurice/android-best-practices)
+- **Tutorial**
+    - Android App Dev With Clojure: An Interactive Tutorial [:link:](https://github.com/alexander-yakushev/events/blob/master/tutorial.md)
+    - Lein Droid Tutorial [:link:](https://github.com/clojure-android/lein-droid/wiki/Tutorial)
 - **Interview**
     - Android Interview Questions [:clipboard:](https://github.com/derekargueta/Android-Interview-Questions)
 - **Posts**

@@ -17,6 +17,8 @@ comments: true
     - ClojureBridge [:link:](http://www.clojurebridge.org/)
     - Datomic [:link:](http://www.datomic.com/)
     - The Clojure Toolbox [:link:](http://www.clojure-toolbox.com/)
+    - Clojure Android [:link:](http://clojure-android.info/)
+    - Lein Droid Tutorial [:link:](https://github.com/clojure-android/lein-droid/wiki/Tutorial)
 - **Web Development**
     - Compojure Framework [:link:](https://github.com/weavejester/compojure/wiki)
 - **References**
@@ -49,6 +51,7 @@ comments: true
     - A Very Gentle Introduction to Relational Programming [:link:](https://github.com/swannodette/logic-tutorial)
     - Enlive tutorial [:link:](https://github.com/swannodette/enlive-tutorial)
     - ClojureScript 101 [:link:](http://swannodette.github.io/2013/11/07/clojurescript-101/)
+    - Android App Dev With Clojure: An Interactive Tutorial [:link:](https://github.com/alexander-yakushev/events/blob/master/tutorial.md)
 - **Presentations**
     - Simple Made Easy with Clojure [Presentation](http://www.infoq.com/presentations/Simple-Made-Easy) 
     - Hammock Driven Development [Presentation](https://www.youtube.com/watch?v=f84n5oFoZBc)
