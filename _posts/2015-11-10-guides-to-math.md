@@ -5,11 +5,11 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
+- **Links**
     - :fire: :raised_hands: Awesome-Mathematics [:link:](https://github.com/rossant/awesome-math)
    - Math as Code in Javascript [:link:](https://github.com/Jam3/math-as-code)
    - Visually Stunning Math Concepts that are Easy to Explain [:link:](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain) 
-- Posts
+- **Posts**
     - People
         - Most badass math guy of all time [:link:](http://qr.ae/R4eAc0)
     - What
@@ -50,6 +50,7 @@ comments: true
         - computational trinitarianism [:link:](http://ncatlab.org/nlab/show/computational+trinitarianism)
         - Kleisli Category [:link:](http://ncatlab.org/nlab/show/Kleisli+category)
         - Functors by nLab [:link:](http://ncatlab.org/nlab/show/functor)
+        - Semigroups [:link:](https://en.wikipedia.org/wiki/Semigroup)
     - Math & Computer Science 
         - The Coq Proof Assistant [:link:](https://coq.inria.fr/) 
         - What's the mathematical definition of a language? [:link:](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)
@@ -61,7 +62,7 @@ comments: true
         - What is Graph Theory? [:link:](https://www.quora.com/What-is-graph-theory)
         - What are the applications of Graph Theory? [:link:](https://www.quora.com/What-are-the-applications-of-graph-theory)
         - Graph Theory Tutorial [:link:](http://www.tutorialspoint.com/graph_theory/index.htm)
-- Github
+- **Github**
     - The Fastest Fast Fourier Transform on Github [Github](https://github.com/anthonix/ffts), [Github2]
     - Fast Hamiltonian Monte Carlo Using GPU Computing [Github](https://github.com/beamandrew/HMC_GPU)
     - Library for drawing Hilbert Curves [Github](https://github.com/cortesi/scurve)
