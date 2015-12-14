@@ -64,6 +64,7 @@ comments: true
     - Xcode Bots [:floppy_disk:](https://speakerdeck.com/romainpouclet/cocoaheads-montreal-xcode-bots)
     - Cocoapods vs Carthage [:floppy_disk:](https://speakerdeck.com/romainpouclet/managing-your-dependencies-using-carthage)
     - Easy Core Data with Ruby Motion [:floppy_disk:](https://speakerdeck.com/styrmis/simpler-core-data-with-rubymotion)
+    - Less Cold Starts [:floppy_disk:](https://speakerdeck.com/dbgrandi/coldstart-in-ios)
 - **Tutorials**
     -  Build an app from start to finish [:page_facing_up:](http://www.c4ios.com/cosmos/)
 

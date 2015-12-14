@@ -51,6 +51,7 @@ comments: true
     - An Undergraduate Course in Linear Programming [:link:](http://orfe.princeton.edu/~rvdb/307/lectures.html)
 - **Functional Programming**
     - :fire: Awesome Functional Programming [:link:](https://github.com/lucasviola/awesome-functional-programming)
+    - Wikipedia Page [:link:](https://en.wikipedia.org/wiki/Functional_programming#Concepts)
     - Functional Programming at Facebook [:floppy_disk:](http://cufp.galois.com/2009/slides/PiroLetuchy.pdf)
     - Why are lists used so much in functional programming? [:link:](https://www.quora.com/Why-are-lists-the-fundamental-data-structures-in-most-if-not-all-functional-programming-languages)
     - Funtional Programming Concepts Neatly Explained [:link:](https://github.com/caiorss/Functional-Programming/blob/master/haskell/Functional_Programming_Concepts.md) 
