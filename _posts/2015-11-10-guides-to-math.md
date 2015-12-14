@@ -51,6 +51,7 @@ comments: true
         - Kleisli Category [:link:](http://ncatlab.org/nlab/show/Kleisli+category)
         - Functors by nLab [:link:](http://ncatlab.org/nlab/show/functor)
         - Semigroups [:link:](https://en.wikipedia.org/wiki/Semigroup)
+        - Grothendieck group [:link:](https://en.wikipedia.org/wiki/Grothendieck_group)
     - Math & Computer Science 
         - The Coq Proof Assistant [:link:](https://coq.inria.fr/) 
         - What's the mathematical definition of a language? [:link:](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)
