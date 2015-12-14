@@ -24,6 +24,7 @@ comments: true
     - Middleman static site generator [:link:](https://middlemanapp.com/)
     - Jekyll Themes [:link:](http://drjekyllthemes.github.io/)
 - **Tutorial**
+    - :fire: Awesome Rails Tutorials [:link:](https://github.com/ekremkaraca/awesome-rails/blob/master/TUTORIALS.md) 
     - Learn Ruby Metaprogramming Guide [:link:](http://ruby-metaprogramming.rubylearning.com/)
     - Ruby Metaprogramming Koans [:link:](https://rubymonk.com/learning/books/2-metaprogramming-ruby/chapters/32-introduction-to-metaprogramming/lessons/75-being-meta)
     - Coming to Ruby from Other Languages [:link:](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)

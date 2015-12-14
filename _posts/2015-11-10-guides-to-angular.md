@@ -6,7 +6,6 @@ comments: true
 ---
 
 - **Links**
-    - AngularJS CheatSheet [:link:](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
     - AngularJS Best Practices [:link:](https://github.com/jmcunningham/angularjs-styleguide)
     - Made with Angular [:link:](https://www.madewithangular.com/#/)
     - Angular 1.x or Angular 2 ? Stackoverflow answer [:link:](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
@@ -22,13 +21,16 @@ comments: true
     - 10,000 Word Guide [:link:](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
     - W3Schools Tutorial [:link:](http://www.w3schools.com/angular/)
     - Angular 2 Core Concepts [Reading](http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2)
-    - AngularJS Style Guide [:link:](https://github.com/mgechev/angularjs-style-guide)
     - Killing Angular 1.0 Directives with MVVM [:link:](http://toddmotto.com/killing-it-with-angular-directives-structure-and-mvvm/)
     - Angular 2 and RxJs Application with Microsoft Typescript [:link:](https://github.com/ng-book/angular2-rxjs-chat)
     - ng-Book 2 with Typescript [:link:](https://www.ng-book.com/2/#testimonials)
     - Angular 2 Offical Repo (Based off of Typescript) [Github](https://github.com/angular/angular)
     - Build Your Own AngularJS [:link:](https://github.com/teropa/build-your-own-angularjs)
     - Hardcore SEO with AngularJS [:link:](http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
+- **References**
+    - AngularClass Community Repo [:pencil2:](https://github.com/AngularClass)
+    - AngularJS CheatSheet [:link:](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+    - AngularJS Style Guide [:link:](https://github.com/mgechev/angularjs-style-guide)
 - **Tutorial**
     - Learn Angular2 via Challenges [:link:](https://github.com/ShMcK/ng2Challenges)
     - A better way to learn AngularJS [:link:](https://thinkster.io/a-better-way-to-learn-angularjs/)

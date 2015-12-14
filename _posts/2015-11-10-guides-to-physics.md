@@ -5,11 +5,10 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-- Links
-    - Check out my :fire: Awesome Physics Repo [:link:]()
+- **Links**
     - An Primer of Quantum Cognition [:link:](http://bigthink.com/ideafeed/does-the-mind-play-dice-with-reason)
     - Steven Hawking on God [:link:](http://www.hawking.org.uk/does-god-play-dice.html)
-- Posts
+- **Posts**
     - What is Mathematica? [:link:](https://www.quora.com/Mathematica)
     - What can one learn about Quantum Mechanics in 10 minutes? [:link:](https://www.quora.com/Quantum-Mechanics/What-can-one-learn-about-Quantum-Mechanics-in-10-minutes)
     - How do you read a Feynman Diagram? [:link:](https://www.quora.com/How-do-you-understand-read-Feynmans-diagram)
@@ -34,13 +33,13 @@ comments: true
     - Why Physics over Computer Science [:link:](https://www.quora.com/Why-should-I-choose-physics-over-computer-science)
     - What is Quantum Field Theory? [:link:](https://www.quora.com/What-is-quantum-field-theory)
     - How do Feynman Diagrams work? [:link:](https://www.quora.com/What-is-the-bigger-picture-of-the-original-Feynman-Diagrams)
-- Video
+- **Video**
     - Minute Physics YouTube Channel [:link:](https://www.youtube.com/user/minutephysics)
     - Dr Physics A's YouTube Channel [:link:](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
     - Simple intro into Fermi-Dirac / Bose-Einstein Statistics [YouTube](https://www.youtube.com/watch?v=2wF_CVuWyEg)
     - Bose Einstein Condensation [YouTube](https://www.youtube.com/watch?v=nAGPAb4obs8)
     - Why, as citizens of the Earth, we should fund a trip to Europa [:link:](http://bigthink.com/think-tank/bill-nye-how-finding-et-will-change-the-world)
     - Lisa Randall explains "The Universe Today" [:link:](https://www.youtube.com/watch?v=TCbH6MdNbrk) 
-- Derivations
+- **Derivations**
     - Derive the Hisenberg Uncertainty Principle [:link:](https://www.quora.com/Physics/How-did-Heisenberg-derive-his-Uncertainty-Principle-Please-supply-the-mathematical-derivation)
     - Pi is derived from Quantum Mechanics! [:link:](http://www.forbes.com/sites/kevinknudson/2015/11/10/everything-you-ever-wanted-to-know-about-pi-part-2-a-new-proof-of-the-wallis-formula-via-physics/)

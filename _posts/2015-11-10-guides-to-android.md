@@ -13,6 +13,7 @@ comments: true
     - :fire: Awesome Android Tools [:link:](https://github.com/wasabeef/awesome-android-tools)
     - :fire: Awesome Android Performance [:link:](https://github.com/Juude/awesome-android-performance)
     - Clojure-Android [:link:](http://clojure-android.info/)
+    - Scala Android [:link:](https://github.com/47deg/macroid)
 - **Guides**
     - :raised_hands: Android Best Practices [:link:](https://github.com/futurice/android-best-practices)
 - **Tutorial**

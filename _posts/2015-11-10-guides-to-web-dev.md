@@ -10,6 +10,7 @@ comments: true
     - 50+ Web Performance Terms [:link:](https://dzone.com/articles/50-web-performance-terms-a-glossary-for-understand) 
     - HTML Cheat Sheet [:link:](http://www.simplehtmlguide.com/cheatsheet.php)
     - Charles HTTP Proxy [:link:](http://www.charlesproxy.com)
+    - HTTP/2 Made Easy [:link:](http://chimera.labs.oreilly.com/books/1230000000545/ch12.html)
 - **Slides**
     - Web Broswer Architecture explained [:floppy_disk:](http://slides.com/chit_raa/browser-architecture#/)
 - **Interview**
