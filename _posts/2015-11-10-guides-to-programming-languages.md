@@ -27,3 +27,6 @@ comments: true
         - What is the most Widely Used Functional Programming Language? [:link:](https://www.quora.com/Functional-Programming/Which-is-the-most-widely-used-functional-programming-language-today-Oct-2014)
         - How do I think like a functional programmer? [:link:](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
     - Covariance and Contravariance [:page_facing_up:](https://www.stephanboyer.com/post/39/covariance-and-contravariance)
+- **Books**
+    - How to Design Programs [:book:](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
+    - Programming Languages: Application and Interpretation [:book:](http://cs.brown.edu/courses/cs173/2012/book/index.html)

@@ -107,6 +107,7 @@ comments: true
     - Metaprogramming with Python [:floppy_disk:](http://slides.com/gigaroby/metaprogramming-in-python/fullscreen#/), and a class [:link:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Metaprogramming.html)
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
+    - Python Idioms [:link:](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
 - **Books**
     - Intermediate Python [:book:](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 

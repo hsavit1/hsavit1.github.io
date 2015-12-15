@@ -17,6 +17,7 @@ comments: true
     - A Swift Guide to Rust [:link:](http://faq.sealedabstract.com/rust/#why-rust)
 - **Books** 
     - :raised_hands: The Rust Book [:link:](http://rustbyexample.com/index.html)
+    - Rust for Rubyists [:link:](http://www.rustforrubyists.com/book/index.html)
 - **Posts**
     - What does Rust do best? [:link:](https://www.quora.com/Rust-programming-language/What-does-Rust-do-best-and-what-are-projects-for-someone-new-to-the-language-that-highlights-these-strengths)
     - Comparing Rust to Go [:link:](https://www.quora.com/How-do-Go-and-Rust-languages-compare)
