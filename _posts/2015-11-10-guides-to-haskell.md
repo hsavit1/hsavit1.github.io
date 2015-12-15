@@ -150,6 +150,8 @@ comments: true
         - Flodable and Traversable [:link:](https://wiki.haskell.org/Foldable_and_Traversable)
         - Algorithm Complexity in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Algorithm_complexity)
         - A Trie in Haskell [:link:](https://bigonotetaking.wordpress.com/2015/11/06/a-trie-in-haskell/)
+        - Tying the Knot in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Laziness#Infinite_data_structures)
+        - Infinite Data Structures in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Laziness#Tying_the_knot)
     - *Language Syntax Related*
         - What is the Difference between Kinds and Types in Haskell? [:link:](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - What is -> in Haskell? [:link:](https://www.quora.com/What-is-in-Haskell)

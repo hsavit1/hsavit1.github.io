@@ -93,6 +93,8 @@ comments: true
         - Interacting with the new AppleTV Remote [:floppy_disk:](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html)
         - 200 mb app sizes: Is tvOS the future of apps? [:floppy_disk:](https://realm.io/news/is-tvos-the-future-of-apps/)
         - Building Big Screen Apps [:floppy_disk:](https://speakerdeck.com/neonichu/bring-your-apps-to-the-big-screen)
+    - *watchOS*
+        - Developing Killer Apple Watch Apps [:microphone:](https://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps/)
 - **Slides**
     - *watchOS*
         - How to Build a Compelling Watch App [:floppy_disk:](http://www.kristinathai.com/wp-content/uploads/2014/09/Compelling-Watch-App.pdf)

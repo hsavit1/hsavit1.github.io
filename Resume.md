@@ -11,7 +11,7 @@ permalink: /resume/
 >                      		
 > Github: [hsavit1](https://github.com/hsavit1)
 > 
-> Resume: [Grab a Downloadable Copy](https://www.dropbox.com/s/0cxkhg3cy8x7im6/Henry_Savit_Resume_General.docx?dl=0)
+> Resume: [Grab a Downloadable Copy](https://www.dropbox.com/s/n3x2qpxtfa1znny/Henry_Savit_Resume_General.pdf?dl=0)
 >
 > Status: U.S.A. + Canada Citizen
 > 

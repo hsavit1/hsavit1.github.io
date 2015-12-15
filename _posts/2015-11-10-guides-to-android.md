@@ -29,3 +29,5 @@ comments: true
 - **Slides**
     - Android for iOS Devs [:floppy_disk:](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
     - Java vs Scala for Android Dev [:floppy_disk:](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
+- **Github**
+    - Material Design Android App Template [:link:](https://github.com/andreasschrade/android-design-template)
