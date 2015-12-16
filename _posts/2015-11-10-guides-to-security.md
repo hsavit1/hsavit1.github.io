@@ -15,5 +15,7 @@ comments: true
     - :fire: Awesome Penetration Testing [:link:](https://github.com/enaqx/awesome-pentest)
     - :fire: Awesome Network Traces [:link:](https://github.com/caesar0301/awesome-pcaptools)
     - :fire: Awesome Cryptography [:link:](https://github.com/MaciejCzyzewski/retter)
-    - OSX Security Privacy Guide [:link:](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
     - :fire: Awesome Apache HTTP Server Configs [:link:](https://github.com/h5bp/server-configs-apache)
+- **Guides**
+    - Penetration Testing and Security Cheatsheets [:link:](https://github.com/jshaw87/Cheatsheets)
+    - OSX Security Privacy Guide [:link:](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)

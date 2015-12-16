@@ -171,6 +171,7 @@ comments: true
     - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)
     - :fire: Haskell Must Watch [:vcr:](https://github.com/drKraken/haskell-must-watch)
     - Continuation Passing Style in Haskell [:vcr:](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
+    - Fantastic Haskell Videos [:vcr:](http://begriffs.com/)
 - **Github**
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [:link:](https://github.com/scotty-web/scotty)
