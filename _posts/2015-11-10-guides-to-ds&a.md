@@ -9,6 +9,7 @@ comments: true
     - :raised_hands: All the design patterns [:link:](https://sourcemaking.com/design_patterns)
     - Design Patterns Quick Reference [:link:](http://viralpatel.net/blogs/download/design-pattern-scard.pdf)
     - :fire: :raised_hands: Awesome Algorithms [:link:](https://github.com/tayllan/awesome-algorithms)
+    - :fire: Awesome Random Forest [:link:](https://github.com/kjw0612/awesome-random-forest)
     - Algorithm Visualisation [:link:](https://github.com/hsavit1/algovis)
     - :fire: Awesome academic programming courses [:link:](https://github.com/prakhar1989/awesome-courses)
     - Huge list of data structures [:link:](http://theshayna.com/data-structures-and-algorithms-tutorials/)

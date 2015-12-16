@@ -29,9 +29,11 @@ comments: true
     - Build Your Own AngularJS [:link:](https://github.com/teropa/build-your-own-angularjs)
     - Hardcore SEO with AngularJS [:link:](http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 - **References**
+    - Angular 2 Guide [:link:](https://angular.io/docs/js/latest/guide/)
     - AngularClass Community Repo [:pencil2:](https://github.com/AngularClass)
     - AngularJS CheatSheet [:link:](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
     - AngularJS Style Guide [:link:](https://github.com/mgechev/angularjs-style-guide)
+    - Angular 2 Upgrade Guide [:link:](http://angularjs.blogspot.nl/2015/11/highlights-from-angularconnect-2015.html) 
 - **Tutorial**
     - Learn Angular2 via Challenges [:link:](https://github.com/ShMcK/ng2Challenges)
     - A better way to learn AngularJS [:link:](https://thinkster.io/a-better-way-to-learn-angularjs/)
@@ -48,7 +50,8 @@ comments: true
 - **Slides**
     - All about Angular [:floppy_disk:](http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs)
     - Angular 2.0 [:floppy_disk:](https://speakerdeck.com/m4n3z40/angular-2-dot-0-what-to-expect)
-- **Talks**
+- **Presentations**
     - Angular 1 vs Angular 2 [:movie_camera:](https://www.youtube.com/watch?v=-dMBcqwvYA0) and [:link:](http://angular-tips.com/blog/2015/06/why-will-angular-2-rock/)
+    - All Presentations Angular 2 Conference [:movie_camera:](http://angularconnect.com/sessions) 
 - **Interview**
     - :fire: Awesome Angular Inteview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#angularjs)

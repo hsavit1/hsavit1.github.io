@@ -10,10 +10,14 @@ comments: true
     - :fire: Awesome Machine Learning [:link:](https://github.com/josephmisiti/awesome-machine-learning)
     - :fire: Machine Learning Tutorials [:link:](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
     - :fire: Awesome Neural Networks [:link:](https://github.com/ChristosChristofidis/awesome-deep-learning)
+    - :fire: Awesome Recurrent Neural Networks [:link:](https://github.com/kjw0612/awesome-rnn)
+    - :fire: Awesome Deep Vision [:link:](https://github.com/kjw0612/awesome-deep-vision)
+    - :fire: Awesome Computer Vision [:link:](https://github.com/jbhuang0604/awesome-computer-vision)
     - Neural Network Lib for iOS [:link:](http://nikolaypavlov.github.io/MLPNeuralNet/)
     - :fire: Awesome Artificial Intelligence [:link:](https://github.com/owainlewis/awesome-artificial-intelligence)
     - Machine Learning Course on [Coursera](https://www.coursera.org/learn/machine-learning)
     - Microsoft Data Science and Machine Learning Essentials [:link:](https://github.com/MicrosoftLearning/Data-Science-and-ML-Essentials)
+    - DeepLearning.net [:link:](http://deeplearning.net/)
 - **CheatSheet**
     - Machine Learning Cheat Sheet [:link:](https://github.com/soulmachine/machine-learning-cheat-sheet)
 - **Projects**
