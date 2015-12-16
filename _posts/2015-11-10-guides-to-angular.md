@@ -6,6 +6,7 @@ comments: true
 ---
 
 - **Links**
+    - Material Design for AngularJS Apps [:link:](https://github.com/angular/material)
     - AngularJS Best Practices [:link:](https://github.com/jmcunningham/angularjs-styleguide)
     - Made with Angular [:link:](https://www.madewithangular.com/#/)
     - Angular 1.x or Angular 2 ? Stackoverflow answer [:link:](http://stackoverflow.com/questions/30297912/new-project-angular-1-4-or-2-0)
