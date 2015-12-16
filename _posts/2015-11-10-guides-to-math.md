@@ -25,7 +25,8 @@ comments: true
         - What is Hilbert Space? [:link:](https://www.quora.com/What-are-Hilbert-Spaces-in-laymens-terms)
         - What are Hilbert Spaces good for? [:link:](https://www.quora.com/What-is-Hilbert-space-good-for)
         - Simplest explination of Hilbert Space [:link:](https://www.quora.com/What-is-an-intuitive-explanation-of-a-Hilbert-space)
-    - Statistics 
+    - Probability and Statistics
+        - The only Probability Cheatsheet youll ever need [:link:](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf) 
         - Why is Bayes' Theorem important? [:link:](https://www.quora.com/Why-is-Bayes-Theorem-important)
     - Differential Equations
         - Differential Equations in Computer Science [:link:](https://www.quora.com/An-example-where-differential-equations-are-useful-in-computer-science)

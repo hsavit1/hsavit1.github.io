@@ -108,6 +108,7 @@ comments: true
     - Functional Streams with Python [:link:](https://speakerdeck.com/kachayev/streams-abstraction)
     - Why Python Metaclasses? [:link:](http://www.vrplumber.com/programming/metaclasses-pycon.pdf)
     - Python Idioms [:link:](http://safehammad.com/downloads/python-idioms-2014-01-16.pdf)
+    - Design Patterns in Dynamic Programming [:link:](http://norvig.com/design-patterns/design-patterns.pdf)
 - **Books**
     - Intermediate Python [:book:](http://book.pythontips.com/en/latest/index.html)
     - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
