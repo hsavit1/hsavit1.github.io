@@ -166,6 +166,8 @@ comments: true
     - Haskell for Normal People [:floppy_disk:](http://slides.com/benleggett/haskellpres#/)
     - The next Haskell will be Strict [:floppy_disk:](http://www.cs.nott.ac.uk/~gmh/appsem-slides/peytonjones.ppt)
     - Monad Transformers [:floppy_disk:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
+    - Thinking with Laziness [:floppy_disk:](http://jelv.is/talks/thinking-with-laziness/#slide1)
+    - Tikon Jelvis Presentations [:link:](http://jelv.is/talks/)
 - **Video**
     - Learn Haskell From Scratch Playlist [:vcr:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)

@@ -27,6 +27,7 @@ comments: true
         - :fire: Awesome Web Components [:link:](https://github.com/mateusortiz/webcomponents-the-right-way)
         - :fire: Awesome Bootstrap Themes [:link:](https://github.com/therebelrobot/awesome-bootstrap)
         - :fire: Awesome Sass [:link:](https://github.com/HugoGiraudel/awesome-sass)
+        - CSS Pro Tips [:link:](https://github.com/AllThingsSmitty/css-protips)
         - Free Bootstrap Themes [:link:](http://startbootstrap.com/template-categories/all/)
         - Bootstrap 4 [:link:](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/)
         - Official Bootstrap Themes [:link:](http://themes.getbootstrap.com/)
@@ -35,7 +36,7 @@ comments: true
         - :fire: Awesome Photography [:link:](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
         - :fire: Awesome Images [:link:](https://github.com/heyalexej/awesome-images)
         - :fire: Awesome Stock Photos [:link:](https://github.com/neutraltone/awesome-stock-resources)
-    - *Development*
+    - *Development tools*
         - :fire: Awesome Sketch3 [:link:](https://github.com/diessica/awesome-sketch)
         - :fire: Awesome Fonts [:link:](https://github.com/brabadu/awesome-fonts)
         - :fire: Awesome Markdown [:link:](https://github.com/writekit/awesome-markdown)
