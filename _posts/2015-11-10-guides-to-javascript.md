@@ -19,6 +19,7 @@ comments: true
     - :fire: Awesome ECMAScript 6 Learning [:link:](https://github.com/ericdouglas/ES6-Learning)
     - :fire: Awesome ECMA 6 Tools [:link:](https://github.com/addyosmani/es6-tools)
     - :fire: Awesome Javascript Books [:link:](https://github.com/heatroom/awesome-javascript-books)
+    - :fire: Awesome Vue.js [:link:](https://github.com/vuejs/awesome-vue#projects-using-vuejs)
 - **Links**
     - The Crockford Javascript Encyclopedia [:link:](http://www.crockford.com/javascript/encyclopedia/)
     - Crockford: Introducing JSON [:link:](http://www.json.org/)
@@ -66,6 +67,7 @@ comments: true
     - OO Javascript [:link:](https://dzone.com/refcardz/object-oriented-javascript)
     - Functional Programming Jargon [:link:](https://github.com/hemanth/functional-programming-jargon)
     - You don't need JQuery anymore. Here's how to get rid of it [:link:](https://github.com/oneuijs/You-Dont-Need-jQuery)
+    - Vue.js Guide [:link:](http://vuejs.org/guide/)
 - **Tutorial**
     - :raised_hands: Mozilla's Official Javascript Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - Mozilla's Official DOM Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)

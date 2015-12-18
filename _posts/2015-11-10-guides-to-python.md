@@ -46,6 +46,7 @@ comments: true
     - Why are there so many Pythons? [:link:](http://www.toptal.com/python/why-are-there-so-many-pythons)
     - Metaprogramming in style with Decorators [:link:](http://lgiordani.com/blog/2015/04/23/python-decorators-metaprogramming-with-style/)
     - Genetic Algorithms in Python [:link:](http://colindrake.me/2011/05/01/ga-in-python/)
+    - Why Python 3 Exists [:link:](http://www.snarky.ca/why-python-3-exists?utm_content=buffer7a5c1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - **Opinions**
     - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
 - **Testing**
@@ -148,23 +149,23 @@ comments: true
 
 
 #**Django, Flask, and other Python Web Frameworks**
-- Links
+- **Links**
     + :fire: Awesome Django [:link:](http://awesome-django.com/)
     + :fire: Awesome Flask [:link:](https://github.com/humiaozuzu/awesome-flask)
     - Full Stack Django [:link:](http://www.fullstackpython.com/django.html)
     + Full Stack Flask [:link:](http://www.fullstackpython.com/flask.html)
     + Effective Django [:link:](http://www.effectivedjango.com/)
-+ Posts
++ **Posts**
     + Flash or Django? [:link:](https://www.quora.com/Should-I-learn-Flask-or-Django)
     + Scaling Django to 8 Billion page views [:link:](http://blog.disqus.com/post/62187806135/scaling-django-to-8-billion-page-views)
     + Understanding Django [:link:](https://www.quora.com/How-do-I-make-progress-with-Python-Djangos)
     + Evaluating React.js and Flask [:link:](http://aviadas.com/blog/2015/08/05/evaluating-react-dot-js-and-flask/)
     + Use React and JSX in Python Applications [:link:](http://facebook.github.io/react/blog/2013/08/19/use-react-and-jsx-in-python-applications.html)
-+ Interview
++ **Interview**
     + :fire: Awesome Django Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#django)
-+ Video
++ **Video**
     + Build a Website with Django + React [:vcr:](https://www.youtube.com/playlist?list=PLei96ZX_m9sUs4aFBvxQDKAE1tg2kN01e)
-+ Tutorial
++ **Tutorial**
     + The Flaskr Tutorial [:link:](http://flask.pocoo.org/docs/0.10/tutorial/)
     + Official Django Tutorial [:link:](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
     + Writing Django Tests [:link:](http://cj.gaconnet.com/informal/rewriting-python-and-django-example-tests-for-explicitness)
@@ -173,9 +174,9 @@ comments: true
     + Flask and AngularJS [:link:](https://realpython.com/blog/python/flask-by-example-integrating-flask-and-angularjs/)
     + Flask and React [:link:](https://realpython.com/blog/python/the-ultimate-flask-front-end/)
     + Django, Flask, and Redis Tutorial [:link:](http://www.toptal.com/django/django-flask-and-redis-sharing-user-sessions-between-frameworks)
-- References
+- **References**
     - Flask Documentation [:link:](http://flask.pocoo.org/docs/0.10/quickstart/)
-- Github
+- **Github**
     + Django Repository [:link:](https://github.com/django/django)
     + Django Angular [:link:](https://github.com/jrief/django-angular/)
     + Tornado Repository [:link:](https://github.com/tornadoweb/tornado)

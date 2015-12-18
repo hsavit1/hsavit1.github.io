@@ -39,6 +39,8 @@ comments: true
     - How do I become an expret in R? [:link:](https://www.quora.com/How-do-I-become-an-expert-in-R)
     - Top 10 Algos for DataMining and Machine Learning [:link:](https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms)
     - 5 Data Mining Techniques that help create business value [:link:](https://datafloq.com/read/data-mining-techniques-create-business-value/121)
+- **Interview**
+    - Preparing for a Data Science Interview [:link:](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview)
 - **Blogs**
     - Advanced R [:link:](http://adv-r.had.co.nz/)
 - **Github Projects**

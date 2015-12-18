@@ -115,6 +115,7 @@ comments: true
         - Functional Lenses Derivation [:link:](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - DDD: Domain Driven Design in Haskell [:link:](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
     - *Learning Haskell*
+        - Core Haskell Concepts [:page_facing_up:](http://haskell.zcourts.com/beginner/2013/12/19/core-haskell-concepts/)
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [:link:](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
         - :raised_hands: Deriving Lenses Folds and Tranversals [:link:](http://lens.github.io/) 

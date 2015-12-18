@@ -20,6 +20,8 @@ comments: true
     - DeepLearning.net [:link:](http://deeplearning.net/)
 - **CheatSheet**
     - Machine Learning Cheat Sheet [:link:](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- **Interview**
+    - Preparing for a machine learning interview [:page_facing_up:](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 - **Projects**
     - Machine Learning in Go [:pencil:](https://github.com/hsavit1/golearn)
     - Homomorphic Machine Learning in Haskell [:pencil:](https://github.com/mikeizbicki/HLearn)

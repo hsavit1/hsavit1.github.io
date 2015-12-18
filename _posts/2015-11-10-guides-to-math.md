@@ -33,6 +33,8 @@ comments: true
     - Fourier Transforms
         - An easy to discribe FFTs [:link:](https://www.quora.com/What-is-an-intuitive-way-of-explaining-how-the-Fourier-transform-works)
     - Category Theory, Lambda Calculus
+        - The ultimate guide to category theory [:floppy_disk:](http://yogsototh.github.io/Category-Theory-Presentation/)
+        - Category theory for programmers [:book:](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
         - Homotopy Type Theory [:link:](http://homotopytypetheory.org/)
         - Lambda Calculus with Aligators [:link:](http://worrydream.com/AlligatorEggs/)
         - Why do we NEED Monads? [:link:](http://stackoverflow.com/questions/28139259/why-do-we-need-monads)
