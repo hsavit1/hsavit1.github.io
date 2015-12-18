@@ -7,6 +7,7 @@ comments: true
 
 #Haskell
 - **Links**
+    - Category Theory Presentation [:link:](http://yannesposito.com/Scratch/en/blog/Category-Theory-Presentation/)
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
     - Haskell Wiki [:link:](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [:link:](https://gist.github.com/leroux/6395804)
@@ -71,6 +72,7 @@ comments: true
 - **Papers**
     - Template Meta Programming in Haskell [:link:](http://research.microsoft.com/en-us/um/people/simonpj/papers/meta-haskell/meta-haskell.pdf)
 - **Blogs**
+    - french guy [:link:](http://yannesposito.com/Scratch/en/blog/)
     - bitemyapp [:link:](http://bitemyapp.com/)
 - **Tutorial**
     - Monad Tutorials Timeline [:link:](https://wiki.haskell.org/Monad_tutorials_timeline)
@@ -86,6 +88,7 @@ comments: true
     - How I start with Haskell [:link:](https://howistart.org/posts/haskell/1)
     - How to use GHCI [:link:](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)
     - Yet Another Haskell Tutorial [:link:](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial)
+    - Simple Yesod Tutorial [:page_facing_up:](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
 - **Exercises**
     - Offical Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [:link:](http://dailyhaskellexercise.tumblr.com/)
