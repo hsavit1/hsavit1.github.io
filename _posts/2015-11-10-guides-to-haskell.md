@@ -31,6 +31,8 @@ comments: true
     - A Haskell Web Poll [:link:](http://www.stephendiehl.com/posts/poll.html)
     - Human Haskell [:link:](http://ohaskell.dshevchenko.biz/en/index.html)
 - **Reference**
+    - All the Haskell Cheat Sheets [:link:](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/)
+    - Haskell TypeClasses Cheat Sheet [:link:](https://github.com/rudymatela/ultimate-cheat-sheets)
     - :raised_hands: Hoggle Haskell API Search Engine [:link:](https://www.haskell.org/hoogle/)
     - Hskell Syntax [:link:](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
     - :raised_hands: How to read Haskell [:link:](https://wiki.haskell.org/How_to_read_Haskell)

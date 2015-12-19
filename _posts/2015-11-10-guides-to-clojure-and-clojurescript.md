@@ -31,6 +31,7 @@ comments: true
     - Learn Clojure in 15 minutes [:link:](http://adambard.com/blog/clojure-in-15-minutes/)
     - ClojureScript JavaScript Translations [:link:](http://himera.herokuapp.com/index.html)
     - Functional Clojure Reference Guide [:link:](https://dzone.com/storage/assets/3818-rc122-010d-clojure.pdf)
+    - Clojure Design Patterns [:link:](http://mishadoff.com/blog/clojure-design-patterns/)
 - **Books** 
     - :raised_hands: Clojure for the Brave and True [:link:](http://www.braveclojure.com/introduction/)
     - Clojure from the Ground Up [:link:](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
