@@ -19,6 +19,8 @@ comments: true
     - The Clojure Toolbox [:link:](http://www.clojure-toolbox.com/)
     - Clojure Android [:link:](http://clojure-android.info/)
     - Lein Droid Tutorial [:link:](https://github.com/clojure-android/lein-droid/wiki/Tutorial)
+- **Blogs**
+    - Stuart Sierra on Clojure [:newspaper:](http://stuartsierra.com/)
 - **News**
     - Clojure Weekly [:link:](http://reborg.tumblr.com/)
 - **Web Development**

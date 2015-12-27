@@ -48,6 +48,7 @@ comments: true
     - Genetic Algorithms in Python [:link:](http://colindrake.me/2011/05/01/ga-in-python/)
     - Why Python 3 Exists [:link:](http://www.snarky.ca/why-python-3-exists?utm_content=buffer7a5c1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     - How to make Python as fast as Julia [:link:](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en&utm_content=buffer9bacd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+    - Tail Call Optimization Decorator Python [:link](http://code.activestate.com/recipes/474088/) 
 - **Opinions**
     - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
 - **Testing**

@@ -104,6 +104,7 @@ comments: true
         - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
         - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates) 
     - *Functional Programming and Category Theory*
+        - From Semigroups to Bind [:page_facing_up:](http://fundeps.com/posts/haskell/2014-03-05-from-semigroup-to-bind/)
         - Explanation of Category Theory in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Category_theory)
         - Monads made difficult [:link:](http://www.stephendiehl.com/posts/monads.html)
         - You could have invented Monads! [:link:](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
@@ -128,6 +129,12 @@ comments: true
         - The Dining Philosophers Problem With Ron Swanson [:link:](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
         - Beautiful Concurrency [:link:](https://www.fpcomplete.com/school/advanced-haskell/beautiful-concurrency)
         - Does Haskell have Tail Recursive Optimization? [:link:](http://stackoverflow.com/questions/13042353/does-haskell-have-tail-recursive-optimization/13052612#13052612)
+        - What's a GADT? [:link:](https://www.quora.com/Haskell-programming-language/What-are-generalized-algebraic-datatypes-GADTs)
+        - Type Constructor vs Data Constructor [:link:](http://stackoverflow.com/questions/18204308/haskell-type-vs-data-constructor)
+        - 3 Part Tail Recursion [1](https://www.quora.com/How-does-compiler-know-whether-the-recursion-is-a-tail-recursion-or-not-and-how-does-it-optimize-tail-recursion) [2](https://www.quora.com/What-are-some-interesting-applications-of-tail-recursion) [3](https://www.quora.com/What-is-continuation-passing-style-in-functional-programming)
+        - The Category Design Pattern [:page_facing_up:](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
+        - Difference Lists [:link:](https://wiki.haskell.org/Difference_list)
+        - How an Why does the continuation monad work? [:page_facing_up:](http://stackoverflow.com/questions/3322540/how-and-why-does-the-haskell-cont-monad-work)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
