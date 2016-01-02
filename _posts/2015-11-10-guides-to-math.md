@@ -33,9 +33,11 @@ comments: true
     - Fourier Transforms
         - An easy to discribe FFTs [:link:](https://www.quora.com/What-is-an-intuitive-way-of-explaining-how-the-Fourier-transform-works)
     - Category Theory, Lambda Calculus
+        - Type Theory vs Category Theory [:link:](https://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
         - The ultimate guide to category theory [:floppy_disk:](http://yogsototh.github.io/Category-Theory-Presentation/)
         - Category theory for programmers [:book:](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
         - Homotopy Type Theory [:link:](http://homotopytypetheory.org/)
+        - What is Homotopy Type Theory? [:link:](https://www.quora.com/topic/Homotopy-Type-Theory)
         - Lambda Calculus with Aligators [:link:](http://worrydream.com/AlligatorEggs/)
         - Why do we NEED Monads? [:link:](http://stackoverflow.com/questions/28139259/why-do-we-need-monads)
         - What was the Curry Howard Isomorphism? [:link:](https://en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism), [Link2](http://stackoverflow.com/questions/10212660/curry-howard-isomorphism)
@@ -54,7 +56,7 @@ comments: true
         - Kleisli Category [:link:](http://ncatlab.org/nlab/show/Kleisli+category)
         - Functors by nLab [:link:](http://ncatlab.org/nlab/show/functor)
         - Semigroups [:link:](https://en.wikipedia.org/wiki/Semigroup)
-        - Grothendieck group [:link:](https://en.wikipedia.org/wiki/Grothendieck_group)
+        - Grothendieck group [:link:](https://ncatlab.org/nlab/show/Grothendieck+group)
     - Math & Computer Science 
         - The Coq Proof Assistant [:link:](https://coq.inria.fr/) 
         - What's the mathematical definition of a language? [:link:](https://www.quora.com/Semantics/What-is-the-mathematical-definition-of-language)

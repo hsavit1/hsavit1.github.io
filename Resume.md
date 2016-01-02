@@ -105,11 +105,11 @@ permalink: /resume/
 + Violinist in Binghamton University Symphony Orchestra
 + Founding Father of PKA: Served as secretary and web development chair for largest fraternity on campus
 + Binghamton University Golf Club active tournament competitor 
-
++ Project Euler: Friend key __870873_dQiBpz5Xrbqjfw2sQxGCVHFrZike79bh__
 
 	
 
 
 ###Note
 
-You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Guides](http://itshenry.com/) page for a general idea of what I'm capable of
+You can also check out my [LinkedIn](https://www.linkedin.com/pub/henry-savit/69/270/450) and my [Guides](http://itshenry.com/) page for a general idea of what I'm capable of. 

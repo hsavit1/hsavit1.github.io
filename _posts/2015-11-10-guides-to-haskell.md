@@ -7,11 +7,15 @@ comments: true
 
 #Haskell
 - **Links**
+    - Advanced Haskell [:link:](https://en.wikibooks.org/wiki/Haskell)
     - Category Theory Presentation [:link:](http://yannesposito.com/Scratch/en/blog/Category-Theory-Presentation/)
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
     - Haskell Wiki [:link:](https://wiki.haskell.org/Haskell)
     - :fire: Haskell Resources [:link:](https://gist.github.com/leroux/6395804)
     - :raised_hands: What I wish I knew when learning Haskell [:link:](http://dev.stephendiehl.com/hask/)
+    - CS 194 UPenn [:link:](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
+    - CS 240h Stanford [:link:](http://www.scs.stanford.edu/14sp-cs240h/slides/)
+    - Guide to Lenses [:link:](http://www.scs.stanford.edu/14sp-cs240h/slides/lenses-slides.html#(57))
     - Stephen Diehl's Blog [:link:](http://www.stephendiehl.com/posts.html)
     - Official Haskell Tutorials [:link:](https://wiki.haskell.org/Tutorials)
     - :raised_hands: Haskell News [:link:](http://haskellnews.org/grouped)
@@ -30,11 +34,15 @@ comments: true
     - Data Structures and I/O Libraries [:link:](https://wiki.haskell.org/Applications_and_libraries/Data_structures)
     - A Haskell Web Poll [:link:](http://www.stephendiehl.com/posts/poll.html)
     - Human Haskell [:link:](http://ohaskell.dshevchenko.biz/en/index.html)
+    - Fixity of specific operations in Haskell [:link:](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html#(33))
+    - The Dreaded Monomorphism Restriction [:link:](http://www.scs.stanford.edu/14sp-cs240h/slides/basics-slides.html#(52))
 - **Reference**
     - All the Haskell Cheat Sheets [:link:](http://fundeps.com/posts/cheatsheets/2014-03-04-cheat-sheets/)
     - Haskell TypeClasses Cheat Sheet [:link:](https://github.com/rudymatela/ultimate-cheat-sheets)
+    - Lenses in Haskell CheatSheet [:link:](https://www.fpcomplete.com/user/yiding/lens-cheat-sheet)
     - :raised_hands: Hoggle Haskell API Search Engine [:link:](https://www.haskell.org/hoogle/)
     - Hskell Syntax [:link:](http://rigaux.org/language-study/syntax-across-languages-per-language/Haskell.html)
+    - 10 Things to know about haskell syntax [:link:](https://www.fpcomplete.com/blog/2012/09/ten-things-you-should-know-about-haskell-syntax)
     - :raised_hands: How to read Haskell [:link:](https://wiki.haskell.org/How_to_read_Haskell)
     - Reference Card Haskell Wiki [:link:](https://wiki.haskell.org/Reference_card)
     - List of all the Haskell Keywords [:link:](https://wiki.haskell.org/Keywords)
@@ -76,6 +84,7 @@ comments: true
 - **Blogs**
     - french guy [:link:](http://yannesposito.com/Scratch/en/blog/)
     - bitemyapp [:link:](http://bitemyapp.com/)
+    - Twan van Laarhoven's blog [:link:](http://www.twanvl.nl/blog/)
 - **Tutorial**
     - Monad Tutorials Timeline [:link:](https://wiki.haskell.org/Monad_tutorials_timeline)
     - Basics of Haskell [:link:](https://www.fpcomplete.com/school/starting-with-haskell/basics-of-haskell)
@@ -120,6 +129,7 @@ comments: true
         - Performing derivations in Haskell [:link:](http://qr.ae/R4Z2OS) 
         - Functional Lenses Derivation [:link:](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - DDD: Domain Driven Design in Haskell [:link:](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
+        - :raised_hands: From Adjunctions To Monads [:link:](http://www.stephendiehl.com/posts/adjunctions.html)
     - *Learning Haskell*
         - Core Haskell Concepts [:page_facing_up:](http://haskell.zcourts.com/beginner/2013/12/19/core-haskell-concepts/)
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
@@ -167,11 +177,16 @@ comments: true
         - Infinite Data Structures in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Laziness#Tying_the_knot)
     - *Language Syntax Related*
         - What is the Difference between Kinds and Types in Haskell? [:link:](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
+        - MonadPlus vs Monoids vs Semigroups [:link:](http://stackoverflow.com/questions/17056881/monoid-vs-monadplus)
         - What is -> in Haskell? [:link:](https://www.quora.com/What-is-in-Haskell)
         - Is Haskell more expressive? [:link:](https://www.quora.com/Does-the-ability-to-use-categorial-language-functors-monads-make-Haskell-more-expressive)
         - How does Garbage Collection work in Haskell? [:link:](https://www.quora.com/How-does-garbage-collection-work-in-Haskell)
         - Key Differences between Haskell and Standard ML? [:link:](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
+        - Difference between (.) and $ [:link:](https://www.reddit.com/r/haskell/comments/3z2xu9/difference_between_and/)
+        - What does Haskell call the Hom Functor/Monad? [:link:](http://stackoverflow.com/questions/6702169/what-does-haskell-call-the-hom-functor-monad)
+        - Profunctors [:link:](https://www.schoolofhaskell.com/user/liyang/profunctors)
 - **Slides**
+    - Functors, Monads, and Whatnot [:floppy_disk:](http://www.scs.stanford.edu/14sp-cs240h/slides/functors-monads-slides.html#(1))
     - Haskell's GHC, Illustrated [:floppy_disk:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
     - Make Web Apps with Haskell [:floppy_disk:](https://speakerdeck.com/ajnsit/rock-solid-web-apps-with-haskell-and-js)
     - Introduction to Concurrency Models in Haskell [:floppy_disk:](https://speakerdeck.com/abhin4v/introduction-to-concurrency-in-haskell)
@@ -187,6 +202,7 @@ comments: true
     - :fire: Haskell Must Watch [:vcr:](https://github.com/drKraken/haskell-must-watch)
     - Continuation Passing Style in Haskell [:vcr:](http://begriffs.com/posts/2015-06-03-haskell-continuations.html)
     - Fantastic Haskell Videos [:vcr:](http://begriffs.com/)
+    - A Practical Introduction to Haskell GADTs Richard Eisenberg [:link:](https://www.youtube.com/watch?v=6snteFntvjM)
 - **Github**
     - React-Haskell [Github](https://github.com/joelburget/react-haskell)
     - Scotty Web Framework [:link:](https://github.com/scotty-web/scotty)

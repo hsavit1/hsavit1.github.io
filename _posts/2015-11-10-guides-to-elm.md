@@ -12,6 +12,9 @@ comments: true
 - **References**
     - Elm Syntax [:link:](http://elm-lang.org/docs/syntax)
     - Reactivity [:link:](http://elm-lang.org/guide/reactivity)
+    - Haskell to Elm [:link:](https://github.com/eeue56/haskell-to-elm)
+- **Community**
+    - R/Elm [:link:](https://www.reddit.com/r/elm)
 - **Tutorial**
     - Learn Elm by Example [:link:](http://elm-by-example.org/toc.html)
     - :raised_hands: The Elm Architecture Tutorial [:link:](https://github.com/evancz/elm-architecture-tutorial)

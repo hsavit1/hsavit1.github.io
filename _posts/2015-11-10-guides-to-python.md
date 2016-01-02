@@ -104,6 +104,7 @@ comments: true
     - What are Python function annotations? [:link:](http://stackoverflow.com/questions/14379753/what-does-mean-in-python-function-definitions)
     - How can PyPy be faster than CPython? [:link:](http://stackoverflow.com/questions/12645394/how-can-pypy-be-faster-than-cpython)
     - How does Garbage Collection work in Python? [:link:](https://www.quora.com/How-does-garbage-collection-in-Python-work)
+    - Statements vs Expressions in Python [:link:](http://stackoverflow.com/questions/4728073/what-is-the-difference-between-an-expression-and-a-statement-in-python)
 - **Slides**
     - 10 Awesome Features of Python 3.# [:link:](https://asmeurer.github.io/python3-presentation/slides.html#1)
     - Functional Programming in Python [:floppy_disk:](http://kachayev.github.io/talks/uapycon2012/index.html#/9)
