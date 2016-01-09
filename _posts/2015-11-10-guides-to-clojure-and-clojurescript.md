@@ -38,6 +38,7 @@ comments: true
     - :raised_hands: Clojure for the Brave and True [:link:](http://www.braveclojure.com/introduction/)
     - Clojure from the Ground Up [:link:](https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome)
     - The Joy of Clojure [:link:](http://www.joyofclojure.com/)
+    - The Om Cookbook [:link:](https://github.com/omcljs/om-cookbook)
 - **Github**
     - Figwheel [Github](https://github.com/bhauman/lein-figwheel)
     - Om: ClojureScript Interface to React [Github](https://github.com/omcljs/om)

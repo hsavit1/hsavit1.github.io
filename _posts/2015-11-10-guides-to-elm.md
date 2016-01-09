@@ -20,6 +20,8 @@ comments: true
     - :raised_hands: The Elm Architecture Tutorial [:link:](https://github.com/evancz/elm-architecture-tutorial)
     - From Haskell to Elm [:link:](https://github.com/eeue56/haskell-to-elm)
     - Building Reactive Web Apps [:link:](https://pragmaticstudio.com/elm)
+    - Switching from imperative to functional programming with games in Elm [:link:](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
+    - Making Pong [:link:](http://elm-lang.org/blog/making-pong)
 - **Slides**
     - What is Elm? ([:floppy_disk:](https://speakerdeck.com/jinjor/lets-learn-elm))
     - Building Web Apps with Elm ([:floppy_disk:](https://speakerdeck.com/jivagoalves/building-web-apps-in-elm))
@@ -27,6 +29,7 @@ comments: true
 - **Video**
     - Controlling Time and Space: understanding the many formulations of FRP [:microphone:](https://www.youtube.com/watch?v=Agu6jipKfYw)
 - **Posts**
+    - Learning FP the hard way: Experiences on the Elm language [:link:](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
     - What is the future of the Elm programming language? [:link:](https://www.quora.com/What-do-you-think-is-the-future-of-the-Elm-programming-language)
     - My take on Elm [:link:](http://theburningmonk.com/2014/07/elm-functional-reactive-dreams-missile-command/)
     - Elm vs F# [:link:](http://theburningmonk.com/2014/07/contrasting-f-and-elms-record-types/)
@@ -38,3 +41,4 @@ comments: true
     - Potential Elm Projects [:pencil2:](https://github.com/elm-lang/projects)
     - TodoMVC in Elm [:pencil2:](https://github.com/evancz/elm-todomvc/)
     - Elm Architecture in Purescript [:pencil2:](https://github.com/parsonsmatt/purs-architecture-tutorial)
+    - HTML to Elm [:pencil2:](https://github.com/mbylstra/html-to-elm)

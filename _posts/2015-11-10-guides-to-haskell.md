@@ -7,6 +7,7 @@ comments: true
 
 #Haskell
 - **Links**
+    - How to learn haskell [:link:](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
     - Advanced Haskell [:link:](https://en.wikibooks.org/wiki/Haskell)
     - Category Theory Presentation [:link:](http://yannesposito.com/Scratch/en/blog/Category-Theory-Presentation/)
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
@@ -100,6 +101,7 @@ comments: true
     - How to use GHCI [:link:](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html)
     - Yet Another Haskell Tutorial [:link:](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial)
     - Simple Yesod Tutorial [:page_facing_up:](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
+    - Haskell Diagram Tutorial [:link:](http://projects.haskell.org/diagrams/doc/quickstart.html)
 - **Exercises**
     - Offical Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [:link:](http://dailyhaskellexercise.tumblr.com/)
@@ -130,6 +132,7 @@ comments: true
         - Functional Lenses Derivation [:link:](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - DDD: Domain Driven Design in Haskell [:link:](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
         - :raised_hands: From Adjunctions To Monads [:link:](http://www.stephendiehl.com/posts/adjunctions.html)
+        - Understanding F Algebras [:link:](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
     - *Learning Haskell*
         - Core Haskell Concepts [:page_facing_up:](http://haskell.zcourts.com/beginner/2013/12/19/core-haskell-concepts/)
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
@@ -145,6 +148,7 @@ comments: true
         - The Category Design Pattern [:page_facing_up:](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
         - Difference Lists [:link:](https://wiki.haskell.org/Difference_list)
         - How an Why does the continuation monad work? [:page_facing_up:](http://stackoverflow.com/questions/3322540/how-and-why-does-the-haskell-cont-monad-work)
+        - Existentially vs Universally Quantified Types [:link:](http://stackoverflow.com/questions/14299638/existential-vs-universally-quantified-types-in-haskell)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
@@ -162,6 +166,9 @@ comments: true
         - Why would you give up on Haskell [:link:](http://qr.ae/R4e2J9)
         - How good is Haskell at scripting? [:link:](http://qr.ae/R4eYSa)
         - Differences between Haskell and Racket [:link:](https://www.quora.com/What-are-the-relative-strengths-and-weaknesses-of-Racket-and-Haskell)
+        - Elixir vs Haskell [:link:](http://yvangodin.blogspot.com/2014/04/erlangelixir-vs-haskell.html) [:link:](https://www.reddit.com/r/haskell/comments/2b5izk/thoughts_on_elixir/)
+        - Weaknesses of Haskell [:link:](https://www.quora.com/What-are-the-main-weaknesses-of-Haskell-as-a-programming-language)
+        - Coolest Damn Piece of Haskell [:link:](http://evan-tech.livejournal.com/220036.html)
     - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry) 
@@ -223,5 +230,12 @@ comments: true
     - Purscript by Example [:book:](https://leanpub.com/purescript/read)
 - **Posts**
     - The Elm architecture, in Purescript [:link:](http://www.parsonsmatt.org/programming/2015/10/05/elm_vs_purescript_ii.html)
+    - Haste vs Purescript vs Elm [:link:](https://www.reddit.com/r/purescript/comments/2mgzsz/any_new_opinions_here_haste_vs_purescript_vs_elm/)
 - **Slides**
     - Better know a language: Purescript [:floppy_disk:](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html#1)
+
+#Yesod
+- **Posts**
+    - Yesod and Docker [:link:](https://ilikewhenit.works/blog/1)
+    - Powered by Yesod [:link:](https://ilikewhenit.works/blog/1)
+    - How do you feel about Yesod? [:link:](https://www.quora.com/Haskell-programming-language/How-does-the-Yesod-web-framework-compare-to-more-mature-frameworks-such-as-Rails-and-Django) [:link:](http://qr.ae/Rgy8xR)
