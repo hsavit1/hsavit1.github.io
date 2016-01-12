@@ -149,6 +149,9 @@ comments: true
         - Difference Lists [:link:](https://wiki.haskell.org/Difference_list)
         - How an Why does the continuation monad work? [:page_facing_up:](http://stackoverflow.com/questions/3322540/how-and-why-does-the-haskell-cont-monad-work)
         - Existentially vs Universally Quantified Types [:link:](http://stackoverflow.com/questions/14299638/existential-vs-universally-quantified-types-in-haskell)
+        - The Complete Guide to Lazy Evaluation in Haskell [:link:](https://hackhands.com/guide-lazy-evaluation-haskell/)
+        - What is WHNF (Weak Head Normal Form) [:link:](http://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form)
+        - What is Stream Fusion [:link:](http://stackoverflow.com/questions/578063/what-is-haskells-stream-fusion)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
@@ -169,6 +172,7 @@ comments: true
         - Elixir vs Haskell [:link:](http://yvangodin.blogspot.com/2014/04/erlangelixir-vs-haskell.html) [:link:](https://www.reddit.com/r/haskell/comments/2b5izk/thoughts_on_elixir/)
         - Weaknesses of Haskell [:link:](https://www.quora.com/What-are-the-main-weaknesses-of-Haskell-as-a-programming-language)
         - Coolest Damn Piece of Haskell [:link:](http://evan-tech.livejournal.com/220036.html)
+        - Denotational design does not work [:link:](https://ro-che.info/articles/2014-12-31-denotational-design-does-not-work)
     - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry) 
@@ -203,6 +207,7 @@ comments: true
     - Monad Transformers [:floppy_disk:](https://dl.dropboxusercontent.com/u/7810909/talks/monad-transformers/cbaa991e0eb49224eb286c1e418e2b9828e1fb21/monad-transformers.pdf)
     - Thinking with Laziness [:floppy_disk:](http://jelv.is/talks/thinking-with-laziness/#slide1)
     - Tikon Jelvis Presentations [:link:](http://jelv.is/talks/)
+    - Reasoning about Laziness [:link:](http://www.slideshare.net/tibbe/reasoning-about-laziness)
 - **Video**
     - Learn Haskell From Scratch Playlist [:vcr:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)
