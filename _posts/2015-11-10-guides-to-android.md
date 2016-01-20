@@ -26,6 +26,7 @@ comments: true
     - Must Read Android Developer Blogs [:link:](https://www.quora.com/What-are-must-read-Android-developer-blogs)
     - :fire: :raised_hands: Codepath Android Guide [:link:](https://github.com/codepath/android_guides)
     - Official Android Pages [:link:](http://developer.android.com/training/index.html)
+    - Clean Architecture in Android [:link:](https://github.com/android10/Android-CleanArchitecture)
 - **Slides**
     - Android for iOS Devs [:floppy_disk:](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
     - Java vs Scala for Android Dev [:floppy_disk:](https://speakerdeck.com/raulraja/painless-android-development-with-scala)

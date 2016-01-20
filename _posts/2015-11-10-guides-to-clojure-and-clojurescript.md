@@ -48,6 +48,7 @@ comments: true
     - Leiningen automates your Clojure projects without setting your hair on fire [:link:](https://github.com/technomancy/leiningen)
     - Meteor ClojureScript [:link:](https://github.com/mystor/meteor-clojurescript)
 - **Tutorial**
+    - Learn LISP the Hard Way [:link:](http://learnlispthehardway.org/book/)
     - Clojure Koans [:link:](https://github.com/functional-koans/clojure-koans)
     - ClojureScript Online Koans [:link:](http://clojurescriptkoans.com/)
     - Clojurescript Tutorial [:link:](https://www.niwi.nz/cljs-workshop/)
