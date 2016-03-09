@@ -13,7 +13,6 @@ comments: true
     - :raised_hands: Essential Javascript Links [:link:](https://github.com/ericelliott/essential-javascript-links)
     - :fire: Awesome Javascript Tools [:link:](https://github.com/codefellows/jstools)
     - :fire: Awesome Functional Programming in Javascript [:link:](https://github.com/stoeffel/awesome-fp-js)
-    - :raised_hands: The Javascript Promise Cookbook [:link:](https://github.com/mattdesl/promise-cookbook#the-problem)
     - :fire: Awesome Functional Javascript [:link:](https://github.com/stoeffel/awesome-fp-js)
     - :fire: Awesome FRP Javascript [:link:](https://github.com/stoeffel/awesome-frp-js)
     - :fire: Awesome ECMAScript 6 Learning [:link:](https://github.com/ericdouglas/ES6-Learning)
@@ -43,7 +42,6 @@ comments: true
     - :raised_hands: Javascript Design Patterns code [:link:](https://github.com/tcorral/Design-Patterns-in-Javascript)
     - Revolutionary Data Structures [:link:](https://github.com/substack/data-structures-of-the-revolution)
 - **Design Patterns**
-    - Introduction to Functional Javascript: Javascript through the years [:link:](http://www.sitepoint.com/introduction-functional-javascript/)
     - Javascript Design Patterns By Example [:link:](http://www.sitepoint.com/javascript-application-design-patterns/)
     - Journey from procedural programming to reactive programming [:link:](http://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/)
     - Event Handling Patterns and the future of web development [:link:](http://www.sitepoint.com/emerging-patterns-javascript-event-handling/)
@@ -56,25 +54,35 @@ comments: true
     - The Little Book of Coffeescript [:link:](http://arcturo.github.io/library/coffeescript/index.html)
     - THe RxJS Book [:link:](http://xgrommx.github.io/rx-book/)
     - Programming Javascript Applications [:link:](http://chimera.labs.oreilly.com/books/1234000000262)
-    - The mostly adequate guide to Functional Programming in Javascript [:link:](https://github.com/MostlyAdequate/mostly-adequate-guide)
+    - :raised_hands: The Javascript Promise Cookbook [:link:](https://github.com/mattdesl/promise-cookbook#the-problem)
 - **Video**
     - :fire: Awesome Must Watch JS [:link:](https://github.com/bolshchikov/js-must-watch)
     - Must watch JS Videos [:link:](https://github.com/AllThingsSmitty/must-watch-javascript)
 - **Quick References**
     - Javascript Data Object cheatsheet [:link:](https://gentlenode.com/journal/javascript-3-the-date-object-cheatsheet/32)
     - :raised_hands: Airbnb Javascript Style Guide [:link:](https://github.com/airbnb/javascript)
-    - Functional Programming in Javascript [:link:](https://dzone.com/storage/assets/379008-rc217-functionalprogramming.pdf)
     - OO Javascript [:link:](https://dzone.com/refcardz/object-oriented-javascript)
-    - Functional Programming Jargon [:link:](https://github.com/hemanth/functional-programming-jargon)
     - You don't need JQuery anymore. Here's how to get rid of it [:link:](https://github.com/oneuijs/You-Dont-Need-jQuery)
     - Vue.js Guide [:link:](http://vuejs.org/guide/)
+- **Functional Programming**
+    - Fantasy Land Specification [:link:](https://github.com/fantasyland/fantasy-land)
+    - Functional Programming Jargon [:link:](https://github.com/hemanth/functional-programming-jargon)
+    - Introduction to Functional Javascript: Javascript through the years [:link:](http://www.sitepoint.com/introduction-functional-javascript/)
+    - The mostly adequate guide to Functional Programming in Javascript [:link:](https://github.com/MostlyAdequate/mostly-adequate-guide)
+    - Functional Programming in Javascript [:link:](https://dzone.com/storage/assets/379008-rc217-functionalprogramming.pdf)
+    - Functional javascript workshop [:link:](https://github.com/timoxley/functional-javascript-workshop)
+    - Posts
+        - An Intro to Functional Programming Concepts in Javascript [:link:](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
+        - Functional Javascript with Recursions & Tail Call Optimization [:link:](http://www.integralist.co.uk/posts/js-recursion.html)
+        - Higher order functions in JS [:link:](http://www.sitepoint.com/higher-order-functions-javascript/)
+        - What's a Persistent Data Structure? [:link:](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
+        - Transducers in Javascript [:link:](http://phuu.net/2014/08/31/csp-and-transducers.html)
 - **Tutorial**
     - :raised_hands: Mozilla's Official Javascript Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - Mozilla's Official DOM Reference [:link:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
     - A test-driven approach to assessing JS skills [:link:](https://github.com/rmurphey/js-assessment)
     - :raised_hands: Javascript promises visualization playground [:link:](http://bevacqua.github.io/promisees/)
     - Amazing Blog with lots of helpful projects from a JS master [:link:](http://bevacqua.io/opensource)
-    - Functional javascript workshop [:link:](https://github.com/timoxley/functional-javascript-workshop)
     - :raised_hands: Javascript Garden [:link:](http://bonsaiden.github.io/JavaScript-Garden/)
 - **Interview**
     - :fire: Awesome Javascript Interview Questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#javascript)
@@ -95,16 +103,6 @@ comments: true
     - Measuring Javascript Performance [:link:](http://www.sitepoint.com/measuring-javascript-functions-performance/)
     - Understanding .then and Promise Chaining [Link1](http://www.sitepoint.com/overview-javascript-promises/) and [Link2](http://www.sitepoint.com/deeper-dive-javascript-promises/)
     - Why array.reduce remains supreme [:link:](http://glebbahmutov.com/blog/reduce-reigns-supreme/)
-    - Architecture
-        - An introduction to Transducers in Javascript [Link1](http://simplectic.com/blog/2014/transducers-explained-1/), with Pipelines [Link2](http://simplectic.com/blog/2014/transducers-explained-pipelines/)
-        - Transpilers: This time it's different [:link:](http://dailyjs.com/2015/02/26/babel/)
-        - The state of JS Application Architecture in 2015 [:link:](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
-    - Functional Programming
-        - An Intro to Functional Programming Concepts in Javascript [:link:](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
-        - Functional Javascript with Recursions & Tail Call Optimization [:link:](http://www.integralist.co.uk/posts/js-recursion.html)
-        - Higher order functions in JS [:link:](http://www.sitepoint.com/higher-order-functions-javascript/)
-        - What's a Persistent Data Structure? [:link:](https://www.quora.com/Why-did-innovation-on-persistent-data-structures-come-from-Clojure-before-Haskell)
-        - Transducers in Javascript [:link:](http://phuu.net/2014/08/31/csp-and-transducers.html)
 - **ECMAScript**
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
@@ -119,8 +117,15 @@ comments: true
         - map and weakMap [:link:](http://www.sitepoint.com/preparing-ecmascript-6-map-weakmap/)
         - let vs const [:link:](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
         - ES6 Generators Deliver Go style Concurrency [:pencil2:](http://swannodette.github.io/2013/08/24/es6-generators-and-csp/)
+        - ES6 JavaScript Destructuring in Depth [:link:](https://ponyfoo.com/articles/es6-destructuring-in-depth)
     - Other
         - Immutable Records, Vectors, Maps and Sets for ECMAScript [:pencil:](https://github.com/sebmarkbage/ecmascript-immutable-data-structures)
+- **Compiler**
+    - How is V8 Javascript faster than C++? [:slides:](http://v8-io12.appspot.com/#4)
+    - How does the Javascript V8 engine work? [:link:](How the V8 engine works?)
+    - An introduction to Transducers in Javascript [Link1](http://simplectic.com/blog/2014/transducers-explained-1/), with Pipelines [Link2](http://simplectic.com/blog/2014/transducers-explained-pipelines/)
+    - Transpilers: This time it's different [:link:](http://dailyjs.com/2015/02/26/babel/)
+    - The state of JS Application Architecture in 2015 [:link:](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
 - **Github Projects**
     - Make some animations with Mo.js [:link:](http://mojs.io/tutorials/easing/path-easing/)
     - Promises/A+ [:link:](https://promisesaplus.com/)

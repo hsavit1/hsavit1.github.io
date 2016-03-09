@@ -20,8 +20,13 @@ comments: true
     - Node Weekly [:link:](http://nodeweekly.com/)
 - **Learning**
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[:link:](https://github.com/substack/stream-handbook)
-    - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
     - Online Lessons for Node.js [:link:](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
+    - Tech Yourself Node.js in 10 Steps [:link:](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+- **Books**
+    - The Node Way [:book:](http://thenodeway.io/introduction/)
+    - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
+    - Guide to Streams [:book:](https://github.com/stephenplusplus/stream-faqs)
+    - Mixu's Node book [:book:](http://book.mixu.net/node/single.html)
 - **CheatSheets**
     - Node.js Refcard [:link:](https://dzone.com/refcardz/nodejs)
     - StrongLoop Node.js CheatSheet [:link:](https://dzone.com/storage/assets/3112-rc141-010d-nodejs_3%20(1).pdf)

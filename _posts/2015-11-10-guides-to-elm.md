@@ -18,7 +18,8 @@ comments: true
 - **Tutorial**
     - Learn Elm by Example [:link:](http://elm-by-example.org/toc.html)
     - :raised_hands: The Elm Architecture Tutorial [:link:](https://github.com/evancz/elm-architecture-tutorial)
-    - From Haskell to Elm [:link:](https://github.com/eeue56/haskell-to-elm)
+    - From Haskell to Elm [:link:](https://github.com/eeue56/haskell-to-elm) 
+    - Haskell to Elm translation [:link:](https://github.com/JoeyEremondi/haskelm)
     - Building Reactive Web Apps [:link:](https://pragmaticstudio.com/elm)
     - Switching from imperative to functional programming with games in Elm [:link:](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
     - Making Pong [:link:](http://elm-lang.org/blog/making-pong)

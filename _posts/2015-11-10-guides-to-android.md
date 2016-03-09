@@ -27,6 +27,7 @@ comments: true
     - :fire: :raised_hands: Codepath Android Guide [:link:](https://github.com/codepath/android_guides)
     - Official Android Pages [:link:](http://developer.android.com/training/index.html)
     - Clean Architecture in Android [:link:](https://github.com/android10/Android-CleanArchitecture)
+    - Android Design Patterns [:link:](http://www.raywenderlich.com/109843/common-design-patterns-for-android)
 - **Slides**
     - Android for iOS Devs [:floppy_disk:](https://speakerdeck.com/sdougherty/tales-from-the-darkside-android-development-for-ios-developers)
     - Java vs Scala for Android Dev [:floppy_disk:](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
