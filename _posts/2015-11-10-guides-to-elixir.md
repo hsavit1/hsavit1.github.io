@@ -63,6 +63,8 @@ comments: true
         - Elixir is _not_ Ruby [:link:](http://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
         - Can Elixir be used for finance? [:link:]
     - *Language Related*
+        - Syntax 
+            - Introduction to Elixir Syntax [:link:](http://www.akitaonrails.com/2015/11/25/elixir-101-introducing-the-syntax)
         - OTP
             - OTP: A Functional Approach [:link:](https://viget.com/extend/otp-ocaml-haskell-elixir)
         - Macros
