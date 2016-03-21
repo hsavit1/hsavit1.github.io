@@ -22,6 +22,7 @@ comments: true
     - :raised_hands: the Stream Handbook: Covers the basics of how to write node.js programs with streams[:link:](https://github.com/substack/stream-handbook)
     - Online Lessons for Node.js [:link:](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
     - Tech Yourself Node.js in 10 Steps [:link:](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+    - :fire: NodeJS Learning [:link:](https://github.com/sergtitov/NodeJS-Learning)
 - **Books**
     - The Node Way [:book:](http://thenodeway.io/introduction/)
     - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)

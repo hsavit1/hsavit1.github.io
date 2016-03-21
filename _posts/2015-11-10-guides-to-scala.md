@@ -33,5 +33,6 @@ comments: true
     - Scala on Android is ready for Prime Time [:floppy_disk:](https://speakerdeck.com/raulraja/scala-on-android-the-current-state-of-affairs)
     - Introduction to Akka [:floppy_disk:](http://slides.com/oliviermartin/akka#/)
     - Coming to Scala from Java [:floppy_disk:](https://speakerdeck.com/jamesstephenson/from-java-to-scala)
+    - Purely Functional Algorithms and Data Structures in Scala [:floppy_disk:](https://github.com/vkostyukov/scalacaster)
 - **Github**
     + Akka Repository [Github](https://github.com/akka/akka)

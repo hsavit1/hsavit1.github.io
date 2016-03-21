@@ -10,6 +10,8 @@ comments: true
     - :fire: Awesome MySQL [:link:](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
     - :fire: Awesome SQL Alchemy [:link:](https://github.com/dahlia/awesome-sqlalchemy)
     - :fire: Awesome Cassandra [:link:](https://github.com/yikebocai/awesome-cassandra)
+    - :fire: Awesome DB Benchmarks [:link:](https://github.com/benstopford/awesome-db-benchmarks)
+    - :fire: Awesome Big Data [:link:](https://github.com/onurakpolat/awesome-bigdatas)
     - Turning the database inside out with Apache Samza [:link:](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
     - Facebook GraphQL [:link:](https://github.com/facebook/graphql)
 - **Posts**
