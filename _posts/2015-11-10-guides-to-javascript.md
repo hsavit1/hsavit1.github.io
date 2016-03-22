@@ -113,6 +113,7 @@ comments: true
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
         - What is ES7? [:link:](http://www.2ality.com/2015/11/tc39-process.html?utm_source=javascriptweekly&utm_medium=email)
+        - ES7 Feature List [:link:](https://github.com/hemanth/es7-features)
     - ES6
         - ES6 overview in 250 bullet points [:link:](https://ponyfoo.com/articles/es6)
         - ECMAScript 6 Features [:link:](https://github.com/lukehoban/es6features)
