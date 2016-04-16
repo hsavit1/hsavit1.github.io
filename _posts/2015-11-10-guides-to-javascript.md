@@ -37,9 +37,11 @@ comments: true
     - Javascripy Weekly Newsletter [:link:](http://javascriptweekly.com/)
     - SDK Design Guidelines [:link:](https://github.com/huei90/javascript-sdk-design)
     - JSON Editor [:link:](http://jsoneditoronline.org/)
+    - Asynchronous Module Definition API [:link:](https://github.com/amdjs/amdjs-api)
 - **Data Structures and Algorithms**
     - :raised_hands: Algorithms in Javascript [:link:](https://github.com/felipernb/algorithms.js), [:link:](https://github.com/nzakas/computer-science-in-javascript), [:link:](https://github.com/dhruvbird/algorithm-js), [:link:](https://github.com/duereg/js-algorithms), [:link:](https://github.com/mgechev/javascript-algorithms)
     - Revolutionary Data Structures [:link:](https://github.com/substack/data-structures-of-the-revolution)
+    - Javascript Module Loader [:link:](http://slides.com/avenuecode/a-javascript-module-loader-require-js)
 - **Design Patterns**
     - :raised_hands: Javascript Design Patterns website [:link:](http://www.dofactory.com/javascript/design-patterns)
     - :raised_hands: Javascript Design Patterns code [:link:](https://github.com/tcorral/Design-Patterns-in-Javascript)
@@ -48,6 +50,8 @@ comments: true
     - Journey from procedural programming to reactive programming [:link:](http://glebbahmutov.com/blog/journey-from-procedural-to-reactive-javascript-with-stops/)
     - Event Handling Patterns and the future of web development [:link:](http://www.sitepoint.com/emerging-patterns-javascript-event-handling/)
     - ES6 Design Patterns [:link:](https://joshbedo.github.io/JS-Design-Patterns/)
+    - Modern Javascript development [:link:](http://slides.com/odyss/modern-javascript)
+    - Design Patterns for Large Scale Javascript [:link:](http://slides.com/avenuecode/design-patterns-for-large-scale-javascript#/)
 - **Books**
     - :raised_hands: You Don't Know Javascript Book Series Github Page [:link:](https://github.com/getify/You-Dont-Know-JS)
     - :raised_hands: Learning Javascript Design Patterns Free Book [:link:](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -116,7 +120,7 @@ comments: true
 - **Posts**
     - Isomorphic means Universal [:link:](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
     - You might not need Jquery [:link:](http://youmightnotneedjquery.com/)
-    - Class hierarchies? Dont do that! [:link:](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
+    - Class hierarchies? Don't do that! [:link:](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
     - Closures Demystified [:link:](http://www.sitepoint.com/javascript-closures-demystified/)
     - Introduction to CoffeeScript [:link:](http://www.sitepoint.com/accelerate-javascript-development-coffeescript/)
     - A guide to AJAX [:link:](http://www.sitepoint.com/guide-vanilla-ajax-without-jquery/)
@@ -132,12 +136,14 @@ comments: true
     - What is the (function() { } )() construct in JavaScript? [:link:](http://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
     - Why use Prototype? [:link:](http://stackoverflow.com/questions/8433459/js-why-use-prototype?lq=1)
     - Javascript closures for dummies [:link:](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1)
+    - Why Async Module Definition with Require.js [:link:](http://requirejs.org/docs/whyamd.html)
 - **ECMAScript**
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
         - What is ES7? [:link:](http://www.2ality.com/2015/11/tc39-process.html?utm_source=javascriptweekly&utm_medium=email)
         - ES7 Feature List [:link:](https://github.com/hemanth/es7-features)
     - ES6
+        - ES6 Evolution [:link:](http://slides.com/krzysztofjung/es6)
         - ES6 overview in 250 bullet points [:link:](https://ponyfoo.com/articles/es6)
         - ECMAScript 6 Features [:link:](https://github.com/lukehoban/es6features)
         - Understanding ES6 Generators [:link:](http://davidwalsh.name/es6-generators)
