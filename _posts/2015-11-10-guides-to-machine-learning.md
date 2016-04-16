@@ -20,6 +20,8 @@ comments: true
     - DeepLearning.net [:link:](http://deeplearning.net/)
 - **CheatSheet**
     - Machine Learning Cheat Sheet [:link:](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- **Papers**
+    - Neural Network Papers [:link:](https://github.com/robertsdionne/neural-network-papers)
 - **Interview**
     - Preparing for a machine learning interview [:page_facing_up:](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 - **Projects**
@@ -39,7 +41,7 @@ comments: true
     - How do I learn Machine Learning? [:link:](https://www.quora.com/How-do-I-learn-machine-learning-1)
     - How to create an artificial neural network in a simple and concise way [:link:](https://www.quora.com/Could-someone-explain-how-to-create-an-artificial-neural-network-in-a-simple-and-concise-way-that-doesnt-require-a-PhD-in-mathematics)
     - Typical use cases for machine learning algos [:link:](https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms)
-    - What is Deep Learning? [:link:](https://www.quora.com/What-is-deep-learning) 
+    - What is Deep Learning? [:link:](https://www.quora.com/What-is-deep-learning)
     - What is Data Mining? [:link:](https://www.quora.com/What-is-data-mining)
     - Why does computer vision advance faster than Natural Language Processing? [:link:](https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why)
     - What is all the hype around CRISPR? [:link:](https://www.quora.com/What-is-editing-genomes-using-CRISPR-all-about/answer/Brian-Farley-3?srid=zSlG&share=1)

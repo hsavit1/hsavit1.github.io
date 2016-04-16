@@ -16,11 +16,20 @@ comments: true
     - Facebook GraphQL [:link:](https://github.com/facebook/graphql)
 - **Posts**
     - ScyllaDB is 10x Faster than Cassandra! [:link:](http://www.scylladb.com/)
-    - RethnkDB vs MongoDB [:link:](https://www.rethinkdb.com/docs/rethinkdb-vs-mongodb/)
     - What is this new Facebook project with Relay and GraphQL? [:link:](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
     - MongoDB, PostgreSQL, or MySQL? [:link:](https://www.quora.com/Which-database-should-I-use-for-a-killer-web-application-MongoDB-PostgreSQL-or-MySQL)
     - What is Apache Hadoop? [:link:](https://hadoop.apache.org/)
     - Using Migration Scripts in Database Deployments [:link:](https://www.simple-talk.com/sql/database-administration/using-migration-scripts-in-database-deployments/)
+- **Redis**
+    - Redis Fundamentals [:floppy_disk:](http://slides.com/racku/redis-fundamentals#/)
+    - Redis Operational [:floppy_disk:](http://slides.com/racku/redis-operational)
+    - Redis Website [:link:](http://redis.io/)
+    - What are the underlying data structures used for Redis? [:link:](http://stackoverflow.com/questions/9625246/what-are-the-underlying-data-structures-used-for-redis/9626334#9626334)
+    - What is Redis and what do I use it for? [:link:](http://stackoverflow.com/questions/7888880/what-is-redis-and-what-do-i-use-it-for?rq=1)
+    - Memcached vs. Redis? [:link:](http://stackoverflow.com/questions/10558465/memcached-vs-redis?rq=1)
+- **RethinkDB**
+    - Why Redthink [:floppy_disk:](http://slides.com/katafrakt/rethinkdb#/)
+    - RethnkDB vs MongoDB [:link:](https://www.rethinkdb.com/docs/rethinkdb-vs-mongodb/)
 - **Reference**
     - MongoDB Reference [:link:](https://dzone.com/refcardz/mongodb)
 - **Books**
@@ -28,14 +37,15 @@ comments: true
 - **Education**
     - All About Redis [:link:](http://www.javacodegeeks.com/2015/09/redis-a-nosql-key-value-store.html)
     - All About MongoDB [:link:](http://www.javacodegeeks.com/2015/09/mongodb-a-scalable-nosql-db.html)
-    - All About CouchDB [:link:](http://www.webcodegeeks.com/web-development/couchdb-database-for-the-web/) 
+    - All About CouchDB [:link:](http://www.webcodegeeks.com/web-development/couchdb-database-for-the-web/)
 - **Slides**
     - Rebuilding Twitter with Cassandra [:floppy_disk:](https://speakerdeck.com/matthewrudy/rebuilding-twitter-with-cassandra-and-ruby)
     - Realm Overview [:floppy_disk:](https://speakerdeck.com/jpsim/realm-overview)
     - A Primer on RethinkDB [:floppy_disk:](https://speakerdeck.com/marceloalves/rethinkdb-primer)
     - Distributed Databases with RethinkDB [:floppy_disk:](https://speakerdeck.com/segphault/rethinkdb-training-course)
-    - Redis [:floppy_disk:](https://speakerdeck.com/swanson/redis-swiss-army-knife)
-    - Redis: Your Data on Steroids [:floppy_disk:](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
+    - Redis
+        - Redis [:floppy_disk:](https://speakerdeck.com/swanson/redis-swiss-army-knife)
+        - Redis: Your Data on Steroids [:floppy_disk:](https://speakerdeck.com/ndemoor/redis-your-data-on-steroids)
 - **Github**
     - Facebook GraphQL.js [:pencil2:](https://github.com/graphql/graphql-js)
     - Mongoose MongoDB Object Modeling [:pencil2:](https://github.com/Automattic/mongoose)

@@ -19,9 +19,11 @@ comments: true
     - All about microservices [:link:](http://microservices.io/patterns/microservices.html)
     - Javascript Application Architecture 2015 [:link:](https://medium.com/google-developers/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
     - Uncle Bobs Clean Architecture [:link:](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+    - Microserivces without the servers [:link:](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
 - **Slides**
     - Why Microservices? [:link:](http://slides.com/indyarocks/deck#/)
     - Microservices: The When and Where [:link:](http://slides.com/aaroneus/microservices--2#/)
     - What are Microservices? [:link:](http://slides.com/alexmcpt/ms4dummies#/)
+    - Microservices without servers AWS Lambda [:link:](http://events.linuxfoundation.org/sites/events/files/slides/cc15_wagner.pdf)
 - **Github**
     - Vamp Microserivces Platfrom [Gtihub](https://github.com/magneticio/vamp/)

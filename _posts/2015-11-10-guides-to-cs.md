@@ -36,6 +36,8 @@ comments: true
     - Shouuld I learn Scheme for Functional Programming? [:link:](https://www.quora.com/Is-Scheme-worth-learning)
     - Is Structure and Interpretation of Computer Programs worth reading? [:link:](https://www.quora.com/Is-Structure-and-Interpretation-of-Computer-Programs-SICP-worth-reading)
     - What are the top five books every computer programmer should study at least once? [:link:](https://www.quora.com/What-are-the-top-five-books-every-computer-programmer-should-study-at-least-once/answer/Tikhon-Jelvis)
+    - What are the advantages and disadvantages of using lenses? [:link:](http://stackoverflow.com/questions/10774614/what-are-the-advantages-and-disadvantages-of-using-lenses?lq=1)
+    - What are lenses used/useful for? [:link:](http://stackoverflow.com/questions/10788261/what-are-lenses-used-useful-for?lq=1)
 - **Interviews**
     - What is the worst part of working at Google? [:link:](https://www.quora.com/What-is-the-worst-part-about-working-at-Google)
     - How to Work at Facebook or Google in only 6 months [:link:](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months/answer/Jimmy-Saade?srid=TAJ1&share=1)

@@ -27,6 +27,9 @@ comments: true
         - What is the most Widely Used Functional Programming Language? [:link:](https://www.quora.com/Functional-Programming/Which-is-the-most-widely-used-functional-programming-language-today-Oct-2014)
         - How do I think like a functional programmer? [:link:](https://www.quora.com/How-can-I-learn-to-think-like-a-functional-programmer)
     - Covariance and Contravariance [:page_facing_up:](https://www.stephanboyer.com/post/39/covariance-and-contravariance)
+    - What is Dependency injection? [:link:](http://stackoverflow.com/questions/130794/what-is-dependency-injection?rq=1)
+    - Is there any Mathematical Model or Theory behind Programming Languages? [:link:](http://stackoverflow.com/questions/2469824/is-there-any-mathematical-model-or-theory-behind-programming-languages/2473690#2473690)
+    - Understanding Hindley-Milner [:link:](http://stackoverflow.com/questions/12532552/what-part-of-milner-hindley-do-you-not-understand?rq=1)
 - **Books**
     - How to Design Programs [:book:](http://www.ccs.neu.edu/home/matthias/HtDP2e/index.html)
     - Programming Languages: Application and Interpretation [:book:](http://cs.brown.edu/courses/cs173/2012/book/index.html)

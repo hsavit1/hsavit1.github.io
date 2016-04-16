@@ -19,6 +19,7 @@ comments: true
 		- How EC2 can work with Docker [:link:](https://aws.amazon.com/ecs/)
 		- How to deploy Docker apps to ElasticBeanstalk [:link:](https://github.com/hopsoft/relay/wiki/How-to-Deploy-Docker-apps-to-Elastic-Beanstalk)
 	- What is Elastic Beanstalk [:link:](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) and how it works [:link:](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html)
+	- Ansible AWS [:link:](https://www.ansible.com/aws)
 - **Video**
 	- Instructional Videos and Labs [:link:](https://aws.amazon.com/training/intro_series/)
 	- Training Video Playlist [:link:](https://www.youtube.com/playlist?list=PLhr1KZpdzukcMmx04RbtWuQ0yYOp1vQi4)

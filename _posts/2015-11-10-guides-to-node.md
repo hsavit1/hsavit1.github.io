@@ -16,6 +16,8 @@ comments: true
     - Node Module of the Week [:link:](http://nmotw.in/)
     - Node.js Weekly [:link:](http://nodeweekly.com/)
     - Jade, Node Template Engine [:link:](http://jade-lang.com/reference/attributes/)
+    - What is Node.js' Connect, Express and “middleware”? [:link:](http://stackoverflow.com/questions/5284340/what-is-node-js-connect-express-and-middleware)
+    - What is Node.js? [:link:](http://stackoverflow.com/questions/1884724/what-is-node-js/6782438#6782438)
 - **News**
     - Node Weekly [:link:](http://nodeweekly.com/)
 - **Learning**
@@ -23,6 +25,7 @@ comments: true
     - Online Lessons for Node.js [:link:](http://www.webcodegeeks.com/javascript/node-js/building-web-apps-with-node-js/)
     - Tech Yourself Node.js in 10 Steps [:link:](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
     - :fire: NodeJS Learning [:link:](https://github.com/sergtitov/NodeJS-Learning)
+    - How do I get started with Node [:link:](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js/)
 - **Books**
     - The Node Way [:book:](http://thenodeway.io/introduction/)
     - Browserify Handbook [:link:](https://github.com/substack/browserify-handbook)
@@ -49,9 +52,14 @@ comments: true
     - Gulp + Browserify: The everything post [:link:](https://viget.com/extend/gulp-browserify-starter-faq)
     - Building a blog with Metalsmith [:link:](https://azurelogic.com/posts/building-a-blog-with-metalsmith/)
     - Metalsmith Walkthough Tutorial [:link:](https://github.com/RobinThrift/metalsmith-tutorial)
+    - Dockerizing a Node.js web app [:link:](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 - **Slides**
     - :raised_hands: Node Fundamentals [:link:](http://slides.com/surtich/node-fundamentals#/)
     - Getting Familiar with Grunt and Gulp [:floppy_disk:](https://speakerdeck.com/johnpapa/gulp-and-grunt)
+    - How node js works [:link:](http://slides.com/ghaiklor/how-nodejs-works)
+    - What is Loopback? [:link:](http://slides.com/charlypoly-1/loopback#/)
+    - Loopback presentation [:link:](http://slides.com/chandrikagole/workshop-slides--2#/6/6)
+    - Loopback vs Sails [:link:](http://slides.com/rascarlito/loopback-vs-sails)
 - **Interview**
     - :fire: Awesome NodeJS interview questions [:link:](https://github.com/MaximAbramchuck/awesome-interviews#nodejs)
 - **Github**
@@ -76,3 +84,36 @@ comments: true
     - Node with 1 Million Concurrent Connections [:link:](http://blog.caustik.com/2012/08/19/node-js-w1m-concurrent-connections/)
     - Why would anyone ever use Bower? [:link:](https://www.quora.com/Why-use-Bower-when-there-is-npm)
     - Use Node + Redis [:link:](http://www.sitepoint.com/using-redis-node-js/)
+    - How to decide when to use Node [:link:](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)
+    - Node.js event loop [:link:](http://stackoverflow.com/questions/10680601/nodejs-event-loop/)
+    - Node.js processing model [:link:](http://www.journaldev.com/7462/node-js-processing-model-single-threaded-model-with-event-loop-architecture)
+    - Why is Node.js single threaded? [:link:](http://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded)
+    - How the single threaded non blocking IO model works in Node.js [:link:](http://stackoverflow.com/questions/14795145/how-the-single-threaded-non-blocking-io-model-works-in-node-js)
+    - What is the purpose of Node.js module exports? [:link:](http://stackoverflow.com/questions/5311334/what-is-the-purpose-of-node-js-module-exports-and-how-do-you-use-it?rq=1)
+    - How do I pass command line arguments to Node.js? [:link:](http://stackoverflow.com/questions/4351521/how-do-i-pass-command-line-arguments-to-node-js?rq=1)
+    - How do I parse JSON with Node.js [:link:](http://stackoverflow.com/questions/5726729/how-to-parse-json-using-node-js?rq=1)
+    - Using Express for Node.js [:link:](http://stackoverflow.com/questions/8144214/learning-express-for-node-js/8149496#8149496)
+    - Node.js / Express.js - How does app.router work? [:link:](http://stackoverflow.com/questions/12695591/node-js-express-js-how-does-app-router-work?rq=1)
+    - How to structure a express.js application? [:link:](http://stackoverflow.com/questions/7732293/how-to-structure-a-express-js-application)
+    - Anatomy of an HTTP transaction [:link:](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+    - Mastering the filesystem in Node.js [:link:](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801#.lclfmc5w3)
+- **Internals**
+    - Libuv design [:link:](http://docs.libuv.org/en/latest/design.html)
+    - Node.js on multi-core machines [:link:](http://stackoverflow.com/questions/2387724/node-js-on-multi-core-machines/8685968#8685968)
+- **DBs**
+    - RethinkDB Node driver [:link:](https://github.com/neumino/rethinkdbdash)
+- **Nginx**
+    - Using Node vs Node + Nginx [:link:](Using Node.js only vs. using Node.js with Apache/Nginx)
+    - Node.js + Nginx - What now? [:link:](http://stackoverflow.com/questions/5009324/node-js-nginx-what-now/5015178#5015178)
+- **Debugging**
+    - Node Inspector [:link:](https://github.com/node-inspector/node-inspector)
+    - How do I debug Node.js [:link:](http://stackoverflow.com/questions/1911015/how-do-i-debug-node-js-applications/3944507#3944507)
+    - 3 Options [:link:](https://spin.atomicobject.com/2015/09/25/debug-node-js/)
+    - Node.js Best Practice Exception Handling [:link:](http://stackoverflow.com/questions/7310521/node-js-best-practice-exception-handling/7313005#7313005)
+    - How to debug with WebStorm [:link:](https://www.jetbrains.com/help/webstorm/2016.1/running-and-debugging-node-js.html?origin=old_help#debugLocal)
+- **Server**
+    - Difference between proxy server and reverse proxy server [:link:](http://stackoverflow.com/questions/224664/difference-between-proxy-server-and-reverse-proxy-server/366212#366212)
+- **Comparisons**
+    - Node vs Phoenix [:link:](http://slides.com/chrisgeihsler/elixir-v-node)
+- **Blogs**
+    - Planet node [:link:](http://www.planetnodejs.com/)

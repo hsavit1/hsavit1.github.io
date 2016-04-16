@@ -7,7 +7,7 @@ comments: true
 
 #Haskell
 - **Links**
-    - How to learn haskell [:link:](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+    - How to learn Haskell [:link:](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
     - Advanced Haskell [:link:](https://en.wikibooks.org/wiki/Haskell)
     - Category Theory Presentation [:link:](http://yannesposito.com/Scratch/en/blog/Category-Theory-Presentation/)
     - School of Haskell [:link:](https://www.fpcomplete.com/school)
@@ -108,12 +108,12 @@ comments: true
     - Learn You A Haskell Exercises [:link:](https://github.com/noelmarkham/learn-you-a-haskell-exercises)
     - Project Euler [:link:](https://wiki.haskell.org/Euler_problems)
 - **Posts**
-    - *Web Development* 
+    - *Web Development*
         - Haskell for Web Developers [:link:](http://www.stephendiehl.com/posts/haskell_web.html)
         - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
         - Yesod Web Framework Book [:link:](http://www.yesodweb.com/book/persistent)
         - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
-        - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates) 
+        - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates)
     - *Functional Programming and Category Theory*
         - From Semigroups to Bind [:page_facing_up:](http://fundeps.com/posts/haskell/2014-03-05-from-semigroup-to-bind/)
         - Explanation of Category Theory in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Category_theory)
@@ -128,16 +128,18 @@ comments: true
         - Resources for math background in Haskell [:link:](http://qr.ae/R4enbV)
         - What is a GADT? [:link:](http://qr.ae/R4enLi)
         - Kind vs Type? [:link:](http://qr.ae/R4evm3)
-        - Performing derivations in Haskell [:link:](http://qr.ae/R4Z2OS) 
+        - Performing derivations in Haskell [:link:](http://qr.ae/R4Z2OS)
         - Functional Lenses Derivation [:link:](http://www.twanvl.nl/blog/haskell/cps-functional-references)
         - DDD: Domain Driven Design in Haskell [:link:](http://programmers.stackexchange.com/questions/230873/how-does-persistence-fit-into-a-purely-functional-language)
         - :raised_hands: From Adjunctions To Monads [:link:](http://www.stephendiehl.com/posts/adjunctions.html)
         - Understanding F Algebras [:link:](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
+        - [lenses, fclabels, data-accessor - which library for structure access and mutation is better](http://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio?lq=1)
+        - What is a Comonad and when should I use them? [:link:](https://www.quora.com/What-is-a-Comonad-and-when-should-I-use-them)
     - *Learning Haskell*
         - Core Haskell Concepts [:page_facing_up:](http://haskell.zcourts.com/beginner/2013/12/19/core-haskell-concepts/)
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
         - Learning Hasell [:link:](http://austinzheng.com/2015/01/06/learning-haskell-pt-1/)
-        - :raised_hands: Deriving Lenses Folds and Tranversals [:link:](http://lens.github.io/) 
+        - :raised_hands: Deriving Lenses Folds and Tranversals [:link:](http://lens.github.io/)
         - Deriving Type Signatures [:link:](https://github.com/ekmett/lens/wiki/Derivation)
         - The Dining Philosophers Problem With Ron Swanson [:link:](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
         - Beautiful Concurrency [:link:](https://www.fpcomplete.com/school/advanced-haskell/beautiful-concurrency)
@@ -152,6 +154,7 @@ comments: true
         - The Complete Guide to Lazy Evaluation in Haskell [:link:](https://hackhands.com/guide-lazy-evaluation-haskell/)
         - What is WHNF (Weak Head Normal Form) [:link:](http://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form)
         - What is Stream Fusion [:link:](http://stackoverflow.com/questions/578063/what-is-haskells-stream-fusion)
+        - Haskell Design Patterns [:link:](https://www.quora.com/What-are-some-functional-programming-design-patterns)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
@@ -175,7 +178,7 @@ comments: true
         - Denotational design does not work [:link:](https://ro-che.info/articles/2014-12-31-denotational-design-does-not-work)
     - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
-        - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry) 
+        - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry)
     - *Algorithms, Data Structures, Design Patterns*
         - DS and A using Haskell [:link:](http://okmij.org/ftp/Haskell/AlgorithmsH.html)
         - Monoids and FingerTrees [:link:](https://www.codementor.io/haskell/tutorial/monoids-fingertrees-implement-abstract-data)        

@@ -14,6 +14,7 @@ comments: true
     - Deck.js [:link:](http://imakewebthings.com/deck.js/#intro)
     - Remark [:link:](https://github.com/gnab/remark)
     - JSON Resume Builder [:link:](http://www.prat0318.me/json_resume/)
+    - Code Slide Presentation [:link:](http://thejameskyle.com/spectacle-code-slide/)
 - **Github**
     - Emoji Markdown CheatSheet [Github](https://github.com/arvida/emoji-cheat-sheet.com/)
     - Markdown Resume Builder [:link:](http://mwhite.github.io/resume/)

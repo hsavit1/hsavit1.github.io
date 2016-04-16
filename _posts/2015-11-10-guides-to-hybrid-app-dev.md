@@ -22,3 +22,6 @@ comments: true
 - **Tutorial**
     - Make a cross platform mobile app with Reapp in 30 minutes [Tutorial](https://scotch.io/tutorials/make-a-mobile-app-with-reactjs-in-30-minutes)
     - Ionic vs React Native [:link:](https://medium.com/@sonnylazuardi/ionic-framework-hybrid-app-vs-react-native-4facdd93f690#.tl2xkidta)
+- **React Native**
+    - Building the F8 app with react native [:link:](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/)
+    - Building F8 [:link:](http://makeitopen.com/tutorials/building-the-f8-app/planning/)
