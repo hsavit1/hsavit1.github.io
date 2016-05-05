@@ -18,6 +18,8 @@ comments: true
 - **Posts**
     - What is Unicode? [:link:](http://unicode.org/standard/WhatIsUnicode.html)
     - What is Relational Programming? [:link:](http://c2.com/cgi/wiki?RelationalProgrammingLanguage)
+    - *OOP*
+      - Advanced OOP Concepts [:floppy_disk:](http://www.slideshare.net/sangharshcs/advance-oops-concepts-8752156)
     - *Functional Programmong*
         - Why do we need Type Systems? [:link:](https://www.quora.com/Why-do-programming-languages-use-type-systems)
         - What are Functional Lenses? [:link:](http://stackoverflow.com/questions/8307370/functional-lenses)

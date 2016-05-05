@@ -61,6 +61,7 @@ comments: true
     - :raised_hands: Typeclassopedia [:link:](https://wiki.haskell.org/Typeclassopedia)
     - Standard Haskell Classes [:link:](https://en.wikibooks.org/wiki/Haskell/Classes_and_types#/media/File:Classes.svg)
     - Testing with QuickCheck [:link:](http://www.cse.chalmers.se/~rjmh/QuickCheck/)
+    - Haskell Style Guide [:link:](http://stackoverflow.com/questions/6398996/good-haskell-source-to-read-and-learn-from?rq=1)
 - **Books**
     - Purely Functional Data Structures [:link:](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
     - Introduction to Haskell [:link:](https://www.fpcomplete.com/school/starting-with-haskell/introduction-to-haskell)
@@ -75,7 +76,7 @@ comments: true
     - Real World Haskell [:link:](http://book.realworldhaskell.org/)
     - Parallel and Concurrent Programming in Haskell [:link:](http://chimera.labs.oreilly.com/books/1230000000929/index.html)
     - Haskell Implementation Reading List [:link:](http://www.stephendiehl.com/posts/essential_compilers.html)
-    - Haskell: The Cradt of Functional Programming [:link:](http://www.haskellcraft.com/craft3e/Home.html)
+    - Haskell: The Craft of Functional Programming [:link:](http://www.haskellcraft.com/craft3e/Home.html)
     - A Haskell Reading List [:link:](http://conal.net/papers/icfp97/icfp97.pdf)
     - Haskell Programming [:link:](http://okmij.org/ftp/Haskell/)
     - The Haskell Articles [:link:](https://github.com/quchen/articles)
@@ -103,17 +104,11 @@ comments: true
     - Simple Yesod Tutorial [:page_facing_up:](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
     - Haskell Diagram Tutorial [:link:](http://projects.haskell.org/diagrams/doc/quickstart.html)
 - **Exercises**
-    - Offical Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
+    - Official Haskell Programming Contests [:link:](https://wiki.haskell.org/Programming_contests)
     - Daily Haskell Exercises [:link:](http://dailyhaskellexercise.tumblr.com/)
     - Learn You A Haskell Exercises [:link:](https://github.com/noelmarkham/learn-you-a-haskell-exercises)
     - Project Euler [:link:](https://wiki.haskell.org/Euler_problems)
 - **Posts**
-    - *Web Development*
-        - Haskell for Web Developers [:link:](http://www.stephendiehl.com/posts/haskell_web.html)
-        - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
-        - Yesod Web Framework Book [:link:](http://www.yesodweb.com/book/persistent)
-        - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
-        - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates)
     - *Functional Programming and Category Theory*
         - From Semigroups to Bind [:page_facing_up:](http://fundeps.com/posts/haskell/2014-03-05-from-semigroup-to-bind/)
         - Explanation of Category Theory in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Category_theory)
@@ -176,6 +171,7 @@ comments: true
         - Weaknesses of Haskell [:link:](https://www.quora.com/What-are-the-main-weaknesses-of-Haskell-as-a-programming-language)
         - Coolest Damn Piece of Haskell [:link:](http://evan-tech.livejournal.com/220036.html)
         - Denotational design does not work [:link:](https://ro-che.info/articles/2014-12-31-denotational-design-does-not-work)
+        - Haskell vs ML [:link:](http://stackoverflow.com/questions/810409/haskell-or-standard-ml-for-beginners?rq=1)
     - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry)
@@ -189,6 +185,7 @@ comments: true
         - A Trie in Haskell [:link:](https://bigonotetaking.wordpress.com/2015/11/06/a-trie-in-haskell/)
         - Tying the Knot in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Laziness#Infinite_data_structures)
         - Infinite Data Structures in Haskell [:link:](https://en.wikibooks.org/wiki/Haskell/Laziness#Tying_the_knot)
+        - Haskell: Lists, Arrays, Vectors, Sequences [:link:](http://stackoverflow.com/questions/9611904/haskell-lists-arrays-vectors-sequences?rq=1)
     - *Language Syntax Related*
         - What is the Difference between Kinds and Types in Haskell? [:link:](https://www.quora.com/What-is-the-difference-between-Kind-and-Type-in-Haskell)
         - MonadPlus vs Monoids vs Semigroups [:link:](http://stackoverflow.com/questions/17056881/monoid-vs-monadplus)
@@ -199,6 +196,10 @@ comments: true
         - Difference between (.) and $ [:link:](https://www.reddit.com/r/haskell/comments/3z2xu9/difference_between_and/)
         - What does Haskell call the Hom Functor/Monad? [:link:](http://stackoverflow.com/questions/6702169/what-does-haskell-call-the-hom-functor-monad)
         - Profunctors [:link:](https://www.schoolofhaskell.com/user/liyang/profunctors)
+        - Where vs Let in Haskell [:link:](http://stackoverflow.com/questions/4362328/haskell-where-vs-let?rq=1)
+        - difference between where bindings, let bindings and the single assignment operator (<-) [:link:](http://stackoverflow.com/questions/9254124/difference-between-where-bindings-let-bindings-and-the-single-assignment-operat?lq=1)
+        - In Haskell, when do we use in with let? [:link:](http://stackoverflow.com/questions/8274650/in-haskell-when-do-we-use-in-with-let)
+        - Let vs. Where [:link:](https://wiki.haskell.org/Let_vs._Where#Advantages_of_let)
 - **Slides**
     - Functors, Monads, and Whatnot [:floppy_disk:](http://www.scs.stanford.edu/14sp-cs240h/slides/functors-monads-slides.html#(1))
     - Haskell's GHC, Illustrated [:floppy_disk:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
@@ -243,7 +244,18 @@ comments: true
     - Better know a language: Purescript [:floppy_disk:](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html#1)
 
 #Yesod
+- **Web Development**
+    - Haskell for Web Developers [:link:](http://www.stephendiehl.com/posts/haskell_web.html)
+    - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
+    - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
+    - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates)
 - **Posts**
+    - Yesod Web Framework Book [:link:](http://www.yesodweb.com/book/persistent)
     - Yesod and Docker [:link:](https://ilikewhenit.works/blog/1)
     - Powered by Yesod [:link:](https://ilikewhenit.works/blog/1)
     - How do you feel about Yesod? [:link:](https://www.quora.com/Haskell-programming-language/How-does-the-Yesod-web-framework-compare-to-more-mature-frameworks-such-as-Rails-and-Django) [:link:](http://qr.ae/Rgy8xR)
+    - Shakesperian Templates with Yesod [:link:](http://www.yesodweb.com/book/shakespearean-templates)
+    - What is an embedded DSL? [:link:](What is an embedded domain-specific language?)
+    - Yesod Screencasts [:link:](http://www.yesodweb.com/page/screencasts)
+    - Free Haskell and Yesod book [:link:](http://www.yesodweb.com/book)
+    - Is Yesod production ready? [:link:](https://www.quora.com/Is-Yesod-a-production-level-web-framework-or-are-there-more-complete-options-for-Haskell)

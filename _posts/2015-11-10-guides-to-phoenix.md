@@ -30,6 +30,8 @@ comments: true
     - Why Phoenix [:floppy_disk:](https://speakerdeck.com/pedroassumpcao/phoenix-framework)
     - Pheonix vs Rails [:floppy_disk:](https://speakerdeck.com/ma2gedev/ruby-on-rails-vs-phoenix-framework-number-shinjukuex-number-m3dev)
 - **Tutorials**
+    - Phoenix Github Examples [:link:](https://github.com/phoenix-examples)
+    - Blog Tutorial [:link:](https://github.com/Gazler/elixir-blog-tutorial)
     - Really Fantastic Tutorial Series [:link:](http://phoenix.thefirehoseproject.com/1.html)
     - Phoenix + Heroku [:link:](https://speakerdeck.com/ma2gedev/guide-to-build-a-realtime-application-using-phoenix-on-heroku)
     - Basic CRUD App [:link:](http://gogogarrett.sexy/programming-in-elixir-with-the-phoenix-framework-building-a-basic-CRUD-app/)
@@ -40,6 +42,9 @@ comments: true
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
     - RethinkDb setup [:page_facing_up:](http://ryanswapp.com/2015/11/28/getting-started-with-rethinkdb-and-phoenix-framework/)
     - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
+- **Up and Running with Docker**
+    - Docker Phoenix [:link:](https://github.com/marcelocg/phoenix-docker)
+    - How to use Docker and Phoenix [:link:](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)
 - **Presentations**
     - ElixirConf 2015: What's next for Phoenix? [:microphone:](https://www.youtube.com/watch?v=IMUpYOc9z3c)
     - ElixirConf 2015: Using Phoenix with Elm [:microphone:](https://www.youtube.com/watch?v=MgFDZx1LmOE)

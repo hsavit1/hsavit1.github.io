@@ -53,6 +53,7 @@ comments: true
     - Building a blog with Metalsmith [:link:](https://azurelogic.com/posts/building-a-blog-with-metalsmith/)
     - Metalsmith Walkthough Tutorial [:link:](https://github.com/RobinThrift/metalsmith-tutorial)
     - Dockerizing a Node.js web app [:link:](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+    - Making a Reactive Server with RxJS [:link:](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/)
 - **Slides**
     - :raised_hands: Node Fundamentals [:link:](http://slides.com/surtich/node-fundamentals#/)
     - Getting Familiar with Grunt and Gulp [:floppy_disk:](https://speakerdeck.com/johnpapa/gulp-and-grunt)

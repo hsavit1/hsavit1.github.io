@@ -51,6 +51,7 @@ comments: true
     - Event Handling Patterns and the future of web development [:link:](http://www.sitepoint.com/emerging-patterns-javascript-event-handling/)
     - ES6 Design Patterns [:link:](https://joshbedo.github.io/JS-Design-Patterns/)
     - Modern Javascript development [:link:](http://slides.com/odyss/modern-javascript)
+    - Addy Osmani Large Scala JS Patterns [:link:](https://addyosmani.com/largescalejavascript/)
     - Design Patterns for Large Scale Javascript [:link:](http://slides.com/avenuecode/design-patterns-for-large-scale-javascript#/)
 - **Books**
     - :raised_hands: You Don't Know Javascript Book Series Github Page [:link:](https://github.com/getify/You-Dont-Know-JS)
@@ -137,6 +138,7 @@ comments: true
     - Why use Prototype? [:link:](http://stackoverflow.com/questions/8433459/js-why-use-prototype?lq=1)
     - Javascript closures for dummies [:link:](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1)
     - Why Async Module Definition with Require.js [:link:](http://requirejs.org/docs/whyamd.html)
+    - 10 Javascript Performance Boosting Tips from Nicholas Zakas [:link:](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas)
 - **ECMAScript**
     - ES7
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)

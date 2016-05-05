@@ -35,7 +35,7 @@ comments: true
     - List of important hidden features in Python [:link:](http://stackoverflow.com/questions/101268/hidden-features-of-python)
     - Python Properties vs Atrributes [:link:](http://stackoverflow.com/questions/7374748/whats-the-difference-between-a-python-property-and-attribute)
     - What's new in Python 3? [:link:](https://docs.python.org/3/whatsnew/3.0.html)
-    - In what ways does Python beat Java? [:link:](https://www.quora.com/What-are-the-most-practical-beneficials-for-Python-comparing-to-Java) 
+    - In what ways does Python beat Java? [:link:](https://www.quora.com/What-are-the-most-practical-beneficials-for-Python-comparing-to-Java)
     - Python vs Ruby [:link:](https://ochronus.com/a-rubyists-confessions-on-python/)
     - 6 Important Deisgn Patterns in Python, Explained [:link:](http://ginstrom.com/scribbles/2007/10/08/design-patterns-python-style/)
     - Understanding Python Metaclasses [:link:](http://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
@@ -48,7 +48,7 @@ comments: true
     - Genetic Algorithms in Python [:link:](http://colindrake.me/2011/05/01/ga-in-python/)
     - Why Python 3 Exists [:link:](http://www.snarky.ca/why-python-3-exists?utm_content=buffer7a5c1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
     - How to make Python as fast as Julia [:link:](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en&utm_content=buffer9bacd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-    - Tail Call Optimization Decorator Python [:link](http://code.activestate.com/recipes/474088/) 
+    - Tail Call Optimization Decorator Python [:link](http://code.activestate.com/recipes/474088/)
 - **Opinions**
     - Python vs Ruby [:link:](https://www.quora.com/What-are-some-key-differences-between-Ruby-and-Python)
 - **Testing**
@@ -83,7 +83,7 @@ comments: true
     + A Guide to Python's Function Decorators [:link:](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
     + An extensive guide to Python Decorators [:link:](https://github.com/GrahamDumpleton/wrapt)
 - **Tutorial**
-    + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php) 
+    + The Python Tutorial [:link:](http://www.python-course.eu/python3_course.php)
     + A Functional Programming How To in Python [:link:](https://docs.python.org/2/howto/functional.html)
     + Learn Python the Hard Way [:link:](http://learnpythonthehardway.org/book/index.html)
     + 99 Python Problems [:link:](https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions#Problems_1-6)
@@ -115,8 +115,8 @@ comments: true
     - Design Patterns in Dynamic Programming [:link:](http://norvig.com/design-patterns/design-patterns.pdf)
 - **Books**
     - Intermediate Python [:book:](http://book.pythontips.com/en/latest/index.html)
-    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html) 
-    - Python Machine Learning Book [:book:](https://github.com/rasbt/python-machine-learning-book) 
+    - Free Online Book: Python 3 Patterns, Recipes, and Idioms [:book:](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/index.html)
+    - Python Machine Learning Book [:book:](https://github.com/rasbt/python-machine-learning-book)
     - Python for Signal Processing [:book:](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
     - Problem Solving with Algorithms and Data Structures using Python [:book:](http://interactivepython.org/runestone/static/pythonds/index.html)
     - All Python Books [:book:](http://importpython.com/books/)
@@ -124,6 +124,7 @@ comments: true
     - Python Cookbook [:book:](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 - **Scientific Applications**
     - Python for Scientists [:link:](http://nbviewer.ipython.org/gist/rpmuller/5920182)
+    - Probabilistic Modeling with Python [:link:](https://github.com/blei-lab/edward)
 - **Github and Projects**
     - Cool Github Projects [:link:](https://www.coolgithubprojects.com/)
     - PyPI Python package index [:link:](https://pypi.python.org/pypi)
@@ -134,7 +135,7 @@ comments: true
     - Understand Machine Learning and Python Classification Tests [:link:](https://github.com/rasbt/pattern_classification)
     - Python Reference [:link:](https://github.com/rasbt/python_reference)
     - scikit-learn: machine learning in Python [:link:](https://github.com/scikit-learn/scikit-learn)
-    - Python Monad Library [:link:](https://github.com/dbrattli/OSlash) 
+    - Python Monad Library [:link:](https://github.com/dbrattli/OSlash)
 - **Video**
     - Vim as a Python IDE [:link:](https://www.youtube.com/watch?v=YhqsjUUHj6g)
 - **Jobs**
