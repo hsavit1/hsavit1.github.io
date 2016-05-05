@@ -6,6 +6,7 @@ comments: true
 ---
 
 - **Links**
+    - :fire: Awesome Sysadmin and Linux interview questions [:link:](https://github.com/chassing/linux-sysadmin-interview-questions#contributors)
     - :fire: Awesome DevOps [:link:](https://github.com/AcalephStorage/awesome-devops#culture)
     - :fire: Awesome OSX Command Line [:link:](https://github.com/herrbischoff/awesome-osx-command-line?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221)
     - :fire: :raised_hands: Awesome Developer Environments [:link:](https://github.com/jondot/awesome-devenv)

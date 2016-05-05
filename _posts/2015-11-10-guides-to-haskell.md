@@ -200,6 +200,7 @@ comments: true
         - difference between where bindings, let bindings and the single assignment operator (<-) [:link:](http://stackoverflow.com/questions/9254124/difference-between-where-bindings-let-bindings-and-the-single-assignment-operat?lq=1)
         - In Haskell, when do we use in with let? [:link:](http://stackoverflow.com/questions/8274650/in-haskell-when-do-we-use-in-with-let)
         - Let vs. Where [:link:](https://wiki.haskell.org/Let_vs._Where#Advantages_of_let)
+        - Guards vs. if-then-else vs. cases in Haskell [:link:](http://stackoverflow.com/questions/9345589/guards-vs-if-then-else-vs-cases-in-haskell)
 - **Slides**
     - Functors, Monads, and Whatnot [:floppy_disk:](http://www.scs.stanford.edu/14sp-cs240h/slides/functors-monads-slides.html#(1))
     - Haskell's GHC, Illustrated [:floppy_disk:](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)

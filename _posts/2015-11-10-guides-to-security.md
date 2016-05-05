@@ -19,3 +19,5 @@ comments: true
 - **Guides**
     - Penetration Testing and Security Cheatsheets [:link:](https://github.com/jshaw87/Cheatsheets)
     - OSX Security Privacy Guide [:link:](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+- **Projects**
+    - ZeroNet decentralized web platform [:link:](https://docs.google.com/presentation/d/1_2qK1IuOKJ51pgBvllZ9Yu7Au2l551t3XBgyTSvilew/pub?start=false&loop=false&delayms=3000&slide=id.g9a1cce9ee_0_4)

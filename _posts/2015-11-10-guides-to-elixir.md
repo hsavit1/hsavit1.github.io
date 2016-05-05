@@ -16,8 +16,8 @@ comments: true
     - All about Elixir [:link:](https://github.com/chrismccord/elixir_express)
     - :raised_hands: Elixir School [:link:](https://github.com/doomspork/elixir-school)
     - Little Elixir Schemer [:link:](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)
-    - :fire: A list of companies currently using Elixir [:link:](https://github.com/doomspork/elixir-companies) 
-    - Elixire Reg Ex [:link:](http://www.elixre.uk/)
+    - :fire: A list of companies currently using Elixir [:link:](https://github.com/doomspork/elixir-companies)
+    - Elixir Reg Ex [:link:](http://www.elixre.uk/)
 - **Learning**
     - The best resources for Learning Elixir [:link:](https://teamgaslight.com/blog/the-best-resources-for-learning-elixir)
     - Elixir Experience [:link:](http://elixirexperience.com/)
@@ -59,11 +59,11 @@ comments: true
         - Should I learn Erlang before Elixir? [:link:](https://www.quora.com/Is-it-necessary-to-learn-Erlang-before-digging-into-Elixir)
         - Elixir vs Ruby [:link:](http://www.littlelines.com/blog/2014/06/27/elixir-vs-ruby-showdown-part-one/)
         - A review of the Elixir Language [:link:](https://www.quora.com/Reviews-of-Elixir-programming-language)
-        - Elixir vs Go vs Rust vs Scala for backend languages [:link:](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm) 
+        - Elixir vs Go vs Rust vs Scala for backend languages [:link:](https://www.quora.com/I-recently-noticed-that-some-companies-developers-migrated-or-adopted-Go-language-over-Node-js-Why-is-that/answer/Anri-Digholm)
         - Elixir is _not_ Ruby [:link:](http://zeroclarkthirty.com/2015-11-01-elixir-is-not-ruby.html)
         - Can Elixir be used for finance? [:link:]
     - *Language Related*
-        - Syntax 
+        - Syntax
             - Introduction to Elixir Syntax [:link:](http://www.akitaonrails.com/2015/11/25/elixir-101-introducing-the-syntax)
         - OTP
             - OTP: A Functional Approach [:link:](https://viget.com/extend/otp-ocaml-haskell-elixir)
@@ -71,7 +71,7 @@ comments: true
             - Understaning Elixir Macros in Pictures [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
             - The Erlangist: Understanding Elixir Macros Part 1 [:link:](http://www.theerlangelist.com/article/macros_1), Part 2 [:link:](http://www.theerlangelist.com/article/macros_2), Part 3 [:link:](http://www.theerlangelist.com/article/macros_3), Part 4 [:link:](http://www.theerlangelist.com/article/macros_4), Part 5 [:link:](http://www.theerlangelist.com/article/macros_5), Part 6 [:link:](http://www.theerlangelist.com/article/macros_6)
             - Understanding Elixir Macros [:link:](http://thepugautomatic.com/2015/10/understanding-elixir-macros/)
-        - Streams 
+        - Streams
             - Elixir Stream Patterns [:link:](http://learningelixir.joekain.com/stream-patterns-in-elixir/)
         - Processes
             - What I discovered about Elixir Processes [:link:](http://eddwardo.github.io/elixir/2015/10/22/elixir-pingpong-table/?utm_campaign=elixir_radar_26&utm_medium=email&utm_source=RD+Station)
