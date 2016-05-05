@@ -6,6 +6,7 @@ comments: true
 ---
 
 #Haskell
+
 - **Links**
     - How to learn Haskell [:link:](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
     - Advanced Haskell [:link:](https://en.wikibooks.org/wiki/Haskell)
@@ -231,8 +232,10 @@ comments: true
     - A Reader Monad [:link:](https://gist.github.com/egonSchiele/5752172)
 - **Interview**
     - 17 Haskell Interview Questions [:link:](http://career.guru99.com/top-17-haskel-interview-questions/)
+    - Haskell IV questions [:link:](http://stackoverflow.com/questions/12241521/haskell-interview-questions)
 
 #Purescript
+
 - **Links**
     - :fire: Awesome Purescript [:link:](https://github.com/passy/awesome-purescript)
     - Purescript Learning Resources [:link:](http://www.purescript.org/learn/)
@@ -245,6 +248,7 @@ comments: true
     - Better know a language: Purescript [:floppy_disk:](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html#1)
 
 #Yesod
+
 - **Web Development**
     - Haskell for Web Developers [:link:](http://www.stephendiehl.com/posts/haskell_web.html)
     - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
