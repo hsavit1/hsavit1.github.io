@@ -33,6 +33,7 @@ comments: true
 	- A worked through example in the documentation [:link:](http://kubernetes.io/docs/whatisk8s/)
 	- Swarm v. Fleet v. Kubernetes v. Mesos [:link:](https://www.oreilly.com/ideas/swarm-v-fleet-v-kubernetes-v-mesos)
 - **Posts**
+    - Docker Deep Dive [part 1](https://blog.appdynamics.com/apm/an-introduction-to-docker-part-1/) [part 2](https://dzone.com/articles/a-deep-dive-into-docker-part-2?edition=155252&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=wd%202016-05-04)
     - Lessons from Building a Node App in Docker [:link:](http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html)
     - Uncle Bob: Optimizing the Sustainable Pace [Post](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html)
     - :raised_hands: App Container Specification [:link:](https://github.com/appc/spec/blob/master/SPEC.md)

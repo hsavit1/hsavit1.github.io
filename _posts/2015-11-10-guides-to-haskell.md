@@ -5,7 +5,7 @@ date:   2015-11-10 17:20:15
 comments: true
 ---
 
-#Haskell
+#**Haskell**
 
 - **Links**
     - How to learn Haskell [:link:](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
@@ -131,6 +131,7 @@ comments: true
         - Understanding F Algebras [:link:](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
         - [lenses, fclabels, data-accessor - which library for structure access and mutation is better](http://stackoverflow.com/questions/5767129/lenses-fclabels-data-accessor-which-library-for-structure-access-and-mutatio?lq=1)
         - What is a Comonad and when should I use them? [:link:](https://www.quora.com/What-is-a-Comonad-and-when-should-I-use-them)
+        - What is the Kleene Rsoer Paradox? [:link:] https://www.quora.com/What-is-Kleene%E2%80%93Rosser-paradox-in-simple-terms
     - *Learning Haskell*
         - Core Haskell Concepts [:page_facing_up:](http://haskell.zcourts.com/beginner/2013/12/19/core-haskell-concepts/)
         - :raised_hands: How to get started with Haskell [:link:](http://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986)
@@ -151,6 +152,11 @@ comments: true
         - What is WHNF (Weak Head Normal Form) [:link:](http://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form)
         - What is Stream Fusion [:link:](http://stackoverflow.com/questions/578063/what-is-haskells-stream-fusion)
         - Haskell Design Patterns [:link:](https://www.quora.com/What-are-some-functional-programming-design-patterns)
+        - How Haskell does Parallelism [:link:](https://www.quora.com/What-are-the-implications-of-lazy-evaluation)
+        - Why is it said that any I/O operation will have side effects? [:link:](https://www.quora.com/Why-is-it-said-that-any-I-O-operation-will-have-side-effects)
+        - How does Haskell hide the IO type when reading lazily from the contents of a file? [:link:](https://www.quora.com/How-does-Haskell-hide-the-IO-type-when-reading-lazily-from-the-contents-of-a-file)
+        - In Haskell, can we write a function of type String -> String which just "extracts" and returns a String out of an IO String produced by an IO action? [:link:](https://www.quora.com/In-Haskell-can-we-write-a-function-of-type-String-String-which-just-extracts-and-returns-a-String-out-of-an-IO-String-produced-by-an-IO-action)
+        - Haskell's Concurrency and STM [:link:](https://www.quora.com/What-is-Haskell-notably-good-for)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
@@ -173,6 +179,9 @@ comments: true
         - Coolest Damn Piece of Haskell [:link:](http://evan-tech.livejournal.com/220036.html)
         - Denotational design does not work [:link:](https://ro-che.info/articles/2014-12-31-denotational-design-does-not-work)
         - Haskell vs ML [:link:](http://stackoverflow.com/questions/810409/haskell-or-standard-ml-for-beginners?rq=1)
+        - Is return-type-(only)-polymorphism in Haskell a good thing? [:link:](http://programmers.stackexchange.com/questions/105662/is-return-type-only-polymorphism-in-haskell-a-good-thing?rq=1)
+        - How are Erlang processes better isolated than Haskell green threads, or Akka Actors? [:link:](https://www.quora.com/How-are-Erlang-processes-better-isolated-than-Haskell-green-threads-or-Akka-Actors)
+        - What's so bad about Template Haskell? [:link:](http://stackoverflow.com/questions/10857030/whats-so-bad-about-template-haskell)
     - *Uses of Haskell*
         - Difficult Problems in Python that Haskell Makes Easy [:link:](https://www.quora.com/What-is-an-algorithmic-problem-that-is-easy-to-solve-in-Haskell-but-difficult-to-solve-in-Python)
         - Haskell in industry [:link:](https://wiki.haskell.org/Haskell_in_industry)
@@ -239,11 +248,18 @@ comments: true
 - **Links**
     - :fire: Awesome Purescript [:link:](https://github.com/passy/awesome-purescript)
     - Purescript Learning Resources [:link:](http://www.purescript.org/learn/)
+    - 24 Days of Purescript [:link:](https://gist.github.com/paf31/8e9177b20ee920480fbc)
 - **Books**
     - Purscript by Example [:book:](https://leanpub.com/purescript/read)
 - **Posts**
     - The Elm architecture, in Purescript [:link:](http://www.parsonsmatt.org/programming/2015/10/05/elm_vs_purescript_ii.html)
     - Haste vs Purescript vs Elm [:link:](https://www.reddit.com/r/purescript/comments/2mgzsz/any_new_opinions_here_haste_vs_purescript_vs_elm/)
+    - Elm vs Purescript [:link:](http://www.parsonsmatt.org/2015/10/03/elm_vs_purescript.html) [part 2](http://www.parsonsmatt.org/2015/10/05/elm_vs_purescript_ii.html)
+    - Elm architecture in Purescript [:link:](http://www.parsonsmatt.org/2015/10/10/elm_architecture_in_purescript_iii.html)
+    - Elm Architecture in PureScript IV: Effects [:link:](http://www.parsonsmatt.org/2015/10/11/elm_architecture_in_purescript_iv_effects.html)
+    - Elm v Purescript [:link:](https://gist.github.com/spicydonuts/0c09596c1f27d517e9fe)
+    - Frontend Functional Programming with Purescript and Elm [:link:](http://blog.thomasstreet.com/post/129725260288/frontend-functional-programming-with-purescript)
+    - Elm vs Purescript forum [:link:](https://news.ycombinator.com/item?id=10838239)
 - **Slides**
     - Better know a language: Purescript [:floppy_disk:](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html#1)
 
@@ -254,6 +270,8 @@ comments: true
     - Making a website with Haskell [:link:](http://adit.io./posts/2013-04-15-making-a-website-with-haskell.html)
     - Make a concurrent web scraper with Haskell [:link:](http://adit.io./posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html)
     - Working with HTML in Haskell [:link:](http://adit.io/posts/2012-04-14-working_with_HTML_in_haskell.html#using-functions-as-predicates)
+    - Max concurrency / parallelism with Haskell [:link:]https://www.quora.com/What-kind-of-tests-have-been-done-on-Haskell-for-its-max-concurrency-parallelism
+    - Why Haskell for Web Developers? [:link:](https://www.quora.com/Why-should-I-use-Haskell-to-build-a-web-application)
 - **Posts**
     - Yesod Web Framework Book [:link:](http://www.yesodweb.com/book/persistent)
     - Yesod and Docker [:link:](https://ilikewhenit.works/blog/1)
@@ -264,3 +282,5 @@ comments: true
     - Yesod Screencasts [:link:](http://www.yesodweb.com/page/screencasts)
     - Free Haskell and Yesod book [:link:](http://www.yesodweb.com/book)
     - Is Yesod production ready? [:link:](https://www.quora.com/Is-Yesod-a-production-level-web-framework-or-are-there-more-complete-options-for-Haskell)
+    - Yesod Tutorial [:link:](https://www.fpcomplete.com/blog/2012/10/yesod-tutorial-1-my-first-web-site)
+    - Yesod vs Snap [:link:](http://stackoverflow.com/questions/5645168/comparing-haskells-snap-and-yesod-web-frameworks/5650715#5650715)

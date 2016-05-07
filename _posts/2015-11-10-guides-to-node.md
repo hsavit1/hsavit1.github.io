@@ -47,6 +47,7 @@ comments: true
     - Quick Node & Bootstrap Web App [:link:](https://stormpath.com/blog/build-nodejs-express-stormpath-app/)
     - How to minimize website weight and get fast builds with Gulp.js [:link:](http://www.sitepoint.com/introduction-gulp-js/)
     - How to create an HTTP server [:link:](http://www.sitepoint.com/creating-a-http-server-in-node-js/) and how to make HTTP requests with Node [:link:](http://www.sitepoint.com/making-http-requests-in-node-js/)
+    - Learning HTTP through Node.js [:link:](https://blog.risingstack.com/node-hero-node-js-request-module-tutorial/)
     - Intro to Node Streams [:link:](http://www.sitepoint.com/introduction-to-streams/)
     - Intro to Browserify [:link:](http://www.sitepoint.com/getting-started-browserify/)
     - Gulp + Browserify: The everything post [:link:](https://viget.com/extend/gulp-browserify-starter-faq)
@@ -117,4 +118,5 @@ comments: true
 - **Comparisons**
     - Node vs Phoenix [:link:](http://slides.com/chrisgeihsler/elixir-v-node)
 - **Blogs**
+    - Rising Stack Engineering Blog [:link:](https://blog.risingstack.com/articles/)
     - Planet node [:link:](http://www.planetnodejs.com/)

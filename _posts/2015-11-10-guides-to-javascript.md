@@ -53,6 +53,8 @@ comments: true
     - Modern Javascript development [:link:](http://slides.com/odyss/modern-javascript)
     - Addy Osmani Large Scala JS Patterns [:link:](https://addyosmani.com/largescalejavascript/)
     - Design Patterns for Large Scale Javascript [:link:](http://slides.com/avenuecode/design-patterns-for-large-scale-javascript#/)
+    - The Module Pattern in Depth [:link:](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+    - OO Javascript [:link:](http://stackoverflow.com/questions/907225/object-oriented-javascript-best-practices/908021#908021)
 - **Books**
     - :raised_hands: You Don't Know Javascript Book Series Github Page [:link:](https://github.com/getify/You-Dont-Know-JS)
     - :raised_hands: Learning Javascript Design Patterns Free Book [:link:](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -138,9 +140,14 @@ comments: true
     - Why use Prototype? [:link:](http://stackoverflow.com/questions/8433459/js-why-use-prototype?lq=1)
     - Javascript closures for dummies [:link:](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1)
     - Why Async Module Definition with Require.js [:link:](http://requirejs.org/docs/whyamd.html)
+    - Relation between CommonJS, AMD and RequireJS? [:link:](http://stackoverflow.com/questions/16521471/relation-between-commonjs-amd-and-requirejs/16522990#16522990)
     - 10 Javascript Performance Boosting Tips from Nicholas Zakas [:link:](http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas)
-- **ECMAScript**
+    - Deep dive into closures in Javascript [:link:](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44#.4zteejvup)
+    - JavaScript Modules: A Beginner’s Guide [:link:](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.i53aqj228 [part]2
+(https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.42e7uypko)
+**ECMAScript**
     - ES7
+        - ES6 ES7 and Beyond [:link:](http://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html?utm_source=javascriptweekly&utm_medium=email)
         - ECMAScript 7 Evolution [:link:](http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx)
         - What is ES7? [:link:](http://www.2ality.com/2015/11/tc39-process.html?utm_source=javascriptweekly&utm_medium=email)
         - ES7 Feature List [:link:](https://github.com/hemanth/es7-features)
