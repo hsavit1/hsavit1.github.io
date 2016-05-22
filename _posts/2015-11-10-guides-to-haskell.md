@@ -157,6 +157,7 @@ comments: true
         - How does Haskell hide the IO type when reading lazily from the contents of a file? [:link:](https://www.quora.com/How-does-Haskell-hide-the-IO-type-when-reading-lazily-from-the-contents-of-a-file)
         - In Haskell, can we write a function of type String -> String which just "extracts" and returns a String out of an IO String produced by an IO action? [:link:](https://www.quora.com/In-Haskell-can-we-write-a-function-of-type-String-String-which-just-extracts-and-returns-a-String-out-of-an-IO-String-produced-by-an-IO-action)
         - Haskell's Concurrency and STM [:link:](https://www.quora.com/What-is-Haskell-notably-good-for)
+        - Understanding unsafePerformIO [:link:](http://stackoverflow.com/questions/3124591/is-haskell-really-a-purely-functional-language-considering-unsafeperformio?lq=1)
     - *Opinions*
         - What is the Future of Haskell? [:link:](https://www.quora.com/What-is-the-future-of-Haskell)
         - Reviews of the Haskell Programming Language [:link:](https://www.quora.com/Reviews-of-Haskell-programming-language)
@@ -223,6 +224,7 @@ comments: true
     - Thinking with Laziness [:floppy_disk:](http://jelv.is/talks/thinking-with-laziness/#slide1)
     - Tikon Jelvis Presentations [:link:](http://jelv.is/talks/)
     - Reasoning about Laziness [:link:](http://www.slideshare.net/tibbe/reasoning-about-laziness)
+    - Liquid Haskell [:link:](https://github.com/Gabriel439/slides/blob/master/liquidhaskell/slides.md)
 - **Video**
     - Learn Haskell From Scratch Playlist [:vcr:](https://www.youtube.com/playlist?list=PLxj9UAX4Em-Ij4TKwKvo-SLp-Zbv-hB4B)
     - Haskell's Vimeo Channel [:vcr:](https://vimeo.com/channels/haskell)

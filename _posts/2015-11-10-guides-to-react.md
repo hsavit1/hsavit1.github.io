@@ -49,6 +49,7 @@ comments: true
     - Flux Chat Tutorial Presentation [:floppy_disk:](https://speakerdeck.com/fisherwebdev/fluxchat)
     - Angular vs React [:floppy_disk:](http://slides.com/codeviking/angular-vs-react#/)
 - **Github**
+    - React BoilerPlate [:pencil2:](https://github.com/mxstbr/react-boilerplate)
     - React Router [:pencil2:](https://github.com/rackt/react-router)
     - React Complimentary Tools [:pencil2:](https://github.com/facebook/react/wiki/Complementary-Tools)
     - Relay Framework [:pencil2:](https://github.com/facebook/relay)
