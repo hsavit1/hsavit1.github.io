@@ -18,6 +18,7 @@ comments: true
 - **Github**
     - Emoji Markdown CheatSheet [Github](https://github.com/arvida/emoji-cheat-sheet.com/)
     - Markdown Resume Builder [:link:](http://mwhite.github.io/resume/)
+    - Code Slide [:link:](https://github.com/thejameskyle/spectacle-code-slide)
 - **Posts**
     - How to be that one person that everyone wants to know [:link:](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39)
 - **Hackathons**

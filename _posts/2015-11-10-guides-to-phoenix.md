@@ -22,6 +22,7 @@ comments: true
         - :raised_hands: Phoenix Websocket Channel Guts [:page_facing_up:](http://zohaib.me/guts-of-phoenix-channels/)
     - *Application Design*
         - Cowboy application design [:page_facing_up:](http://learningelixir.joekain.com/cowboy-application-design/)
+        - Phoenix Application Architecture [:page_facing_up:](https://github.com/phoenixframework/phoenix_guides/issues/118)
     - *News*
         - The road to 2 MILLION websocket connections [:page_facing_up:](http://www.phoenixframework.org/blog/the-road-to-2-million-websocket-connections)
 - **Slides**
@@ -42,6 +43,7 @@ comments: true
     - How to use RethinkDB + Phoenix [:link:](http://stackoverflow.com/questions/31457945/how-to-use-rethinkdb-with-phoenixframework)
     - RethinkDb setup [:page_facing_up:](http://ryanswapp.com/2015/11/28/getting-started-with-rethinkdb-and-phoenix-framework/)
     - Phoenix, React, Redux Example [:link:](http://10consulting.com/2015/11/18/phoenix-react-redux-example/)
+    - Phoenix GraphQL [:pencil2:](https://github.com/graphql-elixir/hello_graphql_phoenix)
 - **Up and Running with Docker**
     - Docker Phoenix [:link:](https://github.com/marcelocg/phoenix-docker)
     - How to use Docker and Phoenix [:link:](http://ariya.ofilabs.com/2014/12/docker-and-phoenix-how-to-make-your-continuous-integration-more-awesome.html)

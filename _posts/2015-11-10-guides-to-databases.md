@@ -14,6 +14,7 @@ comments: true
     - :fire: Awesome Big Data [:link:](https://github.com/onurakpolat/awesome-bigdatas)
     - Turning the database inside out with Apache Samza [:link:](http://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
     - Facebook GraphQL [:link:](https://github.com/facebook/graphql)
+    - Learn GraphQL Website [:link:](https://learngraphql.com/basics/introduction)
 - **Posts**
     - ScyllaDB is 10x Faster than Cassandra! [:link:](http://www.scylladb.com/)
     - What is this new Facebook project with Relay and GraphQL? [:link:](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html)
